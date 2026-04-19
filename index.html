@@ -287,7 +287,9 @@ textarea{resize:vertical}
 <!-- PAUSE OVERLAY -->
 <div id="pauseOverlay">
   <h2>⏸ Exam Paused</h2>
-  <p>Timer paused. Your progress is saved.</p>
+  <p id="pauseTimeRemaining" style="font-size:20px;font-weight:700;opacity:1;margin:0"></p>
+  <p id="pauseQsAnswered" style="opacity:.75;font-size:15px;margin:0"></p>
+  <p style="opacity:.55;font-size:13px;margin:0">Your progress is saved.</p>
   <button class="resume-btn" onclick="resumeExam()">▶ Resume</button>
 </div>
 
@@ -427,8 +429,9 @@ let s = {
   questions:[], idx:0,
   answers:{}, crossed:{}, flagged:{},
   qTimes:{}, qStart:{},
+  vsaqMarks:{},
   timeLeft:0, timerH:null, autosaveH:null,
-  submitted:false, showTopic:true,
+  submitted:false, showTopic:false,
   progress:{}, pendingRedo:null,
 };
 let availPapers = [];
@@ -571,7 +574,7 @@ function renderPaperList(){
       <div class="paper-item-header">
         <div>
           <div class="paper-name">${p.name}</div>
-          <div class="paper-meta">${cfg.label} · ${cfg.sbaQ} SBA + ${cfg.vsaqQ} VSAQ · ${cfg.duration/60} min · Pass ${cfg.passPct}%</div>
+          <div class="paper-meta">${cfg.label} · ${cfg.sbaQ} SBA + ${cfg.vsaqQ} VSAQ · ${cfg.duration/60} min · Pass ${cfg.passPct}% (${Math.ceil((cfg.sbaQ+cfg.vsaqQ)*cfg.passPct/100)}/${cfg.sbaQ+cfg.vsaqQ})</div>
         </div>
         <div style="display:flex;align-items:center;gap:8px">
           ${done ? `<span class="paper-score">${pg.score}/${pg.total} (${pg.pct}%)</span><span class="paper-badge badge-done">✓ Complete</span>` : ''}
@@ -593,8 +596,8 @@ function renderPaperList(){
     }
   });
 
-  $el('holdingNote').innerHTML = `<b>Knowledge Test:</b> 80 questions (72 SBA + 8 VSAQ), 1 hr 40 min, pass mark 60% (43/72 SBA).<br>
-    <b>Anatomy Exam:</b> 45 questions (40 SBA + 5 VSAQ), 45 min, pass mark 60% (24/40 SBA).`;
+  $el('holdingNote').innerHTML = `<b>Knowledge Test:</b> 80 questions (72 SBA + 8 VSAQ), 1 hr 40 min, pass mark 60% (48/80).<br>
+    <b>Anatomy Exam:</b> 45 questions (40 SBA + 5 VSAQ), 45 min, pass mark 60% (27/45).`;
 }
 
 function mkBtn(p,label,cls,fn){ const b=document.createElement('button'); b.className=cls; b.textContent=label; b.onclick=fn; p.appendChild(b); }
@@ -640,7 +643,7 @@ async function loadAndStart(p, _rev, resume=false){
 
 function startExam(p, questions, resume=false){
   const cfg = EXAM_CFG[p.type||'kt'];
-  s.paper=p.key; s.paperName=p.name; s.questions=questions.slice(); s.submitted=false; s.showTopic=true;
+  s.paper=p.key; s.paperName=p.name; s.questions=questions.slice(); s.submitted=false; s.showTopic=false;
   questions.forEach(q=>{ s.crossed[q.id]=new Set(); });
 
   if(resume && s.progress[p.key]?.savedState){
@@ -654,13 +657,13 @@ function startExam(p, questions, resume=false){
 
   $el('examBanner').textContent = `${p.name} · ${cfg.label} · ${cfg.duration/60} min`;
   $el('holding').style.display='none'; $el('exam').style.display='flex';
-  $el('btnTopic').querySelector('span:last-child').textContent='TOPIC';
-  $el('btnTopic').classList.remove('active');
+  $el('btnTopic').querySelector('span:last-child').textContent='TOPIC ✕';
+  $el('btnTopic').classList.add('active');
   renderOverview(); renderQuestion(); startTimer(); startAutosave(); recStart();
 }
 
 function resetState(cfg){
-  s.answers={}; s.flagged={}; s.qTimes={}; s.qStart={};
+  s.answers={}; s.flagged={}; s.qTimes={}; s.qStart={}; s.vsaqMarks={};
   s.timeLeft=cfg.duration; s.idx=0;
   s.questions.forEach(q=>{ s.crossed[q.id]=new Set(); });
 }
@@ -671,13 +674,20 @@ function startTimer(){
   s.timerH = setInterval(()=>{ if(s.timeLeft<=0){ clearInterval(s.timerH); submitExam(); return; } s.timeLeft--; updateTimer(); }, 1000);
 }
 function updateTimer(){
-  const s=s.timeLeft;
-  $el('timer').textContent=`${pad(Math.floor(s/3600))}:${pad(Math.floor((s%3600)/60))}:${pad(s%60)}`;
+  const sec=s.timeLeft;
+  $el('timer').textContent=`${pad(Math.floor(sec/3600))}:${pad(Math.floor((sec%3600)/60))}:${pad(sec%60)}`;
 }
 function pad(n){ return String(n).padStart(2,'0'); }
 
 /* ── PAUSE / RESUME ───────────────────────────────────────── */
-function pauseExam(){ clearInterval(s.timerH); clearInterval(s.autosaveH); recEnd(); autosaveNow(); $el('pauseOverlay').classList.add('show'); }
+function pauseExam(){
+  clearInterval(s.timerH); clearInterval(s.autosaveH); recEnd(); autosaveNow();
+  const sec=s.timeLeft;
+  $el('pauseTimeRemaining').textContent=`⏱ ${pad(Math.floor(sec/3600))}:${pad(Math.floor((sec%3600)/60))}:${pad(sec%60)} remaining`;
+  const answered=s.questions.filter(q=>{ const a=s.answers[q.id]; return a!==undefined&&a!==null&&a!==''; }).length;
+  $el('pauseQsAnswered').textContent=`Questions answered: ${answered}/${s.questions.length}`;
+  $el('pauseOverlay').classList.add('show');
+}
 function resumeExam(){ $el('pauseOverlay').classList.remove('show'); startTimer(); startAutosave(); recStart(); }
 
 /* ── Q TIME TRACKING ──────────────────────────────────────── */
@@ -717,9 +727,7 @@ function renderQuestion(){
   $el('qStem').textContent=q.stem;
   $el('qMark').textContent=q.type==='vsaq'?'[2 marks]':'[1 mark]';
   $el('flagBtn').classList.toggle('on',!!s.flagged[q.id]);
-  const t=s.qTimes[q.id]||0;
-  $el('qTimeInd').textContent=t>0?`⏱ Time on this question: ${fmtT(t)}`:'';
-
+  $el('qTimeInd').textContent='';
   const area=$el('ansArea'); area.innerHTML='';
   if(q.type==='sba'){
     const cx=s.crossed[q.id]||new Set();
@@ -792,35 +800,45 @@ async function submitExam(){
   if(s.submitted) return; s.submitted=true;
   clearInterval(s.timerH); clearInterval(s.autosaveH); recEnd(); closeModal('finishModal');
   $el('exam').style.display='none';
+  s.vsaqMarks = {};
   const sbaQs=s.questions.filter(q=>q.type==='sba');
-  const correct=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
-  const pct=sbaQs.length?Math.round(correct/sbaQs.length*100):0;
+  const sbaCorrect=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
+  const totalQs=s.questions.length;
+  const pct=totalQs?Math.round(sbaCorrect/totalQs*100):0;
   const snap={ answers:s.answers, flagged:s.flagged, qTimes:s.qTimes, crossed:{} };
   Object.keys(s.crossed).forEach(k=>{ snap.crossed[k]=Array.from(s.crossed[k]||[]); });
-  await upsertProgress(s.paper,{ score:correct, total:sbaQs.length, pct, completed_at:new Date().toISOString(), in_progress:false, saved_state:JSON.stringify(snap) });
-  s.progress[s.paper]={ score:correct, total:sbaQs.length, pct, inProgress:false, savedState:JSON.stringify(snap), completedAt:new Date().toISOString() };
+  await upsertProgress(s.paper,{ score:sbaCorrect, total:totalQs, pct, completed_at:new Date().toISOString(), in_progress:false, saved_state:JSON.stringify(snap) });
+  s.progress[s.paper]={ score:sbaCorrect, total:totalQs, pct, inProgress:false, savedState:JSON.stringify(snap), completedAt:new Date().toISOString() };
   renderReview(); $el('review').style.display='block'; window.scrollTo(0,0);
 }
 
 /* ── REVIEW ───────────────────────────────────────────────── */
 let revFilter='all';
 function renderReview(){
-  const qs=s.questions, sbaQs=qs.filter(q=>q.type==='sba'), vsaqQs=qs.filter(q=>q.type==='vsaq');
-  const correct=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
-  const total=sbaQs.length, pct=total?Math.round(correct/total*100):0, pass=pct>=60;
+  const sbaQs=s.questions.filter(q=>q.type==='sba');
+  const vsaqQs=s.questions.filter(q=>q.type==='vsaq');
+  const sbaCorrect=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
+  // VSAQ self-marked correct count (populated later via self-mark buttons)
+  const vsaqCorrect=Object.values(s.vsaqMarks||{}).filter(v=>v===true).length;
+  const totalCorrect=sbaCorrect+vsaqCorrect;
+  const totalQs=s.questions.length;
+  const pct=totalQs?Math.round(totalCorrect/totalQs*100):0;
+  const pass=pct>=60;
   $el('revTitle').textContent=`${s.paperName} — ${pass?'PASSED ✓':'BELOW PASS MARK'}`;
   const totalTime=Object.values(s.qTimes).reduce((a,b)=>a+b,0);
+  const passNeeded=Math.ceil(totalQs*0.6);
   $el('resultGrid').innerHTML=`
-    <div class="result-card"><div>SBA Score</div><div class="big ${pass?'pass':'fail'}">${correct}/${total}</div><div>${pct}%</div></div>
-    <div class="result-card"><div>Pass mark</div><div class="big">60%</div><div>${Math.ceil(total*0.6)}/${total} needed</div></div>
-    <div class="result-card"><div>VSAQs</div><div class="big">${vsaqQs.length}</div><div>Self-mark below</div></div>
+    <div class="result-card"><div>SBA Score</div><div class="big ${sbaCorrect===sbaQs.length?'pass':''}">${sbaCorrect}/${sbaQs.length}</div><div>${sbaQs.length?Math.round(sbaCorrect/sbaQs.length*100):0}%</div></div>
+    <div class="result-card"><div>Overall Score</div><div class="big ${pass?'pass':'fail'}">${totalCorrect}/${totalQs}</div><div>${pct}% ${pass?'✓ PASS':'✗ FAIL'}</div></div>
+    <div class="result-card"><div>Pass mark</div><div class="big">60%</div><div>${passNeeded}/${totalQs} needed</div></div>
+    <div class="result-card"><div>VSAQs</div><div class="big" id="vsaqScoreCard">${vsaqCorrect}/${vsaqQs.length}</div><div>Self-marked below</div></div>
     <div class="result-card"><div>Flagged</div><div class="big">${Object.keys(s.flagged).length}</div></div>
     <div class="result-card"><div>Total time</div><div class="big">${fmtT(totalTime)}</div></div>
-    <div class="result-card"><div>Avg per Q</div><div class="big">${fmtT(Math.round(totalTime/Math.max(qs.length,1)))}</div></div>
+    <div class="result-card"><div>Avg per Q</div><div class="big">${fmtT(Math.round(totalTime/Math.max(s.questions.length,1)))}</div></div>
   `;
   const tbody=$el('topicTable').querySelector('tbody'); tbody.innerHTML='';
   Object.keys(TOPIC_LABELS).forEach(t=>{
-    const tQs=qs.filter(q=>q.topic===t); if(!tQs.length) return;
+    const tQs=s.questions.filter(q=>q.topic===t); if(!tQs.length) return;
     const sbaTopic=tQs.filter(q=>q.type==='sba');
     const corr=sbaTopic.filter(q=>s.answers[q.id]===q.correct).length;
     const tp=sbaTopic.length?Math.round(corr/sbaTopic.length*100):0;
@@ -863,17 +881,52 @@ function renderReviewList(){
     } else {
       html+=`<div class="yours"><b>Your answer:</b><br>${esc(ua||'(blank)')}</div>`;
       html+=`<div class="expl"><b>Model answer:</b><br>${esc(q.answer||'')}</div>`;
+      const mark=s.vsaqMarks[q.id];
+      html+=`<div class="vsaq-selfmark" style="display:flex;gap:8px;margin-top:10px;align-items:center">
+        <span style="font-size:13px;font-weight:600;color:#555">Self-mark:</span>
+        <button class="vsaq-mark-btn vsaq-correct${mark===true?' vsaq-marked':''}" data-id="${q.id}" data-val="true" style="padding:6px 16px;border-radius:3px;font-size:13px;font-weight:700;border:2px solid var(--green);background:${mark===true?'var(--green)':'transparent'};color:${mark===true?'#fff':'var(--green)'};cursor:pointer">✓ Correct</button>
+        <button class="vsaq-mark-btn vsaq-incorrect${mark===false?' vsaq-marked':''}" data-id="${q.id}" data-val="false" style="padding:6px 16px;border-radius:3px;font-size:13px;font-weight:700;border:2px solid var(--red);background:${mark===false?'var(--red)':'transparent'};color:${mark===false?'#fff':'var(--red)'};cursor:pointer">✗ Incorrect</button>
+        ${mark===true?'<span style="color:var(--green);font-weight:600;font-size:13px">Marked correct</span>':mark===false?'<span style="color:var(--red);font-weight:600;font-size:13px">Marked incorrect</span>':''}
+      </div>`;
     }
     if(q.explanation) html+=`<div class="expl"><b>Explanation:</b> ${esc(q.explanation)}</div>`;
     const t=s.qTimes[q.id]||0; if(t>0) html+=`<div class="q-time-spent">⏱ Time: ${fmtT(t)}</div>`;
-    card.innerHTML=html; list.appendChild(card);
+    card.innerHTML=html;
+    // Wire VSAQ self-mark buttons
+    if(q.type==='vsaq'){
+      card.querySelectorAll('.vsaq-mark-btn').forEach(btn=>{
+        btn.addEventListener('click',()=>{
+          const val = btn.dataset.val==='true';
+          s.vsaqMarks[q.id]=val;
+          updateOverallScore();
+          renderReviewList(); // re-render to reflect new marks
+        });
+      });
+    }
+    list.appendChild(card);
   });
   if(!list.children.length) list.innerHTML='<p style="color:#888">No questions match this filter.</p>';
 }
 
-function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function updateOverallScore(){
+  const sbaQs=s.questions.filter(q=>q.type==='sba');
+  const vsaqQs=s.questions.filter(q=>q.type==='vsaq');
+  const sbaCorrect=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
+  const vsaqCorrect=Object.values(s.vsaqMarks||{}).filter(v=>v===true).length;
+  const totalCorrect=sbaCorrect+vsaqCorrect;
+  const totalQs=s.questions.length;
+  const pct=totalQs?Math.round(totalCorrect/totalQs*100):0;
+  const pass=pct>=60;
+  const passNeeded=Math.ceil(totalQs*0.6);
+  // Update result cards if visible
+  const oc=$el('resultGrid'); if(!oc) return;
+  const cards=oc.querySelectorAll('.result-card');
+  if(cards[1]) cards[1].innerHTML=`<div>Overall Score</div><div class="big ${pass?'pass':'fail'}">${totalCorrect}/${totalQs}</div><div>${pct}% ${pass?'✓ PASS':'✗ FAIL'}</div>`;
+  if(cards[3]) cards[3].querySelector('.big').textContent=`${vsaqCorrect}/${vsaqQs.length}`;
+  $el('revTitle').textContent=`${s.paperName} — ${pass?'PASSED ✓':'BELOW PASS MARK'}`;
+}
 
-async function restartExam(){
+function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
   clearInterval(s.autosaveH);
   $el('review').style.display='none';
   await loadProgress(s.studentNum);
