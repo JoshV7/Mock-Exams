@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt4_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Calculation of cardiac output.\n\nA patient has a stroke volume of 70 mL and a heart rate of 80 bpm. What is the cardiac output?",
+    "options": [
+      "4.0 L/min",
+      "5.6 L/min",
+      "6.4 L/min",
+      "7.0 L/min",
+      "8.0 L/min"
+    ],
+    "correct": 1,
+    "explanation": "Cardiac output = stroke volume × heart rate = 70 × 80 = 5600 mL/min = 5.6 L/min. Normal resting CO is approximately 5 L/min."
+  },
+  {
+    "id": "kt4_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 65-year-old man has ECG changes showing ST elevation in leads II, III, and aVF.\n\nWhich wall of the heart is affected?",
+    "options": [
+      "Anterior",
+      "Lateral",
+      "Inferior",
+      "Posterior",
+      "Septal"
+    ],
+    "correct": 2,
+    "explanation": "Leads II, III, and aVF look at the inferior wall, usually supplied by the right coronary artery."
+  },
+  {
+    "id": "kt4_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which ion is most responsible for the plateau phase of the ventricular cardiac action potential?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride",
+      "Magnesium"
+    ],
+    "correct": 2,
+    "explanation": "The plateau (phase 2) of the ventricular action potential is sustained by influx of calcium through L-type calcium channels, balanced by potassium efflux."
+  },
+  {
+    "id": "kt4_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A patient is started on a drug that blocks the β1 adrenergic receptor.\n\nWhich of the following effects would be expected?",
+    "options": [
+      "Increased heart rate",
+      "Increased contractility",
+      "Reduced heart rate",
+      "Bronchodilation",
+      "Vasodilation"
+    ],
+    "correct": 2,
+    "explanation": "β1 receptors in the heart mediate increased rate and contractility. Blocking them reduces heart rate and contractility — the basis of β-blocker therapy."
+  },
+  {
+    "id": "kt4_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Where is the SA node located?",
+    "options": [
+      "Left atrium, near the mitral valve",
+      "Right atrium, near the opening of the superior vena cava",
+      "Interventricular septum",
+      "Apex of the left ventricle",
+      "Bundle of His"
+    ],
+    "correct": 1,
+    "explanation": "The sinoatrial (SA) node, the heart's natural pacemaker, lies in the wall of the right atrium near the opening of the superior vena cava."
+  },
+  {
+    "id": "kt4_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which statement best describes the function of aldosterone?",
+    "options": [
+      "Increases water reabsorption in the collecting duct",
+      "Increases sodium reabsorption and potassium secretion in the distal nephron",
+      "Stimulates thirst",
+      "Constricts the efferent arteriole",
+      "Inhibits renin release"
+    ],
+    "correct": 1,
+    "explanation": "Aldosterone acts on the distal nephron to promote sodium (and therefore water) reabsorption and potassium excretion. ADH acts on the collecting duct for water reabsorption."
+  },
+  {
+    "id": "kt4_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 70-year-old woman has an irregularly irregular pulse. ECG shows no P waves and an irregular ventricular response.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Ventricular tachycardia",
+      "Atrial flutter",
+      "Atrial fibrillation",
+      "First-degree heart block",
+      "Sinus arrhythmia"
+    ],
+    "correct": 2,
+    "explanation": "Atrial fibrillation classically presents with an irregularly irregular rhythm, absent P waves, and chaotic atrial activity on ECG."
+  },
+  {
+    "id": "kt4_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which layer of a large artery contains most of the smooth muscle?",
+    "options": [
+      "Tunica intima",
+      "Tunica media",
+      "Tunica adventitia",
+      "Endothelium",
+      "Basement membrane"
+    ],
+    "correct": 1,
+    "explanation": "The tunica media is the middle layer and contains smooth muscle and elastic tissue responsible for vessel tone and recoil."
+  },
+  {
+    "id": "kt4_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Which cells produce pulmonary surfactant?",
+    "options": [
+      "Type I pneumocytes",
+      "Type II pneumocytes",
+      "Alveolar macrophages",
+      "Club cells",
+      "Goblet cells"
+    ],
+    "correct": 1,
+    "explanation": "Type II pneumocytes produce surfactant, a phospholipid–protein mixture that lowers alveolar surface tension and prevents alveolar collapse."
+  },
+  {
+    "id": "kt4_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 68-year-old smoker has spirometry showing FEV1/FVC ratio of 0.55.\n\nWhat does this suggest?",
+    "options": [
+      "Restrictive lung disease",
+      "Obstructive lung disease",
+      "Normal lung function",
+      "Mixed defect",
+      "Upper airway obstruction"
+    ],
+    "correct": 1,
+    "explanation": "FEV1/FVC < 0.7 indicates airflow obstruction. In this clinical context (smoker) it supports a diagnosis of COPD."
+  },
+  {
+    "id": "kt4_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Where does most gas exchange occur?",
+    "options": [
+      "Trachea",
+      "Main bronchi",
+      "Terminal bronchioles",
+      "Alveoli",
+      "Pleural space"
+    ],
+    "correct": 3,
+    "explanation": "Gas exchange occurs by diffusion across the thin alveolar–capillary membrane in the alveoli."
+  },
+  {
+    "id": "kt4_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 22-year-old woman with asthma uses her blue inhaler several times a day.\n\nWhich receptor does salbutamol act on?",
+    "options": [
+      "β1 adrenergic",
+      "β2 adrenergic",
+      "α1 adrenergic",
+      "Muscarinic M3",
+      "Histamine H1"
+    ],
+    "correct": 1,
+    "explanation": "Salbutamol is a short-acting β2 agonist. Activation of β2 receptors on bronchial smooth muscle causes bronchodilation."
+  },
+  {
+    "id": "kt4_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A patient presents with sudden-onset pleuritic chest pain and breathlessness after a long-haul flight. D-dimer is raised.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Pneumothorax",
+      "Acute asthma",
+      "Myocardial infarction"
+    ],
+    "correct": 1,
+    "explanation": "Pleuritic chest pain, breathlessness, and immobility on a long-haul flight are classic features of pulmonary embolism. CTPA is the definitive investigation."
+  },
+  {
+    "id": "kt4_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A vegan patient is at risk of which vitamin deficiency?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin E"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin B12 is only found in animal products. Strict vegans are at risk of deficiency, which can cause megaloblastic anaemia and neurological symptoms."
+  },
+  {
+    "id": "kt4_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Which enzyme is responsible for the digestion of dietary starch in the mouth?",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary amylase",
+      "Lipase",
+      "Lactase"
+    ],
+    "correct": 2,
+    "explanation": "Salivary amylase (ptyalin) begins the digestion of starch in the mouth, hydrolysing α-1,4 glycosidic bonds to produce maltose and dextrins."
+  },
+  {
+    "id": "kt4_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "How many kilocalories are provided per gram of fat?",
+    "options": [
+      "4",
+      "7",
+      "9",
+      "2",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Fat provides 9 kcal/g. Carbohydrate and protein each provide 4 kcal/g, and alcohol provides 7 kcal/g."
+  },
+  {
+    "id": "kt4_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Which hormone is released from the stomach to stimulate appetite?",
+    "options": [
+      "Leptin",
+      "Insulin",
+      "Ghrelin",
+      "Cholecystokinin",
+      "GLP-1"
+    ],
+    "correct": 2,
+    "explanation": "Ghrelin is secreted by the stomach and stimulates appetite via the arcuate nucleus of the hypothalamus. Leptin, by contrast, suppresses appetite."
+  },
+  {
+    "id": "kt4_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "At which stage is the primary oocyte arrested until ovulation?",
+    "options": [
+      "Prophase I",
+      "Metaphase I",
+      "Prophase II",
+      "Metaphase II",
+      "Anaphase II"
+    ],
+    "correct": 0,
+    "explanation": "Primary oocytes are arrested in prophase I of meiosis from fetal life until ovulation, when they complete meiosis I and become arrested in metaphase II."
+  },
+  {
+    "id": "kt4_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Which hormone surge triggers ovulation?",
+    "options": [
+      "FSH",
+      "LH",
+      "Oestrogen",
+      "Progesterone",
+      "Inhibin"
+    ],
+    "correct": 1,
+    "explanation": "A surge in luteinising hormone (LH) at mid-cycle triggers ovulation of the dominant follicle."
+  },
+  {
+    "id": "kt4_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Which structure produces progesterone in the second half of the menstrual cycle?",
+    "options": [
+      "Graafian follicle",
+      "Corpus luteum",
+      "Theca interna",
+      "Anterior pituitary",
+      "Hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "After ovulation, the remnant follicle becomes the corpus luteum, which secretes progesterone (and some oestrogen) to maintain the endometrium."
+  },
+  {
+    "id": "kt4_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Where does fertilisation usually occur?",
+    "options": [
+      "Ovary",
+      "Ampulla of the fallopian tube",
+      "Isthmus of the uterus",
+      "Endometrial cavity",
+      "Cervix"
+    ],
+    "correct": 1,
+    "explanation": "Fertilisation normally occurs in the ampulla of the fallopian tube. The zygote then travels to the uterus for implantation around day 6–7."
+  },
+  {
+    "id": "kt4_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which cells present antigen to naïve CD4+ T cells?",
+    "options": [
+      "B cells",
+      "Neutrophils",
+      "Dendritic cells",
+      "Eosinophils",
+      "Red blood cells"
+    ],
+    "correct": 2,
+    "explanation": "Dendritic cells are the most potent professional antigen-presenting cells and are uniquely able to activate naïve T cells via MHC class II."
+  },
+  {
+    "id": "kt4_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which antibody isotype is found in mucosal secretions such as saliva and breast milk?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE",
+      "IgD"
+    ],
+    "correct": 2,
+    "explanation": "Secretory IgA is the main antibody isotype in mucosal secretions, providing first-line defence at mucosal surfaces."
+  },
+  {
+    "id": "kt4_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which cells directly kill virally infected cells?",
+    "options": [
+      "CD4+ T helper cells",
+      "CD8+ cytotoxic T cells",
+      "B cells",
+      "Plasma cells",
+      "Mast cells"
+    ],
+    "correct": 1,
+    "explanation": "CD8+ cytotoxic T lymphocytes recognise viral peptides presented on MHC class I and kill infected cells via perforin and granzymes."
+  },
+  {
+    "id": "kt4_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 2-year-old boy has recurrent bacterial infections. Investigation shows very low immunoglobulin levels and absent B cells.\n\nWhich primary immunodeficiency is most likely?",
+    "options": [
+      "DiGeorge syndrome",
+      "X-linked agammaglobulinaemia",
+      "Severe combined immunodeficiency",
+      "Chronic granulomatous disease",
+      "Common variable immunodeficiency"
+    ],
+    "correct": 1,
+    "explanation": "X-linked (Bruton) agammaglobulinaemia is caused by a defect in BTK, preventing B cell maturation. Patients lack B cells and have very low immunoglobulins."
+  },
+  {
+    "id": "kt4_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Which organism is the most common cause of community-acquired pneumonia?",
+    "options": [
+      "Haemophilus influenzae",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Legionella pneumophila"
+    ],
+    "correct": 2,
+    "explanation": "Streptococcus pneumoniae (pneumococcus) is the most common cause of community-acquired pneumonia."
+  },
+  {
+    "id": "kt4_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A first-line treatment for Clostridioides difficile infection is:",
+    "options": [
+      "Amoxicillin",
+      "Oral vancomycin",
+      "Ciprofloxacin",
+      "IV gentamicin",
+      "Co-amoxiclav"
+    ],
+    "correct": 1,
+    "explanation": "Oral vancomycin is now first-line for C. difficile infection, per current guidelines. Fidaxomicin is an alternative for recurrent cases."
+  },
+  {
+    "id": "kt4_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 19-year-old student has fever, headache, photophobia, and a non-blanching rash.\n\nWhich diagnosis must be considered urgently?",
+    "options": [
+      "Migraine",
+      "Meningococcal meningitis",
+      "Viral upper respiratory infection",
+      "Tension headache",
+      "Sinusitis"
+    ],
+    "correct": 1,
+    "explanation": "Fever, headache, photophobia, and a non-blanching (purpuric) rash strongly suggest meningococcal septicaemia/meningitis. Immediate IM/IV benzylpenicillin and hospital transfer are required."
+  },
+  {
+    "id": "kt4_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Gram staining of a bacterial specimen shows purple cocci in clusters.\n\nWhich organism is most likely?",
+    "options": [
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Escherichia coli",
+      "Neisseria gonorrhoeae",
+      "Clostridium difficile"
+    ],
+    "correct": 1,
+    "explanation": "Gram-positive (purple) cocci in clusters are characteristic of Staphylococci, most commonly Staphylococcus aureus."
+  },
+  {
+    "id": "kt4_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Which antibiotic class inhibits bacterial cell wall synthesis?",
+    "options": [
+      "Macrolides",
+      "Aminoglycosides",
+      "β-lactams",
+      "Fluoroquinolones",
+      "Tetracyclines"
+    ],
+    "correct": 2,
+    "explanation": "β-lactams (penicillins, cephalosporins, carbapenems) inhibit peptidoglycan cross-linking in the bacterial cell wall by binding penicillin-binding proteins."
+  },
+  {
+    "id": "kt4_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Which gene, when mutated, is associated with hereditary breast and ovarian cancer?",
+    "options": [
+      "APC",
+      "BRCA1",
+      "RB1",
+      "MLH1",
+      "KRAS"
+    ],
+    "correct": 1,
+    "explanation": "BRCA1 (and BRCA2) mutations cause hereditary breast and ovarian cancer syndrome. APC → familial adenomatous polyposis; RB1 → retinoblastoma; MLH1 → Lynch syndrome."
+  },
+  {
+    "id": "kt4_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Which is the most common type of lung cancer in non-smokers?",
+    "options": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Mesothelioma"
+    ],
+    "correct": 2,
+    "explanation": "Adenocarcinoma is the most common lung cancer in non-smokers and in women. Squamous cell and small cell are more strongly associated with smoking."
+  },
+  {
+    "id": "kt4_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "What does the 'T' in TNM staging refer to?",
+    "options": [
+      "Treatment received",
+      "Tumour size and extent",
+      "Tissue type",
+      "Time since diagnosis",
+      "Total metastases"
+    ],
+    "correct": 1,
+    "explanation": "In TNM staging, T = tumour (size and local extent), N = nodal involvement, M = distant metastases."
+  },
+  {
+    "id": "kt4_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 65-year-old man presents with painless jaundice, weight loss, and a palpable gallbladder.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Hepatitis A",
+      "Gallstone obstruction",
+      "Pancreatic head carcinoma",
+      "Cholecystitis",
+      "Liver abscess"
+    ],
+    "correct": 2,
+    "explanation": "Courvoisier's law: a palpable gallbladder with painless jaundice suggests malignant biliary obstruction, most commonly pancreatic head carcinoma."
+  },
+  {
+    "id": "kt4_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 55-year-old woman has symmetrical small joint pain in the hands with morning stiffness >1 hour.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Gout",
+      "Psoriatic arthritis",
+      "Septic arthritis"
+    ],
+    "correct": 1,
+    "explanation": "Symmetrical small joint polyarthritis with prolonged morning stiffness is characteristic of rheumatoid arthritis. OA is more commonly asymmetric and weight-bearing, with shorter stiffness."
+  },
+  {
+    "id": "kt4_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A young woman has a malar rash, photosensitivity, and positive ANA.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Systemic lupus erythematosus",
+      "Dermatomyositis",
+      "Psoriasis",
+      "Scleroderma"
+    ],
+    "correct": 1,
+    "explanation": "Malar rash, photosensitivity, and positive ANA are classic features of SLE. Anti-dsDNA is more specific."
+  },
+  {
+    "id": "kt4_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 70-year-old man has pain in both hands, worse after activity, with bony swellings at the DIP joints.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Gout",
+      "Psoriatic arthritis",
+      "Polymyalgia rheumatica"
+    ],
+    "correct": 1,
+    "explanation": "Activity-related pain with Heberden's nodes at the DIP joints is typical of osteoarthritis."
+  },
+  {
+    "id": "kt4_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Starling's law.\n\nWhich of the following best describes Starling's law of the heart?",
+    "options": [
+      "Cardiac output is proportional to heart rate",
+      "Stroke volume increases with increased venous return",
+      "Heart rate is inversely related to blood pressure",
+      "Contractility is increased by vagal stimulation",
+      "Afterload is reduced by sympathetic activity"
+    ],
+    "correct": 1,
+    "explanation": "Starling's law states that within physiological limits, the force of contraction is proportional to the initial length (stretch) of the cardiac muscle fibres — i.e. stroke volume rises with increased end-diastolic volume (preload)."
+  },
+  {
+    "id": "kt4_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Which vessels contain most of the circulating blood volume at rest?",
+    "options": [
+      "Arteries",
+      "Arterioles",
+      "Capillaries",
+      "Veins",
+      "Heart chambers"
+    ],
+    "correct": 3,
+    "explanation": "Veins are capacitance vessels and hold roughly two-thirds of the circulating blood volume at rest."
+  },
+  {
+    "id": "kt4_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Which component of the ECG represents ventricular repolarisation?",
+    "options": [
+      "P wave",
+      "PR interval",
+      "QRS complex",
+      "T wave",
+      "U wave"
+    ],
+    "correct": 3,
+    "explanation": "The T wave represents ventricular repolarisation. The P wave is atrial depolarisation, the QRS is ventricular depolarisation."
+  },
+  {
+    "id": "kt4_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which neurotransmitter is released at the neuromuscular junction?",
+    "options": [
+      "Noradrenaline",
+      "GABA",
+      "Glutamate",
+      "Acetylcholine",
+      "Dopamine"
+    ],
+    "correct": 3,
+    "explanation": "Acetylcholine is released from motor neurons at the neuromuscular junction and binds nicotinic receptors on the muscle end plate."
+  },
+  {
+    "id": "kt4_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which cells produce myelin in the central nervous system?",
+    "options": [
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correct": 1,
+    "explanation": "Oligodendrocytes myelinate axons in the CNS (one cell can myelinate several axons). Schwann cells perform this role in the peripheral nervous system."
+  },
+  {
+    "id": "kt4_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which area of the brain is primarily affected in Parkinson's disease?",
+    "options": [
+      "Cerebellum",
+      "Basal ganglia — substantia nigra",
+      "Hippocampus",
+      "Frontal cortex",
+      "Medulla"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease results from progressive loss of dopaminergic neurons in the substantia nigra pars compacta (part of the basal ganglia)."
+  },
+  {
+    "id": "kt4_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 75-year-old woman is brought in 90 minutes after sudden onset of right-sided weakness and expressive dysphasia.\n\nWhat is the most important initial investigation?",
+    "options": [
+      "MRI brain",
+      "CT head",
+      "Carotid Doppler",
+      "ECG",
+      "Lumbar puncture"
+    ],
+    "correct": 1,
+    "explanation": "Non-contrast CT head is the first-line imaging in acute stroke to exclude haemorrhage before considering thrombolysis."
+  },
+  {
+    "id": "kt4_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Which type of muscle has peripheral nuclei and striations visible under microscopy?",
+    "options": [
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Myoepithelial cells",
+      "Pericytes"
+    ],
+    "correct": 2,
+    "explanation": "Skeletal muscle is striated with peripherally located nuclei. Cardiac muscle is striated with central nuclei. Smooth muscle is non-striated with a single central nucleus."
+  },
+  {
+    "id": "kt4_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Which protein does calcium bind to, to initiate skeletal muscle contraction?",
+    "options": [
+      "Myosin",
+      "Actin",
+      "Tropomyosin",
+      "Troponin C",
+      "Titin"
+    ],
+    "correct": 3,
+    "explanation": "Calcium binds to troponin C, causing a conformational change that moves tropomyosin away from actin binding sites, allowing cross-bridge cycling with myosin."
+  },
+  {
+    "id": "kt4_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Osteoporosis.\n\nWhich of the following is a first-line pharmacological treatment for osteoporosis?",
+    "options": [
+      "Calcitonin",
+      "Alendronic acid",
+      "Calcitriol",
+      "Hormone replacement therapy",
+      "Strontium ranelate"
+    ],
+    "correct": 1,
+    "explanation": "Oral bisphosphonates (e.g. alendronic acid) are the first-line pharmacological treatment for osteoporosis. They inhibit osteoclast-mediated bone resorption."
+  },
+  {
+    "id": "kt4_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "In which phase of the cell cycle does DNA replication occur?",
+    "options": [
+      "G1",
+      "S",
+      "G2",
+      "M",
+      "G0"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication occurs during the S (synthesis) phase of the cell cycle, between G1 and G2."
+  },
+  {
+    "id": "kt4_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which organelle is responsible for ATP production?",
+    "options": [
+      "Nucleus",
+      "Endoplasmic reticulum",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": 2,
+    "explanation": "Mitochondria generate ATP via oxidative phosphorylation. They are also the site of the citric acid cycle and β-oxidation of fatty acids."
+  },
+  {
+    "id": "kt4_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A membrane transporter moves sodium out of and potassium into the cell using ATP.\n\nWhich transporter is this?",
+    "options": [
+      "Na+/H+ exchanger",
+      "Na+/K+ ATPase",
+      "Na+/Ca2+ exchanger",
+      "K+/H+ ATPase",
+      "Glucose transporter 2"
+    ],
+    "correct": 1,
+    "explanation": "The Na+/K+ ATPase pumps 3 Na+ out and 2 K+ in per ATP, maintaining the resting membrane potential and the gradient for secondary active transport."
+  },
+  {
+    "id": "kt4_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which process describes programmed cell death?",
+    "options": [
+      "Necrosis",
+      "Apoptosis",
+      "Autophagy",
+      "Pyroptosis",
+      "Metaplasia"
+    ],
+    "correct": 1,
+    "explanation": "Apoptosis is programmed, regulated cell death. It is usually non-inflammatory and involves caspase activation, cell shrinkage, and fragmentation into apoptotic bodies."
+  },
+  {
+    "id": "kt4_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Mechanism of aspirin.\n\nHow does aspirin exert its antiplatelet effect?",
+    "options": [
+      "Reversible inhibition of COX-1",
+      "Irreversible inhibition of COX-1",
+      "ADP receptor antagonism",
+      "Thrombin inhibition",
+      "Factor Xa inhibition"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin irreversibly acetylates COX-1 in platelets, preventing thromboxane A2 synthesis for the life of the platelet (~7–10 days)."
+  },
+  {
+    "id": "kt4_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which of the following best describes volume of distribution (Vd)?",
+    "options": [
+      "Total drug dose divided by clearance",
+      "Apparent volume a drug would occupy if evenly distributed at plasma concentration",
+      "Volume of plasma cleared per unit time",
+      "Volume of the central compartment only",
+      "Total blood volume"
+    ],
+    "correct": 1,
+    "explanation": "Vd is the apparent volume into which a drug appears to be distributed, calculated as total amount of drug in body divided by plasma concentration."
+  },
+  {
+    "id": "kt4_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which drug is a vitamin K antagonist?",
+    "options": [
+      "Dabigatran",
+      "Apixaban",
+      "Rivaroxaban",
+      "Warfarin",
+      "Heparin"
+    ],
+    "correct": 3,
+    "explanation": "Warfarin inhibits vitamin K epoxide reductase, reducing activation of clotting factors II, VII, IX, X, and proteins C and S."
+  },
+  {
+    "id": "kt4_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient takes paracetamol overdose.\n\nWhich antidote should be given?",
+    "options": [
+      "Naloxone",
+      "Flumazenil",
+      "N-acetylcysteine",
+      "Atropine",
+      "Activated charcoal alone"
+    ],
+    "correct": 2,
+    "explanation": "N-acetylcysteine replenishes hepatic glutathione and is the antidote for paracetamol overdose. Indication is based on the treatment nomogram."
+  },
+  {
+    "id": "kt4_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient on long-term morphine has reduced analgesic effect at the same dose.\n\nWhich phenomenon is this?",
+    "options": [
+      "Dependence",
+      "Addiction",
+      "Tolerance",
+      "Withdrawal",
+      "Idiosyncrasy"
+    ],
+    "correct": 2,
+    "explanation": "Tolerance is a reduced response to a drug with repeated use, requiring higher doses for the same effect. Common with opioids and benzodiazepines."
+  },
+  {
+    "id": "kt4_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which enzyme system is responsible for most hepatic drug metabolism?",
+    "options": [
+      "Monoamine oxidase",
+      "Cytochrome P450",
+      "Xanthine oxidase",
+      "Acetylcholinesterase",
+      "Alcohol dehydrogenase"
+    ],
+    "correct": 1,
+    "explanation": "Cytochrome P450 enzymes (especially CYP3A4) in the liver metabolise the majority of drugs, primarily via phase I oxidation."
+  },
+  {
+    "id": "kt4_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Opiate overdose.\n\nWhich of the following is a hallmark sign of opiate overdose?",
+    "options": [
+      "Dilated pupils",
+      "Pinpoint pupils",
+      "Hyperventilation",
+      "Hypertension",
+      "Hyperthermia"
+    ],
+    "correct": 1,
+    "explanation": "The opioid toxidrome includes pinpoint pupils (miosis), respiratory depression, and reduced consciousness. Naloxone is the antidote."
+  },
+  {
+    "id": "kt4_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A drug has first-order kinetics. If the dose is doubled, what happens to the plasma concentration?",
+    "options": [
+      "Unchanged",
+      "Doubles",
+      "Quadruples",
+      "Halves",
+      "Depends on enzyme saturation"
+    ],
+    "correct": 1,
+    "explanation": "In first-order kinetics, elimination is proportional to drug concentration, and plasma concentration at steady state is proportional to dose. Doubling the dose doubles the concentration."
+  },
+  {
+    "id": "kt4_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Which of the four principles of biomedical ethics refers to respecting a patient's right to make their own decisions?",
+    "options": [
+      "Beneficence",
+      "Non-maleficence",
+      "Justice",
+      "Autonomy",
+      "Veracity"
+    ],
+    "correct": 3,
+    "explanation": "Autonomy (self-governance) is one of the four principles (Beauchamp & Childress). It underlies consent, confidentiality, and the right to refuse treatment."
+  },
+  {
+    "id": "kt4_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 15-year-old requests contraception without involving her parents. She demonstrates understanding of the treatment and its implications.\n\nWhich legal/ethical concept applies?",
+    "options": [
+      "Bolam test",
+      "Gillick competence",
+      "Mental Capacity Act",
+      "Montgomery ruling",
+      "Fraser guidelines only — not relevant here"
+    ],
+    "correct": 1,
+    "explanation": "Gillick competence allows under-16s to consent to treatment if they have sufficient understanding. The Fraser guidelines specifically apply to contraception in under-16s."
+  },
+  {
+    "id": "kt4_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Which statute provides the legal framework for consent in adults lacking capacity in England and Wales?",
+    "options": [
+      "Human Rights Act 1998",
+      "Mental Capacity Act 2005",
+      "Children Act 1989",
+      "Data Protection Act 2018",
+      "Mental Health Act 1983"
+    ],
+    "correct": 1,
+    "explanation": "The Mental Capacity Act 2005 sets out the legal framework for making decisions on behalf of adults who lack capacity, including the best interests principle."
+  },
+  {
+    "id": "kt4_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A patient tells you they plan to harm a named third party.\n\nWhat is the most appropriate ethical response?",
+    "options": [
+      "Maintain absolute confidentiality",
+      "Break confidentiality to warn the third party or authorities",
+      "Advise the patient to self-refer to police",
+      "Document and review in 1 week",
+      "Discharge the patient"
+    ],
+    "correct": 1,
+    "explanation": "Confidentiality may be breached when there is a serious risk of harm to a third party, in line with GMC guidance and public interest disclosure."
+  },
+  {
+    "id": "kt4_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "What is the recommended minimum amount of moderate-intensity physical activity per week for adults?",
+    "options": [
+      "30 minutes",
+      "75 minutes",
+      "150 minutes",
+      "300 minutes",
+      "450 minutes"
+    ],
+    "correct": 2,
+    "explanation": "UK Chief Medical Officers recommend adults do at least 150 minutes of moderate-intensity activity per week (or 75 minutes vigorous)."
+  },
+  {
+    "id": "kt4_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Which of these is a modifiable risk factor for cardiovascular disease?",
+    "options": [
+      "Age",
+      "Male sex",
+      "Family history",
+      "Smoking",
+      "Ethnicity"
+    ],
+    "correct": 3,
+    "explanation": "Smoking is a major modifiable risk factor for CVD. Age, sex, family history, and ethnicity are non-modifiable risk factors."
+  },
+  {
+    "id": "kt4_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A patient says 'I don't think I can stop drinking'. You respond 'It sounds like you're worried about being able to stop'.\n\nWhich communication technique is this?",
+    "options": [
+      "Open question",
+      "Closed question",
+      "Reflection",
+      "Summarising",
+      "Signposting"
+    ],
+    "correct": 2,
+    "explanation": "Reflective listening involves restating the patient's words to demonstrate understanding and encourage further disclosure — a core motivational interviewing skill."
+  },
+  {
+    "id": "kt4_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Which of the following is the definition of 'incidence'?",
+    "options": [
+      "Number of existing cases in a population at a given time",
+      "Number of new cases arising in a population over a defined period",
+      "Proportion of population who will develop disease in their lifetime",
+      "Number of deaths from the disease per year",
+      "Percentage of the population at risk"
+    ],
+    "correct": 1,
+    "explanation": "Incidence refers to new cases over a defined time period. Prevalence refers to total (new + existing) cases at a given time."
+  },
+  {
+    "id": "kt4_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Which study design is best suited to establishing causality in an intervention?",
+    "options": [
+      "Case report",
+      "Cross-sectional study",
+      "Case-control study",
+      "Cohort study",
+      "Randomised controlled trial"
+    ],
+    "correct": 4,
+    "explanation": "RCTs are the gold standard for establishing causality because randomisation balances known and unknown confounders between groups."
+  },
+  {
+    "id": "kt4_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A test has a sensitivity of 95%. What does this mean?",
+    "options": [
+      "95% of people with the disease test positive",
+      "95% of people without the disease test negative",
+      "95% of positive tests are true positives",
+      "95% of negative tests are true negatives",
+      "The test is 95% accurate"
+    ],
+    "correct": 0,
+    "explanation": "Sensitivity = true positives / (true positives + false negatives). It is the proportion of people with the disease who test positive."
+  },
+  {
+    "id": "kt4_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A study finds a relative risk of 1.0 (95% CI 0.8–1.2, p = 0.4).\n\nWhat do you conclude?",
+    "options": [
+      "Strong evidence of harm",
+      "Strong evidence of benefit",
+      "No statistically significant difference",
+      "Confidence interval excludes 1",
+      "Study is inadequately powered"
+    ],
+    "correct": 2,
+    "explanation": "A relative risk of 1.0 with a 95% CI crossing 1 and a p-value > 0.05 indicates no statistically significant difference."
+  },
+  {
+    "id": "kt4_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Which level of evidence is typically considered highest?",
+    "options": [
+      "Expert opinion",
+      "Case series",
+      "Cohort study",
+      "Randomised controlled trial",
+      "Systematic review of RCTs"
+    ],
+    "correct": 4,
+    "explanation": "Systematic reviews/meta-analyses of RCTs are typically placed at the top of the evidence hierarchy."
+  },
+  {
+    "id": "kt4_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A study gives a p-value of 0.02.\n\nWhat does this mean?",
+    "options": [
+      "The null hypothesis is true",
+      "There is a 2% chance the result is due to random variation, if the null hypothesis were true",
+      "The treatment effect is 2%",
+      "There is a 98% probability the alternative hypothesis is true",
+      "The study is invalid"
+    ],
+    "correct": 1,
+    "explanation": "A p-value of 0.02 means there is a 2% probability of observing a result as extreme or more extreme than the one observed, if the null hypothesis were true."
+  },
+  {
+    "id": "kt4_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 72-year-old man is diagnosed with chronic heart failure. He is started on ramipril.\n\nName two other classes of drug with a mortality benefit in heart failure with reduced ejection fraction.",
+    "answer": "Any two of: beta-blockers (e.g. bisoprolol, carvedilol); mineralocorticoid receptor antagonists (e.g. spironolactone, eplerenone); SGLT2 inhibitors (e.g. dapagliflozin, empagliflozin); sacubitril/valsartan (ARNI).",
+    "explanation": "HFrEF prognosis-modifying therapy includes ACEi/ARB (or ARNI), beta-blocker, MRA, and SGLT2 inhibitor — the 'four pillars'."
+  },
+  {
+    "id": "kt4_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 70-year-old smoker presents with chronic productive cough and breathlessness.\n\n(a) What is the most likely diagnosis?\n(b) Name one non-pharmacological and one pharmacological intervention for this condition.",
+    "answer": "(a) Chronic obstructive pulmonary disease (COPD).\n(b) Non-pharmacological: smoking cessation (or pulmonary rehabilitation, influenza/pneumococcal vaccination). Pharmacological: short-acting bronchodilator (SABA/SAMA), LAMA, LABA, or inhaled corticosteroid (in eligible patients).",
+    "explanation": "Smoking cessation is the single most important intervention in COPD. Inhaled therapy is stepped according to symptoms and exacerbation history."
+  },
+  {
+    "id": "kt4_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 30-year-old woman is stung by a bee and within minutes develops widespread urticaria, wheeze, and hypotension.\n\n(a) What type of hypersensitivity reaction is this?\n(b) What is the first-line treatment?",
+    "answer": "(a) Type I (IgE-mediated) hypersensitivity — anaphylaxis.\n(b) Intramuscular adrenaline 500 micrograms (0.5 mL of 1:1000) into the anterolateral thigh.",
+    "explanation": "Anaphylaxis is an IgE-mediated Type I reaction. IM adrenaline is first-line. Adjuncts include oxygen, IV fluids, and positioning. Antihistamines and steroids are second-line."
+  },
+  {
+    "id": "kt4_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 60-year-old woman attends for bowel cancer screening.\n\n(a) What is the first-line screening test offered by the NHS bowel cancer screening programme?\n(b) What is the age range currently invited?",
+    "answer": "(a) Faecal immunochemical test (FIT).\n(b) 54 to 74 years (being extended to include 50–53), offered every 2 years.",
+    "explanation": "FIT detects occult blood in stool. Positive results trigger colonoscopy. The programme is being progressively extended down to age 50."
+  },
+  {
+    "id": "kt4_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "A 65-year-old woman is brought to the emergency department with a sudden onset of right-sided facial droop and right arm weakness 2 hours ago.\n\n(a) What is the most likely diagnosis?\n(b) What is the first-line investigation before any treatment is given?",
+    "answer": "(a) Acute ischaemic stroke.\n(b) Non-contrast CT head — to exclude haemorrhage before considering thrombolysis.",
+    "explanation": "Thrombolysis with alteplase may be offered within 4.5 hours of onset if haemorrhage excluded. Thrombectomy may be considered up to 24 hours in selected anterior circulation strokes."
+  },
+  {
+    "id": "kt4_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A patient is prescribed warfarin. After one week she has an INR of 9.0 with no bleeding.\n\n(a) What is the management of INR > 8.0 without bleeding?\n(b) Name one food or drug that commonly potentiates warfarin.",
+    "answer": "(a) Withhold warfarin; give oral vitamin K (1–5 mg); restart warfarin when INR < 5.0.\n(b) Any one of: cranberry juice, grapefruit juice, antibiotics (e.g. clarithromycin, metronidazole, ciprofloxacin), amiodarone, SSRIs, NSAIDs.",
+    "explanation": "Warfarin has a narrow therapeutic index and many drug/food interactions, mostly via CYP2C9 or vitamin K intake. Bleeding risk should always be assessed alongside INR."
+  },
+  {
+    "id": "kt4_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "An 18-year-old woman with capacity refuses a life-saving blood transfusion on religious grounds.\n\nOutline the principles guiding your response.",
+    "answer": "A competent adult has the right to refuse any treatment, even if that refusal will lead to death (principle of autonomy). Capacity must be formally assessed under the Mental Capacity Act: can she understand, retain, weigh and communicate the decision? If capacity is confirmed and the refusal is voluntary and informed, it must be respected. Document carefully; involve seniors; explore alternatives (e.g. cell salvage, tranexamic acid).",
+    "explanation": "Respect for autonomy overrides beneficence when a competent adult refuses treatment. The refusal must be informed, voluntary, and specific to the proposed treatment."
+  },
+  {
+    "id": "kt4_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A trial reports that drug A reduces death from 20% to 10% over 1 year.\n\n(a) What is the absolute risk reduction?\n(b) What is the number needed to treat?",
+    "answer": "(a) ARR = 20% − 10% = 10% (0.10).\n(b) NNT = 1 / ARR = 1 / 0.10 = 10. Ten patients would need to be treated for 1 year to prevent one death.",
+    "explanation": "NNT is a useful measure of clinical effectiveness. Lower NNTs indicate more effective treatments."
+  }
+]
