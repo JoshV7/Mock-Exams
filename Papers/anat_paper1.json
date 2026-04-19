@@ -1,9 +1,9 @@
 [
   {
-    "id": "an_s01",
+    "id": "an1_s01",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "A 34-year-old man sustains a fracture of the surgical neck of the humerus following a fall on an outstretched hand. On examination he is unable to abduct his arm at the shoulder beyond 15°, and there is a small patch of sensory loss over the lateral aspect of the upper arm.\n\nWhich nerve is most likely injured?",
+    "topic": "Upper Limb",
+    "stem": "A 34-year-old man sustains a fracture of the surgical neck of the humerus following a fall on an outstretched hand. On examination he is unable to abduct his arm beyond 15° and has a small patch of sensory loss over the lateral aspect of the upper arm.\n\nWhich nerve is most likely injured?",
     "options": [
       "Musculocutaneous nerve",
       "Radial nerve",
@@ -12,43 +12,103 @@
       "Long thoracic nerve"
     ],
     "correct": 2,
-    "explanation": "The axillary nerve winds around the surgical neck of the humerus in the quadrilateral space and is vulnerable to injury here. It supplies deltoid (responsible for abduction 15–90°, after supraspinatus initiates the first 15°) and teres minor, and gives the upper lateral cutaneous nerve of the arm supplying the lateral upper arm skin. The radial nerve is more vulnerable at the midshaft (spiral groove). The long thoracic nerve supplies serratus anterior and injury causes winging of the scapula."
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus in the quadrilateral space and is vulnerable here. It supplies deltoid (abduction 15–90°, after supraspinatus initiates the first 15°) and teres minor, and gives the upper lateral cutaneous nerve of the arm supplying the lateral upper arm skin. The radial nerve is vulnerable at the midshaft (spiral groove). The long thoracic nerve supplies serratus anterior; injury causes winging of the scapula."
   },
   {
-    "id": "an_s02",
+    "id": "an1_s02",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "A radiograph of the hand is shown. The arrow points to a specific carpal bone that is the most commonly fractured carpal bone.\n\nWhat is this bone, and which complication is it particularly prone to?",
-    "images": ["Images/scaphoid.png"],
+    "topic": "Upper Limb",
+    "stem": "A patient presents with 'wrist drop' following a midshaft humeral fracture. Which nerve is injured and at what anatomical site?",
     "options": [
-      "Lunate — Kienböck's disease (avascular necrosis)",
-      "Scaphoid — avascular necrosis of the proximal pole",
-      "Triquetrum — non-union",
-      "Capitate — carpal tunnel syndrome",
-      "Hamate — ulnar nerve injury"
+      "Ulnar nerve at the medial epicondyle",
+      "Radial nerve in the spiral (radial) groove of the humerus",
+      "Median nerve at the carpal tunnel",
+      "Anterior interosseous nerve in the forearm",
+      "Axillary nerve at the quadrilateral space"
     ],
     "correct": 1,
-    "explanation": "The scaphoid is the most commonly fractured carpal bone, typically following a fall on an outstretched hand with tenderness in the anatomical snuffbox. Its blood supply enters distally, so fractures of the proximal waist or proximal pole risk avascular necrosis of the proximal fragment due to interruption of the retrograde blood supply. Lunate avascular necrosis is Kienböck's disease but is not related to acute fracture. The hamate hook fractures can injure the ulnar nerve."
+    "explanation": "The radial nerve lies in the spiral (radial) groove on the posterior surface of the humeral shaft at the midshaft, making it vulnerable in midshaft humeral fractures. It supplies all extensor muscles of the forearm; wrist drop results from paralysis of wrist and finger extensors. Sensation is lost over the dorsum of the hand. The ulnar nerve is at risk at the medial epicondyle (cubital tunnel). The median nerve is most at risk at the carpal tunnel."
   },
   {
-    "id": "an_s03",
+    "id": "an1_s03",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "During a thyroidectomy, the surgeon identifies the recurrent laryngeal nerve running in the tracheo-oesophageal groove. The right recurrent laryngeal nerve differs from the left in its course.\n\nAround which structure does the right recurrent laryngeal nerve loop?",
+    "topic": "Upper Limb",
+    "stem": "A radiograph of the hand is shown. The arrow points to the most commonly fractured carpal bone. Which complication is this bone particularly prone to?\n",
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Scaphoidfracture.jpg/320px-Scaphoidfracture.jpg"],
     "options": [
-      "Arch of the aorta",
-      "Ligamentum arteriosum",
-      "Right subclavian artery",
-      "Common carotid artery",
-      "First rib"
+      "Lunate dislocation causing carpal tunnel syndrome",
+      "Avascular necrosis of the proximal pole",
+      "Non-union with subsequent wrist arthritis — triquetrum",
+      "Hook fracture with ulnar nerve injury",
+      "Capitate osteonecrosis"
+    ],
+    "correct": 1,
+    "explanation": "The scaphoid is the most commonly fractured carpal bone, typically following a fall on an outstretched hand with tenderness in the anatomical snuffbox. Its blood supply enters distally via the dorsal ridge, so fractures of the proximal waist or proximal pole risk avascular necrosis of the proximal fragment due to interruption of the retrograde blood supply. Lunate avascular necrosis is Kienböck's disease. The hamate hook fractures can injure the ulnar nerve."
+  },
+  {
+    "id": "an1_s04",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "A 55-year-old woman presents with pain, paraesthesia, and weakness in the lateral three and a half digits of her right hand, worse at night. Tinel's and Phalen's signs are positive.\n\nWhich nerve is compressed and at which site?",
+    "options": [
+      "Ulnar nerve at the cubital tunnel",
+      "Radial nerve at the radial head",
+      "Median nerve at the carpal tunnel",
+      "Anterior interosseous nerve in the forearm",
+      "Median nerve at the pronator teres"
     ],
     "correct": 2,
-    "explanation": "The left recurrent laryngeal nerve loops under the arch of the aorta (at the ligamentum arteriosum), while the right recurrent laryngeal nerve loops under the right subclavian artery. This asymmetry reflects the embryological regression of the 5th and 6th aortic arches on the right. The non-recurrent laryngeal nerve (a rare variant) can occur on the right when there is an aberrant right subclavian artery (arteria lusoria)."
+    "explanation": "Carpal tunnel syndrome is caused by compression of the median nerve under the flexor retinaculum at the wrist. It causes pain and paraesthesia in the lateral 3.5 digits (thumb, index, middle, and lateral ring finger), and weakness of thenar muscles (LOAF: Lateral two lumbricals, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis — the median-supplied thenar muscles). Tinel's (tapping over wrist) and Phalen's (sustained wrist flexion) signs are positive. Treatment is splinting, steroid injection, or surgical decompression."
   },
   {
-    "id": "an_s04",
+    "id": "an1_s05",
     "type": "sba",
-    "topic": "Anat",
+    "topic": "Upper Limb",
+    "stem": "A 60-year-old man fractures his medial epicondyle. He subsequently develops weakness of all the intrinsic muscles of the hand, loss of sensation over the medial one and a half digits, and clawing of the ring and little fingers.\n\nWhich nerve is injured?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve",
+      "Anterior interosseous nerve"
+    ],
+    "correct": 2,
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle in the cubital tunnel and is vulnerable to injury here. It supplies most intrinsic hand muscles (hypothenar muscles, all dorsal and palmar interossei, medial two lumbricals, adductor pollicis) and sensation over the medial 1.5 digits and hypothenar eminence. Ulnar nerve palsy causes 'ulnar claw' — hyperextension at MCPs and flexion at PIPs/DIPs of ring and little fingers, more pronounced in low lesions because the medial two flexor digitorum profundus heads are paralysed in high lesions."
+  },
+  {
+    "id": "an1_s06",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "During anterior shoulder dislocation, which nerve is most at risk due to its close proximity to the shoulder joint capsule?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Long thoracic nerve",
+      "Suprascapular nerve"
+    ],
+    "correct": 0,
+    "explanation": "The axillary nerve passes through the quadrilateral space immediately inferior to the shoulder joint capsule and is the nerve most commonly injured in anterior shoulder dislocation. Injury causes weakness of deltoid (abduction) and teres minor, and sensory loss over the 'regimental badge' area (lateral upper arm). Always test for deltoid function and lateral upper arm sensation after shoulder dislocation. The musculocutaneous nerve can also occasionally be injured in severe dislocations."
+  },
+  {
+    "id": "an1_s07",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "A 30-year-old woman uses crutches incorrectly for 6 weeks, pressing the crutch top into her axilla. She develops weakness of elbow, wrist, and finger extension but preserved triceps function.\n\nWhere is the radial nerve most likely compressed?",
+    "options": [
+      "Spiral groove of the humerus",
+      "Radial head/lateral epicondyle",
+      "Axilla (proximal to the branch to triceps)",
+      "Arcade of Frohse (posterior interosseous nerve)",
+      "Anatomical snuffbox"
+    ],
+    "correct": 2,
+    "explanation": "Prolonged axillary crutch pressure compresses the radial nerve in the axilla, proximal to the branch to the long head of triceps. However, the branch to triceps typically arises high in the axilla or from the posterior cord, so triceps may be spared even in high radial nerve palsy ('crutch palsy'). Loss of wrist and finger extension occurs. Spiral groove injury (Saturday night palsy) also spares triceps. Posterior interosseous nerve (deep branch) compression at the arcade of Frohse causes finger drop without wrist drop."
+  },
+  {
+    "id": "an1_s08",
+    "type": "sba",
+    "topic": "Lower Limb",
     "stem": "A 60-year-old man undergoes a posterior approach total hip replacement. Post-operatively he is unable to extend his knee and has loss of sensation over the medial aspect of the leg and foot.\n\nWhich nerve has most likely been injured?",
     "options": [
       "Common fibular (peroneal) nerve",
@@ -58,59 +118,373 @@
       "Superior gluteal nerve"
     ],
     "correct": 1,
-    "explanation": "Loss of knee extension (quadriceps) with medial leg and foot sensory loss (saphenous nerve, a branch of the femoral nerve) indicates femoral nerve injury. This can occur during hip arthroplasty due to retractor placement causing compression. The sciatic nerve is more at risk in the posterior approach (causing foot drop if common fibular division is affected). The obturator nerve supplies thigh adductors and medial thigh sensation but not knee extension."
+    "explanation": "Loss of knee extension (quadriceps) with medial leg and foot sensory loss (saphenous nerve — a branch of the femoral nerve) indicates femoral nerve injury. This can occur during hip arthroplasty due to retractor placement causing compression. The sciatic nerve is more at risk in the posterior approach (causing foot drop if the common fibular division is affected). The obturator nerve supplies thigh adductors and medial thigh sensation, not knee extension."
   },
   {
-    "id": "an_s05",
+    "id": "an1_s09",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "A cross-sectional MRI image at the level of L4/L5 is shown. The structure labelled 'X' is the largest structure within the spinal canal at this level.\n\nWhat is structure X?",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vertebral_column_-_lumbar_vertebrae_-_superior_view.jpg/320px-Vertebral_column_-_lumbar_vertebrae_-_superior_view.jpg"],
+    "topic": "Lower Limb",
+    "stem": "A 25-year-old man presents with inability to dorsiflex his right foot and loss of sensation over the dorsum of the foot and first web space, following a fibular neck fracture.\n\nWhich nerve is injured?",
     "options": [
-      "Spinal cord",
-      "Conus medullaris",
-      "Cauda equina",
-      "Filum terminale",
-      "Dural sac only — cord has ended"
+      "Tibial nerve",
+      "Sural nerve",
+      "Common fibular (peroneal) nerve",
+      "Femoral nerve",
+      "Saphenous nerve"
     ],
     "correct": 2,
-    "explanation": "The spinal cord typically ends at L1–L2 as the conus medullaris. Below this level, the spinal canal contains the cauda equina — a collection of lumbar and sacral nerve roots descending within the dural sac to exit at their respective intervertebral foramina. At L4/L5 the structure visible within the canal is therefore the cauda equina, not the cord itself. This is clinically important in lumbar puncture (performed at L3/L4 or L4/L5) — the needle passes between nerve roots rather than piercing the cord."
+    "explanation": "The common fibular (peroneal) nerve winds around the neck of the fibula and is vulnerable to injury here (fractures, prolonged pressure from leg crossing, plaster casts). It divides into: (1) superficial fibular nerve — supplies fibularis longus and brevis (eversion) and sensation over the dorsum of foot; (2) deep fibular nerve — supplies the anterior compartment (tibialis anterior, extensor hallucis longus, extensor digitorum longus — dorsiflexion) and the first dorsal web space. Injury causes foot drop (inability to dorsiflex) and sensory loss over the dorsum."
   },
   {
-    "id": "an_s06",
+    "id": "an1_s10",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "A 28-year-old woman is 36 weeks pregnant. An ultrasound shows the placenta is located anteriorly over the internal os. A Caesarean section is planned.\n\nWhich layer of the abdominal wall, found specifically in the midline below the umbilicus, is absent and therefore not encountered during a midline incision?",
+    "topic": "Lower Limb",
+    "stem": "A 70-year-old woman with a femoral neck fracture undergoes hemiarthroplasty. During the procedure, the surgeon must ligate a branch supplying the femoral head. Damage to which artery is responsible for avascular necrosis of the femoral head?",
     "options": [
-      "Skin",
-      "Scarpa's fascia",
-      "External oblique aponeurosis",
-      "Posterior rectus sheath",
-      "Peritoneum"
+      "Obturator artery",
+      "Medial circumflex femoral artery",
+      "Lateral circumflex femoral artery",
+      "Inferior gluteal artery",
+      "Profunda femoris artery"
+    ],
+    "correct": 1,
+    "explanation": "The blood supply to the femoral head comes mainly from the medial femoral circumflex artery (MFCA), which gives retinacular branches that ascend along the neck of the femur. These are disrupted in femoral neck fractures or forcible hip dislocation, causing avascular necrosis (AVN) of the femoral head. This is more common in displaced subcapital fractures. The ligamentum teres artery (from obturator) contributes minimally in adults. Avascular necrosis is a serious complication leading to femoral head collapse."
+  },
+  {
+    "id": "an1_s11",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "A 35-year-old rugby player suffers a knee injury. Examination shows a positive anterior drawer test and Lachman's test. MRI confirms rupture of the anterior cruciate ligament.\n\nWhere does the ACL attach on the femur?",
+    "options": [
+      "Medial condyle of the femur, posterior aspect",
+      "Lateral condyle of the femur, posterior aspect",
+      "Medial condyle of the tibia",
+      "Posterior intercondylar area of the tibia",
+      "Lateral condyle of the femur, anterior aspect"
+    ],
+    "correct": 1,
+    "explanation": "The ACL attaches from the anterior intercondylar area of the tibia to the posterior part of the medial surface of the lateral femoral condyle. It prevents anterior tibial displacement relative to the femur and resists internal tibial rotation. Rupture commonly occurs with hyperextension or pivot injuries. The positive anterior drawer test (knee at 90°) and Lachman's test (knee at 30°, more sensitive) indicate ACL laxity. The PCL prevents posterior tibial displacement; injury gives a positive posterior drawer test."
+  },
+  {
+    "id": "an1_s12",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "A 45-year-old woman presents with pain and paraesthesia along the medial foot and plantar surface of the heel, worsened by prolonged standing. Tinel's sign is positive behind the medial malleolus.\n\nWhich nerve is compressed?",
+    "options": [
+      "Common fibular nerve at the fibular neck",
+      "Superficial fibular nerve at the ankle",
+      "Tibial nerve in the tarsal tunnel",
+      "Sural nerve at the lateral ankle",
+      "Saphenous nerve at the medial knee"
+    ],
+    "correct": 2,
+    "explanation": "Tarsal tunnel syndrome is compression of the tibial nerve (or its branches — medial and lateral plantar nerves) as it passes beneath the flexor retinaculum posterior and inferior to the medial malleolus. It causes medial heel and plantar foot pain, paraesthesia, and occasionally intrinsic muscle weakness. Tinel's test (tapping behind medial malleolus) reproduces symptoms. Analogous to carpal tunnel syndrome. Causes include tenosynovitis, ganglion cysts, flat feet, and ankle fractures."
+  },
+  {
+    "id": "an1_s13",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "A 68-year-old man develops absent ankle jerk, weakness of plantarflexion, and numbness of the sole of the foot. MRI shows compression of a nerve root at L5/S1.\n\nWhich nerve root is responsible for the ankle jerk reflex?",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S1",
+      "S2"
     ],
     "correct": 3,
-    "explanation": "Below the arcuate line (approximately halfway between the umbilicus and pubic symphysis), all three aponeuroses of the flat muscles pass anterior to rectus abdominis. Therefore the posterior rectus sheath is absent below the arcuate line — the posterior wall of the rectus sheath is replaced only by transversalis fascia and peritoneum. This is a key anatomical landmark tested in surgical and obstetric anatomy."
+    "explanation": "The ankle jerk (Achilles) reflex is mediated by the S1 nerve root (occasionally S2). S1 also supplies plantarflexion (gastrocnemius, soleus via the tibial nerve) and sensation over the lateral foot and sole. L4 mediates the knee jerk (patellar reflex) and supplies knee extension (quadriceps) and inversion. L5 supplies dorsiflexion and eversion, and sensation over the dorsum of the foot and first web space. Disc herniation at L4/L5 most commonly affects L5; at L5/S1 it affects S1."
   },
   {
-    "id": "an_s07",
+    "id": "an1_s14",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "A 45-year-old man undergoes parotidectomy for a pleomorphic adenoma. Post-operatively he notices drooping of the angle of his mouth, inability to close his right eye fully, and loss of forehead wrinkling on the right.\n\nWhich branch of the facial nerve is most likely injured to cause all three features?",
+    "topic": "Lower Limb",
+    "stem": "During a total knee replacement, the surgeon identifies the popliteal artery. Which structure lies most superficial in the popliteal fossa, from superficial to deep?",
+    "options": [
+      "Popliteal artery is most superficial, vein is intermediate, tibial nerve deepest",
+      "Tibial nerve is most superficial, popliteal vein intermediate, artery deepest",
+      "Popliteal vein is most superficial, tibial nerve intermediate, artery deepest",
+      "Tibial nerve is deepest, popliteal vein and artery are superficial",
+      "All three structures run at the same depth"
+    ],
+    "correct": 1,
+    "explanation": "From superficial to deep in the popliteal fossa, the contents are: Tibial Nerve → Popliteal Vein → Popliteal Artery (remembered as 'Navy': Nerve, Vein, Artery from superficial to deep, or the mnemonic 'DVA' from deep to superficial — Artery deepest). The popliteal artery is deepest and most closely applied to the joint capsule, making it vulnerable in posterior knee dislocation. The tibial nerve is the most superficial and lateral before the fibula neck."
+  },
+  {
+    "id": "an1_s15",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "A 30-year-old woman has a superior gluteal nerve injury following a poorly placed intramuscular injection. She develops a positive Trendelenburg sign on the right.\n\nWhich muscles are denervated?",
+    "options": [
+      "Gluteus maximus and hamstrings",
+      "Gluteus medius, gluteus minimus, and tensor fasciae latae",
+      "Piriformis, obturator internus, and gemellae",
+      "Adductor magnus and gracilis",
+      "Iliacus and psoas major"
+    ],
+    "correct": 1,
+    "explanation": "The superior gluteal nerve (L4, L5, S1) supplies gluteus medius, gluteus minimus, and tensor fasciae latae. These muscles abduct the hip and keep the pelvis level during the stance phase of walking. Damage causes Trendelenburg gait — when standing on the affected leg, the contralateral pelvis drops (positive Trendelenburg sign). The safe zone for IM injections is the upper outer quadrant of the buttock to avoid the superior gluteal nerve. The inferior gluteal nerve supplies gluteus maximus (hip extension)."
+  },
+  {
+    "id": "an1_s16",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "A 22-year-old man presents with sudden onset left-sided chest pain and dyspnoea after lifting heavy boxes. CXR shows absence of lung markings in the left upper zone with a visible lung edge.\n\nA chest drain is inserted in the 'safe triangle'. What are the boundaries of this triangle?",
+    "options": [
+      "Anterior border: sternum; posterior border: spine; inferior border: diaphragm",
+      "Anterior border: lateral edge of pectoralis major; posterior border: anterior border of latissimus dorsi; superior: axilla; inferior: 5th intercostal space",
+      "Anterior border: midclavicular line; posterior border: anterior axillary line; inferior: nipple level",
+      "Lateral border of serratus anterior, medial border of latissimus dorsi, above 4th rib",
+      "Midaxillary line, posterior axillary line, level of xiphisternum"
+    ],
+    "correct": 1,
+    "explanation": "The 'safe triangle' for chest drain insertion is bounded by: the lateral edge of pectoralis major (anteriorly), the anterior border of latissimus dorsi (posteriorly), the axilla (superiorly), and the 5th intercostal space at the level of the nipple (inferiorly). Drains are inserted in the 4th or 5th intercostal space in the mid-axillary line, above the upper border of the rib to avoid the neurovascular bundle (intercostal nerve, artery, vein) that runs in the subcostal groove beneath each rib."
+  },
+  {
+    "id": "an1_s17",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "A 55-year-old man undergoes a right pneumonectomy. The surgeon ligates the right pulmonary artery. Which structure lies immediately anterior to the right main bronchus at the hilum of the lung?",
+    "options": [
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Phrenic nerve",
+      "Vagus nerve",
+      "Oesophagus"
+    ],
+    "correct": 1,
+    "explanation": "At the right hilum, the arrangement from anterior to posterior is: Right pulmonary artery (anterior), bronchus (posterior), pulmonary veins (inferior). On the left, the pulmonary artery is superior, and the bronchus is posterior. The right main bronchus is shorter, wider, and more vertical than the left — hence aspirated foreign bodies more commonly lodge in the right bronchial tree (especially the right lower lobe bronchus). The phrenic nerve descends anterior to the lung hilum and should not be confused with hilar structures."
+  },
+  {
+    "id": "an1_s18",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "A 35-year-old woman has a cardiac MRI showing the mitral valve. Which surface marking best corresponds to the mitral valve auscultation area?",
+    "options": [
+      "Right 2nd intercostal space, sternal border",
+      "Left 2nd intercostal space, sternal border",
+      "Left 4th intercostal space, sternal border",
+      "5th intercostal space, midclavicular line (cardiac apex)",
+      "3rd intercostal space, left parasternal"
+    ],
+    "correct": 3,
+    "explanation": "The mitral (bicuspid) valve lies behind the sternum at the level of the 4th costal cartilage, but sounds are best auscultated at the cardiac apex — the 5th intercostal space in the midclavicular line (left). Remember: All = Aortic (right 2nd ICS), Patients = Pulmonary (left 2nd ICS), Take = Tricuspid (left 4th–5th ICS, sternal border), Medicine = Mitral (5th ICS, midclavicular line). Mitral stenosis murmur is best heard with the patient in the left lateral decubitus position."
+  },
+  {
+    "id": "an1_s19",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "During a coronary artery bypass graft, the surgeon harvests the left internal thoracic artery (LITA/LIMA). This vessel is most commonly anastomosed to which coronary artery?",
+    "options": [
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Left anterior descending artery",
+      "Posterior descending artery",
+      "Obtuse marginal artery"
+    ],
+    "correct": 2,
+    "explanation": "The LIMA/LITA is preferentially anastomosed to the left anterior descending artery (LAD) in CABG because LIMA grafts have superior long-term patency (>90% at 10 years) compared to saphenous vein grafts (~50% at 10 years). The LAD supplies the anterior wall and interventricular septum; LIMA-to-LAD anastomosis is the gold standard conduit in CABG. The right ITA or saphenous vein grafts are used for other vessels. LIMA origin is from the first part of the subclavian artery."
+  },
+  {
+    "id": "an1_s20",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "A 28-year-old man sustains a stab wound to the left side of the chest in the 4th intercostal space, medial to the midclavicular line. He develops Beck's triad (hypotension, elevated JVP, muffled heart sounds).\n\nWhich anatomical structure has most likely been injured?",
+    "options": [
+      "Left lung",
+      "Aorta",
+      "Pericardial sac causing cardiac tamponade",
+      "Oesophagus",
+      "Left atrium only"
+    ],
+    "correct": 2,
+    "explanation": "Beck's triad (hypotension, raised JVP, muffled heart sounds) is the classic presentation of cardiac tamponade — blood accumulating in the pericardial sac compresses the heart, impairing diastolic filling. A stab wound medial to the midclavicular line in the 4th ICS may penetrate the pericardium and heart. The pericardium extends from the 2nd to 6th costal cartilages. Emergency management is pericardiocentesis (needle in subxiphoid region) or surgical pericardiotomy. ECG shows electrical alternans. CXR shows globular cardiac silhouette."
+  },
+  {
+    "id": "an1_s21",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "A surgeon performing thoracic surgery must identify the tracheal bifurcation (carina). At which vertebral level does the trachea bifurcate?",
+    "options": [
+      "T1",
+      "T2",
+      "T4/T5 (angle of Louis / sternal angle)",
+      "T6",
+      "T8"
+    ],
+    "correct": 2,
+    "explanation": "The trachea bifurcates into the left and right main bronchi at the level of the sternal angle (angle of Louis — junction of manubrium and body of sternum), which corresponds to the T4/T5 intervertebral disc level. The sternal angle is a key anatomical landmark: it also marks the start of the aortic arch, the insertion of the second costal cartilage (palpable rib counting reference), the junction of the superior and inferior mediastinum, and where the azygos vein joins the SVC."
+  },
+  {
+    "id": "an1_s22",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "During a thyroidectomy, the surgeon identifies the recurrent laryngeal nerve in the tracheo-oesophageal groove. Around which structure does the RIGHT recurrent laryngeal nerve loop?",
+    "options": [
+      "Arch of the aorta",
+      "Ligamentum arteriosum",
+      "Right subclavian artery",
+      "Common carotid artery",
+      "First rib"
+    ],
+    "correct": 2,
+    "explanation": "The left recurrent laryngeal nerve loops under the arch of the aorta (at the ligamentum arteriosum), while the right recurrent laryngeal nerve loops under the right subclavian artery. This asymmetry reflects the embryological regression of the 5th and 6th aortic arches on the right. A non-recurrent laryngeal nerve (rare variant) can occur on the right when there is an aberrant right subclavian artery (arteria lusoria). Injury to the RLN causes hoarseness and, if bilateral, stridor."
+  },
+  {
+    "id": "an1_s23",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A 45-year-old man undergoes parotidectomy for a pleomorphic adenoma. Post-operatively he has drooping of the angle of his mouth, inability to close his right eye, and loss of forehead wrinkling on the right.\n\nWhich branch of the facial nerve is most likely injured to cause all three features?",
     "options": [
       "Temporal branch only",
       "Zygomatic branch only",
       "Marginal mandibular branch only",
       "The main trunk of the facial nerve before branching",
-      "Buccal and zygomatic branches"
+      "Buccal and zygomatic branches combined"
     ],
     "correct": 3,
-    "explanation": "Involvement of the forehead (frontalis — temporal branch), eye closure (orbicularis oculi — zygomatic branch), and mouth (orbicularis oris — buccal and marginal mandibular branches) indicates complete facial nerve palsy affecting all divisions. This occurs when the main trunk is damaged before it bifurcates within the parotid gland. Injury to individual branches causes more limited deficits. The marginal mandibular branch alone would only cause drooping of the corner of the mouth."
+    "explanation": "Involvement of the forehead (temporal branch), eye closure (zygomatic branch), and mouth (buccal and marginal mandibular branches) indicates complete facial nerve palsy affecting all divisions — consistent with main trunk damage before it bifurcates within the parotid gland. The facial nerve runs within the parotid gland and divides into temporofacial and cervicofacial divisions. Individual branch injury causes more limited deficits. Frey's syndrome (gustatory sweating) is another post-parotidectomy complication."
   },
   {
-    "id": "an_s08",
+    "id": "an1_s24",
     "type": "sba",
-    "topic": "Anat",
-    "stem": "During a right hemicolectomy for caecal cancer, the surgeon must ligate the ileocolic artery. This vessel is a branch of which artery?",
+    "topic": "Head & Neck",
+    "stem": "A 22-year-old woman has a swelling in her anterior neck that moves upward on protrusion of the tongue. Fine needle aspiration shows squamous epithelium and thyroid tissue.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Thyroid adenoma",
+      "Thyroglossal cyst",
+      "Branchial cyst",
+      "Dermoid cyst",
+      "Ludwig's angina"
+    ],
+    "correct": 1,
+    "explanation": "A thyroglossal cyst arises from remnants of the thyroglossal duct, which represents the path of thyroid descent from the foramen caecum of the tongue to its final position in the neck. It presents as a midline neck swelling that moves upward on tongue protrusion (attached to the tongue base via the tract) and on swallowing. It is the most common congenital neck mass. Treatment is Sistrunk's operation (excision of cyst with central portion of the hyoid bone). Branchial cysts arise laterally from remnants of the 2nd branchial arch."
+  },
+  {
+    "id": "an1_s25",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A 65-year-old man undergoes carotid endarterectomy for a 75% stenosis. During surgery, a nerve running alongside the internal carotid artery is at risk. Injury to which nerve causes hoarseness and dysphagia?",
+    "options": [
+      "Hypoglossal nerve (XII)",
+      "Glossopharyngeal nerve (IX)",
+      "Vagus nerve (X) — superior laryngeal branch",
+      "Accessory nerve (XI)",
+      "Phrenic nerve"
+    ],
+    "correct": 2,
+    "explanation": "During carotid endarterectomy, the superior laryngeal nerve (a branch of the vagus) is at risk as it descends medial to the carotid. Its internal branch provides sensation to the supraglottis; its external branch supplies the cricothyroid muscle (tenses the vocal cords, important for pitch). Injury can cause subtle hoarseness, voice fatigue, and dysphagia. The hypoglossal nerve (XII) runs superficial to the carotid at the level of the posterior belly of digastric and is the most commonly injured nerve — causing ipsilateral tongue deviation."
+  },
+  {
+    "id": "an1_s26",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A 55-year-old man presents with a right-sided Horner's syndrome (ptosis, miosis, anhidrosis) and ipsilateral loss of pain and temperature sensation of the face, with contralateral loss in the body. MRI shows a right lateral medullary infarct.\n\nThe sympathetic fibres responsible for Horner's syndrome exit the spinal cord at which level?",
+    "options": [
+      "C1–C4",
+      "C8–T2 (ciliospinal centre of Budge)",
+      "T4–T6",
+      "L1–L2",
+      "S2–S4"
+    ],
+    "correct": 1,
+    "explanation": "The sympathetic pathway to the eye is a three-neuron arc: (1) First-order neuron: hypothalamus → ciliospinal centre of Budge (C8–T2) in the lateral horn of the spinal cord; (2) Second-order neuron: exits at C8–T2, loops over the apex of the lung (at risk in Pancoast tumour), around the subclavian artery, up the carotid; (3) Third-order neuron: follows the internal carotid artery to the superior cervical ganglion → dilator pupillae, levator palpebrae superioris, superior tarsal muscle. Lateral medullary lesions interrupt the first-order or descending sympathetic fibres."
+  },
+  {
+    "id": "an1_s27",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A 60-year-old woman presents with headache, jaw claudication, and scalp tenderness. Biopsy of the temporal artery is planned.\n\nThe temporal artery is a branch of which vessel?",
+    "options": [
+      "External carotid artery",
+      "Internal carotid artery",
+      "Common carotid artery",
+      "Maxillary artery",
+      "Facial artery"
+    ],
+    "correct": 0,
+    "explanation": "The superficial temporal artery is a terminal branch of the external carotid artery (the other terminal branch is the maxillary artery). It arises behind the neck of the mandible within the parotid gland and ascends to supply the scalp. Branches of the external carotid include (mnemonic Some Anatomists Like Freaking Out Poor Medical Students): Superior thyroid, Ascending pharyngeal, Lingual, Facial, Occipital, Posterior auricular, Maxillary, Superficial temporal. The internal carotid has no branches in the neck."
+  },
+  {
+    "id": "an1_s28",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "A cross-sectional MRI at the level of L4/L5 shows the largest structure within the spinal canal. What is this structure?",
+    "options": [
+      "Spinal cord",
+      "Conus medullaris",
+      "Cauda equina",
+      "Filum terminale",
+      "Epidural fat only"
+    ],
+    "correct": 2,
+    "explanation": "The spinal cord typically ends at L1–L2 as the conus medullaris. Below this, the spinal canal contains the cauda equina — a bundle of lumbar and sacral nerve roots descending within the dural sac to exit at their respective intervertebral foramina. At L4/L5 the structure within the canal is therefore the cauda equina. This is clinically important: lumbar puncture at L3/L4 or L4/L5 passes between nerve roots rather than into the cord. Cauda equina syndrome is a surgical emergency causing bilateral leg weakness, saddle anaesthesia, and urinary/bowel dysfunction."
+  },
+  {
+    "id": "an1_s29",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "A 55-year-old man presents with loss of vibration sense and proprioception in both lower limbs, with bilateral spastic paraparesis and an extensor plantar response. MRI shows demyelination in the posterior and lateral columns of the spinal cord.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Anterior spinal artery syndrome",
+      "Brown-Séquard syndrome",
+      "Subacute combined degeneration of the spinal cord",
+      "Syringomyelia",
+      "Cauda equina syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Subacute combined degeneration (SCD) is caused by vitamin B12 deficiency affecting the posterior columns (vibration, proprioception loss) and lateral corticospinal tracts (spastic paraparesis, extensor plantars). Anterior horn cells may also be affected (weakness). Caused by B12 deficiency — pernicious anaemia, veganism, gastrectomy, terminal ileal disease. Anterior spinal artery syndrome spares posterior columns. Brown-Séquard is hemisection. Syringomyelia causes a cape-like dissociated sensory loss (pain/temperature lost, vibration preserved). Cauda equina gives lower motor neuron signs."
+  },
+  {
+    "id": "an1_s30",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "A 30-year-old woman presents with bitemporal hemianopia. MRI shows a pituitary macroadenoma compressing a midline structure.\n\nWhich structure is being compressed?",
+    "options": [
+      "Meyer's loop in the temporal lobe",
+      "Optic tract",
+      "Optic chiasm",
+      "Lateral geniculate nucleus",
+      "Visual cortex (occipital lobe)"
+    ],
+    "correct": 2,
+    "explanation": "Bitemporal hemianopia (loss of the outer/temporal visual fields of both eyes) results from compression of the optic chiasm, where nasal fibres from each retina (carrying temporal visual field information) decussate. A pituitary tumour growing superiorly compresses the chiasm from below. Left optic tract lesion causes right homonymous hemianopia. Meyer's loop lesion causes superior quadrantanopia. Lateral geniculate nucleus lesion causes homonymous hemianopia. Occipital cortex lesion causes homonymous hemianopia with macular sparing."
+  },
+  {
+    "id": "an1_s31",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "A 70-year-old man presents with sudden onset dysarthria, dysphagia, ipsilateral facial numbness, ipsilateral Horner's syndrome, ipsilateral limb ataxia, and contralateral limb pain/temperature loss. Where is the lesion?",
+    "options": [
+      "Internal capsule",
+      "Lateral medulla (Wallenberg's syndrome)",
+      "Ventral pons",
+      "Cerebellum alone",
+      "Midbrain"
+    ],
+    "correct": 1,
+    "explanation": "Wallenberg's syndrome (lateral medullary syndrome) is caused by infarction of the lateral medulla, usually from posterior inferior cerebellar artery (PICA) or vertebral artery occlusion. Features: ipsilateral facial pain/temperature loss (spinal trigeminal nucleus), contralateral body pain/temperature loss (spinothalamic tract), ipsilateral Horner's (descending sympathetics), ipsilateral palatal palsy/dysphagia (nucleus ambiguus — IX, X), ipsilateral cerebellar signs (inferior cerebellar peduncle), vertigo/nystagmus (vestibular nuclei). Importantly, motor power is preserved (corticospinal tracts spared)."
+  },
+  {
+    "id": "an1_s32",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "A 45-year-old right-handed man presents with fluent speech containing paraphasic errors, impaired comprehension, and inability to repeat. He does not appear to notice his speech is abnormal.\n\nWhere is the most likely lesion?",
+    "options": [
+      "Left inferior frontal gyrus (Broca's area)",
+      "Left superior temporal gyrus (Wernicke's area)",
+      "Left arcuate fasciculus",
+      "Left internal capsule",
+      "Right temporal lobe"
+    ],
+    "correct": 1,
+    "explanation": "Wernicke's (receptive) aphasia: fluent but meaningless speech (jargon aphasia), impaired comprehension, impaired repetition, and lack of insight (anosognosia). The lesion is in the left superior temporal gyrus (Wernicke's area, Brodmann area 22) in the dominant hemisphere. Broca's aphasia is non-fluent with intact comprehension but impaired repetition. Conduction aphasia (arcuate fasciculus lesion) is fluent, with intact comprehension but severely impaired repetition. In right-handed individuals, the left hemisphere is dominant for language in >95%."
+  },
+  {
+    "id": "an1_s33",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "During a right hemicolectomy for caecal cancer, the surgeon ligates the ileocolic artery. This is a branch of which artery?",
     "options": [
       "Inferior mesenteric artery",
       "Coeliac trunk",
@@ -119,22 +493,151 @@
       "Aorta directly"
     ],
     "correct": 2,
-    "explanation": "The ileocolic artery is the most inferior branch of the superior mesenteric artery (SMA). It supplies the terminal ileum, caecum, appendix, and proximal ascending colon. The SMA also gives rise to the right colic and middle colic arteries. The inferior mesenteric artery supplies the distal transverse colon to the upper rectum. The coeliac trunk supplies foregut derivatives (stomach, duodenum to D2, liver, spleen, pancreas)."
+    "explanation": "The ileocolic artery is the most inferior branch of the superior mesenteric artery (SMA). It supplies the terminal ileum, caecum, appendix, and proximal ascending colon. The SMA also gives right colic and middle colic arteries. The inferior mesenteric artery (IMA) supplies the distal transverse colon, descending colon, sigmoid, and upper rectum. The coeliac trunk supplies foregut derivatives (stomach to 2nd part of duodenum, liver, spleen, pancreas). The embryological midgut/hindgut boundary is at the splenic flexure."
   },
   {
-    "id": "an_s09",
+    "id": "an1_s34",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A 28-year-old woman is 36 weeks pregnant. An ultrasound shows placenta praevia. A midline Caesarean section is planned. Which layer of the abdominal wall, found in the midline below the umbilicus, is absent and therefore not encountered during a midline incision below the umbilicus?",
+    "options": [
+      "Skin",
+      "Scarpa's fascia",
+      "External oblique aponeurosis",
+      "Posterior rectus sheath",
+      "Peritoneum"
+    ],
+    "correct": 3,
+    "explanation": "Below the arcuate line (approximately halfway between the umbilicus and pubic symphysis), all three flat muscle aponeuroses (external oblique, internal oblique, transversus abdominis) pass anterior to rectus abdominis, leaving no posterior rectus sheath. The posterior wall of the rectus sheath is replaced by transversalis fascia and peritoneum only. Above the arcuate line, the internal oblique splits around rectus, contributing to both anterior and posterior sheaths. This is a key surgical and obstetric anatomical landmark."
+  },
+  {
+    "id": "an1_s35",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A 70-year-old man develops a left-sided indirect inguinal hernia. Through which opening does an indirect inguinal hernia initially protrude?",
+    "options": [
+      "Superficial inguinal ring — a defect in the external oblique aponeurosis",
+      "Deep inguinal ring — a defect in the transversalis fascia, lateral to the inferior epigastric vessels",
+      "Hesselbach's triangle — medial to the inferior epigastric vessels",
+      "Femoral canal — medial to the femoral vein",
+      "Obturator foramen"
+    ],
+    "correct": 1,
+    "explanation": "Indirect inguinal hernias pass through the deep inguinal ring (an opening in the transversalis fascia, lateral to the inferior epigastric vessels) and follow the path of the processus vaginalis along the inguinal canal, potentially descending into the scrotum. They pass through both the deep and superficial inguinal rings. Direct inguinal hernias protrude medially through Hesselbach's triangle (medial to inferior epigastric vessels, lateral to the rectus sheath, above the inguinal ligament). Indirect hernias are more common, particularly in young males."
+  },
+  {
+    "id": "an1_s36",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A 50-year-old woman with gallstones develops obstructive jaundice. ERCP reveals a stone impacted at the hepatopancreatic ampulla (ampulla of Vater). Which two ducts drain into this ampulla?",
+    "options": [
+      "Cystic duct and common hepatic duct",
+      "Left and right hepatic ducts",
+      "Common bile duct and main pancreatic duct (of Wirsung)",
+      "Accessory pancreatic duct (of Santorini) and common bile duct",
+      "Common bile duct and cystic duct"
+    ],
+    "correct": 2,
+    "explanation": "The hepatopancreatic ampulla (ampulla of Vater) is formed by the union of the common bile duct (CBD) and the main pancreatic duct (duct of Wirsung). It opens into the 2nd part of the duodenum at the major duodenal papilla, controlled by the sphincter of Oddi. A stone impacted here obstructs both bile and pancreatic secretion, causing obstructive jaundice and potentially acute pancreatitis. The accessory pancreatic duct (of Santorini) opens at the minor duodenal papilla, proximal to the major."
+  },
+  {
+    "id": "an1_s37",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "During a low anterior resection for rectal cancer, which nerves must be preserved to avoid post-operative erectile dysfunction and bladder dysfunction?",
+    "options": [
+      "Pudendal nerve (S2–S4)",
+      "Pelvic splanchnic nerves (nervi erigentes, S2–S4) and hypogastric nerves",
+      "Obturator nerve (L2–L4)",
+      "Inferior mesenteric plexus fibres only",
+      "Lumbar splanchnic nerves (L1–L2)"
+    ],
+    "correct": 1,
+    "explanation": "The pelvic splanchnic nerves (nervi erigentes, parasympathetic, S2–S4) provide parasympathetic supply for erection and bladder detrusor contraction. The hypogastric nerves (sympathetic) mediate ejaculation and bladder neck closure. Both are at risk during low anterior resection and total mesorectal excision (TME). Autonomic nerve-preserving surgery reduces rates of sexual and urinary dysfunction. The pudendal nerve supplies the external anal and urethral sphincters and is at risk in perineal surgery. The obturator nerve supplies thigh adductors."
+  },
+  {
+    "id": "an1_s38",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A 35-year-old man with Crohn's disease develops a fistula between the terminal ileum and the skin. Which organ in the peritoneal cavity lies directly anterior to the terminal ileum in the right iliac fossa?",
+    "options": [
+      "Caecum",
+      "Ascending colon",
+      "Ureter",
+      "Psoas major muscle",
+      "Iliacus"
+    ],
+    "correct": 0,
+    "explanation": "The terminal ileum enters the caecum at the ileocaecal junction in the right iliac fossa. The caecum is the most anterior peritoneal structure here, lying anterior to the ileum. The appendix arises from the posteromedial aspect of the caecum at the confluence of the taenia coli. The right ureter descends over psoas major, which lies posterior to the terminal ileum and caecum. McBurney's point (one-third of the way from the ASIS to the umbilicus) marks the surface projection of the appendix base."
+  },
+  {
+    "id": "an1_s39",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A newborn infant has a small bowel obstruction. Barium enema shows a narrow, unused 'microcolon'. The obstruction is found to be at the terminal ileum due to failure of recanalisation of the gut lumen during development.\n\nDuring which week of development does the gut normally recanalise after physiological herniation and re-entry into the abdomen?",
+    "options": [
+      "Week 4–5",
+      "Week 6",
+      "Week 10–12",
+      "Week 16–18",
+      "Week 20"
+    ],
+    "correct": 2,
+    "explanation": "During weeks 6–10, the midgut undergoes physiological herniation into the umbilical cord (as the liver is too large for the abdominal cavity), rotating 270° anti-clockwise around the SMA. By weeks 10–12, the intestines return to the abdominal cavity. The gut lumen undergoes vacuolisation and recanalisation during this period; failure causes intestinal atresia (particularly duodenal and jejunoileal atresia). Duodenal atresia is associated with trisomy 21 and shows a 'double bubble' sign on AXR."
+  },
+  {
+    "id": "an1_s40",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A 2-day-old male neonate has bile-stained vomiting and failure to pass meconium. Contrast enema shows a narrowed segment of rectosigmoid colon with a dilated proximal colon. Rectal biopsy shows absence of ganglion cells.\n\nWhat is the embryological basis of this condition?",
+    "options": [
+      "Failure of midgut rotation",
+      "Failure of cloacal membrane perforation",
+      "Failure of neural crest cell migration into the myenteric plexus of the distal bowel",
+      "Meckels diverticulum from persistent vitello-intestinal duct",
+      "Incomplete recanalisation of the duodenum"
+    ],
+    "correct": 2,
+    "explanation": "Hirschsprung's disease (congenital aganglionic megacolon) results from failure of neural crest cell migration into the myenteric (Auerbach's) and submucosal (Meissner's) plexuses during weeks 5–12 of development. Neural crest cells migrate caudally; the aganglionic segment is always distal (starting at the internal anal sphincter). The affected segment is narrowed (no peristalsis) while the proximal bowel dilates. Associated with RET proto-oncogene mutations and Down syndrome. Treatment is surgical resection of the aganglionic segment (pull-through procedure)."
+  },
+  {
+    "id": "an1_v01",
     "type": "vsaq",
-    "topic": "Anat",
+    "topic": "Upper Limb",
     "stem": "A patient presents with 'wrist drop' following a midshaft humeral fracture.\n\n(a) Name the nerve injured.\n(b) At what specific anatomical site is this nerve most vulnerable in a midshaft humeral fracture?\n(c) Name two muscles that would be paralysed.",
-    "answer": "(a) Radial nerve. (b) The radial nerve lies in the spiral groove (radial groove) of the humerus at the midshaft, where it is closely applied to the bone. (c) Any two of: extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, extensor carpi ulnaris, brachioradialis.",
-    "explanation": "The radial nerve winds around the posterior aspect of the humeral shaft in the spiral groove, making it vulnerable in midshaft fractures. It supplies all extensor muscles of the forearm. Wrist drop results from paralysis of wrist and finger extensors. Sensation is lost over the dorsum of the hand (anatomical snuffbox and first dorsal web space via the superficial radial nerve). Brachioradialis, despite being a flexor of the elbow in mid-pronation, is supplied by the radial nerve."
+    "answer": "(a) Radial nerve.\n(b) The radial nerve lies in the spiral groove (radial groove) of the humerus at the midshaft, where it is closely applied to the posterior surface of the bone.\n(c) Any two of: extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, extensor carpi ulnaris, brachioradialis, extensor pollicis longus/brevis, abductor pollicis longus.",
+    "explanation": "The radial nerve winds around the posterior aspect of the humeral shaft in the spiral groove, making it vulnerable in midshaft fractures. It supplies all extensor muscles of the forearm and wrist. Wrist drop results from paralysis of wrist and finger extensors. Sensation is lost over the dorsum of the hand (dorsal web space, anatomical snuffbox via the superficial radial nerve). Brachioradialis, despite being a flexor of the elbow in mid-pronation, is supplied by the radial nerve."
   },
   {
-    "id": "an_s10",
+    "id": "an1_v02",
     "type": "vsaq",
-    "topic": "Anat",
-    "stem": "A 70-year-old man develops a left-sided indirect inguinal hernia.\n\n(a) Through which opening does an indirect inguinal hernia initially protrude?\n(b) What structure forms the medial boundary of the deep inguinal ring?\n(c) Name the layers of the inguinal canal through which the hernia passes to reach the scrotum.",
-    "answer": "(a) The deep inguinal ring (an opening in the transversalis fascia, lateral to the inferior epigastric vessels). (b) The inferior epigastric vessels (medial to the deep ring). (c) Deep inguinal ring → inguinal canal → superficial inguinal ring → into the scrotum, passing through: transversalis fascia, internal oblique (arching fibres), external oblique aponeurosis.",
-    "explanation": "Indirect inguinal hernias follow the path of the processus vaginalis through the deep ring and along the inguinal canal, lateral to the inferior epigastric vessels (distinguishing them from direct hernias which protrude medially through Hesselbach's triangle). They are far more common in males due to the larger processus vaginalis. The layers of the spermatic cord and coverings correspond to the layers acquired as the hernia descends."
+    "topic": "Abdomen & Pelvis",
+    "stem": "A 70-year-old man develops a left-sided indirect inguinal hernia.\n\n(a) Through which opening does an indirect inguinal hernia initially protrude?\n(b) What structure forms the medial boundary of the deep inguinal ring?\n(c) Name the three layers acquired by the hernia sac as it descends into the scrotum, derived from the layers of the anterior abdominal wall.",
+    "answer": "(a) The deep inguinal ring — an opening in the transversalis fascia, lateral to the inferior epigastric vessels.\n(b) The inferior epigastric vessels (they lie medial to the deep ring, lateral boundary of Hesselbach's triangle).\n(c) Transversalis fascia → internal spermatic fascia; Internal oblique (arching fibres) → cremasteric muscle and fascia; External oblique aponeurosis → external spermatic fascia.",
+    "explanation": "Indirect inguinal hernias follow the path of the processus vaginalis through the deep ring and along the inguinal canal lateral to the inferior epigastric vessels (distinguishing them from direct hernias which protrude medially through Hesselbach's triangle). The layers of the spermatic cord correspond to the layers of the abdominal wall through which the hernia descends. They are far more common in males."
+  },
+  {
+    "id": "an1_v03",
+    "type": "vsaq",
+    "topic": "Head & Neck",
+    "stem": "A 50-year-old woman presents with a goitre and undergoes total thyroidectomy. Post-operatively she develops hoarseness of voice and stridor.\n\n(a) Name the nerve most commonly injured during thyroidectomy that causes hoarseness.\n(b) State the specific anatomical relationship between this nerve and the inferior thyroid artery that makes it vulnerable.\n(c) Bilateral injury to this nerve causes which life-threatening complication?",
+    "answer": "(a) Recurrent laryngeal nerve (RLN).\n(b) The RLN (particularly the right, which has a more oblique course) crosses either anterior or posterior to the inferior thyroid artery — this relationship is variable and bilateral, meaning the nerve cannot be reliably identified by its relationship to the artery alone. Surgical identification is essential before ligation.\n(c) Bilateral RLN palsy causes both vocal cords to lie in the paramedian position (adducted), causing acute stridor and respiratory obstruction — a life-threatening emergency requiring emergency tracheostomy.",
+    "explanation": "The RLN is a branch of the vagus nerve. Left RLN loops under the aortic arch; right RLN loops under the right subclavian artery. Both travel in the tracheo-oesophageal groove before entering the larynx posterior to the cricothyroid joint. Unilateral injury causes hoarseness. External laryngeal nerve injury (branch of the superior laryngeal nerve) causes loss of cricothyroid function — subtle pitch changes, voice fatigue."
+  },
+  {
+    "id": "an1_v04",
+    "type": "vsaq",
+    "topic": "Neuroanatomy",
+    "stem": "A 65-year-old right-handed man presents with sudden onset right arm and face weakness, expressive dysphasia, and rightward gaze deviation. CT head is normal.\n\n(a) Which arterial territory is most likely occluded?\n(b) Explain why gaze deviation occurs towards the side of the lesion (left).\n(c) Name two components of the National Institutes of Health Stroke Scale (NIHSS) that this patient would score highly on.",
+    "answer": "(a) Left middle cerebral artery (MCA) — superior division, or complete left MCA territory infarct.\n(b) The frontal eye fields (FEF) in each frontal lobe drive conjugate gaze towards the contralateral side. In an acute left frontal/MCA infarct, the left FEF is damaged, removing the drive for rightward gaze. The right FEF is unopposed, driving conjugate deviation to the left (towards the lesion). In a destructive lesion the eyes look 'away from the deficit' (towards the lesion).\n(c) Any two of: motor score (arm weakness), language/aphasia, facial palsy, level of consciousness commands/questions, gaze.",
+    "explanation": "This is a classic left MCA territory stroke. Superior division MCA occlusion causes contralateral face and arm weakness with expressive dysphasia. Gaze deviation towards the lesion (left) is due to ipsilateral FEF destruction. The NIHSS is a standardised 42-point scale assessing level of consciousness, language, neglect, visual fields, gaze, facial palsy, and motor/sensory function; higher scores indicate more severe stroke."
+  },
+  {
+    "id": "an1_v05",
+    "type": "vsaq",
+    "topic": "Thorax",
+    "stem": "A 60-year-old man is brought to A&E in cardiac arrest. CPR is in progress. A junior doctor attempts to insert a pericardiocentesis needle using the subxiphoid approach.\n\n(a) Describe the angle and direction the needle should be inserted.\n(b) Name two structures the needle passes through before entering the pericardial sac.\n(c) Which ECG change indicates the needle has advanced too far and contacted the myocardium?",
+    "answer": "(a) The needle is inserted at 45° to the skin, directed towards the left shoulder (or at 45° to both the skin surface and the sagittal plane, aiming towards the left mid-clavicle).\n(b) Any two of: skin and subcutaneous tissue; linea alba / epigastric fascia; diaphragm (central tendon); pericardial sac (fibrous then parietal serous pericardium). Note: the needle avoids pleura by the subxiphoid approach.\n(c) ST elevation or an injury current pattern on the ECG monitor (or ventricular ectopics), indicating epicardial contact — the needle should be withdrawn slightly.",
+    "explanation": "Pericardiocentesis via the subxiphoid route is performed with ECG monitoring or ultrasound guidance. The needle passes between the xiphoid process and left costal margin. Aspiration of non-clotting blood suggests pericardial effusion (pericardial blood defibrinates); frank clotting blood suggests the heart itself has been entered. Cardiac tamponade is treated by urgent pericardiocentesis or surgical pericardiotomy (pericardial window)."
   }
 ]
