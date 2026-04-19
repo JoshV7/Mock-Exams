@@ -210,13 +210,11 @@ textarea{resize:vertical}
     <div class="login-body">
       <h2>Sign in</h2>
       <div class="login-note">
-        <b>Note:</b> Use your <b>name</b> as your username and create a password.
+        <b>Note:</b> Use your <b>student number</b> to login.
         Your progress will be saved automatically so you can return and review completed papers.
       </div>
       <label for="user">Student Number (S0000000)</label>
       <input id="user" type="text" autocomplete="off" placeholder="e.g. S1234567" maxlength="8">
-      <label for="pass">Password</label>
-      <input id="pass" type="password" placeholder="Create or enter your password">
       <div class="login-err" id="loginErr"></div>
       <button class="btn-login" id="loginBtn" onclick="doLogin()">Sign in</button>
     </div>
@@ -442,52 +440,44 @@ const NUM_RE = /^S\d{7}$/i;
 
 async function doLogin(){
   const num = $el('user').value.trim().toUpperCase();
-  const pw  = $el('pass').value;
   $el('loginErr').textContent = '';
   $el('loginBtn').disabled = true;
 
   if(!NUM_RE.test(num)){
     $el('loginErr').textContent = 'Format must be S followed by 7 digits (e.g. S1234567).';
-    $el('loginBtn').disabled = false; return;
+    $el('loginBtn').disabled = false;
+    return;
   }
-  if(!pw){ $el('loginErr').textContent = 'Please enter a password.'; $el('loginBtn').disabled = false; return; }
 
   if(!sb){
-    S.studentNum = num; enterHolding(num);
-    $el('loginBtn').disabled = false; return;
+    S.studentNum = num;
+    enterHolding(num);
+    $el('loginBtn').disabled = false;
+    return;
   }
 
   try {
-    // 1. Check allowlist
-    const {data:allowed, error:ae} = await sb
-      .from('allowed_students').select('student_num').eq('student_num', num).single();
-    if(ae || !allowed){
-      $el('loginErr').textContent = 'Student number not on access list. Contact your administrator.';
-      $el('loginBtn').disabled = false; return;
-    }
+    const {data:allowed, error} = await sb
+      .from('allowed_students')
+      .select('student_num')
+      .eq('student_num', num)
+      .single();
 
-    // 2. Check/create account
-    const {data:acct} = await sb
-      .from('student_accounts').select('password_hash').eq('student_num', num).single();
-
-    if(!acct){
-      // First login — register password
-      const {error:ie} = await sb.from('student_accounts').insert({ student_num:num, password_hash:pw });
-      if(ie) throw ie;
-    } else if(acct.password_hash !== pw){
-      $el('loginErr').textContent = 'Incorrect password.';
-      $el('loginBtn').disabled = false; return;
+    if(error || !allowed){
+      $el('loginErr').textContent = 'Student number not authorised.';
+      $el('loginBtn').disabled = false;
+      return;
     }
 
     S.studentNum = num;
     enterHolding(num);
+
   } catch(e){
     $el('loginErr').textContent = 'Error: ' + e.message;
   }
+
   $el('loginBtn').disabled = false;
 }
-
-$el('pass').addEventListener('keydown', e => { if(e.key==='Enter') doLogin(); });
 
 function enterHolding(num){
   $el('login').style.display = 'none';
