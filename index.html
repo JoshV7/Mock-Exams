@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>risr/assess — MBChB Year 1</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mock Exams — MBChB Year 1</title>
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
 *,*::before,*::after{box-sizing:border-box}
@@ -202,8 +203,8 @@ textarea{resize:vertical}
 .btn-report-send{background:var(--red);color:#fff}
 .btn-report-cancel{background:#888;color:#fff}
 .report-sent{font-size:12px;color:var(--green);font-weight:600}
-.bug-btn{position:fixed;bottom:22px;left:22px;background:#c62828;color:#fff;border-radius:20px;padding:8px 16px;font-size:13px;font-weight:700;box-shadow:0 4px 14px rgba(0,0,0,.25);z-index:60;cursor:pointer;display:flex;align-items:center;gap:6px;border:0}
-.bug-btn:hover{background:#d63737}
+.bug-btn{position:fixed;bottom:74px;right:22px;background:rgba(198,40,40,.85);color:#fff;border-radius:14px;padding:5px 11px;font-size:11px;font-weight:600;box-shadow:0 2px 8px rgba(0,0,0,.2);z-index:60;cursor:pointer;letter-spacing:.3px;border:0;backdrop-filter:blur(4px)}
+.bug-btn:hover{background:#c62828}
 .rev-actions{display:flex;gap:7px;margin-bottom:14px;flex-wrap:wrap}
 .rev-actions button{padding:7px 13px;border-radius:3px;background:var(--brand);color:#fff;font-weight:600;font-size:13px}
 .rev-actions button.alt{background:#666}
@@ -211,8 +212,39 @@ textarea{resize:vertical}
 .back-top{position:fixed;bottom:22px;right:22px;background:var(--brand);color:#fff;border-radius:50%;width:42px;height:42px;font-size:20px;display:none;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(0,0,0,.2);z-index:60;cursor:pointer}
 .back-top.show{display:flex}
 
+/* FOOTER */
+.site-footer{text-align:center;font-size:12px;color:#aaa;padding:18px 12px 14px;background:transparent;flex-shrink:0}
+#holding .site-footer{margin-top:24px}
+
+@media(max-width:640px){
+  /* Login */
+  .login-brand{font-size:24px;padding:16px 18px}
+  .login-body{padding:18px}
+  /* Holding */
+  #holding{padding:16px 12px}
+  .holding-box{padding:18px 14px}
+  /* Exam ctrl bar — hide labels, tighten */
+  .ctrl-btn span:last-child{display:none}
+  .ctrl-btn{min-width:42px;padding:5px 7px}
+  .ctrl-info{min-width:70px;padding:4px 6px}
+  .ctrl-info .val{font-size:12px}
+  /* Stack q+a panes vertically */
+  .exam-body{flex-direction:column}
+  .qa-wrap{flex-direction:column;overflow-y:auto}
+  .q-pane{flex:none;border-right:0;border-bottom:1px solid var(--border);overflow-y:visible;padding:14px 14px}
+  .q-num-band{margin:-14px -14px 12px}
+  .a-pane{flex:none;min-height:240px}
+  .overview{width:100%;max-height:120px;border-right:0;border-bottom:1px solid var(--border)}
+  .overview.hide{display:none}
+  /* Review */
+  .rev-inner{padding:12px}
+  .result-grid{grid-template-columns:repeat(2,1fr)}
+  /* Bug button clear of back-top */
+  .bug-btn{bottom:74px;right:14px}
+  .back-top{right:14px;bottom:22px}
+}
 @media print{
-  .rev-topbar,.rev-actions,.back-top,.bug-btn,.btn-report-q,.report-inline{display:none!important}
+  .rev-topbar,.rev-actions,.back-top,.bug-btn,.btn-report-q,.report-inline,.site-footer{display:none!important}
   .q-review{page-break-inside:avoid;box-shadow:none;border:1px solid #ddd}
 }
 </style>
@@ -222,7 +254,7 @@ textarea{resize:vertical}
 <!-- LOGIN -->
 <div id="login">
   <div class="login-card">
-    <div class="login-brand">risr/<span class="assess">assess</span></div>
+    <div class="login-brand">Mock <span class="assess">Exams</span></div>
     <div class="login-body">
       <h2>Sign in</h2>
       <div class="login-note">
@@ -233,6 +265,7 @@ textarea{resize:vertical}
       <input id="user" type="text" autocomplete="off" placeholder="e.g. s1234567" maxlength="8">
       <div class="login-err" id="loginErr"></div>
       <button class="btn-login" id="loginBtn" onclick="doLogin()">Sign in</button>
+      <div class="site-footer">© 2026 Joshua Van Der Merwe</div>
     </div>
   </div>
 </div>
@@ -246,6 +279,7 @@ textarea{resize:vertical}
     <p id="paperLoadErr" style="color:var(--red);font-size:14px"></p>
     <div class="paper-list" id="paperList"></div>
     <div id="holdingNote"></div>
+    <div class="site-footer">© 2026 Joshua Van Der Merwe</div>
   </div>
 </div>
 
@@ -409,12 +443,13 @@ textarea{resize:vertical}
       <button class="alt" onclick="filterReview('slow')">Slowest 10</button>
     </div>
     <div id="reviewList"></div>
+    <div class="site-footer">© 2026 Joshua Van Der Merwe</div>
   </div>
   <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Back to top">↑</button>
 </div>
 
 <!-- BUG REPORT BUTTON (always visible) -->
-<button class="bug-btn" onclick="openBugReport()" title="Report a bug">🐛 Report Bug</button>
+<button class="bug-btn" onclick="openBugReport()" title="Report a bug">Report Bug</button>
 
 <!-- BUG REPORT MODAL -->
 <div class="modal-backdrop" id="bugModal">
