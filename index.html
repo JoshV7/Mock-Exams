@@ -450,7 +450,7 @@ async function doLogin(){
   }
 
   if(!sb){
-    S.studentNum = num;
+    s.studentNum = num;
     enterHolding(num);
     $el('loginBtn').disabled = false;
     return;
@@ -469,7 +469,7 @@ async function doLogin(){
       return;
     }
 
-    S.studentNum = num;
+    s.studentNum = num;
     enterHolding(num);
 
   } catch(e){
@@ -504,13 +504,13 @@ async function loadProgress(num){
 
 async function upsertProgress(key, data){
   if(!sb) return;
-  try { await sb.from('exam_progress').upsert({ student_num:S.studentNum, paper_key:key, ...data }, {onConflict:'student_num,paper_key'}); }
+  try { await sb.from('exam_progress').upsert({ student_num:s.studentNum, paper_key:key, ...data }, {onConflict:'student_num,paper_key'}); }
   catch(e){ console.warn('upsertProgress:', e.message); }
 }
 
 async function deleteProgress(key){
   if(!sb) return;
-  try { await sb.from('exam_progress').delete().eq('student_num',S.studentNum).eq('paper_key',key); }
+  try { await sb.from('exam_progress').delete().eq('student_num',s.studentNum).eq('paper_key',key); }
   catch(e){ console.warn('deleteProgress:', e.message); }
 }
 
@@ -876,7 +876,7 @@ function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 async function restartExam(){
   clearInterval(S.autosaveH);
   $el('review').style.display='none';
-  await loadProgress(S.studentNum);
+  await loadProgress(s.studentNum);
   renderPaperList();
   $el('holding').style.display='flex';
 }
