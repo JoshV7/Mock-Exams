@@ -572,8 +572,16 @@ async function discoverPapers(){
   $el('paperLoadErr').textContent = '';
   try {
     const r = await fetch('Papers/index.json');
-    if(r.ok){ availPapers = await r.json(); $el('paperLoadMsg').style.display='none'; renderPaperList(); return; }
-  } catch(_){}
+    console.log('Papers/index.json fetch status:', r.status);
+    if(r.ok){
+      const data = await r.json();
+      console.log('Loaded papers:', data);
+      availPapers = data;
+      $el('paperLoadMsg').style.display='none';
+      renderPaperList();
+      return;
+    }
+  } catch(e){ console.warn('index.json fetch error:', e.message); }
   try {
     const parts = location.hostname.split('.');
     const owner = parts[0];
@@ -599,12 +607,13 @@ function renderPaperList(){
   if(!availPapers.length){ list.innerHTML='<p style="color:#888;font-size:14px">No papers found.</p>'; return; }
 
   availPapers.forEach(p => {
+    try {
     const pg = s.progress[p.key];
     const done    = pg && !pg.inProgress && pg.completedAt;
     const inProg  = pg && pg.inProgress;
     const passed  = done && pg.pct >= 60;
     const failed  = done && pg.pct < 60;
-    const cfg = EXAM_CFG[p.type||'kt'];
+    const cfg = EXAM_CFG[p.type||'kt'] || EXAM_CFG['kt'];
 
     const item = document.createElement('div');
     item.className = 'paper-item' + (passed?' completed':failed?' failed':inProg?' in-progress':'');
@@ -632,6 +641,7 @@ function renderPaperList(){
       mkBtn(acts,'Review','btn-review',()=>openStoredReview(p));
       mkBtn(acts,'Redo','btn-redo',()=>openRedoModal(p));
     }
+    } catch(e){ console.error('Error rendering paper entry:', p, e); }
   });
 
   $el('holdingNote').innerHTML = `<b>Knowledge Test:</b> 80 questions (72 SBA + 8 VSAQ), 1 hr 40 min, pass mark 60% (48/80).<br>
