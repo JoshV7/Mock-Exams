@@ -439,7 +439,7 @@ function $el(id){ return document.getElementById(id); }
 const NUM_RE = /^s\d{7}$/i;
 
 async function doLogin(){
-  const num = $el('user').value.trim().toUpperCase();
+  const num = $el('user').value.trim().toLowerCase();
   $el('loginErr').textContent = '';
   $el('loginBtn').disabled = true;
 
