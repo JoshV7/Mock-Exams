@@ -422,7 +422,7 @@ const EXAM_CFG = {
 };
 
 /* ── STATE ────────────────────────────────────────────────── */
-let S = {
+let s = {
   studentNum:'', paper:null, paperName:'', examType:'kt',
   questions:[], idx:0,
   answers:{}, crossed:{}, flagged:{},
@@ -494,9 +494,9 @@ async function loadProgress(num){
     const {data} = await sb.from('exam_progress')
       .select('paper_key,score,total,pct,completed_at,in_progress,saved_state')
       .eq('student_num', num);
-    S.progress = {};
+    s.progress = {};
     (data||[]).forEach(r => {
-      S.progress[r.paper_key] = { score:r.score, total:r.total, pct:r.pct,
+      s.progress[r.paper_key] = { score:r.score, total:r.total, pct:r.pct,
         completedAt:r.completed_at, inProgress:r.in_progress, savedState:r.saved_state };
     });
   } catch(e){ console.warn('loadProgress:', e.message); }
@@ -515,16 +515,16 @@ async function deleteProgress(key){
 }
 
 function startAutosave(){
-  clearInterval(S.autosaveH);
-  S.autosaveH = setInterval(autosaveNow, 10000);
+  clearInterval(s.autosaveH);
+  s.autosaveH = setInterval(autosaveNow, 10000);
 }
 async function autosaveNow(){
-  if(S.submitted) return;
-  const snap = { answers:S.answers, flagged:S.flagged, qTimes:S.qTimes, timeLeft:S.timeLeft, idx:S.idx, crossed:{} };
-  Object.keys(S.crossed).forEach(k => { snap.crossed[k] = Array.from(S.crossed[k]||[]); });
-  await upsertProgress(S.paper, { in_progress:true, score:0, total:0, pct:0, completed_at:null, saved_state:JSON.stringify(snap) });
-  if(S.progress[S.paper]) S.progress[S.paper].inProgress = true;
-  else S.progress[S.paper] = { inProgress:true };
+  if(s.submitted) return;
+  const snap = { answers:s.answers, flagged:s.flagged, qTimes:s.qTimes, timeLeft:s.timeLeft, idx:s.idx, crossed:{} };
+  Object.keys(s.crossed).forEach(k => { snap.crossed[k] = Array.from(s.crossed[k]||[]); });
+  await upsertProgress(s.paper, { in_progress:true, score:0, total:0, pct:0, completed_at:null, saved_state:JSON.stringify(snap) });
+  if(s.progress[s.paper]) s.progress[s.paper].inProgress = true;
+  else s.progress[s.paper] = { inProgress:true };
 }
 
 /* ── PAPER DISCOVERY ──────────────────────────────────────── */
@@ -560,7 +560,7 @@ function renderPaperList(){
   if(!availPapers.length){ list.innerHTML='<p style="color:#888;font-size:14px">No papers found.</p>'; return; }
 
   availPapers.forEach(p => {
-    const pg = S.progress[p.key];
+    const pg = s.progress[p.key];
     const done    = pg && !pg.inProgress && pg.completedAt;
     const inProg  = pg && pg.inProgress;
     const cfg = EXAM_CFG[p.type||'kt'];
@@ -600,12 +600,12 @@ function renderPaperList(){
 function mkBtn(p,label,cls,fn){ const b=document.createElement('button'); b.className=cls; b.textContent=label; b.onclick=fn; p.appendChild(b); }
 
 /* ── REDO CONFIRM ─────────────────────────────────────────── */
-function openRedoModal(p){ S.pendingRedo=p; openModal('redoModal'); }
+function openRedoModal(p){ s.pendingRedo=p; openModal('redoModal'); }
 async function confirmRedo(){
   closeModal('redoModal');
-  const p = S.pendingRedo; if(!p) return;
+  const p = s.pendingRedo; if(!p) return;
   await deleteProgress(p.key);
-  delete S.progress[p.key];
+  delete s.progress[p.key];
   renderPaperList();
   await loadAndStart(p, false);
 }
@@ -615,13 +615,13 @@ async function openStoredReview(p){
   try {
     const r = await fetch(`Papers/${p.filename}`);
     const questions = await r.json();
-    const pg = S.progress[p.key];
+    const pg = s.progress[p.key];
     let snap = { answers:{}, flagged:{}, qTimes:{}, crossed:{} };
     if(pg?.savedState){ try{ snap=JSON.parse(pg.savedState); }catch(_){} }
-    S.paper=p.key; S.paperName=p.name; S.questions=questions;
-    S.answers=snap.answers||{}; S.flagged=snap.flagged||{}; S.qTimes=snap.qTimes||{};
-    S.crossed={}; questions.forEach(q=>{ S.crossed[q.id]=new Set(snap.crossed?.[q.id]||[]); });
-    S.submitted=true;
+    s.paper=p.key; s.paperName=p.name; s.questions=questions;
+    s.answers=snap.answers||{}; s.flagged=snap.flagged||{}; s.qTimes=snap.qTimes||{};
+    s.crossed={}; questions.forEach(q=>{ s.crossed[q.id]=new Set(snap.crossed?.[q.id]||[]); });
+    s.submitted=true;
     $el('holding').style.display='none';
     renderReview(); $el('review').style.display='block'; window.scrollTo(0,0);
   } catch(e){ alert('Could not load paper: '+e.message); }
@@ -640,15 +640,15 @@ async function loadAndStart(p, _rev, resume=false){
 
 function startExam(p, questions, resume=false){
   const cfg = EXAM_CFG[p.type||'kt'];
-  S.paper=p.key; S.paperName=p.name; S.questions=questions.slice(); S.submitted=false; S.showTopic=true;
-  questions.forEach(q=>{ S.crossed[q.id]=new Set(); });
+  s.paper=p.key; s.paperName=p.name; s.questions=questions.slice(); s.submitted=false; s.showTopic=true;
+  questions.forEach(q=>{ s.crossed[q.id]=new Set(); });
 
-  if(resume && S.progress[p.key]?.savedState){
+  if(resume && s.progress[p.key]?.savedState){
     try {
-      const sn = JSON.parse(S.progress[p.key].savedState);
-      S.answers=sn.answers||{}; S.flagged=sn.flagged||{}; S.qTimes=sn.qTimes||{};
-      S.timeLeft=sn.timeLeft||cfg.duration; S.idx=sn.idx||0;
-      Object.keys(sn.crossed||{}).forEach(k=>{ S.crossed[k]=new Set(sn.crossed[k]); });
+      const sn = JSON.parse(s.progress[p.key].savedState);
+      s.answers=sn.answers||{}; s.flagged=sn.flagged||{}; s.qTimes=sn.qTimes||{};
+      s.timeLeft=sn.timeLeft||cfg.duration; s.idx=sn.idx||0;
+      Object.keys(sn.crossed||{}).forEach(k=>{ s.crossed[k]=new Set(sn.crossed[k]); });
     } catch(_){ resetState(cfg); }
   } else { resetState(cfg); }
 
@@ -660,53 +660,53 @@ function startExam(p, questions, resume=false){
 }
 
 function resetState(cfg){
-  S.answers={}; S.flagged={}; S.qTimes={}; S.qStart={};
-  S.timeLeft=cfg.duration; S.idx=0;
-  S.questions.forEach(q=>{ S.crossed[q.id]=new Set(); });
+  s.answers={}; s.flagged={}; s.qTimes={}; s.qStart={};
+  s.timeLeft=cfg.duration; s.idx=0;
+  s.questions.forEach(q=>{ s.crossed[q.id]=new Set(); });
 }
 
 /* ── TIMER ────────────────────────────────────────────────── */
 function startTimer(){
-  clearInterval(S.timerH); updateTimer();
-  S.timerH = setInterval(()=>{ if(S.timeLeft<=0){ clearInterval(S.timerH); submitExam(); return; } S.timeLeft--; updateTimer(); }, 1000);
+  clearInterval(s.timerH); updateTimer();
+  s.timerH = setInterval(()=>{ if(s.timeLeft<=0){ clearInterval(s.timerH); submitExam(); return; } s.timeLeft--; updateTimer(); }, 1000);
 }
 function updateTimer(){
-  const s=S.timeLeft;
+  const s=s.timeLeft;
   $el('timer').textContent=`${pad(Math.floor(s/3600))}:${pad(Math.floor((s%3600)/60))}:${pad(s%60)}`;
 }
 function pad(n){ return String(n).padStart(2,'0'); }
 
 /* ── PAUSE / RESUME ───────────────────────────────────────── */
-function pauseExam(){ clearInterval(S.timerH); clearInterval(S.autosaveH); recEnd(); autosaveNow(); $el('pauseOverlay').classList.add('show'); }
+function pauseExam(){ clearInterval(s.timerH); clearInterval(s.autosaveH); recEnd(); autosaveNow(); $el('pauseOverlay').classList.add('show'); }
 function resumeExam(){ $el('pauseOverlay').classList.remove('show'); startTimer(); startAutosave(); recStart(); }
 
 /* ── Q TIME TRACKING ──────────────────────────────────────── */
-function recStart(){ const q=S.questions[S.idx]; if(q) S.qStart[q.id]=Date.now(); }
-function recEnd(){ const q=S.questions[S.idx]; if(!q) return; const e=Math.round((Date.now()-(S.qStart[q.id]||Date.now()))/1000); S.qTimes[q.id]=(S.qTimes[q.id]||0)+e; }
+function recStart(){ const q=s.questions[s.idx]; if(q) s.qStart[q.id]=Date.now(); }
+function recEnd(){ const q=s.questions[s.idx]; if(!q) return; const e=Math.round((Date.now()-(s.qStart[q.id]||Date.now()))/1000); s.qTimes[q.id]=(s.qTimes[q.id]||0)+e; }
 function fmtT(s){ return s<60?s+'s':Math.floor(s/60)+'m '+(s%60)+'s'; }
 
 /* ── OVERVIEW ─────────────────────────────────────────────── */
 function renderOverview(){
   const list=$el('ovList'); list.innerHTML='';
-  S.questions.forEach((q,i)=>{
+  s.questions.forEach((q,i)=>{
     const div=document.createElement('div'); div.className='ov-item';
-    const a=S.answers[q.id];
+    const a=s.answers[q.id];
     if(a!==undefined&&a!==null&&a!=='') div.classList.add('answered');
-    if(i===S.idx) div.classList.add('current');
-    div.onclick=()=>{ recEnd(); S.idx=i; renderQuestion(); renderOverview(); recStart(); };
+    if(i===s.idx) div.classList.add('current');
+    div.onclick=()=>{ recEnd(); s.idx=i; renderQuestion(); renderOverview(); recStart(); };
     const n=document.createElement('span'); n.textContent=i+1;
-    const f=document.createElement('span'); f.className='flag'; if(S.flagged[q.id]) f.textContent='⚑';
+    const f=document.createElement('span'); f.className='flag'; if(s.flagged[q.id]) f.textContent='⚑';
     div.appendChild(n); div.appendChild(f); list.appendChild(div);
   });
 }
 
 /* ── RENDER QUESTION ──────────────────────────────────────── */
 function renderQuestion(){
-  const q=S.questions[S.idx];
-  $el('qBand').textContent=`Question ${S.idx+1} of ${S.questions.length}`;
+  const q=s.questions[s.idx];
+  $el('qBand').textContent=`Question ${s.idx+1} of ${s.questions.length}`;
   const chip=$el('qTopic');
   chip.textContent=TOPIC_LABELS[q.topic]||q.topic;
-  chip.className='q-topic-chip'+(S.showTopic?'':' topic-hidden');
+  chip.className='q-topic-chip'+(s.showTopic?'':' topic-hidden');
 
   const imgWrap=$el('qImages'); imgWrap.innerHTML='';
   (q.images||[]).forEach(src=>{
@@ -716,46 +716,46 @@ function renderQuestion(){
 
   $el('qStem').textContent=q.stem;
   $el('qMark').textContent=q.type==='vsaq'?'[2 marks]':'[1 mark]';
-  $el('flagBtn').classList.toggle('on',!!S.flagged[q.id]);
-  const t=S.qTimes[q.id]||0;
+  $el('flagBtn').classList.toggle('on',!!s.flagged[q.id]);
+  const t=s.qTimes[q.id]||0;
   $el('qTimeInd').textContent=t>0?`⏱ Time on this question: ${fmtT(t)}`:'';
 
   const area=$el('ansArea'); area.innerHTML='';
   if(q.type==='sba'){
-    const cx=S.crossed[q.id]||new Set();
+    const cx=s.crossed[q.id]||new Set();
     q.options.forEach((opt,i)=>{
-      const isCx=cx.has(i), isSel=S.answers[q.id]===i;
+      const isCx=cx.has(i), isSel=s.answers[q.id]===i;
       const wrap=document.createElement('div'); wrap.className='opt-wrap';
       const b=document.createElement('button');
       b.className='opt'+(isSel?' selected':'')+(isCx?' crossed':'');
       b.textContent=String.fromCharCode(65+i)+'.  '+opt; b.disabled=isCx;
-      if(!isCx) b.onclick=()=>{ recEnd(); S.answers[q.id]=i; autosaveNow(); renderQuestion(); renderOverview(); recStart(); };
+      if(!isCx) b.onclick=()=>{ recEnd(); s.answers[q.id]=i; autosaveNow(); renderQuestion(); renderOverview(); recStart(); };
       const xb=document.createElement('button');
       xb.className='opt-x'+(isCx?' x-on':''); xb.title=isCx?'Restore':'Eliminate'; xb.innerHTML=isCx?'↩':'✕';
       xb.onclick=()=>{
-        const c=S.crossed[q.id]||new Set();
-        if(isCx) c.delete(i); else { c.add(i); if(S.answers[q.id]===i) delete S.answers[q.id]; }
-        S.crossed[q.id]=c; autosaveNow(); renderQuestion(); renderOverview();
+        const c=s.crossed[q.id]||new Set();
+        if(isCx) c.delete(i); else { c.add(i); if(s.answers[q.id]===i) delete s.answers[q.id]; }
+        s.crossed[q.id]=c; autosaveNow(); renderQuestion(); renderOverview();
       };
       wrap.appendChild(b); wrap.appendChild(xb); area.appendChild(wrap);
     });
   } else {
     const ta=document.createElement('textarea'); ta.className='vsaq-ta';
-    ta.placeholder='Type your answer here…'; ta.value=S.answers[q.id]||'';
-    ta.oninput=()=>{ S.answers[q.id]=ta.value; autosaveNow(); renderOverview(); };
+    ta.placeholder='Type your answer here…'; ta.value=s.answers[q.id]||'';
+    ta.oninput=()=>{ s.answers[q.id]=ta.value; autosaveNow(); renderOverview(); };
     area.appendChild(ta);
   }
 }
 
 /* ── NAV + CONTROLS ───────────────────────────────────────── */
-function nav(d){ const n=S.idx+d; if(n<0||n>=S.questions.length) return; recEnd(); S.idx=n; renderQuestion(); renderOverview(); recStart(); }
-function toggleFlag(){ const q=S.questions[S.idx]; S.flagged[q.id]=!S.flagged[q.id]; if(!S.flagged[q.id]) delete S.flagged[q.id]; renderQuestion(); renderOverview(); }
+function nav(d){ const n=s.idx+d; if(n<0||n>=s.questions.length) return; recEnd(); s.idx=n; renderQuestion(); renderOverview(); recStart(); }
+function toggleFlag(){ const q=s.questions[s.idx]; s.flagged[q.id]=!s.flagged[q.id]; if(!s.flagged[q.id]) delete s.flagged[q.id]; renderQuestion(); renderOverview(); }
 function toggleOverview(){ $el('overview').classList.toggle('hide'); $el('btnOv').classList.toggle('active'); }
 function toggleTopic(){
-  S.showTopic=!S.showTopic;
-  $el('btnTopic').classList.toggle('active',!S.showTopic);
-  $el('btnTopic').querySelector('span:last-child').textContent=S.showTopic?'TOPIC':'TOPIC ✕';
-  $el('qTopic').classList.toggle('topic-hidden',!S.showTopic);
+  s.showTopic=!s.showTopic;
+  $el('btnTopic').classList.toggle('active',!s.showTopic);
+  $el('btnTopic').querySelector('span:last-child').textContent=s.showTopic?'TOPIC':'TOPIC ✕';
+  $el('qTopic').classList.toggle('topic-hidden',!s.showTopic);
 }
 function toggleCalc(){ $el('calcBar').classList.toggle('show'); $el('btnCalc').classList.toggle('active'); if($el('calcBar').classList.contains('show')) $el('calcInput').focus(); }
 function doCalc(){
@@ -780,8 +780,8 @@ function openModal(id){ $el(id).classList.add('show'); }
 function closeModal(id){ $el(id).classList.remove('show'); }
 function clickFinish(){ openFinishModal(); }
 function openFinishModal(){
-  const u=S.questions.filter(q=>S.answers[q.id]===undefined||S.answers[q.id]===''||S.answers[q.id]===null).length;
-  const f=Object.keys(S.flagged).length;
+  const u=s.questions.filter(q=>s.answers[q.id]===undefined||s.answers[q.id]===''||s.answers[q.id]===null).length;
+  const f=Object.keys(s.flagged).length;
   let t=u>0?`<b>${u}</b> unanswered question${u!==1?'s':''}.`:'All questions answered.';
   if(f>0) t+=` <br><b>${f}</b> flagged.`;
   $el('unansLine').innerHTML=t; openModal('finishModal');
@@ -789,32 +789,32 @@ function openFinishModal(){
 
 /* ── SUBMIT ───────────────────────────────────────────────── */
 async function submitExam(){
-  if(S.submitted) return; S.submitted=true;
-  clearInterval(S.timerH); clearInterval(S.autosaveH); recEnd(); closeModal('finishModal');
+  if(s.submitted) return; s.submitted=true;
+  clearInterval(s.timerH); clearInterval(s.autosaveH); recEnd(); closeModal('finishModal');
   $el('exam').style.display='none';
-  const sbaQs=S.questions.filter(q=>q.type==='sba');
-  const correct=sbaQs.filter(q=>S.answers[q.id]===q.correct).length;
+  const sbaQs=s.questions.filter(q=>q.type==='sba');
+  const correct=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
   const pct=sbaQs.length?Math.round(correct/sbaQs.length*100):0;
-  const snap={ answers:S.answers, flagged:S.flagged, qTimes:S.qTimes, crossed:{} };
-  Object.keys(S.crossed).forEach(k=>{ snap.crossed[k]=Array.from(S.crossed[k]||[]); });
-  await upsertProgress(S.paper,{ score:correct, total:sbaQs.length, pct, completed_at:new Date().toISOString(), in_progress:false, saved_state:JSON.stringify(snap) });
-  S.progress[S.paper]={ score:correct, total:sbaQs.length, pct, inProgress:false, savedState:JSON.stringify(snap), completedAt:new Date().toISOString() };
+  const snap={ answers:s.answers, flagged:s.flagged, qTimes:s.qTimes, crossed:{} };
+  Object.keys(s.crossed).forEach(k=>{ snap.crossed[k]=Array.from(s.crossed[k]||[]); });
+  await upsertProgress(s.paper,{ score:correct, total:sbaQs.length, pct, completed_at:new Date().toISOString(), in_progress:false, saved_state:JSON.stringify(snap) });
+  s.progress[s.paper]={ score:correct, total:sbaQs.length, pct, inProgress:false, savedState:JSON.stringify(snap), completedAt:new Date().toISOString() };
   renderReview(); $el('review').style.display='block'; window.scrollTo(0,0);
 }
 
 /* ── REVIEW ───────────────────────────────────────────────── */
 let revFilter='all';
 function renderReview(){
-  const qs=S.questions, sbaQs=qs.filter(q=>q.type==='sba'), vsaqQs=qs.filter(q=>q.type==='vsaq');
-  const correct=sbaQs.filter(q=>S.answers[q.id]===q.correct).length;
+  const qs=s.questions, sbaQs=qs.filter(q=>q.type==='sba'), vsaqQs=qs.filter(q=>q.type==='vsaq');
+  const correct=sbaQs.filter(q=>s.answers[q.id]===q.correct).length;
   const total=sbaQs.length, pct=total?Math.round(correct/total*100):0, pass=pct>=60;
-  $el('revTitle').textContent=`${S.paperName} — ${pass?'PASSED ✓':'BELOW PASS MARK'}`;
-  const totalTime=Object.values(S.qTimes).reduce((a,b)=>a+b,0);
+  $el('revTitle').textContent=`${s.paperName} — ${pass?'PASSED ✓':'BELOW PASS MARK'}`;
+  const totalTime=Object.values(s.qTimes).reduce((a,b)=>a+b,0);
   $el('resultGrid').innerHTML=`
     <div class="result-card"><div>SBA Score</div><div class="big ${pass?'pass':'fail'}">${correct}/${total}</div><div>${pct}%</div></div>
     <div class="result-card"><div>Pass mark</div><div class="big">60%</div><div>${Math.ceil(total*0.6)}/${total} needed</div></div>
     <div class="result-card"><div>VSAQs</div><div class="big">${vsaqQs.length}</div><div>Self-mark below</div></div>
-    <div class="result-card"><div>Flagged</div><div class="big">${Object.keys(S.flagged).length}</div></div>
+    <div class="result-card"><div>Flagged</div><div class="big">${Object.keys(s.flagged).length}</div></div>
     <div class="result-card"><div>Total time</div><div class="big">${fmtT(totalTime)}</div></div>
     <div class="result-card"><div>Avg per Q</div><div class="big">${fmtT(Math.round(totalTime/Math.max(qs.length,1)))}</div></div>
   `;
@@ -822,9 +822,9 @@ function renderReview(){
   Object.keys(TOPIC_LABELS).forEach(t=>{
     const tQs=qs.filter(q=>q.topic===t); if(!tQs.length) return;
     const sbaTopic=tQs.filter(q=>q.type==='sba');
-    const corr=sbaTopic.filter(q=>S.answers[q.id]===q.correct).length;
+    const corr=sbaTopic.filter(q=>s.answers[q.id]===q.correct).length;
     const tp=sbaTopic.length?Math.round(corr/sbaTopic.length*100):0;
-    const avgT=tQs.length?Math.round(tQs.reduce((a,q)=>a+(S.qTimes[q.id]||0),0)/tQs.length):0;
+    const avgT=tQs.length?Math.round(tQs.reduce((a,q)=>a+(s.qTimes[q.id]||0),0)/tQs.length):0;
     const row=document.createElement('tr');
     row.innerHTML=`<td>${TOPIC_LABELS[t]}</td><td>${tQs.length}</td><td>${corr}/${sbaTopic.length}</td><td>${isFinite(tp)?tp:'—'}%</td><td>${fmtT(avgT)}</td>`;
     tbody.appendChild(row);
@@ -835,15 +835,15 @@ function renderReview(){
 function filterReview(f){ revFilter=f; renderReviewList(); }
 function renderReviewList(){
   const list=$el('reviewList'); list.innerHTML='';
-  let qs=[...S.questions];
-  if(revFilter==='wrong') qs=qs.filter(q=>q.type==='sba'&&S.answers[q.id]!==q.correct);
-  else if(revFilter==='flagged') qs=qs.filter(q=>S.flagged[q.id]);
+  let qs=[...s.questions];
+  if(revFilter==='wrong') qs=qs.filter(q=>q.type==='sba'&&s.answers[q.id]!==q.correct);
+  else if(revFilter==='flagged') qs=qs.filter(q=>s.flagged[q.id]);
   else if(revFilter==='vsaq') qs=qs.filter(q=>q.type==='vsaq');
-  else if(revFilter==='slow') qs=qs.filter(q=>S.qTimes[q.id]>0).sort((a,b)=>(S.qTimes[b.id]||0)-(S.qTimes[a.id]||0)).slice(0,10);
+  else if(revFilter==='slow') qs=qs.filter(q=>s.qTimes[q.id]>0).sort((a,b)=>(s.qTimes[b.id]||0)-(s.qTimes[a.id]||0)).slice(0,10);
 
   qs.forEach(q=>{
-    const origIdx=S.questions.indexOf(q);
-    const ua=S.answers[q.id], isFlag=!!S.flagged[q.id];
+    const origIdx=s.questions.indexOf(q);
+    const ua=s.answers[q.id], isFlag=!!s.flagged[q.id];
     const isCorrect=q.type==='sba'&&ua===q.correct;
     const card=document.createElement('div'); card.className='q-review';
     let verdict=q.type==='vsaq'?'<span class="verdict vsaq">VSAQ</span>':isCorrect?'<span class="verdict correct">CORRECT</span>':'<span class="verdict wrong">INCORRECT</span>';
@@ -865,7 +865,7 @@ function renderReviewList(){
       html+=`<div class="expl"><b>Model answer:</b><br>${esc(q.answer||'')}</div>`;
     }
     if(q.explanation) html+=`<div class="expl"><b>Explanation:</b> ${esc(q.explanation)}</div>`;
-    const t=S.qTimes[q.id]||0; if(t>0) html+=`<div class="q-time-spent">⏱ Time: ${fmtT(t)}</div>`;
+    const t=s.qTimes[q.id]||0; if(t>0) html+=`<div class="q-time-spent">⏱ Time: ${fmtT(t)}</div>`;
     card.innerHTML=html; list.appendChild(card);
   });
   if(!list.children.length) list.innerHTML='<p style="color:#888">No questions match this filter.</p>';
@@ -874,7 +874,7 @@ function renderReviewList(){
 function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 
 async function restartExam(){
-  clearInterval(S.autosaveH);
+  clearInterval(s.autosaveH);
   $el('review').style.display='none';
   await loadProgress(s.studentNum);
   renderPaperList();
