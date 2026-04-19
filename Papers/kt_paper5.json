@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt5_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Heart sounds.\n\nWhich heart sound is produced by closure of the aortic and pulmonary valves?",
+    "options": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "Opening snap"
+    ],
+    "correct": 1,
+    "explanation": "S2 is produced by closure of the semilunar (aortic and pulmonary) valves at the end of systole. S1 is mitral and tricuspid closure."
+  },
+  {
+    "id": "kt5_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Normal blood pressure.\n\nWhat is considered a normal adult resting blood pressure?",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg",
+      "180/110 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Approximately 120/80 mmHg is considered normal for a healthy adult at rest."
+  },
+  {
+    "id": "kt5_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Pacemaker of the heart.\n\nWhich structure is the natural pacemaker of the heart?",
+    "options": [
+      "Atrioventricular node",
+      "Sinoatrial node",
+      "Bundle of His",
+      "Purkinje fibres",
+      "Bachmann's bundle"
+    ],
+    "correct": 1,
+    "explanation": "The sinoatrial node in the right atrium has the fastest spontaneous depolarisation rate and acts as the heart's natural pacemaker."
+  },
+  {
+    "id": "kt5_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Circulating volume.\n\nApproximately what is the total blood volume of an average 70 kg adult?",
+    "options": [
+      "1 litre",
+      "3 litres",
+      "5 litres",
+      "8 litres",
+      "10 litres"
+    ],
+    "correct": 2,
+    "explanation": "Total blood volume is approximately 5 litres (about 70 mL/kg) in an average adult."
+  },
+  {
+    "id": "kt5_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "ACE inhibitors.\n\nWhich side effect is most commonly associated with ACE inhibitors?",
+    "options": [
+      "Tachycardia",
+      "Dry cough",
+      "Weight gain",
+      "Gum hypertrophy",
+      "Hair loss"
+    ],
+    "correct": 1,
+    "explanation": "A dry cough (from bradykinin accumulation) is a classic side effect of ACE inhibitors. Switch to an ARB if troublesome."
+  },
+  {
+    "id": "kt5_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Oxygenated blood.\n\nWhich chamber of the heart receives oxygenated blood from the lungs?",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle",
+      "Coronary sinus"
+    ],
+    "correct": 2,
+    "explanation": "Oxygenated blood returns from the lungs via the pulmonary veins into the left atrium."
+  },
+  {
+    "id": "kt5_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Deep vein thrombosis.\n\nWhich component of Virchow's triad refers to damage to the vessel wall?",
+    "options": [
+      "Stasis",
+      "Hypercoagulability",
+      "Endothelial injury",
+      "Inflammation",
+      "Haemodilution"
+    ],
+    "correct": 2,
+    "explanation": "Virchow's triad for thrombosis comprises stasis, hypercoagulability, and endothelial injury."
+  },
+  {
+    "id": "kt5_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Heart rate.\n\nWhat is the normal resting heart rate in an adult?",
+    "options": [
+      "20–40 bpm",
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–140 bpm",
+      "140–180 bpm"
+    ],
+    "correct": 2,
+    "explanation": "Normal resting adult heart rate is 60–100 bpm. Below 60 is bradycardia; above 100 is tachycardia."
+  },
+  {
+    "id": "kt5_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Surfactant.\n\nWhich cell type produces pulmonary surfactant?",
+    "options": [
+      "Type I pneumocyte",
+      "Type II pneumocyte",
+      "Alveolar macrophage",
+      "Goblet cell",
+      "Ciliated epithelial cell"
+    ],
+    "correct": 1,
+    "explanation": "Type II pneumocytes secrete pulmonary surfactant, which reduces alveolar surface tension."
+  },
+  {
+    "id": "kt5_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Diagnosis of COPD.\n\nWhich spirometry finding is characteristic of COPD?",
+    "options": [
+      "FEV1/FVC > 0.7",
+      "FEV1/FVC < 0.7 post-bronchodilator",
+      "Normal FEV1",
+      "Reduced FVC with normal FEV1/FVC",
+      "Reversible airflow obstruction"
+    ],
+    "correct": 1,
+    "explanation": "COPD is confirmed by a post-bronchodilator FEV1/FVC < 0.7, indicating fixed airflow obstruction."
+  },
+  {
+    "id": "kt5_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Salbutamol.\n\nAt which receptor does salbutamol act?",
+    "options": [
+      "β1 adrenergic",
+      "β2 adrenergic",
+      "α1 adrenergic",
+      "M3 muscarinic",
+      "Histamine H1"
+    ],
+    "correct": 1,
+    "explanation": "Salbutamol is a β2 agonist. Activation of β2 receptors on airway smooth muscle causes bronchodilation."
+  },
+  {
+    "id": "kt5_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Respiratory failure.\n\nWhich of the following defines type 2 respiratory failure?",
+    "options": [
+      "Low PaO2, normal PaCO2",
+      "Low PaO2, high PaCO2",
+      "High PaO2, low PaCO2",
+      "Normal PaO2, low PaCO2",
+      "High PaO2, high PaCO2"
+    ],
+    "correct": 1,
+    "explanation": "Type 2 respiratory failure is defined as PaO2 < 8 kPa with PaCO2 > 6 kPa — ventilatory failure."
+  },
+  {
+    "id": "kt5_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Pneumonia.\n\nWhich is the most common causative organism of community-acquired pneumonia?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Mycoplasma pneumoniae",
+      "Legionella pneumophila"
+    ],
+    "correct": 1,
+    "explanation": "Streptococcus pneumoniae is the commonest cause of community-acquired pneumonia."
+  },
+  {
+    "id": "kt5_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "BMI classification.\n\nA BMI of 32 kg/m² is classified as:",
+    "options": [
+      "Underweight",
+      "Normal",
+      "Overweight",
+      "Obese class I",
+      "Obese class II"
+    ],
+    "correct": 3,
+    "explanation": "BMI 30.0–34.9 is obese class I; 35.0–39.9 is class II; ≥40 is class III."
+  },
+  {
+    "id": "kt5_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Vitamin D.\n\nWhich organ completes the final activation step of vitamin D?",
+    "options": [
+      "Skin",
+      "Liver",
+      "Kidney",
+      "Small intestine",
+      "Adrenal gland"
+    ],
+    "correct": 2,
+    "explanation": "The kidney carries out the final 1α-hydroxylation step to produce active 1,25-dihydroxyvitamin D (calcitriol)."
+  },
+  {
+    "id": "kt5_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Iron deficiency.\n\nWhich blood film appearance is typical of iron deficiency anaemia?",
+    "options": [
+      "Macrocytic normochromic",
+      "Microcytic hypochromic",
+      "Normocytic normochromic",
+      "Macrocytic hyperchromic",
+      "Sickled cells"
+    ],
+    "correct": 1,
+    "explanation": "Iron deficiency causes microcytic hypochromic anaemia (low MCV, low MCH)."
+  },
+  {
+    "id": "kt5_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Energy per gram.\n\nHow many kilocalories are provided per gram of carbohydrate?",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "9",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbohydrate and protein each provide 4 kcal/g; fat 9 kcal/g; alcohol 7 kcal/g."
+  },
+  {
+    "id": "kt5_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Menstrual cycle.\n\nWhich hormone peaks sharply just before ovulation?",
+    "options": [
+      "Progesterone",
+      "Luteinising hormone",
+      "Follicle-stimulating hormone",
+      "Prolactin",
+      "Inhibin"
+    ],
+    "correct": 1,
+    "explanation": "A surge in LH triggers ovulation at approximately day 14 of a 28-day cycle."
+  },
+  {
+    "id": "kt5_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Placental hormone.\n\nWhich hormone is the basis of a positive pregnancy test?",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "Human chorionic gonadotropin",
+      "Prolactin",
+      "Human placental lactogen"
+    ],
+    "correct": 2,
+    "explanation": "Human chorionic gonadotropin (hCG) is produced by the developing placenta and detected in urine pregnancy tests."
+  },
+  {
+    "id": "kt5_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Spermatogenesis.\n\nWhere does spermatogenesis occur?",
+    "options": [
+      "Epididymis",
+      "Seminiferous tubules",
+      "Prostate gland",
+      "Vas deferens",
+      "Seminal vesicle"
+    ],
+    "correct": 1,
+    "explanation": "Spermatogenesis occurs in the seminiferous tubules of the testis, supported by Sertoli cells."
+  },
+  {
+    "id": "kt5_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Fetal circulation.\n\nWhich fetal structure shunts blood from the pulmonary artery to the aorta?",
+    "options": [
+      "Foramen ovale",
+      "Ductus arteriosus",
+      "Ductus venosus",
+      "Umbilical vein",
+      "Ligamentum teres"
+    ],
+    "correct": 1,
+    "explanation": "The ductus arteriosus allows blood to bypass the non-functional fetal lungs by shunting from the pulmonary artery to the aorta."
+  },
+  {
+    "id": "kt5_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Antibodies.\n\nWhich immunoglobulin class is the first to be produced after a primary infection?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgD"
+    ],
+    "correct": 2,
+    "explanation": "IgM is the first antibody produced in a primary immune response. Class switching to IgG (or IgA/IgE) occurs later."
+  },
+  {
+    "id": "kt5_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Complement.\n\nWhich complement pathway is activated by antibody binding to antigen?",
+    "options": [
+      "Alternative pathway",
+      "Classical pathway",
+      "Lectin pathway",
+      "Coagulation pathway",
+      "Kinin pathway"
+    ],
+    "correct": 1,
+    "explanation": "The classical pathway is activated when C1 binds to antibody–antigen complexes."
+  },
+  {
+    "id": "kt5_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Innate immunity.\n\nWhich of the following is a component of innate immunity?",
+    "options": [
+      "Memory B cells",
+      "Plasma cells",
+      "Neutrophils",
+      "CD4+ T helper cells",
+      "Cytotoxic T cells"
+    ],
+    "correct": 2,
+    "explanation": "Neutrophils are non-specific, rapid phagocytes and part of the innate immune system."
+  },
+  {
+    "id": "kt5_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Anaphylaxis.\n\nWhat is the first-line treatment for anaphylaxis in adults?",
+    "options": [
+      "IV hydrocortisone",
+      "IM adrenaline 500 micrograms",
+      "IV chlorphenamine",
+      "Oral prednisolone",
+      "Nebulised salbutamol"
+    ],
+    "correct": 1,
+    "explanation": "Intramuscular adrenaline (0.5 mg in adults, anterolateral thigh) is first-line for anaphylaxis."
+  },
+  {
+    "id": "kt5_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Meningitis.\n\nWhich antibiotic should be given immediately in the community to a patient with suspected meningococcal disease with a non-blanching rash?",
+    "options": [
+      "Oral amoxicillin",
+      "IM/IV benzylpenicillin",
+      "Oral clarithromycin",
+      "IV ceftriaxone only once in hospital",
+      "No antibiotics until lumbar puncture"
+    ],
+    "correct": 1,
+    "explanation": "Pre-hospital IM/IV benzylpenicillin should be given as soon as meningococcal disease is suspected; do not delay for transfer."
+  },
+  {
+    "id": "kt5_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Gram stain.\n\nWhat colour do Gram-positive bacteria appear after Gram staining?",
+    "options": [
+      "Pink",
+      "Blue",
+      "Purple",
+      "Green",
+      "Clear"
+    ],
+    "correct": 2,
+    "explanation": "Gram-positive bacteria retain crystal violet and appear purple. Gram-negative bacteria are pink."
+  },
+  {
+    "id": "kt5_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "UTI.\n\nWhich is the most common causative organism of uncomplicated urinary tract infection?",
+    "options": [
+      "Staphylococcus saprophyticus",
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Proteus mirabilis",
+      "Pseudomonas aeruginosa"
+    ],
+    "correct": 1,
+    "explanation": "Escherichia coli causes the majority of uncomplicated UTIs."
+  },
+  {
+    "id": "kt5_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Viral replication.\n\nWhich of the following is an RNA virus?",
+    "options": [
+      "Herpes simplex virus",
+      "Hepatitis B virus",
+      "Human papillomavirus",
+      "Influenza virus",
+      "Epstein-Barr virus"
+    ],
+    "correct": 3,
+    "explanation": "Influenza is a single-stranded RNA virus (Orthomyxoviridae). HSV, HBV, HPV, and EBV are DNA viruses."
+  },
+  {
+    "id": "kt5_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "C. difficile.\n\nWhich antibiotic is first-line for Clostridioides difficile colitis?",
+    "options": [
+      "Oral vancomycin",
+      "IV gentamicin",
+      "Oral amoxicillin",
+      "Oral ciprofloxacin",
+      "IV flucloxacillin"
+    ],
+    "correct": 0,
+    "explanation": "Oral vancomycin is first-line for C. difficile infection. Fidaxomicin is an alternative, especially for recurrence."
+  },
+  {
+    "id": "kt5_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Tumour suppressor.\n\nWhich of the following is a tumour suppressor gene?",
+    "options": [
+      "KRAS",
+      "TP53",
+      "MYC",
+      "BCR-ABL",
+      "HER2"
+    ],
+    "correct": 1,
+    "explanation": "TP53 is a classic tumour suppressor — 'guardian of the genome'. Mutations occur in many human cancers."
+  },
+  {
+    "id": "kt5_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Metastasis.\n\nWhich is the most common site of metastasis for colorectal cancer?",
+    "options": [
+      "Brain",
+      "Bone",
+      "Liver",
+      "Adrenal",
+      "Skin"
+    ],
+    "correct": 2,
+    "explanation": "Colorectal cancer commonly metastasises to the liver via the portal vein."
+  },
+  {
+    "id": "kt5_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Breast cancer screening.\n\nWhat is the current NHS breast screening age range?",
+    "options": [
+      "40–60 years",
+      "45–65 years",
+      "50–70 years",
+      "55–75 years",
+      "60–80 years"
+    ],
+    "correct": 2,
+    "explanation": "NHS breast screening is offered to women aged 50–70 every 3 years (with ongoing trials extending the range)."
+  },
+  {
+    "id": "kt5_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Cancer hallmark.\n\nWhich of the following is a hallmark of cancer?",
+    "options": [
+      "Programmed cell death",
+      "Sustained proliferative signalling",
+      "Contact inhibition",
+      "Reduced angiogenesis",
+      "Increased DNA repair"
+    ],
+    "correct": 1,
+    "explanation": "'Sustained proliferative signalling' is one of Hanahan and Weinberg's hallmarks of cancer."
+  },
+  {
+    "id": "kt5_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "Gout.\n\nWhich crystals are seen in gout?",
+    "options": [
+      "Calcium pyrophosphate",
+      "Monosodium urate",
+      "Cholesterol",
+      "Hydroxyapatite",
+      "Calcium oxalate"
+    ],
+    "correct": 1,
+    "explanation": "Gout is caused by deposition of monosodium urate crystals, which are needle-shaped and negatively birefringent under polarised light."
+  },
+  {
+    "id": "kt5_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "Osteoarthritis.\n\nWhich of the following is a typical X-ray finding in osteoarthritis?",
+    "options": [
+      "Juxta-articular osteoporosis",
+      "Joint space narrowing and osteophytes",
+      "Bamboo spine",
+      "Erosive changes",
+      "Chondrocalcinosis"
+    ],
+    "correct": 1,
+    "explanation": "OA X-ray features (LOSS): Loss of joint space, Osteophytes, Subchondral sclerosis, Subchondral cysts."
+  },
+  {
+    "id": "kt5_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "Rheumatoid arthritis.\n\nWhich antibody is most specific for rheumatoid arthritis?",
+    "options": [
+      "Rheumatoid factor",
+      "Anti-CCP",
+      "ANA",
+      "Anti-dsDNA",
+      "ANCA"
+    ],
+    "correct": 1,
+    "explanation": "Anti-CCP (anti-cyclic citrullinated peptide) is highly specific for rheumatoid arthritis. RF is less specific."
+  },
+  {
+    "id": "kt5_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Stroke volume.\n\nStroke volume is best defined as:",
+    "options": [
+      "Volume in the ventricle at end of systole",
+      "Volume ejected by one ventricle in a single contraction",
+      "Total output per minute",
+      "Volume returned to the atrium per minute",
+      "Volume in the aorta at peak systole"
+    ],
+    "correct": 1,
+    "explanation": "Stroke volume = end-diastolic volume − end-systolic volume, i.e. volume ejected per beat (~70 mL)."
+  },
+  {
+    "id": "kt5_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Preload.\n\nWhich of the following best describes preload?",
+    "options": [
+      "Resistance the ventricle must overcome to eject blood",
+      "Ventricular end-diastolic volume / wall stress",
+      "Heart rate response to exercise",
+      "The opening pressure of the aortic valve",
+      "The volume pumped per minute"
+    ],
+    "correct": 1,
+    "explanation": "Preload reflects ventricular filling — approximated by end-diastolic volume or wall stretch at the end of diastole."
+  },
+  {
+    "id": "kt5_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Starling's forces.\n\nWhich of the following favours fluid movement out of capillaries?",
+    "options": [
+      "Plasma oncotic pressure",
+      "Capillary hydrostatic pressure",
+      "Interstitial oncotic pressure — negligible",
+      "Interstitial hydrostatic pressure",
+      "Capillary oncotic pressure"
+    ],
+    "correct": 1,
+    "explanation": "Capillary hydrostatic pressure drives fluid out; plasma oncotic pressure draws fluid in (Starling's principle)."
+  },
+  {
+    "id": "kt5_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Action potential threshold.\n\nAn action potential is triggered when the membrane potential reaches:",
+    "options": [
+      "+30 mV",
+      "0 mV",
+      "Threshold (approximately −55 mV)",
+      "−70 mV",
+      "−90 mV"
+    ],
+    "correct": 2,
+    "explanation": "Depolarisation must reach threshold (~ −55 mV) to open voltage-gated sodium channels and trigger an action potential."
+  },
+  {
+    "id": "kt5_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Schwann cells.\n\nWhich cells produce myelin in the peripheral nervous system?",
+    "options": [
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Schwann cells",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correct": 2,
+    "explanation": "Schwann cells myelinate peripheral nerves (one Schwann cell per internode of one axon)."
+  },
+  {
+    "id": "kt5_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Cerebrospinal fluid.\n\nWhere is CSF produced?",
+    "options": [
+      "Arachnoid granulations",
+      "Choroid plexus",
+      "Subarachnoid space",
+      "Hypothalamus",
+      "Cerebral aqueduct"
+    ],
+    "correct": 1,
+    "explanation": "CSF is produced by the choroid plexus in the ventricles and reabsorbed at arachnoid granulations."
+  },
+  {
+    "id": "kt5_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Dermatome.\n\nWhich spinal level supplies the thumb?",
+    "options": [
+      "C5",
+      "C6",
+      "C7",
+      "C8",
+      "T1"
+    ],
+    "correct": 1,
+    "explanation": "The C6 dermatome includes the thumb. C7 covers the middle finger; C8 covers the little finger."
+  },
+  {
+    "id": "kt5_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Synovial joint.\n\nWhich type of joint is the shoulder?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball and socket",
+      "Saddle",
+      "Plane"
+    ],
+    "correct": 2,
+    "explanation": "The glenohumeral joint is a ball-and-socket joint, allowing movement in multiple planes."
+  },
+  {
+    "id": "kt5_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Bone remodelling.\n\nWhich cells resorb bone?",
+    "options": [
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoclasts",
+      "Chondrocytes",
+      "Fibroblasts"
+    ],
+    "correct": 2,
+    "explanation": "Osteoclasts are large multinucleated cells (derived from the monocyte/macrophage lineage) that resorb bone. Osteoblasts form bone."
+  },
+  {
+    "id": "kt5_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Muscle fibre type.\n\nWhich muscle fibre type is most suited to sustained, low-intensity activity?",
+    "options": [
+      "Type I (slow oxidative)",
+      "Type IIa (fast oxidative)",
+      "Type IIx (fast glycolytic)",
+      "Type III",
+      "Type IV"
+    ],
+    "correct": 0,
+    "explanation": "Type I fibres are slow-twitch, fatigue-resistant, and rely on oxidative metabolism — suited to endurance activities."
+  },
+  {
+    "id": "kt5_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Cell membrane.\n\nWhich molecule is the principal structural component of the plasma membrane?",
+    "options": [
+      "Cholesterol",
+      "Phospholipids",
+      "Glycoproteins",
+      "Glycolipids",
+      "Ribosomes"
+    ],
+    "correct": 1,
+    "explanation": "Phospholipids form a bilayer that is the principal structure of the plasma membrane."
+  },
+  {
+    "id": "kt5_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Mitosis.\n\nDuring which phase of mitosis do sister chromatids separate?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Cytokinesis"
+    ],
+    "correct": 2,
+    "explanation": "Sister chromatids separate and move to opposite poles during anaphase."
+  },
+  {
+    "id": "kt5_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Genetic code.\n\nHow many nucleotides code for a single amino acid?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "A codon consists of 3 nucleotides, each coding for one amino acid (or a stop signal)."
+  },
+  {
+    "id": "kt5_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Protein synthesis.\n\nAt which organelle does translation primarily occur?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome",
+      "Lysosome",
+      "Golgi apparatus"
+    ],
+    "correct": 2,
+    "explanation": "Translation — synthesis of polypeptides from mRNA — occurs at ribosomes (free in the cytoplasm or on the rough ER)."
+  },
+  {
+    "id": "kt5_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Paracetamol.\n\nWhat is the antidote for paracetamol overdose?",
+    "options": [
+      "Naloxone",
+      "N-acetylcysteine",
+      "Flumazenil",
+      "Activated charcoal only",
+      "Sodium bicarbonate"
+    ],
+    "correct": 1,
+    "explanation": "N-acetylcysteine replenishes hepatic glutathione stores, neutralising the toxic metabolite NAPQI."
+  },
+  {
+    "id": "kt5_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Opioid antagonist.\n\nWhich drug reverses opioid overdose?",
+    "options": [
+      "Flumazenil",
+      "Atropine",
+      "Naloxone",
+      "Activated charcoal",
+      "Glucagon"
+    ],
+    "correct": 2,
+    "explanation": "Naloxone is a competitive opioid receptor antagonist used to reverse opioid-induced respiratory depression."
+  },
+  {
+    "id": "kt5_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "NSAIDs.\n\nWhich enzyme do NSAIDs inhibit?",
+    "options": [
+      "Lipoxygenase",
+      "Cyclooxygenase",
+      "Phospholipase A2",
+      "HMG-CoA reductase",
+      "Xanthine oxidase"
+    ],
+    "correct": 1,
+    "explanation": "NSAIDs inhibit cyclooxygenase (COX-1 and/or COX-2), reducing prostaglandin synthesis."
+  },
+  {
+    "id": "kt5_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "First-pass metabolism.\n\nIn which organ does first-pass metabolism mainly occur?",
+    "options": [
+      "Lungs",
+      "Small intestine",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "correct": 2,
+    "explanation": "The liver is the main site of first-pass metabolism for orally administered drugs."
+  },
+  {
+    "id": "kt5_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Half-life.\n\nA drug has a half-life of 6 hours. After how many half-lives is it generally considered eliminated?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "After 5 half-lives, approximately 97% of the drug has been eliminated — conventionally considered complete."
+  },
+  {
+    "id": "kt5_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Diuretic.\n\nWhich site in the nephron is the target of loop diuretics?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Thin descending loop of Henle",
+      "Thick ascending loop of Henle",
+      "Distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correct": 2,
+    "explanation": "Loop diuretics (e.g. furosemide) inhibit the Na+/K+/2Cl− co-transporter in the thick ascending limb of the loop of Henle."
+  },
+  {
+    "id": "kt5_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Agonist.\n\nA full agonist:",
+    "options": [
+      "Binds a receptor without activating it",
+      "Binds a receptor and produces a maximal response",
+      "Increases receptor number",
+      "Reduces endogenous ligand binding",
+      "Irreversibly destroys the receptor"
+    ],
+    "correct": 1,
+    "explanation": "A full agonist binds the receptor and produces the maximal possible response. Partial agonists produce a submaximal response."
+  },
+  {
+    "id": "kt5_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Therapeutic index.\n\nA narrow therapeutic index means:",
+    "options": [
+      "Drug has no side effects",
+      "Small margin between therapeutic and toxic doses",
+      "Drug is always safe in overdose",
+      "Drug does not require monitoring",
+      "Drug has a long half-life"
+    ],
+    "correct": 1,
+    "explanation": "A narrow therapeutic index means the toxic dose is close to the therapeutic dose (e.g. warfarin, digoxin, lithium) — such drugs usually require monitoring."
+  },
+  {
+    "id": "kt5_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Consent.\n\nWhich of the following is required for valid consent?",
+    "options": [
+      "Written documentation always",
+      "It must be given by a next of kin",
+      "Capacity, information, and voluntariness",
+      "It must be witnessed by a consultant",
+      "The patient must agree with the doctor"
+    ],
+    "correct": 2,
+    "explanation": "Valid consent requires the patient to have capacity, be given appropriate information, and give consent voluntarily."
+  },
+  {
+    "id": "kt5_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Autonomy.\n\nWhich principle describes a patient's right to self-determination?",
+    "options": [
+      "Beneficence",
+      "Autonomy",
+      "Justice",
+      "Non-maleficence",
+      "Paternalism"
+    ],
+    "correct": 1,
+    "explanation": "Autonomy is the principle of respecting a patient's right to make their own decisions."
+  },
+  {
+    "id": "kt5_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Capacity assessment.\n\nUnder the Mental Capacity Act 2005, which of the following is NOT a criterion for assessing capacity?",
+    "options": [
+      "Understands the information",
+      "Retains the information",
+      "Weighs the information",
+      "Communicates the decision",
+      "Agrees with the doctor's recommendation"
+    ],
+    "correct": 4,
+    "explanation": "Agreement with the doctor is not required. Capacity requires understanding, retention, weighing, and communication — not concurrence."
+  },
+  {
+    "id": "kt5_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Confidentiality.\n\nWhich of the following is a legitimate reason to break confidentiality without consent?",
+    "options": [
+      "A relative asks for information",
+      "A patient has a reportable notifiable disease",
+      "A colleague is curious",
+      "A patient is difficult",
+      "The information is already known"
+    ],
+    "correct": 1,
+    "explanation": "Doctors are legally required to report certain notifiable diseases under the Health Protection (Notification) Regulations 2010."
+  },
+  {
+    "id": "kt5_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Physical activity guidance.\n\nThe UK CMO recommends how much moderate-intensity activity per week for adults?",
+    "options": [
+      "30 minutes",
+      "75 minutes",
+      "150 minutes",
+      "300 minutes",
+      "500 minutes"
+    ],
+    "correct": 2,
+    "explanation": "UK CMO guidelines recommend at least 150 minutes of moderate-intensity physical activity per week for adults."
+  },
+  {
+    "id": "kt5_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Smoking cessation.\n\nWhich of the following is first-line pharmacological support for smoking cessation?",
+    "options": [
+      "Nicotine replacement therapy",
+      "Diazepam",
+      "Amitriptyline",
+      "Beta-blocker",
+      "Methadone"
+    ],
+    "correct": 0,
+    "explanation": "Nicotine replacement therapy (patches, gum, lozenges) is first-line, often combined with behavioural support. Varenicline and bupropion are alternatives."
+  },
+  {
+    "id": "kt5_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Determinants of health.\n\nWhich is an example of a social determinant of health?",
+    "options": [
+      "Genotype",
+      "Age",
+      "Housing",
+      "Sex",
+      "Ethnic group"
+    ],
+    "correct": 2,
+    "explanation": "Housing is a social determinant of health. Age, sex, genotype, and ethnicity are demographic/biological factors, though some have associated social dimensions."
+  },
+  {
+    "id": "kt5_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Alcohol.\n\nWhat is the UK Chief Medical Officer's recommended low-risk alcohol limit?",
+    "options": [
+      "14 units per week",
+      "21 units per week",
+      "28 units per week",
+      "7 units per week",
+      "10 units per week"
+    ],
+    "correct": 0,
+    "explanation": "The UK CMO recommends not regularly drinking more than 14 units per week, spread over three or more days."
+  },
+  {
+    "id": "kt5_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "P-value.\n\nA p-value of 0.05 means:",
+    "options": [
+      "There is a 5% chance the result is due to chance, if the null hypothesis is true",
+      "The result is 95% accurate",
+      "The null hypothesis is true",
+      "The alternative hypothesis is true",
+      "The study is statistically invalid"
+    ],
+    "correct": 0,
+    "explanation": "A p-value is the probability of obtaining a result at least as extreme as the one observed, assuming the null hypothesis is true."
+  },
+  {
+    "id": "kt5_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Sensitivity.\n\nSensitivity is defined as:",
+    "options": [
+      "True positives / (true positives + false negatives)",
+      "True negatives / (true negatives + false positives)",
+      "True positives / (true positives + false positives)",
+      "True negatives / (true negatives + false negatives)",
+      "Accuracy of the test"
+    ],
+    "correct": 0,
+    "explanation": "Sensitivity = TP / (TP + FN), the proportion of people with the disease correctly identified by the test."
+  },
+  {
+    "id": "kt5_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Prevalence.\n\nPrevalence is best defined as:",
+    "options": [
+      "Number of new cases over a defined period",
+      "Total number of cases at a specified time",
+      "Death rate per 1000 population",
+      "Risk of developing disease over a lifetime",
+      "Incidence divided by duration"
+    ],
+    "correct": 1,
+    "explanation": "Prevalence is the total number of cases (new + existing) in a population at a specified time. Incidence refers to new cases only."
+  },
+  {
+    "id": "kt5_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Study design.\n\nWhich is the best study design for determining the cause of a rare disease?",
+    "options": [
+      "Randomised controlled trial",
+      "Cohort study",
+      "Case-control study",
+      "Cross-sectional study",
+      "Case report"
+    ],
+    "correct": 2,
+    "explanation": "Case-control studies are efficient for rare diseases because they start with cases and compare previous exposures with controls."
+  },
+  {
+    "id": "kt5_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Confounding.\n\nA confounder is best described as:",
+    "options": [
+      "A factor that increases measurement error",
+      "An intermediate step in the causal chain",
+      "A factor associated with both exposure and outcome that distorts the relationship",
+      "A random error",
+      "A form of selection bias"
+    ],
+    "correct": 2,
+    "explanation": "A confounder is a variable independently associated with both the exposure and the outcome, which can distort observed associations if not controlled for."
+  },
+  {
+    "id": "kt5_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "STEMI.\n\nA patient has ST elevation in leads V1–V4.\n\n(a) Which wall of the heart is affected?\n(b) Which coronary artery is most likely occluded?",
+    "answer": "(a) Anterior wall.\n(b) Left anterior descending (LAD) artery.",
+    "explanation": "V1–V4 represent the anteroseptal wall, supplied by the LAD."
+  },
+  {
+    "id": "kt5_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "Asthma.\n\nName two classes of inhaler used in the long-term management of asthma.",
+    "answer": "Any two of: short-acting beta-2 agonist (e.g. salbutamol); inhaled corticosteroid (e.g. beclomethasone, budesonide); long-acting beta-2 agonist (e.g. salmeterol); leukotriene receptor antagonist (e.g. montelukast — oral); long-acting muscarinic antagonist (e.g. tiotropium).",
+    "explanation": "Asthma is managed with a stepwise approach combining relievers (SABA) and preventers (ICS, LABA, LTRA)."
+  },
+  {
+    "id": "kt5_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "Antibody structure.\n\n(a) Which part of an antibody binds antigen?\n(b) Which part determines antibody class (e.g. IgG vs IgM)?",
+    "answer": "(a) The variable region of the Fab (antigen-binding) fragment.\n(b) The constant region of the Fc (crystallisable) fragment.",
+    "explanation": "Fab binds antigen; Fc determines isotype and effector function (e.g. complement fixation, Fc receptor binding)."
+  },
+  {
+    "id": "kt5_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "Colorectal cancer.\n\n(a) Name one symptom that should prompt urgent referral for colorectal cancer in an adult over 50.\n(b) What is the first-line NHS bowel screening test?",
+    "answer": "(a) Any one of: rectal bleeding, change in bowel habit, unintentional weight loss, iron deficiency anaemia, abdominal mass.\n(b) Faecal immunochemical test (FIT).",
+    "explanation": "FIT is sent by post to eligible adults aged 54–74 every 2 years. Positive FIT triggers colonoscopy."
+  },
+  {
+    "id": "kt5_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "Action potential.\n\n(a) Which ion channel opens first to produce depolarisation during a neuronal action potential?\n(b) Which ion is responsible for repolarisation?",
+    "answer": "(a) Voltage-gated sodium channels (Na+ influx depolarises the cell).\n(b) Potassium — voltage-gated K+ channels open slightly after, allowing K+ efflux and repolarisation.",
+    "explanation": "Sodium influx → depolarisation; potassium efflux → repolarisation. Na+ channels inactivate rapidly, producing a refractory period."
+  },
+  {
+    "id": "kt5_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "Beta blockers.\n\n(a) Name one common indication for a beta-blocker.\n(b) Name one common side effect.",
+    "answer": "(a) Any one of: hypertension, angina, heart failure (prognostic), atrial fibrillation (rate control), post-MI, anxiety, migraine prophylaxis.\n(b) Any one of: fatigue, bradycardia, cold peripheries, bronchospasm (avoid in asthma), erectile dysfunction, sleep disturbance.",
+    "explanation": "Beta blockers reduce sympathetic drive, lowering heart rate, contractility, and renin release. Cardioselective agents (e.g. bisoprolol) have less bronchospasm risk but should still be used cautiously in asthma."
+  },
+  {
+    "id": "kt5_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "Four principles of medical ethics.\n\nName the four principles of biomedical ethics as described by Beauchamp and Childress.",
+    "answer": "1. Autonomy\n2. Beneficence\n3. Non-maleficence\n4. Justice",
+    "explanation": "These four principles provide a widely used ethical framework in medicine. They should be balanced, not ranked."
+  },
+  {
+    "id": "kt5_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "Hierarchy of evidence.\n\nName three levels of the evidence hierarchy from highest to lowest.",
+    "answer": "From highest to lowest (any three): systematic review/meta-analysis of RCTs → individual RCT → cohort study → case-control study → cross-sectional study → case series → case report → expert opinion.",
+    "explanation": "Higher levels of evidence reduce bias and confounding. Systematic reviews of high-quality RCTs are at the top; expert opinion is at the bottom."
+  }
+]
