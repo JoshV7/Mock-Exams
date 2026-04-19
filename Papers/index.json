@@ -1,20 +1,32 @@
 [
   {
     "key": "kt_paper1",
-    "name": "MBChB Year 1 — Knowledge Test — Paper 1",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 1 - Very Hard",
     "filename": "kt_paper1.json",
     "type": "kt"
   },
   {
     "key": "kt_paper2",
-    "name": "MBChB Year 1 — Knowledge Test — Paper 2",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 2 - Hard",
     "filename": "kt_paper2.json",
     "type": "kt"
   },
   {
     "key": "kt_paper3",
-    "name": "MBChB Year 1 — Knowledge Test — Paper 3",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 3 - Medium",
     "filename": "kt_paper3.json",
+    "type": "kt"
+  },
+  {
+    "key": "kt_paper4",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 3 - Easy",
+    "filename": "kt_paper4.json",
+    "type": "kt"
+  },
+  {
+    "key": "kt_paper5",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 3 - Very Easy",
+    "filename": "kt_paper5.json",
     "type": "kt"
   },
   {
