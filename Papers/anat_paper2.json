@@ -1,0 +1,687 @@
+[
+  {
+    "id": "an2_s01",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "A cadaveric dissection of the brachial plexus is shown. The arrowed structure arises from the lateral and medial cords and passes anterior to the axillary artery before entering the arm.\n\nWhich nerve is indicated?",
+    "images": ["Images/median_nerve_brachial_plexus.png"],
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Median nerve",
+      "Medial cutaneous nerve of the forearm"
+    ],
+    "correct": 3,
+    "explanation": "The median nerve is formed by contributions from both the lateral cord (C6, C7) and medial cord (C8, T1) of the brachial plexus, forming an 'M' or inverted V shape around the third part of the axillary artery. It descends anterior to the brachial artery in the arm, passes through the cubital fossa (medial to the brachial artery), enters the forearm between the two heads of pronator teres, and reaches the carpal tunnel. The ulnar nerve arises from the medial cord alone. The musculocutaneous nerve arises from the lateral cord and pierces coracobrachialis."
+  },
+  {
+    "id": "an2_s02",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "In this cadaveric dissection of the cubital fossa, the arrowed structure lies medial to the biceps tendon and lateral to the medial epicondyle. It bifurcates just distal to the lateral epicondyle.\n\nWhat is this structure?",
+    "images": ["Images/cubital_fossa_brachial_artery.png"],
+    "options": [
+      "Radial artery",
+      "Ulnar artery",
+      "Brachial artery",
+      "Anterior interosseous artery",
+      "Median cubital vein"
+    ],
+    "correct": 2,
+    "explanation": "The brachial artery is the continuation of the axillary artery and is the main artery of the arm. In the cubital fossa, it lies medial to the biceps tendon (and lateral to the median nerve) — the mnemonic MBBB (lateral to medial): Median nerve, Brachial artery, Biceps tendon, Brachialis muscle. It bifurcates just below the cubital fossa into the radial artery (lateral) and ulnar artery (medial). Blood pressure is measured over the brachial artery. The median cubital vein crosses the cubital fossa superficially and is the most common site for venepuncture."
+  },
+  {
+    "id": "an2_s03",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "This cadaveric image shows the palm of the hand. The arrowed structure lies in the carpal tunnel deep to the flexor retinaculum and supplies the thenar muscles before branching to the lateral three and a half fingers.\n\nWhich nerve is indicated?",
+    "images": ["Images/median_nerve_palm_carpal_tunnel.png"],
+    "options": [
+      "Ulnar nerve — deep branch",
+      "Ulnar nerve — superficial branch",
+      "Radial nerve — superficial branch",
+      "Median nerve and its recurrent (thenar) branch",
+      "Anterior interosseous nerve"
+    ],
+    "correct": 3,
+    "explanation": "The median nerve passes through the carpal tunnel deep to the flexor retinaculum. Just distal to the tunnel, it gives off the recurrent (thenar) branch, which curves back to supply the thenar muscles (abductor pollicis brevis, opponens pollicis, and superficial head of flexor pollicis brevis — 'LOAF' muscles together with the lateral two lumbricals). Carpal tunnel syndrome compresses the median nerve here. The ulnar nerve passes through Guyon's canal (medial to the carpal tunnel) and supplies the hypothenar muscles and most intrinsic hand muscles. The radial nerve does not enter the palm."
+  },
+  {
+    "id": "an2_s04",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "This cadaveric dissection shows the posterior compartment of the forearm. The structure arrowed in the image winds around the neck of the radius deep to the supinator muscle.\n\nWhat is this nerve and what does its injury cause?",
+    "images": ["Images/posterior_interosseous_nerve_forearm.png"],
+    "options": [
+      "Ulnar nerve — wrist drop",
+      "Radial nerve superficial branch — loss of dorsal hand sensation",
+      "Posterior interosseous nerve (deep branch of radial nerve) — finger drop without wrist drop",
+      "Anterior interosseous nerve — loss of pronation",
+      "Musculocutaneous nerve — loss of elbow flexion"
+    ],
+    "correct": 2,
+    "explanation": "The posterior interosseous nerve (PIN) is the deep branch of the radial nerve. After winding around the radial neck through the arcade of Frohse (proximal edge of supinator), it emerges in the posterior compartment to supply all extensors of the wrist and fingers except extensor carpi radialis longus (supplied by the radial nerve proper before bifurcation). PIN injury causes finger drop (inability to extend fingers at the MCP joints) without wrist drop, because ECRL is spared, allowing some wrist extension. Sensation is intact (pure motor nerve). Causes include radial head fractures, space-occupying lesions, and repetitive supination."
+  },
+  {
+    "id": "an2_s05",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "A cadaveric dissection shows the medial aspect of the elbow. The arrowed nerve passes posterior to the medial epicondyle within the cubital tunnel.\n\nA fracture of the medial epicondyle in a 12-year-old injures this nerve. What is the resulting deficit?",
+    "images": ["Images/ulnar_nerve_cubital_tunnel.png"],
+    "options": [
+      "Loss of thumb opposition and lateral digit sensation",
+      "Wrist drop and dorsal hand sensory loss",
+      "Weakness of all intrinsic hand muscles, clawing of ring and little fingers, and sensory loss over medial 1.5 digits",
+      "Loss of elbow flexion and lateral forearm sensation",
+      "Weakness of forearm pronation and index finger flexion"
+    ],
+    "correct": 2,
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle (cubital tunnel) and is vulnerable in medial epicondyle fractures (common in children — the medial epicondyle is a secondary ossification centre that fuses at ~15 years). Injury causes: weakness/paralysis of intrinsic hand muscles (hypothenar muscles, all interossei, medial two lumbricals, adductor pollicis); ulnar claw hand (ring and little fingers — hyperextension at MCPs, flexion at IPJs — more pronounced in low lesions as FDP to these digits is also spared); sensory loss over medial 1.5 digits and hypothenar eminence. Froment's sign (flexion of the IP joint of the thumb when gripping paper) indicates adductor pollicis weakness."
+  },
+  {
+    "id": "an2_s06",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "This cadaveric dissection of the shoulder shows the quadrilateral space. The arrowed structure exits the quadrilateral space and supplies the muscle forming the rounded contour of the shoulder.\n\nWhich nerve and muscle are shown?",
+    "images": ["Images/axillary_nerve_quadrilateral_space.png"],
+    "options": [
+      "Suprascapular nerve — supraspinatus",
+      "Axillary nerve — deltoid",
+      "Radial nerve — triceps",
+      "Musculocutaneous nerve — coracobrachialis",
+      "Long thoracic nerve — serratus anterior"
+    ],
+    "correct": 1,
+    "explanation": "The quadrilateral space is bounded by: teres major (inferior), teres minor (superior), long head of triceps (medial), and surgical neck of humerus (lateral). The axillary nerve and posterior circumflex humeral artery pass through it. The axillary nerve supplies deltoid (all three heads — anterior, middle, posterior) and teres minor. Deltoid forms the rounded contour of the shoulder and is the primary abductor of the arm from 15° to 90°. The 'regimental badge' area of skin over the lateral deltoid is supplied by the superior lateral cutaneous nerve of the arm — a branch of the axillary nerve. This patch of sensory loss is tested clinically after shoulder dislocation."
+  },
+  {
+    "id": "an2_s07",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the femoral triangle. The arrowed structure enters the femoral triangle lateral to the femoral artery, passes under the inguinal ligament lateral to the femoral sheath, and descends to supply quadriceps femoris.\n\nWhich structure is arrowed?",
+    "images": ["Images/femoral_nerve_triangle.png"],
+    "options": [
+      "Femoral artery",
+      "Lateral cutaneous nerve of the thigh",
+      "Femoral nerve",
+      "Obturator nerve",
+      "Genitofemoral nerve"
+    ],
+    "correct": 2,
+    "explanation": "The femoral triangle contains (lateral to medial): Nerve, Artery, Vein, Empty space, Lymphatics (mnemonic NAVEL). The femoral nerve (L2, L3, L4) is the largest nerve, lying lateral to the femoral artery and outside the femoral sheath. It descends through the triangle to supply iliopsoas, pectineus, sartorius, and quadriceps femoris, and gives the saphenous nerve (medial leg and foot sensation). The femoral vein is medial to the artery; the femoral canal (with lymphatics) is medial to the vein. The obturator nerve enters the thigh through the obturator foramen, not the femoral triangle."
+  },
+  {
+    "id": "an2_s08",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the popliteal fossa. The arrowed structure lies deepest in the fossa, immediately posterior to the knee joint capsule. It is at risk in posterior knee dislocation.\n\nWhich structure is arrowed?",
+    "images": ["Images/popliteal_artery_fossa.png"],
+    "options": [
+      "Tibial nerve",
+      "Common fibular nerve",
+      "Popliteal vein",
+      "Popliteal artery",
+      "Small saphenous vein"
+    ],
+    "correct": 3,
+    "explanation": "The popliteal artery is the deepest structure in the popliteal fossa, running immediately posterior to the knee joint capsule. It is the continuation of the femoral artery as it passes through the adductor hiatus in adductor magnus. Its intimate relationship with the capsule puts it at risk in posterior knee dislocation and supracondylar femoral fractures. From superficial to deep: tibial nerve (most superficial, lateral) → popliteal vein → popliteal artery (deepest). It divides into the anterior and posterior tibial arteries at the lower border of popliteus. Foot pulses (dorsalis pedis, posterior tibial) must be assessed after knee injuries."
+  },
+  {
+    "id": "an2_s09",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric image shows the lateral aspect of the knee. The arrowed structure winds around the fibular neck before dividing into superficial and deep branches.\n\nA plaster cast applied too tightly injures this nerve. What clinical deficit results?",
+    "images": ["Images/common_fibular_nerve_fibular_neck.png"],
+    "options": [
+      "Loss of plantarflexion and sole sensation — tibial nerve",
+      "Foot drop, weakness of eversion, and loss of sensation over the dorsum of the foot",
+      "Loss of knee extension and medial leg sensation — femoral nerve",
+      "Loss of hip abduction — superior gluteal nerve",
+      "Loss of thigh adduction and medial thigh sensation — obturator nerve"
+    ],
+    "correct": 1,
+    "explanation": "The common fibular (peroneal) nerve winds superficially around the neck of the fibula and is the most commonly injured nerve in the lower limb. A tight plaster cast, prolonged pressure, or fibular neck fracture causes foot drop. Branches: (1) Superficial fibular nerve — supplies fibularis longus and brevis (eversion) and provides sensation to the dorsum of the foot and lateral lower leg; (2) Deep fibular nerve — supplies the anterior compartment muscles (tibialis anterior, extensor hallucis longus, extensor digitorum longus — dorsiflexion) and the first web space. Injury causes foot drop (weakness of dorsiflexion and eversion) and sensory loss over the dorsum of the foot."
+  },
+  {
+    "id": "an2_s10",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the medial aspect of the ankle. The arrowed structure passes posterior to the medial malleolus, deep to the flexor retinaculum, and divides into medial and lateral plantar branches.\n\nCompression of this structure causes which syndrome?",
+    "images": ["Images/tibial_nerve_medial_ankle.png"],
+    "options": [
+      "Anterior tarsal tunnel syndrome — deep fibular nerve",
+      "Morton's neuroma — interdigital nerve compression",
+      "Tarsal tunnel syndrome — tibial nerve",
+      "Carpal tunnel syndrome — median nerve",
+      "Peroneal tunnel syndrome — superficial fibular nerve"
+    ],
+    "correct": 2,
+    "explanation": "The tibial nerve passes posterior to the medial malleolus beneath the flexor retinaculum (tarsal tunnel) alongside the posterior tibial artery and tendons (flexor hallucis longus, flexor digitorum longus, tibialis posterior). Compression here causes tarsal tunnel syndrome: medial ankle pain, plantar foot numbness/paraesthesia (medial and lateral plantar nerve distributions), and intrinsic foot muscle weakness. Tinel's sign is positive posterior to the medial malleolus. The deep fibular nerve may be compressed anterior to the ankle (anterior tarsal tunnel — causing first web space sensory loss and EDB weakness). Morton's neuroma is interdigital nerve compression between metatarsal heads."
+  },
+  {
+    "id": "an2_s11",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the gluteal region. The arrowed nerve emerges inferior to piriformis and passes to supply the posterior thigh, popliteal fossa, and leg.\n\nWhich nerve is arrowed, and which variant of its course causes piriformis syndrome?",
+    "images": ["Images/sciatic_nerve_gluteal_region.png"],
+    "options": [
+      "Inferior gluteal nerve — passes through, not below, piriformis in piriformis syndrome",
+      "Superior gluteal nerve — passes above piriformis in its normal course",
+      "Sciatic nerve — in piriformis syndrome, part of the nerve (common fibular division) pierces through piriformis",
+      "Pudendal nerve — exits below piriformis to pass around the ischial spine",
+      "Posterior cutaneous nerve of the thigh only"
+    ],
+    "correct": 2,
+    "explanation": "The sciatic nerve (L4, L5, S1, S2, S3) normally exits the pelvis through the greater sciatic foramen inferior to piriformis. In piriformis syndrome, the common fibular (peroneal) division may pass through or even superior to piriformis (a common anatomical variant in ~17% of individuals), making it susceptible to compression by piriformis spasm. This causes buttock pain and sciatica-like symptoms. The sciatic nerve is the largest nerve in the body and divides into the tibial and common fibular nerves at the apex of the popliteal fossa. The pudendal nerve also exits below piriformis but re-enters the pelvis via the lesser sciatic notch."
+  },
+  {
+    "id": "an2_s12",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the femoral canal. The arrowed space lies medial to the femoral vein within the femoral sheath.\n\nA femoral hernia passes through which opening?",
+    "images": ["Images/femoral_canal_triangle.png"],
+    "options": [
+      "Deep inguinal ring — a defect in transversalis fascia lateral to inferior epigastric vessels",
+      "Superficial inguinal ring — a defect in the external oblique aponeurosis",
+      "Femoral ring → femoral canal → saphenous opening (fossa ovalis)",
+      "Obturator foramen",
+      "Hesselbach's triangle — medial to inferior epigastric vessels"
+    ],
+    "correct": 2,
+    "explanation": "Femoral hernias protrude through the femoral ring (the superior opening of the femoral canal) and descend through the femoral canal. The femoral canal is the medial compartment of the femoral sheath, containing lymphatics and fat — the Cloquet node lies at its apex. The femoral ring is bounded by: inguinal ligament (anteriorly), lacunar ligament (medially), femoral vein (laterally), and pectineal ligament of Cooper (posteriorly). The hernial sac exits through the saphenous opening (fossa ovalis) in the deep fascia. Femoral hernias are more common in women and have a high risk of strangulation due to the rigid unyielding ring."
+  },
+  {
+    "id": "an2_s13",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "This cadaveric dissection of the mediastinum shows the arrowed structure passing posterior to the left main bronchus. It descends through the posterior mediastinum to pierce the diaphragm at T10.\n\nWhat is the arrowed structure?",
+    "images": ["Images/oesophagus_posterior_mediastinum.png"],
+    "options": [
+      "Thoracic aorta",
+      "Thoracic duct",
+      "Oesophagus",
+      "Azygos vein",
+      "Left vagus nerve"
+    ],
+    "correct": 2,
+    "explanation": "The oesophagus passes through the posterior mediastinum posterior to the left main bronchus and pericardium, anterior to the thoracic vertebral bodies, and posterior to the tracheal bifurcation and carina. It pierces the diaphragm at T10 (accompanied by the vagal trunks and oesophageal branches of the left gastric artery) to enter the abdomen. Key diaphragm openings: T8 — inferior vena cava; T10 — oesophagus + vagal trunks; T12 — aorta + thoracic duct + azygos vein. The thoracic duct ascends to the left of the oesophagus. Oesophageal cancers of the middle third are closely related to the left main bronchus, increasing surgical complexity."
+  },
+  {
+    "id": "an2_s14",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "This cadaveric dissection shows the right side of the mediastinum. The arrowed structure arises from the brachiocephalic trunk, runs posterior to the right sternoclavicular joint, and descends to supply the upper right extremity.\n\nWhich vessel is arrowed?",
+    "images": ["Images/right_subclavian_artery_mediastinum.png"],
+    "options": [
+      "Right common carotid artery",
+      "Right internal thoracic artery",
+      "Right subclavian artery",
+      "Right vertebral artery",
+      "Right costocervical trunk"
+    ],
+    "correct": 2,
+    "explanation": "The right subclavian artery arises from the brachiocephalic (innominate) trunk (which also gives the right common carotid artery), passes posterior to the right sternoclavicular joint, and exits the thorax between the scalenus anterior (anteriorly) and scalenus medius (posteriorly) — the right phrenic nerve and subclavian vein pass anterior to scalenus anterior. The subclavian artery becomes the axillary artery at the lateral border of the first rib. The right recurrent laryngeal nerve loops under it. The left subclavian artery arises directly from the aortic arch. The internal thoracic artery arises from its inferior surface."
+  },
+  {
+    "id": "an2_s15",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "This cadaveric image shows the anterior mediastinum. The arrowed tubular structure runs vertically in front of the vertebral bodies and gives off intercostal branches at each level.\n\nWhich structure is arrowed?",
+    "images": ["Images/thoracic_aorta_posterior_mediastinum.png"],
+    "options": [
+      "Superior vena cava",
+      "Azygos vein",
+      "Thoracic aorta (descending aorta)",
+      "Oesophagus",
+      "Thoracic duct"
+    ],
+    "correct": 2,
+    "explanation": "The thoracic (descending) aorta runs in the posterior mediastinum anterior to the vertebral bodies, initially to the left of the midline, moving towards the midline inferiorly. It gives: 9 pairs of posterior intercostal arteries (3rd–11th — the first two arise from the superior intercostal artery off the costocervical trunk), subcostal arteries, oesophageal branches, pericardial branches, and superior phrenic arteries. It passes through the aortic hiatus at T12 (alongside the thoracic duct and azygos vein) to become the abdominal aorta. The azygos vein runs to the right of the aorta. Aortic coarctation typically occurs distal to the left subclavian artery origin."
+  },
+  {
+    "id": "an2_s16",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "This cadaveric dissection shows the pericardium opened. The arrowed structure passes anterior to the root of the lung on the left side, descending to pierce the diaphragm.\n\nWhich nerve is arrowed and what is its function?",
+    "images": ["Images/left_phrenic_nerve_pericardium.png"],
+    "options": [
+      "Left vagus nerve — parasympathetic supply to the heart",
+      "Left phrenic nerve — motor supply to the left hemidiaphragm and sensory supply to the pericardium, left pleura, and peritoneum",
+      "Left recurrent laryngeal nerve — laryngeal motor supply",
+      "Left greater splanchnic nerve — sympathetic supply to abdominal viscera",
+      "Left cardiac sympathetic nerve — chronotropy and inotropy"
+    ],
+    "correct": 1,
+    "explanation": "The phrenic nerve (C3, C4, C5 — 'keeps the diaphragm alive') passes anterior to the root of the lung on each side (the vagus passes posterior to the lung root). It provides the sole motor supply to the ipsilateral hemidiaphragm and sensory supply to the central diaphragm, pericardium, and mediastinal pleura. Referred pain from the diaphragm travels via the phrenic nerve to the C3/4/5 dermatomal level — the shoulder tip (via the supraclavicular nerve). This explains shoulder tip pain in subphrenic irritation (ruptured ectopic, hepatic pathology, splenic haematoma). The left phrenic nerve is longer due to the more leftward position of the heart."
+  },
+  {
+    "id": "an2_s17",
+    "type": "sba",
+    "topic": "Thorax",
+    "stem": "This cadaveric dissection shows the superior mediastinum. The arrowed vessel runs from left to right, draining into the SVC and receiving the right superior intercostal vein.\n\nWhich vessel is arrowed?",
+    "images": ["Images/azygos_vein_svc_junction.png"],
+    "options": [
+      "Left brachiocephalic vein",
+      "Right brachiocephalic vein",
+      "Azygos vein arch",
+      "Accessory hemiazygos vein",
+      "Internal thoracic vein"
+    ],
+    "correct": 2,
+    "explanation": "The azygos vein ascends in the posterior mediastinum to the right of the aorta and thoracic duct. At T4/T5, it arches anteriorly over the root of the right lung to drain into the posterior aspect of the SVC — this arch is visible as a vascular shadow at the right tracheobronchial angle on CXR (the azygos knob). The azygos system is an important collateral pathway for venous drainage when the SVC or IVC is obstructed (e.g. SVC syndrome in malignancy). The hemiazygos and accessory hemiazygos veins drain the left side. The left brachiocephalic vein crosses the superior mediastinum."
+  },
+  {
+    "id": "an2_s18",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "This cadaveric dissection of the neck shows the carotid triangle. The arrowed vessel bifurcates at the level of the thyroid cartilage (C3/C4) into two named vessels.\n\nWhich vessel is arrowed, and what is the clinical significance of its bifurcation?",
+    "images": ["Images/common_carotid_bifurcation_neck.png"],
+    "options": [
+      "Right subclavian artery — bifurcates into the vertebral and internal thoracic arteries",
+      "External carotid artery — bifurcates into maxillary and superficial temporal arteries",
+      "Common carotid artery — bifurcates into internal and external carotid arteries at C3/C4; the carotid sinus and body are located here",
+      "Internal carotid artery — bifurcates into middle and anterior cerebral arteries",
+      "Facial artery — bifurcates at the mandibular border"
+    ],
+    "correct": 2,
+    "explanation": "The common carotid artery bifurcates at the upper border of the thyroid cartilage (C3/4 vertebral level) into the internal carotid artery (ICA — no branches in the neck, enters skull via carotid canal) and external carotid artery (ECA — multiple branches in the neck). The carotid sinus (a baroreceptor detecting blood pressure) and carotid body (a chemoreceptor detecting PaO₂, PaCO₂, and pH) are located at the bifurcation. Carotid sinus massage can terminate SVT by increasing vagal tone. Atherosclerosis at the bifurcation is the most common cause of cardioembolic and thromboembolic stroke."
+  },
+  {
+    "id": "an2_s19",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A cadaveric dissection of the neck shows the posterior triangle. The arrowed nerve runs from the posterior border of sternocleidomastoid, crosses the posterior triangle superficially, and disappears under trapezius.\n\nWhat happens if this nerve is injured during posterior triangle lymph node biopsy?",
+    "images": ["Images/accessory_nerve_posterior_triangle.png"],
+    "options": [
+      "Ipsilateral tongue deviation towards the lesion",
+      "Hoarseness of voice and dysphagia",
+      "Winging of the scapula from serratus anterior weakness",
+      "Weakness of shoulder shrug (trapezius) and shoulder abduction initiation (above 90°), with dropped shoulder",
+      "Loss of sensation over the lateral neck"
+    ],
+    "correct": 3,
+    "explanation": "The accessory nerve (CN XI) emerges from the posterior border of sternocleidomastoid approximately two-thirds of the way up, crosses the posterior triangle superficially (covered only by skin, superficial fascia, and deep fascia — making it highly vulnerable), and enters trapezius. It is the most commonly injured nerve in posterior triangle dissections and lymph node biopsies. Injury causes: weakness of trapezius → dropped shoulder, impaired shoulder elevation above 90° (trapezius stabilises the scapula for deltoid to complete abduction beyond 90°), and 'lateral' winging of the scapula. CN XII (hypoglossal) causes tongue deviation. Long thoracic nerve injury causes medial scapular winging."
+  },
+  {
+    "id": "an2_s20",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "This cadaveric dissection shows the posterior triangle and deep cervical fascia. The arrowed nerve descends along the anterior border of scalenus anterior within the fascia, crosses the first part of the subclavian artery, and enters the thorax.\n\nWhich nerve is arrowed?",
+    "images": ["Images/phrenic_nerve_scalenus_anterior.png"],
+    "options": [
+      "Long thoracic nerve of Bell",
+      "Phrenic nerve",
+      "Vagus nerve",
+      "Ansa cervicalis",
+      "Brachial plexus — upper trunk"
+    ],
+    "correct": 1,
+    "explanation": "The phrenic nerve (C3, C4, C5) forms at the lateral border of scalenus anterior and descends on its anterior surface within the prevertebral fascia into the superior mediastinum. It crosses the subclavian artery (right) or between the subclavian artery and vein (left). In the neck, it is vulnerable during central venous catheter insertion, lymph node dissection, and surgery near the scalene muscles. A raised hemidiaphragm on CXR may indicate phrenic nerve palsy. The long thoracic nerve (C5, C6, C7) descends on the lateral surface of serratus anterior, not the scalene muscle."
+  },
+  {
+    "id": "an2_s21",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "This cadaveric dissection shows the floor of the mouth and submandibular region. The arrowed nerve hooks anteriorly under the submandibular duct (Wharton's duct) within the floor of the mouth.\n\nDamage to this nerve during submandibular gland excision causes which deficit?",
+    "images": ["Images/lingual_nerve_submandibular_region.png"],
+    "options": [
+      "Loss of taste to the posterior one third of the tongue and pharyngeal sensation",
+      "Loss of general sensation (touch, pain, temperature) and taste to the anterior two thirds of the tongue",
+      "Weakness of tongue muscles and deviation of the tongue",
+      "Loss of submandibular and sublingual salivation only",
+      "Loss of facial sensation in the mandibular distribution"
+    ],
+    "correct": 1,
+    "explanation": "The lingual nerve (a branch of V3, the mandibular division of the trigeminal nerve) carries general somatic sensation (touch, pain, temperature) from the anterior two-thirds of the tongue. It is joined by the chorda tympani (a branch of CN VII, carrying taste from the anterior two-thirds and preganglionic parasympathetic fibres to submandibular and sublingual glands). The lingual nerve hooks anteriorly under Wharton's duct (remembered as 'the nerve hooks under the duct'). Injury during third molar extraction or submandibular gland surgery causes loss of tongue sensation and taste (anterior 2/3) on the affected side. The hypoglossal nerve (XII) supplies tongue muscles."
+  },
+  {
+    "id": "an2_s22",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "A cadaveric dissection shows the parotid gland removed. The arrowed nerve divides within the parotid into five named branches (from superior to inferior).\n\nName these five branches in order.",
+    "images": ["Images/facial_nerve_branches_parotid.png"],
+    "options": [
+      "Temporal, zygomatic, buccal, marginal mandibular, cervical",
+      "Ophthalmic, maxillary, mandibular, cervical, temporal",
+      "Temporal, buccal, zygomatic, marginal mandibular, cervical",
+      "Superior, inferior, anterior, posterior, deep",
+      "Frontal, orbital, buccal, mandibular, neck"
+    ],
+    "correct": 0,
+    "explanation": "The facial nerve (CN VII) divides within the parotid gland into five branches (mnemonic 'To Zanzibar By Motor Car' or 'Two Zulus Bit My Cat'): Temporal (forehead, frontalis), Zygomatic (orbicularis oculi, eye closure), Buccal (cheek muscles, buccinator, orbicularis oris), Marginal Mandibular (depressors of lower lip and chin), Cervical (platysma). These supply all muscles of facial expression. Bell's palsy (lower motor neurone) causes complete ipsilateral facial palsy including forehead (differentiating from UMN lesions where the forehead is spared due to bilateral cortical representation). The marginal mandibular branch is most commonly injured in parotid surgery."
+  },
+  {
+    "id": "an2_s23",
+    "type": "sba",
+    "topic": "Head & Neck",
+    "stem": "This cadaveric dissection of the thyroid gland shows the arrowed vessel looping around a small nerve in the tracheo-oesophageal groove during thyroid ligation.\n\nThe intimate relationship between the inferior thyroid artery and which nerve makes this step critical?",
+    "images": ["Images/inferior_thyroid_artery_rln.png"],
+    "options": [
+      "Superior laryngeal nerve — external branch",
+      "Recurrent laryngeal nerve",
+      "Hypoglossal nerve",
+      "Glossopharyngeal nerve",
+      "Ansa cervicalis"
+    ],
+    "correct": 1,
+    "explanation": "The recurrent laryngeal nerve (RLN) has a variable relationship with the inferior thyroid artery: it may pass anterior to, posterior to, or between branches of the artery. This variability makes the step of ligating the inferior thyroid artery critical during thyroidectomy. The RLN must be identified before the artery is ligated to avoid injury. Unilateral RLN damage causes hoarseness; bilateral injury causes adduction of both cords resulting in life-threatening stridor requiring emergency tracheostomy. The external branch of the superior laryngeal nerve supplies cricothyroid (pitch) and runs close to the superior thyroid artery — injury causes subtle voice changes."
+  },
+  {
+    "id": "an2_s24",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "This MRI brain (T2 weighted, axial section at the level of the internal capsule) shows the arrowed region as a compact white matter pathway between the caudate nucleus medially and the lentiform nucleus laterally.\n\nA lacunar infarct in this region causes which clinical syndrome?",
+    "images": ["Images/internal_capsule_mri_axial.png"],
+    "options": [
+      "Pure cortical sensory loss without motor deficit",
+      "Homonymous hemianopia without motor or sensory deficit",
+      "Pure motor hemiplegia contralateral to the lesion",
+      "Isolated aphasia without motor deficit",
+      "Ipsilateral cerebellar ataxia"
+    ],
+    "correct": 2,
+    "explanation": "The internal capsule contains compact white matter tracts connecting the cortex to subcortical structures. The posterior limb carries the corticospinal (motor) and corticobulbar tracts, and thalamocortical sensory fibres. The genu carries corticobulbar fibres. A small lacunar infarct in the posterior limb of the internal capsule (typically from perforating lenticulostriate artery occlusion in hypertension) causes pure motor hemiplegia affecting face, arm, and leg contralaterally, without cortical signs (no aphasia, no neglect, no visual field defect, no cortical sensory loss). This is one of the four classic lacunar syndromes (pure motor, pure sensory, sensorimotor, ataxic hemiparesis)."
+  },
+  {
+    "id": "an2_s25",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "This cadaveric dissection shows the base of the skull. The arrowed foramen is located in the posterior cranial fossa and transmits three cranial nerves and the internal jugular vein.\n\nWhich foramen is arrowed and what passes through it?",
+    "images": ["Images/jugular_foramen_skull_base.png"],
+    "options": [
+      "Foramen magnum — medulla, vertebral arteries, CN XI spinal roots",
+      "Jugular foramen — CN IX (glossopharyngeal), CN X (vagus), CN XI (accessory), internal jugular vein",
+      "Foramen ovale — CN V3 (mandibular nerve), lesser petrosal nerve",
+      "Internal auditory meatus — CN VII (facial), CN VIII (vestibulocochlear)",
+      "Foramen spinosum — middle meningeal artery, meningeal branch of V3"
+    ],
+    "correct": 1,
+    "explanation": "The jugular foramen transmits: CN IX (glossopharyngeal), CN X (vagus), CN XI (accessory spinal root), and the internal jugular vein. Jugular foramen syndrome (e.g. from glomus jugulare tumour) causes Vernet's syndrome — ipsilateral palatal weakness (CN X), sternocleidomastoid/trapezius weakness (CN XI), and loss of pharyngeal sensation and taste from posterior one-third of tongue (CN IX). The foramen magnum transmits CN XI (spinal root ascending to join the jugular foramen exit), vertebral arteries, and the medulla. The internal auditory meatus transmits CN VII and VIII."
+  },
+  {
+    "id": "an2_s26",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "This cadaveric dissection shows the circle of Willis from below. The arrowed vessel is an unpaired midline vessel arising from the basilar artery and supplying the occipital lobes bilaterally.\n\nOcclusion of this vessel causes which visual field defect?",
+    "images": ["Images/basilar_artery_circle_of_willis.png"],
+    "options": [
+      "Unilateral monocular blindness — central retinal artery",
+      "Bitemporal hemianopia — optic chiasm compression",
+      "Contralateral homonymous hemianopia with macular sparing — posterior cerebral artery territory infarct",
+      "Unilateral superior quadrantanopia — temporal lobe (Meyer's loop)",
+      "Bilateral total blindness — 'cortical blindness'"
+    ],
+    "correct": 4,
+    "explanation": "Wait — the question asks about the basilar artery (unpaired, arising from the confluence of the vertebral arteries). The basilar artery gives off the posterior cerebral arteries (PCAs) bilaterally; it does not itself supply the cortex directly. However, if the question is interpreted as a basilar tip occlusion causing bilateral PCA territory infarction, the result is bilateral occipital cortex infarction — cortical blindness (bilateral homonymous hemianopia; patient may have Anton's syndrome, denying their blindness). Unilateral PCA occlusion causes contralateral homonymous hemianopia with macular sparing (macular cortex has dual MCA/PCA supply). Basilar artery occlusion is a catastrophic event causing 'locked-in syndrome' if the pons is involved."
+  },
+  {
+    "id": "an2_s27",
+    "type": "sba",
+    "topic": "Neuroanatomy",
+    "stem": "This cadaveric dissection shows the brainstem from the ventral surface. The arrowed nerve emerges from the pontomedullary junction, runs forward with CN VIII to enter the internal auditory meatus, and exits the skull through the stylomastoid foramen.\n\nWhich nerve is arrowed?",
+    "images": ["Images/facial_nerve_brainstem_origin.png"],
+    "options": [
+      "Abducens nerve (CN VI)",
+      "Facial nerve (CN VII)",
+      "Vestibulocochlear nerve (CN VIII)",
+      "Glossopharyngeal nerve (CN IX)",
+      "Hypoglossal nerve (CN XII)"
+    ],
+    "correct": 1,
+    "explanation": "The facial nerve (CN VII) has a complex intracranial course: it arises at the pontomedullary junction, travels with CN VIII through the internal auditory meatus (in the petrous temporal bone), passes through the facial canal, gives off the chorda tympani (taste, parasympathetic to submandibular/sublingual glands), the nerve to stapedius, and the greater petrosal nerve (parasympathetic to lacrimal gland), and exits the skull at the stylomastoid foramen to enter the parotid gland. Lesions within the internal auditory meatus (acoustic neuroma) affect both CN VII and VIII, causing facial palsy plus hearing loss and vertigo. Geniculate ganglion lesions (Ramsay Hunt syndrome — herpes zoster) cause painful facial palsy with vesicles in the ear."
+  },
+  {
+    "id": "an2_s28",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "This cadaveric dissection shows the posterior abdominal wall. The arrowed structure begins at the renal pelvis and descends over psoas major, crossing the pelvic brim at the bifurcation of the common iliac vessels.\n\nWhich structure is arrowed and what is the clinical relevance of its relationship to the common iliac vessels?",
+    "images": ["Images/ureter_posterior_abdominal_wall.png"],
+    "options": [
+      "Gonadal (testicular/ovarian) artery — crosses anterior to the ureter",
+      "Ureter — crosses the pelvic brim anterior to the bifurcation of the common iliac artery; at risk in iliac vessel surgery and during ureteric stone passage",
+      "Sympathetic chain — courses medial to psoas major",
+      "Ilioinguinal nerve — at risk in appendicectomy",
+      "Lateral cutaneous nerve of the thigh — at risk in hip surgery"
+    ],
+    "correct": 1,
+    "explanation": "The ureter descends retroperitoneally over psoas major, crosses the genitofemoral nerve, and passes anterior to the bifurcation of the common iliac artery at the pelvic brim — here it is at risk during iliac vessel surgery and during laparoscopic surgery. In the pelvis, the ureter passes under the uterine artery (or vas deferens in males) — 'water under the bridge' — before entering the bladder. Ureteric colic causes severe loin-to-groin pain as the stone passes. The three sites of physiological narrowing where stones may lodge: pelviureteric junction, pelvic brim, and vesicoureteric junction."
+  },
+  {
+    "id": "an2_s29",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "This cadaveric dissection shows the mesentery and small bowel reflected superiorly. The arrowed vessel is the main arterial supply to the midgut, arising from the aorta at L1 between the two layers of the mesentery.\n\nWhich vessel is arrowed, and at which aortic level does it arise?",
+    "images": ["Images/superior_mesenteric_artery_mesentery.png"],
+    "options": [
+      "Inferior mesenteric artery — L3",
+      "Superior mesenteric artery — L1",
+      "Coeliac trunk — T12",
+      "Renal artery — L1/L2",
+      "Middle colic artery — directly from aorta"
+    ],
+    "correct": 1,
+    "explanation": "The superior mesenteric artery (SMA) arises from the anterior aorta at L1, just below the coeliac trunk (T12/L1). It passes anterior to the third part of the duodenum (D3), which can be compressed in SMA syndrome. The SMA supplies midgut derivatives: distal duodenum (D3/D4), jejunum, ileum, caecum, appendix, ascending colon, and proximal two-thirds of transverse colon. Its branches run between the two peritoneal layers of the mesentery. Occlusion causes mesenteric ischaemia — sudden severe abdominal pain 'out of proportion to examination'. The coeliac trunk supplies foregut; the IMA supplies hindgut."
+  },
+  {
+    "id": "an2_s30",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "This cadaveric dissection shows the liver from below. The arrowed structure enters the liver at the porta hepatis and carries oxygenated blood from the gut to the liver.\n\nWhich structure is arrowed and what percentage of hepatic blood supply does it provide?",
+    "images": ["Images/portal_vein_porta_hepatis.png"],
+    "options": [
+      "Hepatic artery — provides 75% of hepatic blood flow",
+      "Portal vein — provides approximately 75% of hepatic blood flow but only 50% of hepatic oxygen delivery",
+      "Hepatic vein — drains into the IVC",
+      "Common bile duct — drains bile from the liver",
+      "Cystic artery — supplies the gallbladder"
+    ],
+    "correct": 1,
+    "explanation": "The portal vein is formed by the union of the superior mesenteric vein and the splenic vein (behind the neck of the pancreas at L2). It carries nutrient-rich, deoxygenated blood from the gut and spleen to the liver, providing ~75% of hepatic blood flow but only ~50% of hepatic oxygen delivery (due to lower oxygen saturation than arterial blood). The hepatic artery proper (from the coeliac trunk) provides ~25% of flow but ~50% of oxygen. The portal triad (portal vein branch, hepatic artery branch, bile duct) runs in the portal canals. Portal hypertension causes varices at portosystemic anastomoses: oesophageal, rectal (haemorrhoids), and paraumbilical (caput medusae)."
+  },
+  {
+    "id": "an2_s31",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "This cadaveric dissection of the pelvis shows the arrowed structure running over the sacral ala, crossing the ureter, and descending to supply the uterus and vagina. It is at risk during hysterectomy.\n\nWhich vessel is arrowed?",
+    "images": ["Images/uterine_artery_pelvis.png"],
+    "options": [
+      "Ovarian artery — arising directly from the aorta at L2",
+      "Internal pudendal artery",
+      "Uterine artery — a branch of the internal iliac artery",
+      "Inferior vesical artery",
+      "Obturator artery"
+    ],
+    "correct": 2,
+    "explanation": "The uterine artery is a branch of the internal iliac artery (anterior division). It crosses the ureter ('water under the bridge') at the level of the uterine cervix. During hysterectomy, the uterine artery must be ligated close to the uterus to avoid ureteric injury. The ovarian artery arises directly from the aorta at L2 and supplies the ovary and fallopian tube via the infundibulopelvic (suspensory) ligament. During oophorectomy, the infundibulopelvic ligament must be ligated to control the ovarian artery. The uterus has a rich anastomotic blood supply from both uterine and ovarian arteries, running along the broad ligament."
+  },
+  {
+    "id": "an2_s32",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A cadaveric dissection shows the inguinal region. The arrowed structure exits the superficial inguinal ring in the female and passes to the labia majora, carrying sensory fibres.\n\nWhich structure is arrowed?",
+    "images": ["Images/round_ligament_inguinal_canal.png"],
+    "options": [
+      "Spermatic cord",
+      "Ilioinguinal nerve",
+      "Round ligament of the uterus",
+      "Iliohypogastric nerve",
+      "Inferior epigastric vessels"
+    ],
+    "correct": 2,
+    "explanation": "The round ligament of the uterus is the female equivalent of the gubernaculum (analogous to the male gubernaculum, which guides testicular descent). It passes through the inguinal canal and attaches to the labia majora, maintaining uterine anteversion. It becomes hypertrophied and tender during pregnancy. An indirect inguinal hernia in a female may involve the round ligament. The ilioinguinal nerve (L1) also exits through the superficial inguinal ring, supplying the medial thigh, labia majora, and mons pubis in females. The iliohypogastric nerve runs superior to the superficial ring."
+  },
+  {
+    "id": "an2_s33",
+    "type": "sba",
+    "topic": "Abdomen & Pelvis",
+    "stem": "This cadaveric dissection shows the posterior abdominal wall. Two structures are visible crossing the inferior pole of the kidney, running parallel to each other before diverging — one anteriorly to supply the gonad, and one posteriorly over the psoas.\n\nWhich two structures are shown?",
+    "images": ["Images/gonadal_vessels_ureter_posterior_wall.png"],
+    "options": [
+      "Renal artery and renal vein",
+      "Gonadal (testicular/ovarian) vessels and ureter crossing at the inferior renal pole",
+      "Ilioinguinal nerve and iliohypogastric nerve",
+      "Inferior mesenteric artery and sigmoid mesocolon",
+      "Lumbar arteries and the sympathetic chain"
+    ],
+    "correct": 1,
+    "explanation": "The gonadal vessels (testicular or ovarian artery and vein) and the ureter run in close proximity at the inferior pole of the kidney. The gonadal arteries arise from the aorta at L2; the right gonadal vein drains to the IVC, while the left gonadal vein drains to the left renal vein (this asymmetry explains why left-sided varicocele is more common — the acute angle of entry into the left renal vein increases venous pressure). The ureter descends posterior to the gonadal vessels over psoas major. Surgically, they must be differentiated — the ureter peristalses when stimulated, the gonadal vessels do not."
+  },
+  {
+    "id": "an2_s34",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A 3-day-old neonate presents with cyanosis, tachypnoea, and a scaphoid abdomen. CXR shows bowel loops in the left hemithorax displacing the heart to the right.\n\nWhat is the embryological basis of this condition?",
+    "images": [],
+    "options": [
+      "Failure of neural crest cell migration into the myenteric plexus",
+      "Failure of closure of the pleuroperitoneal foramen (of Bochdalek) during embryonic folding",
+      "Incomplete rotation of the midgut leading to malrotation",
+      "Persistence of the vitello-intestinal duct",
+      "Failure of the urorectal septum to divide the cloaca"
+    ],
+    "correct": 1,
+    "explanation": "Congenital diaphragmatic hernia (CDH) most commonly (85%) occurs through the posterolateral pleuroperitoneal foramen of Bochdalek (left > right, 4:1). The pleuroperitoneal membranes normally fuse with the septum transversum and dorsal mesentery to complete the diaphragm by week 8. Failure of closure allows herniation of abdominal contents (stomach, small bowel, colon, spleen) into the thorax, causing ipsilateral pulmonary hypoplasia. CXR findings are pathognomonic. Scaphoid abdomen reflects loss of abdominal content. Management is surgical repair after haemodynamic stabilisation, often requiring ECMO."
+  },
+  {
+    "id": "an2_s35",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A 32-year-old pregnant woman's anomaly scan at 20 weeks shows polyhydramnios and a 'double bubble' sign in the fetal abdomen. Amniocentesis shows trisomy 21.\n\nWhich embryological structure fails to recanalise, and at which week of development does recanalisation normally occur?",
+    "images": [],
+    "options": [
+      "Jejunum — week 6",
+      "Duodenum — weeks 8–10, during the solid stage of gut development",
+      "Oesophagus — week 4, during lateral folding",
+      "Pylorus — week 12, after gut return to abdomen",
+      "Rectum — week 7, from cloacal membrane breakdown"
+    ],
+    "correct": 1,
+    "explanation": "Duodenal atresia is caused by failure of recanalisation of the duodenum, which passes through a solid stage (due to proliferating endodermal cells) during weeks 8–10. Vacuolisation and coalescence of vacuoles should restore the lumen; failure causes atresia. The 'double bubble' sign represents a distended stomach and first part of duodenum. Associated with Down syndrome (trisomy 21) in ~30% of cases, also with annular pancreas. Treatment is surgical duodenoduodenostomy. Polyhydramnios develops because the fetus cannot swallow and absorb amniotic fluid via the obstructed gut."
+  },
+  {
+    "id": "an2_s36",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A male newborn has hypospadias — the urethral meatus opens on the ventral surface of the penile shaft. The foreskin is also incomplete ventrally (hooded prepuce). What is the embryological basis?",
+    "images": [],
+    "options": [
+      "Failure of the urorectal septum to divide the cloaca completely",
+      "Incomplete fusion of the urethral folds (urogenital folds) over the urethral plate on the ventral penile surface",
+      "Failure of testicular descent through the inguinal canal",
+      "Incomplete closure of the infraumbilical abdominal wall",
+      "Failure of the genital tubercle to elongate under DHT stimulation"
+    ],
+    "correct": 1,
+    "explanation": "In male development, dihydrotestosterone (DHT, converted from testosterone by 5α-reductase) drives virilisation of the external genitalia. The urogenital sinus → urethra/bladder; the urethral (genital) folds fuse ventrally over the urethral plate to form the penile urethra. Failure of complete fusion of the urethral folds causes hypospadias — the urethral meatus opens proximal to the tip on the ventral surface (glans, shaft, perineal). The prepuce fails to form completely ventrally (hooded foreskin). Epispadias (dorsal opening) is associated with bladder exstrophy — a failure of the infra-umbilical anterior abdominal wall to close."
+  },
+  {
+    "id": "an2_s37",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "At 6 weeks of gestation, both sexes possess Müllerian (paramesonephric) and Wolffian (mesonephric) ducts. In a 46,XX fetus, the Müllerian ducts develop into the female reproductive tract.\n\nWhich structure is derived from the FUSION of the paired Müllerian ducts?",
+    "images": [],
+    "options": [
+      "Fallopian tubes",
+      "Ovaries",
+      "Uterus and upper vagina",
+      "Labia majora",
+      "Clitoris"
+    ],
+    "correct": 2,
+    "explanation": "In the absence of anti-Müllerian hormone (AMH, produced by Sertoli cells in males), the Müllerian ducts persist in females: the unfused cranial portions form the fallopian tubes; the fused caudal portions form the uterus, cervix, and upper vagina. The lower vagina is derived from the urogenital sinus. The ovaries develop from the gonadal ridges (coelomic epithelium, mesenchyme, primordial germ cells). The labia majora (= scrotum) and clitoris (= penis) develop from the labioscrotal swellings and genital tubercle respectively. In males, AMH causes Müllerian regression; testosterone (→ DHT) drives Wolffian duct and external genitalia virilisation."
+  },
+  {
+    "id": "an2_s38",
+    "type": "sba",
+    "topic": "Embryology",
+    "stem": "A 2-year-old boy presents with a painless midgut volvulus and bowel obstruction. Imaging shows the caecum in the left upper quadrant and a duodenum that does not cross the midline. What is the underlying embryological abnormality?",
+    "images": [],
+    "options": [
+      "Failure of the vitello-intestinal duct to involute",
+      "Hirschsprung's disease — absent ganglion cells",
+      "Malrotation of the midgut — failure of the normal 270° anticlockwise rotation of the midgut around the SMA axis",
+      "Duodenal atresia from failed recanalisation",
+      "Exomphalos from failure of gut to return to the abdomen"
+    ],
+    "correct": 2,
+    "explanation": "During weeks 6–10, the midgut herniates into the umbilical cord and undergoes a 270° anticlockwise rotation around the superior mesenteric artery (SMA). The caecum should end in the right iliac fossa. Non-rotation or incomplete rotation (malrotation) means the duodenum fails to cross the midline, the caecum stays in the left upper quadrant, and Ladd's bands form between the caecum and posterior abdominal wall, obstructing the duodenum. Malrotation predisposes to midgut volvulus (clockwise twisting around the narrow SMA pedicle), causing ischaemia — a surgical emergency. Ladd's procedure divides the bands, untwists the volvulus, and positions the bowel in a 'non-rotated' arrangement."
+  },
+  {
+    "id": "an2_s39",
+    "type": "sba",
+    "topic": "Upper Limb",
+    "stem": "This cadaveric dissection shows the dorsum of the hand. The arrowed tendons insert into the dorsal aspect of the proximal, middle, and distal phalanges via the dorsal digital expansion (extensor hood).\n\nA patient with rheumatoid arthritis develops rupture of the central slip of the extensor hood at the PIP joint. What deformity results?",
+    "images": ["Images/extensor_hood_dorsal_hand.png"],
+    "options": [
+      "Mallet finger — flexion deformity of the DIP joint",
+      "Swan-neck deformity — PIP hyperextension and DIP flexion",
+      "Boutonnière deformity — PIP flexion and DIP hyperextension",
+      "Trigger finger — flexion contracture of all joints",
+      "Dupuytren's contracture — palmar fibrous contracture"
+    ],
+    "correct": 2,
+    "explanation": "The extensor mechanism (dorsal digital expansion) has three insertions: into the base of the proximal phalanx, the middle phalanx via the central slip, and the distal phalanx via the lateral bands. Rupture of the central slip (e.g. from RA synovitis, trauma) allows the lateral bands to sublux ventrally, converting them into flexors of the PIP joint. The DIP joint is pulled into hyperextension by the intact lateral bands. This causes Boutonnière deformity: PIP joint flexion + DIP joint hyperextension. Mallet finger is disruption of the terminal tendon at the DIP joint. Swan-neck is the opposite deformity (PIP hyperextension + DIP flexion), seen in RA from volar plate laxity."
+  },
+  {
+    "id": "an2_s40",
+    "type": "sba",
+    "topic": "Lower Limb",
+    "stem": "This cadaveric dissection shows the hip joint with the capsule incised. The arrowed ligament runs from the acetabular margin to the intertrochanteric line and is the strongest ligament in the body.\n\nWhich ligament is arrowed, and what movement does it resist?",
+    "images": ["Images/iliofemoral_ligament_hip.png"],
+    "options": [
+      "Ischiofemoral ligament — resists internal rotation",
+      "Pubofemoral ligament — resists abduction and extension",
+      "Ligamentum teres — carries the artery to the femoral head",
+      "Iliofemoral ligament (Y-ligament of Bigelow) — resists hyperextension of the hip",
+      "Acetabular labrum — deepens the acetabulum"
+    ],
+    "correct": 3,
+    "explanation": "The iliofemoral ligament (Y-ligament of Bigelow) is the strongest ligament in the body. It runs from the anterior inferior iliac spine (AIIS) to the intertrochanteric line of the femur in an inverted Y shape. It strongly resists hyperextension of the hip (preventing falling backwards while standing). This is why the hip 'locks' in extension during relaxed standing — the iliofemoral ligament tightens, reducing muscle energy expenditure. The pubofemoral ligament resists abduction and lateral rotation. The ischiofemoral ligament resists internal rotation. The ligamentum teres carries the small artery to the femoral head (minimal contribution to femoral head supply in adults)."
+  },
+  {
+    "id": "an2_v01",
+    "type": "vsaq",
+    "topic": "Upper Limb",
+    "stem": "A cadaveric prosection of the brachial plexus is shown. A 25-year-old motorcyclist is involved in a high-speed collision and sustains an Erb's palsy (upper trunk injury, C5–C6).\n\n(a) Name four muscles paralysed in an Erb's palsy.\n(b) Describe the classic posture of the arm in Erb's palsy and explain why.\n(c) Which sensory area is specifically affected?",
+    "images": ["Images/brachial_plexus_roots_trunks.png"],
+    "answer": "(a) Any four of: deltoid (axillary nerve, C5), supraspinatus and infraspinatus (suprascapular nerve, C5–C6), biceps brachii (musculocutaneous nerve, C5–C6), brachialis (musculocutaneous nerve, C5–C6), brachioradialis (radial nerve, C5–C6), supinator (radial nerve, C6), teres minor (axillary nerve, C5).\n(b) 'Waiter's tip' posture: the arm hangs in adduction (deltoid/supraspinatus paralysed), internal rotation (external rotators — supraspinatus, infraspinatus — paralysed), elbow extended (biceps/brachialis paralysed), forearm pronated (supinator/biceps supination paralysed), and wrist flexed. The unopposed internal rotators and pronators create this position.\n(c) Sensory loss over the regimental badge area (lateral upper arm — axillary nerve, C5) and lateral forearm (lateral cutaneous nerve of forearm — musculocutaneous nerve, C6). The C5 dermatome covers the lateral shoulder.",
+    "explanation": "Erb's palsy (C5–C6) results from traction on the upper trunk, typically from lateral neck flexion with shoulder depression (birth injury — shoulder dystocia; adults — motorcycle accidents). It differs from Klumpke's palsy (C8–T1, lower trunk injury) which causes 'claw hand' with intrinsic hand muscle weakness, and Horner's syndrome if the sympathetic chain is involved."
+  },
+  {
+    "id": "an2_v02",
+    "type": "vsaq",
+    "topic": "Lower Limb",
+    "stem": "A cadaveric dissection of the popliteal fossa and posterior leg is shown.\n\n(a) Name the two terminal branches of the sciatic nerve and state where the sciatic nerve normally divides.\n(b) Which muscles are supplied by the tibial nerve in the posterior compartment of the leg?\n(c) A patient has a tibial nerve injury at the ankle. Describe the clinical findings.",
+    "images": ["Images/sciatic_division_tibial_common_fibular.png"],
+    "answer": "(a) Tibial nerve and common fibular (peroneal) nerve. The sciatic nerve normally divides at the apex of the popliteal fossa (superior angle), though division may occur more proximally in the thigh in anatomical variants.\n(b) Tibial nerve (posterior compartment of leg): gastrocnemius, soleus, plantaris, popliteus, flexor hallucis longus, flexor digitorum longus, tibialis posterior. These muscles are responsible for plantarflexion and toe flexion.\n(c) Tibial nerve injury at the ankle (tarsal tunnel): loss of intrinsic foot muscle function (lumbricals, interossei, flexor digitorum brevis, abductor/adductor hallucis — causing 'claw toes'); sensory loss over the sole of the foot (medial and lateral plantar nerves); unable to flex toes; loss of plantar reflexes. Plantarflexion is preserved (gastrocnemius supplied more proximally). Tinel's sign positive behind medial malleolus.",
+    "explanation": "Tibial nerve injury at the ankle is analogous to median nerve injury at the wrist (carpal tunnel syndrome). Both are compression neuropathies of major nerves at the respective tunnel. The tibial nerve divides into medial plantar (supplies medial sole, big toe — like median nerve in hand) and lateral plantar (supplies lateral sole — like ulnar nerve in hand) branches."
+  },
+  {
+    "id": "an2_v03",
+    "type": "vsaq",
+    "topic": "Abdomen & Pelvis",
+    "stem": "A cadaveric dissection shows the hepatoduodenal ligament (free edge of the lesser omentum). The arrowed structure within the ligament contains three named structures.\n\n(a) Name the three structures within the hepatoduodenal ligament.\n(b) What surgical manoeuvre uses compression of this ligament to control hepatic haemorrhage?\n(c) A 45-year-old man develops obstructive jaundice, pale stools, and dark urine. Which structure in the hepatoduodenal ligament is most likely pathologically involved?",
+    "images": ["Images/hepatoduodenal_ligament_portal_triad.png"],
+    "answer": "(a) The three structures within the hepatoduodenal ligament (from anterior to posterior, right to left): (1) Common bile duct — anteriorly on the right; (2) Hepatic artery proper — anteriorly on the left; (3) Portal vein — posteriorly.\n(b) The Pringle manoeuvre — manual compression of the hepatoduodenal ligament between the surgeon's thumb (in the epiploic foramen/foramen of Winslow, in the lesser sac) and index finger (anteriorly). This temporarily occludes blood flow to the liver (both portal venous and hepatic arterial supply) to control haemorrhage during hepatic surgery. The epiploic foramen (foramen of Winslow) is the entry to the lesser sac.\n(c) The common bile duct (CBD). Obstruction of the CBD (by stone, malignancy, or extrinsic compression from pancreatic head tumour) causes obstructive (cholestatic) jaundice: conjugated hyperbilirubinaemia, dark urine (bilirubinuria), pale stools (absent urobilinogen/stercobilin), and pruritus (bile salt deposition in skin).",
+    "explanation": "The hepatoduodenal ligament forms the free edge of the lesser omentum. The portal triad arrangement (CBD anterolateral, hepatic artery anteromedial, portal vein posterior) is important during hepatic and biliary surgery. Courvoisier's law: a palpable gallbladder with painless jaundice is more likely due to malignancy (pancreatic/cholangiocarcinoma) than gallstones (chronic gallstone disease causes fibrosis/shrinkage of the gallbladder)."
+  },
+  {
+    "id": "an2_v04",
+    "type": "vsaq",
+    "topic": "Head & Neck",
+    "stem": "A cadaveric dissection of the neck shows the boundaries of the anterior and posterior triangles.\n\n(a) Name the three boundaries of the anterior triangle of the neck.\n(b) Name two structures found in the carotid triangle (a subdivision of the anterior triangle).\n(c) A 35-year-old woman presents with a lateral neck swelling that does not move on swallowing and is not translucent on transillumination. It is located at the junction of the upper and middle thirds of the anterior border of sternocleidomastoid, deep to it. What is the most likely diagnosis?",
+    "images": ["Images/neck_triangles_boundaries.png"],
+    "answer": "(a) The anterior triangle is bounded by: (1) the anterior border of sternocleidomastoid (laterally); (2) the lower border of the mandible (superiorly); (3) the midline of the neck (medially). The apex is the suprasternal notch.\n(b) The carotid triangle (bounded by superior belly of omohyoid inferiorly, posterior belly of digastric superiorly, and anterior border of SCM posteriorly) contains: common carotid artery, internal and external carotid arteries (and their bifurcation), internal jugular vein, vagus nerve (CN X), hypoglossal nerve (CN XII), ansa cervicalis, and the carotid body/sinus.\n(c) Branchial cyst — a remnant of the 2nd branchial cleft, located at the junction of the upper and middle thirds of the anterior border of SCM, deep to it. It typically presents in young adults as a fluctuant, smooth, non-tender lateral neck mass. It does not move on swallowing (distinguishing it from thyroglossal cyst and thyroid nodule). Transillumination may be positive if the contents are clear — but they often contain cholesterol crystals making the fluid turbid. Treatment is excision.",
+    "explanation": "Neck swellings are classified by their relationship to SCM, mobility on swallowing, and position. Thyroid and thyroglossal swellings move on swallowing. Midline lesions include thyroglossal cysts (move on tongue protrusion), dermoid cysts, and thyroid nodules. Lateral swellings include branchial cysts (2nd arch remnant), lymph nodes, parotid masses, and vascular lesions."
+  },
+  {
+    "id": "an2_v05",
+    "type": "vsaq",
+    "topic": "Thorax",
+    "stem": "A cadaveric dissection of the heart shows the coronary arteries on the anterior surface. The right coronary artery (RCA) runs in the right atrioventricular groove.\n\n(a) Name two structures supplied by the right coronary artery in most individuals.\n(b) Which artery supplies the sinoatrial node in most individuals, and what is the clinical consequence of its occlusion?\n(c) A 70-year-old man has an inferior STEMI. Which leads on ECG show ST elevation and which coronary artery is typically occluded?",
+    "images": ["Images/coronary_arteries_anterior_surface_heart.png"],
+    "answer": "(a) Any two of: right atrium, right ventricle (right marginal branch), posterior interventricular septum (posterior descending artery in right-dominant circulation — in ~85% of individuals), AV node (AV nodal artery from the RCA at the crux in right-dominant systems), sinoatrial node (SA nodal artery in ~60% — from proximal RCA), inferior surface of left ventricle.\n(b) The SA nodal artery arises from the right coronary artery in approximately 60% of individuals (from the left circumflex in 40%). Occlusion causes sinus bradycardia, sinoatrial block, or sinus arrest, which may result in haemodynamic compromise or syncope. Inferior MI from RCA occlusion may cause bradycardia and heart block via SA/AV nodal ischaemia.\n(c) Inferior STEMI: ST elevation in leads II, III, and aVF (inferior leads). The right coronary artery is occluded in ~80% of inferior STEMIs (left circumflex in ~20%). Right ventricular infarction may co-occur — indicated by ST elevation in V4R and haemodynamic compromise responsive to IV fluids (RV infarction is preload-dependent — avoid nitrates and diuretics).",
+    "explanation": "Coronary dominance refers to which artery gives rise to the posterior descending artery (PDA): right dominant in 85%, left dominant in 8%, co-dominant in 7%. The LAD supplies the anterior wall, apex, and anterior 2/3 of the interventricular septum — its occlusion causes anterior STEMI (ST elevation in V1–V4/V5). The left circumflex supplies the lateral wall — lateral STEMI causes changes in I, aVL, V5–V6."
+  }
+]
