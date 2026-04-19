@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt9_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 58-year-old man presents with crushing central chest pain radiating to his jaw for the past 90 minutes. His ECG shows 3mm ST elevation in leads II, III and aVF.\n\nWhich coronary artery is most likely occluded?",
+    "options": [
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Right coronary artery",
+      "Left main stem",
+      "Posterior descending artery"
+    ],
+    "correct": 2,
+    "explanation": "ST elevation in the inferior leads (II, III, aVF) indicates an inferior STEMI, most commonly caused by right coronary artery occlusion (~80% of cases). In the remaining cases, a dominant left circumflex supplies the inferior wall."
+  },
+  {
+    "id": "kt9_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 72-year-old woman presents with increasing shortness of breath and ankle swelling. Examination reveals a raised JVP, bibasal crackles, and bilateral pitting oedema to the knees.\n\nWhich investigation would be most useful to confirm the underlying diagnosis?",
+    "options": [
+      "Chest X-ray",
+      "ECG",
+      "Echocardiogram",
+      "BNP",
+      "Troponin"
+    ],
+    "correct": 2,
+    "explanation": "Echocardiography is the gold standard for diagnosing heart failure, allowing assessment of ejection fraction and distinguishing HFrEF from HFpEF. BNP is useful for screening but does not confirm the diagnosis or characterise the type of heart failure."
+  },
+  {
+    "id": "kt9_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 45-year-old man is found to have a blood pressure of 165/102 mmHg on three separate occasions. His U&Es, urinalysis, and examination are unremarkable.\n\nWhat is the most appropriate first-line antihypertensive?",
+    "options": [
+      "Atenolol",
+      "Amlodipine",
+      "Ramipril",
+      "Bendroflumethiazide",
+      "Doxazosin"
+    ],
+    "correct": 2,
+    "explanation": "For patients under 55 and non-Black, first-line treatment is an ACE inhibitor (or ARB if intolerant). For those over 55 or of Black African/Caribbean origin, first-line is a calcium channel blocker. Beta-blockers are no longer first-line for uncomplicated hypertension."
+  },
+  {
+    "id": "kt9_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 65-year-old man with a long history of hypertension presents with acute severe tearing chest pain radiating to his back. His blood pressure is 195/110 mmHg in the right arm and 155/85 mmHg in the left arm.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Acute myocardial infarction",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Oesophageal rupture"
+    ],
+    "correct": 2,
+    "explanation": "Tearing chest pain radiating to the back with asymmetric blood pressures between arms is classic for aortic dissection. CT angiography is the investigation of choice. Hypertension is the most important risk factor."
+  },
+  {
+    "id": "kt9_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 28-year-old woman presents with palpitations. Her ECG shows a narrow complex tachycardia at 180 bpm with no discernible P waves. Vagal manoeuvres are unsuccessful.\n\nWhat is the most appropriate next management step?",
+    "options": [
+      "IV amiodarone",
+      "IV adenosine",
+      "DC cardioversion",
+      "IV digoxin",
+      "IV verapamil"
+    ],
+    "correct": 1,
+    "explanation": "In haemodynamically stable narrow complex tachycardia (likely SVT) where vagal manoeuvres have failed, IV adenosine 6 mg rapid bolus is the first-line treatment. DC cardioversion is reserved for haemodynamically unstable patients."
+  },
+  {
+    "id": "kt9_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 78-year-old man is found to have an irregularly irregular pulse. His ECG confirms atrial fibrillation. He has a history of hypertension and diabetes.\n\nUsing the CHA₂DS₂-VASc score, what is his stroke risk category?",
+    "options": [
+      "Low — no anticoagulation required",
+      "Low — aspirin recommended",
+      "Moderate — anticoagulation should be considered",
+      "High — anticoagulation recommended",
+      "Very high — anticoagulation mandatory"
+    ],
+    "correct": 3,
+    "explanation": "CHA₂DS₂-VASc: Age ≥75 (2), Hypertension (1), Diabetes (1) = 4. A score ≥2 in men indicates high stroke risk and anticoagulation is recommended, typically with a DOAC unless contraindicated."
+  },
+  {
+    "id": "kt9_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 55-year-old man presents with pleuritic chest pain worse on lying flat and relieved by leaning forward. His ECG shows widespread saddle-shaped ST elevation and PR depression.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Anterior STEMI",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Myocarditis"
+    ],
+    "correct": 1,
+    "explanation": "Pericarditis typically causes sharp pleuritic chest pain that is positional (worse lying flat, better leaning forward). The ECG hallmarks are widespread concave (saddle-shaped) ST elevation and PR depression."
+  },
+  {
+    "id": "kt9_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 70-year-old man presents with exertional syncope. On examination, there is a slow-rising pulse and a harsh ejection systolic murmur radiating to the carotids.\n\nWhich murmur finding suggests severe disease?",
+    "options": [
+      "Loud S1",
+      "Soft or absent A2",
+      "Loud P2",
+      "Early diastolic murmur",
+      "Opening snap"
+    ],
+    "correct": 1,
+    "explanation": "In severe aortic stenosis, the aortic valve closure becomes inaudible, so A2 is soft or absent. Other features of severity include a slow-rising pulse, narrow pulse pressure, late peaking murmur, and a fourth heart sound."
+  },
+  {
+    "id": "kt9_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 22-year-old man presents with sudden-onset right-sided chest pain and breathlessness. He is 6 feet 2 inches tall and thin. Examination reveals reduced breath sounds and hyperresonance on the right.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Tension pneumothorax",
+      "Primary spontaneous pneumothorax",
+      "Pleural effusion",
+      "Pulmonary embolism",
+      "Pneumonia"
+    ],
+    "correct": 1,
+    "explanation": "Primary spontaneous pneumothorax classically occurs in tall, thin young men, often smokers. Sudden unilateral pleuritic chest pain with reduced breath sounds and hyperresonance is typical. Tension pneumothorax would cause tracheal deviation and haemodynamic compromise."
+  },
+  {
+    "id": "kt9_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 65-year-old smoker presents with a 3-month history of progressive breathlessness, cough productive of white sputum, and wheeze. Spirometry shows FEV1/FVC of 0.58 with a 10% reversibility to salbutamol.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "COPD",
+      "Bronchiectasis",
+      "Idiopathic pulmonary fibrosis",
+      "Heart failure"
+    ],
+    "correct": 1,
+    "explanation": "An FEV1/FVC ratio <0.7 confirms airflow obstruction. Less than 15% reversibility is consistent with COPD rather than asthma. Smoking history and the chronicity further support COPD."
+  },
+  {
+    "id": "kt9_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 48-year-old woman presents with acute shortness of breath and pleuritic chest pain 10 days after a total hip replacement. Her oxygen saturation is 89% on air, heart rate 110 bpm, and blood pressure 118/72 mmHg.\n\nWhich investigation is most appropriate?",
+    "options": [
+      "Chest X-ray",
+      "D-dimer",
+      "CT pulmonary angiogram",
+      "V/Q scan",
+      "Echocardiogram"
+    ],
+    "correct": 2,
+    "explanation": "With a Wells score >4 (high pre-test probability for PE given recent surgery, tachycardia and typical symptoms), CTPA is the investigation of choice. D-dimer is not useful when pre-test probability is high as it only rules out PE if negative."
+  },
+  {
+    "id": "kt9_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 30-year-old woman with known asthma presents to A&E unable to complete sentences. Her peak flow is 35% of predicted, heart rate 125 bpm, and oxygen saturation 91% on air.\n\nHow would you classify this asthma exacerbation?",
+    "options": [
+      "Moderate",
+      "Acute severe",
+      "Life-threatening",
+      "Near-fatal",
+      "Mild"
+    ],
+    "correct": 1,
+    "explanation": "Acute severe asthma is defined by any of: PEFR 33-50% predicted, inability to complete sentences, RR ≥25, HR ≥110. Life-threatening features include PEFR <33%, SpO2 <92%, silent chest, cyanosis, exhaustion, arrhythmia, or altered consciousness."
+  },
+  {
+    "id": "kt9_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 40-year-old non-smoker presents with progressive breathlessness over 12 months. Auscultation reveals fine bibasal end-inspiratory crackles. Her CT chest shows reticular changes with honeycombing.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Sarcoidosis",
+      "Idiopathic pulmonary fibrosis",
+      "Hypersensitivity pneumonitis",
+      "Pneumoconiosis",
+      "Bronchiectasis"
+    ],
+    "correct": 1,
+    "explanation": "IPF typically presents in patients over 50 with progressive breathlessness and bibasal fine end-inspiratory crackles ('velcro'). High-resolution CT shows peripheral, basal reticular changes with honeycombing and traction bronchiectasis."
+  },
+  {
+    "id": "kt9_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 52-year-old man with alcohol dependence is admitted with confusion, ataxia, and ophthalmoplegia.\n\nDeficiency of which vitamin is most likely responsible?",
+    "options": [
+      "Vitamin B1 (thiamine)",
+      "Vitamin B6 (pyridoxine)",
+      "Vitamin B12 (cobalamin)",
+      "Vitamin C (ascorbic acid)",
+      "Vitamin D"
+    ],
+    "correct": 0,
+    "explanation": "Wernicke's encephalopathy is caused by thiamine (vitamin B1) deficiency and presents with the classic triad of confusion, ataxia, and ophthalmoplegia. It is common in chronic alcoholism. IV Pabrinex should be given before any glucose."
+  },
+  {
+    "id": "kt9_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 40-year-old woman with a 6-month history of weight loss, diarrhoea and bloating is investigated. Her anti-TTG antibody is strongly positive and a duodenal biopsy shows villous atrophy.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Crohn's disease",
+      "Ulcerative colitis",
+      "Coeliac disease",
+      "Whipple's disease",
+      "Tropical sprue"
+    ],
+    "correct": 2,
+    "explanation": "Coeliac disease is an autoimmune condition triggered by gluten, characterised by villous atrophy on duodenal biopsy and positive anti-TTG and anti-endomysial antibodies. Total IgA should also be checked as IgA deficiency can cause false-negative results."
+  },
+  {
+    "id": "kt9_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 28-year-old woman is diagnosed with iron-deficiency anaemia. Her full blood count shows Hb 92 g/L with MCV 68 fL.\n\nWhat is the most appropriate first-line oral iron supplement?",
+    "options": [
+      "Ferrous sulfate 200 mg TDS",
+      "Ferrous gluconate 300 mg BD",
+      "Iron sucrose IV",
+      "Vitamin B12 IM",
+      "Folate 5 mg OD"
+    ],
+    "correct": 0,
+    "explanation": "Ferrous sulfate 200 mg (65 mg elemental iron) TDS is first-line for iron deficiency anaemia. GI side effects are common. Hb should rise by approximately 10 g/L per week. Treatment continues for 3 months after Hb normalises to replenish stores."
+  },
+  {
+    "id": "kt9_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 70-year-old woman has been losing weight and appears cachectic. Her BMI is 17.5 kg/m². Refeeding syndrome is a concern.\n\nWhich electrolyte abnormality is most characteristic of refeeding syndrome?",
+    "options": [
+      "Hypokalaemia",
+      "Hypocalcaemia",
+      "Hypomagnesaemia",
+      "Hypophosphataemia",
+      "Hyponatraemia"
+    ],
+    "correct": 3,
+    "explanation": "Hypophosphataemia is the hallmark of refeeding syndrome. When carbohydrate intake resumes, insulin drives phosphate, potassium and magnesium into cells, leading to dangerous deficiencies. Thiamine should be given prior to and during refeeding."
+  },
+  {
+    "id": "kt9_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 30-year-old woman is 32 weeks pregnant. Her booking bloods showed she is rhesus negative and her husband is rhesus positive.\n\nAt what gestation is routine anti-D prophylaxis typically administered?",
+    "options": [
+      "12 and 20 weeks",
+      "16 and 34 weeks",
+      "28 weeks only (single dose)",
+      "28 and 34 weeks (two doses)",
+      "Only postnatally"
+    ],
+    "correct": 3,
+    "explanation": "In the UK, routine antenatal anti-D prophylaxis is administered at 28 and 34 weeks (or as a single 28-week dose in some protocols). Postnatal anti-D is given within 72 hours if baby is rhesus positive."
+  },
+  {
+    "id": "kt9_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 26-year-old woman presents with 6 weeks of amenorrhoea and right iliac fossa pain. Her urinary pregnancy test is positive. Transvaginal ultrasound shows no intrauterine pregnancy but a 3 cm adnexal mass.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Miscarriage",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Pelvic inflammatory disease",
+      "Ovarian torsion"
+    ],
+    "correct": 2,
+    "explanation": "A positive pregnancy test with no intrauterine pregnancy and an adnexal mass is highly suggestive of ectopic pregnancy. The fallopian tube (ampulla) is the most common site. Management options depend on haemodynamic stability, symptoms, and βhCG levels."
+  },
+  {
+    "id": "kt9_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 34-year-old woman who is 36 weeks pregnant presents with painless bright red vaginal bleeding. Her observations are stable and the fetus is active.\n\nWhat is the most important immediate investigation?",
+    "options": [
+      "Digital vaginal examination",
+      "Speculum examination",
+      "CTG",
+      "Transabdominal ultrasound to locate the placenta",
+      "Full blood count"
+    ],
+    "correct": 3,
+    "explanation": "Painless bleeding in the third trimester is placenta praevia until proven otherwise. Digital vaginal examination is contraindicated as it may provoke massive haemorrhage. Ultrasound localises the placenta and confirms the diagnosis."
+  },
+  {
+    "id": "kt9_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 65-year-old man presents with a 6-month history of nocturia, hesitancy, and poor urinary stream. Digital rectal examination reveals a smoothly enlarged prostate. His PSA is 4.5 ng/mL.\n\nWhat is the most appropriate first-line medication?",
+    "options": [
+      "Finasteride",
+      "Tamsulosin",
+      "Oxybutynin",
+      "Sildenafil",
+      "Tolterodine"
+    ],
+    "correct": 1,
+    "explanation": "Tamsulosin (alpha-1 blocker) is first-line for symptomatic BPH. It relaxes smooth muscle in the prostate and bladder neck, providing rapid symptom relief. 5-alpha reductase inhibitors like finasteride are added for larger prostates but take months to work."
+  },
+  {
+    "id": "kt9_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 4-year-old boy has had recurrent bacterial infections since infancy, including pneumonia and otitis media. Blood tests show very low IgG, IgA, and IgM with absent B cells.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency",
+      "X-linked (Bruton) agammaglobulinaemia",
+      "Severe combined immunodeficiency",
+      "Selective IgA deficiency",
+      "Hyper-IgM syndrome"
+    ],
+    "correct": 1,
+    "explanation": "X-linked agammaglobulinaemia (Bruton) is caused by BTK mutation leading to failure of B cell maturation. Boys present in infancy with recurrent bacterial infections once maternal antibodies wane. All immunoglobulins are markedly reduced with absent B cells."
+  },
+  {
+    "id": "kt9_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 25-year-old man is stung by a wasp and within minutes develops lip swelling, wheeze, and hypotension.\n\nWhich immunoglobulin is most directly responsible for this reaction?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgD"
+    ],
+    "correct": 3,
+    "explanation": "Type I hypersensitivity (anaphylaxis) is IgE-mediated. Allergen cross-links IgE on mast cells and basophils, causing rapid degranulation and release of histamine and other mediators. Treatment is IM adrenaline 0.5 mg (1:1000)."
+  },
+  {
+    "id": "kt9_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 35-year-old woman with rheumatoid arthritis is started on a new disease-modifying drug that targets TNF-alpha.\n\nBefore starting, which infection should be specifically screened for?",
+    "options": [
+      "HIV",
+      "Hepatitis C",
+      "Tuberculosis",
+      "Cytomegalovirus",
+      "Epstein-Barr virus"
+    ],
+    "correct": 2,
+    "explanation": "Anti-TNF therapy reactivates latent TB. Screening with interferon-gamma release assay (e.g. Quantiferon) or Mantoux test, plus CXR, is mandatory before initiating therapy. Hepatitis B and C screening is also performed."
+  },
+  {
+    "id": "kt9_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 45-year-old woman presents with dry eyes, dry mouth, and parotid swelling.\n\nWhich autoantibody is most specifically associated with this condition?",
+    "options": [
+      "Anti-dsDNA",
+      "Anti-Ro (SSA)",
+      "Anti-centromere",
+      "Anti-Scl-70",
+      "Anti-Jo-1"
+    ],
+    "correct": 1,
+    "explanation": "Sjögren's syndrome is characterised by dry eyes (keratoconjunctivitis sicca), dry mouth (xerostomia), and parotid enlargement. Anti-Ro (SSA) and anti-La (SSB) antibodies are characteristic."
+  },
+  {
+    "id": "kt9_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 30-year-old man returns from a business trip to India with high fevers, severe headache, and relative bradycardia. He has developed small pink spots on his abdomen (rose spots).\n\nWhat is the most likely pathogen?",
+    "options": [
+      "Plasmodium falciparum",
+      "Leptospira interrogans",
+      "Salmonella typhi",
+      "Dengue virus",
+      "Rickettsia typhi"
+    ],
+    "correct": 2,
+    "explanation": "Typhoid fever (Salmonella typhi) classically presents with a stepwise fever, relative bradycardia, rose spots, and hepatosplenomegaly. Blood cultures are diagnostic in the first week. Treatment is with azithromycin or ceftriaxone due to widespread resistance."
+  },
+  {
+    "id": "kt9_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 25-year-old woman presents with 4 weeks of dysuria, frequency and haematuria. Urine dipstick is positive for blood and leucocytes but negative for nitrites. Her urine culture is negative.\n\nWhat is the most likely cause?",
+    "options": [
+      "Escherichia coli",
+      "Staphylococcus saprophyticus",
+      "Mycobacterium tuberculosis",
+      "Chlamydia trachomatis",
+      "Klebsiella pneumoniae"
+    ],
+    "correct": 2,
+    "explanation": "'Sterile pyuria' with negative routine urine cultures in a patient with chronic urinary symptoms should raise suspicion of genitourinary tuberculosis. Early morning urine cultures for acid-fast bacilli are required."
+  },
+  {
+    "id": "kt9_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 70-year-old man on broad-spectrum antibiotics for pneumonia develops profuse watery diarrhoea.\n\nWhich organism is most likely responsible?",
+    "options": [
+      "Campylobacter jejuni",
+      "Clostridioides difficile",
+      "Shigella sonnei",
+      "Escherichia coli O157",
+      "Giardia lamblia"
+    ],
+    "correct": 1,
+    "explanation": "C. difficile infection is associated with antibiotic exposure (particularly clindamycin, cephalosporins, and fluoroquinolones) and causes pseudomembranous colitis. Treatment is with oral vancomycin or fidaxomicin; metronidazole is second-line."
+  },
+  {
+    "id": "kt9_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 24-year-old woman develops a rash and fever 2 days after being prescribed trimethoprim for a UTI. The rash is described as a target-shaped lesion on her palms and trunk, with some blisters forming.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Urticaria",
+      "Erythema multiforme",
+      "Stevens-Johnson syndrome",
+      "Scarlet fever",
+      "Contact dermatitis"
+    ],
+    "correct": 2,
+    "explanation": "Stevens-Johnson syndrome is a severe cutaneous adverse reaction with mucosal involvement and target/blister formation affecting <10% BSA. Trimethoprim-sulfamethoxazole is a classic trigger. Drug should be stopped immediately and supportive care provided."
+  },
+  {
+    "id": "kt9_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 28-year-old HIV-positive man presents with dyspnoea and dry cough. His CD4 count is 150 cells/µL. CXR shows bilateral perihilar interstitial infiltrates.\n\nWhat is the most likely opportunistic infection?",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "Pneumocystis jirovecii",
+      "Cytomegalovirus pneumonitis",
+      "Cryptococcus neoformans",
+      "Aspergillus fumigatus"
+    ],
+    "correct": 1,
+    "explanation": "Pneumocystis jirovecii pneumonia (PCP/PJP) occurs when CD4 count falls <200 cells/µL. Presents with subacute dry cough, dyspnoea, and bilateral perihilar infiltrates. Treatment is high-dose co-trimoxazole ± steroids if PaO2 <9.3 kPa."
+  },
+  {
+    "id": "kt9_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 62-year-old smoker presents with a 3-month history of cough, haemoptysis, and 10 kg weight loss. CXR shows a 4 cm hilar mass. He is found to have hyponatraemia with urinary osmolality > plasma osmolality.\n\nWhat is the most likely underlying tumour type?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell lung cancer",
+      "Large cell carcinoma",
+      "Mesothelioma"
+    ],
+    "correct": 2,
+    "explanation": "Small cell lung cancer (SCLC) is strongly associated with SIADH, causing euvolaemic hyponatraemia with inappropriately concentrated urine. Other paraneoplastic features of SCLC include ectopic ACTH production and Lambert-Eaton myasthenic syndrome."
+  },
+  {
+    "id": "kt9_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 55-year-old woman presents with a firm, painless lump in her right breast. Mammography shows a spiculated mass. Core biopsy confirms invasive ductal carcinoma with ER+, PR+, HER2- status.\n\nWhich adjuvant therapy is most likely to be indicated?",
+    "options": [
+      "Trastuzumab",
+      "Tamoxifen",
+      "Aromatase inhibitor",
+      "Chemotherapy only",
+      "Radiotherapy only"
+    ],
+    "correct": 2,
+    "explanation": "In postmenopausal women with ER-positive breast cancer, aromatase inhibitors (e.g. anastrozole, letrozole) are first-line adjuvant endocrine therapy. Tamoxifen is preferred in premenopausal women. HER2-negative status means trastuzumab is not indicated."
+  },
+  {
+    "id": "kt9_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 60-year-old man presents with painless haematuria. Flexible cystoscopy reveals a bladder tumour. Biopsy confirms transitional cell carcinoma.\n\nWhich occupational exposure is most strongly associated with this cancer?",
+    "options": [
+      "Asbestos",
+      "Ionising radiation",
+      "Aromatic amines (aniline dyes)",
+      "Silica dust",
+      "Benzene"
+    ],
+    "correct": 2,
+    "explanation": "Aromatic amines (aniline dyes) used in the rubber, dye and textile industries are strong risk factors for transitional cell carcinoma of the bladder. Smoking and chronic cystitis (e.g. schistosomiasis — SCC rather than TCC) are other risks."
+  },
+  {
+    "id": "kt9_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 10-year-old boy presents with bone pain. An X-ray of the femur shows a lytic lesion with an 'onion-skin' periosteal reaction. Biopsy shows small, round blue cells.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Osteosarcoma",
+      "Ewing sarcoma",
+      "Chondrosarcoma",
+      "Giant cell tumour",
+      "Multiple myeloma"
+    ],
+    "correct": 1,
+    "explanation": "Ewing sarcoma typically presents in children and adolescents with a lytic bone lesion and characteristic 'onion-skin' periosteal reaction. Histology shows small round blue cells with t(11;22) EWSR1-FLI1 fusion."
+  },
+  {
+    "id": "kt9_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 6-year-old boy presents with pallor, fatigue, and widespread petechiae. Blood film shows blast cells.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Acute lymphoblastic leukaemia",
+      "Acute myeloid leukaemia",
+      "Chronic lymphocytic leukaemia",
+      "Chronic myeloid leukaemia",
+      "Hodgkin lymphoma"
+    ],
+    "correct": 0,
+    "explanation": "Acute lymphoblastic leukaemia (ALL) is the most common childhood leukaemia, peaking at ages 2-5. Classic presentation includes marrow failure (anaemia, infection, bruising/petechiae), lymphadenopathy and hepatosplenomegaly."
+  },
+  {
+    "id": "kt9_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 30-year-old woman presents with a painless neck lump. Biopsy reveals Reed-Sternberg cells.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Non-Hodgkin lymphoma",
+      "Hodgkin lymphoma",
+      "Acute leukaemia",
+      "Metastatic carcinoma",
+      "Tuberculosis"
+    ],
+    "correct": 1,
+    "explanation": "Reed-Sternberg cells (large binucleate 'owl's eye' cells) are pathognomonic of Hodgkin lymphoma. Classical Hodgkin has a bimodal age distribution (young adults and >60). Lymphadenopathy, B symptoms (fever, night sweats, weight loss) and alcohol-induced nodal pain are typical."
+  },
+  {
+    "id": "kt9_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 68-year-old man presents with bone pain and anaemia. Blood tests show Hb 82 g/L, corrected calcium 3.1 mmol/L, and creatinine 240 µmol/L. A skeletal survey reveals lytic lesions.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Metastatic prostate cancer",
+      "Primary hyperparathyroidism",
+      "Multiple myeloma",
+      "Paget's disease",
+      "Osteoporosis"
+    ],
+    "correct": 2,
+    "explanation": "Multiple myeloma classically presents with CRAB features: hyperCalcaemia, Renal impairment, Anaemia, and Bone lesions (lytic). Serum and urine electrophoresis will show a monoclonal protein band. Bone marrow biopsy is diagnostic."
+  },
+  {
+    "id": "kt9_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A 70-year-old man with atrial fibrillation is being considered for rate control.\n\nWhich drug primarily acts by prolonging the AV node refractory period?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Amiodarone",
+      "Flecainide",
+      "Digoxin"
+    ],
+    "correct": 4,
+    "explanation": "Digoxin increases vagal tone which prolongs AV nodal refractoriness, slowing conduction through the AV node. Beta-blockers and non-dihydropyridine calcium channel blockers are also AV nodal blockers. Digoxin is particularly useful in heart failure with AF."
+  },
+  {
+    "id": "kt9_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A medical student is learning about the cardiac action potential.\n\nWhich phase corresponds to plateau caused primarily by slow inward calcium current?",
+    "options": [
+      "Phase 0 (rapid depolarisation)",
+      "Phase 1 (initial repolarisation)",
+      "Phase 2 (plateau)",
+      "Phase 3 (repolarisation)",
+      "Phase 4 (resting)"
+    ],
+    "correct": 2,
+    "explanation": "Phase 2 (plateau) of the ventricular action potential is maintained by slow inward Ca²⁺ current through L-type calcium channels, balanced by outward K⁺ current. This prolonged depolarisation allows time for myocardial contraction and prevents tetany."
+  },
+  {
+    "id": "kt9_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A physiology student is analysing pressure-volume loops of the left ventricle.\n\nWhich point on the pressure-volume loop represents the opening of the aortic valve?",
+    "options": [
+      "Mitral valve closure (end of diastolic filling)",
+      "Onset of isovolumetric contraction",
+      "End of isovolumetric contraction",
+      "End of ejection (aortic valve closure)",
+      "Onset of isovolumetric relaxation"
+    ],
+    "correct": 2,
+    "explanation": "The aortic valve opens when left ventricular pressure exceeds aortic pressure, at the end of isovolumetric contraction. Volume then falls as blood is ejected. Aortic valve closure occurs at end-ejection, marking the dicrotic notch."
+  },
+  {
+    "id": "kt9_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 25-year-old woman presents with diplopia, ptosis, and weakness that worsens with exertion. Edrophonium (Tensilon) test improves her symptoms.\n\nWhere is the pathology located?",
+    "options": [
+      "Upper motor neurone",
+      "Lower motor neurone",
+      "Neuromuscular junction",
+      "Muscle",
+      "Cerebellum"
+    ],
+    "correct": 2,
+    "explanation": "Myasthenia gravis is caused by autoantibodies against postsynaptic acetylcholine receptors at the neuromuscular junction. Characterised by fatigable weakness, particularly ocular (ptosis, diplopia) and bulbar. Anti-AChR antibodies are diagnostic."
+  },
+  {
+    "id": "kt9_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 65-year-old man presents with right-sided weakness and expressive dysphasia. CT head shows a left middle cerebral artery infarct.\n\nWhich lobe of the brain is most likely affected given the language deficit?",
+    "options": [
+      "Frontal",
+      "Parietal",
+      "Temporal",
+      "Occipital",
+      "Cerebellum"
+    ],
+    "correct": 0,
+    "explanation": "Broca's area (inferior frontal gyrus, dominant hemisphere) controls expressive speech. Damage causes non-fluent aphasia with preserved comprehension. Wernicke's area is in the superior temporal gyrus and produces receptive (fluent) aphasia when damaged."
+  },
+  {
+    "id": "kt9_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 35-year-old woman presents with optic neuritis followed 6 months later by unilateral leg weakness and paraesthesia. MRI shows demyelinating lesions at multiple sites, different ages.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Guillain-Barré syndrome",
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Transverse myelitis",
+      "Motor neurone disease"
+    ],
+    "correct": 1,
+    "explanation": "Multiple sclerosis requires dissemination in time and space. Typical presentations include optic neuritis, sensory disturbance, weakness, and cerebellar/brainstem signs. MRI with demyelinating lesions of different ages supports the diagnosis."
+  },
+  {
+    "id": "kt9_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 70-year-old man presents with a resting tremor, bradykinesia, and rigidity.\n\nWhich neurotransmitter deficiency underlies this condition?",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "Noradrenaline",
+      "GABA"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease is due to degeneration of dopaminergic neurones in the substantia nigra pars compacta, leading to depletion of dopamine in the striatum. Levodopa (with a decarboxylase inhibitor) is first-line treatment."
+  },
+  {
+    "id": "kt9_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 75-year-old woman falls and sustains a fractured neck of femur. On examination, the leg is shortened and externally rotated.\n\nWhich blood supply is most at risk of disruption in an intracapsular fracture?",
+    "options": [
+      "Medial circumflex femoral artery (via retinacular vessels)",
+      "Lateral circumflex femoral artery",
+      "Obturator artery alone",
+      "Profunda femoris artery",
+      "Inferior gluteal artery"
+    ],
+    "correct": 0,
+    "explanation": "The femoral head is supplied predominantly by retinacular vessels from the medial circumflex femoral artery. Intracapsular fractures can disrupt these vessels, leading to avascular necrosis. This is why displaced intracapsular fractures often require hemiarthroplasty."
+  },
+  {
+    "id": "kt9_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 30-year-old man falls on an outstretched hand and develops pain in the anatomical snuffbox.\n\nWhich carpal bone is most likely fractured?",
+    "options": [
+      "Lunate",
+      "Scaphoid",
+      "Trapezium",
+      "Hamate",
+      "Pisiform"
+    ],
+    "correct": 1,
+    "explanation": "Scaphoid fractures classically present with anatomical snuffbox tenderness after FOOSH injury. They can be missed on initial X-rays; MRI or repeat X-ray at 10-14 days is indicated. Risk of avascular necrosis of the proximal pole due to retrograde blood supply."
+  },
+  {
+    "id": "kt9_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 65-year-old woman presents with pain in her right knee worse at the end of the day and on weight-bearing. X-rays show joint space narrowing, osteophytes and subchondral sclerosis.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Gout",
+      "Septic arthritis",
+      "Psoriatic arthritis"
+    ],
+    "correct": 1,
+    "explanation": "The classic radiographic features of osteoarthritis are: Loss of joint space, Osteophytes, Subchondral Sclerosis, and Subchondral cysts (LOSS). Symptoms are mechanical, worse with activity, and improve with rest."
+  },
+  {
+    "id": "kt9_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A biology student is studying protein synthesis.\n\nWhich organelle is responsible for post-translational modifications such as glycosylation?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "correct": 2,
+    "explanation": "The Golgi apparatus modifies proteins and lipids after synthesis, including glycosylation, phosphorylation, and sulfation. Proteins are packaged into vesicles for secretion or targeted to specific organelles."
+  },
+  {
+    "id": "kt9_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A medical student is learning about the electron transport chain.\n\nWhich complex directly transfers electrons to molecular oxygen?",
+    "options": [
+      "Complex I (NADH dehydrogenase)",
+      "Complex II (succinate dehydrogenase)",
+      "Complex III (cytochrome bc1)",
+      "Complex IV (cytochrome c oxidase)",
+      "ATP synthase (Complex V)"
+    ],
+    "correct": 3,
+    "explanation": "Complex IV (cytochrome c oxidase) catalyses the reduction of molecular oxygen to water — the terminal step of the electron transport chain. Cyanide inhibits Complex IV, blocking oxidative phosphorylation."
+  },
+  {
+    "id": "kt9_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A researcher is studying the cell cycle.\n\nAt which phase does DNA replication occur?",
+    "options": [
+      "G1",
+      "S",
+      "G2",
+      "M",
+      "G0"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication (synthesis) occurs during the S phase of interphase. G1 involves cell growth and preparation, G2 is further growth and preparation for mitosis, and M phase is mitosis/cytokinesis. G0 is a quiescent phase."
+  },
+  {
+    "id": "kt9_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A student is studying cell signalling.\n\nWhich second messenger is generated by phospholipase C activation?",
+    "options": [
+      "cAMP",
+      "cGMP",
+      "IP3 and DAG",
+      "Nitric oxide",
+      "Calcium alone"
+    ],
+    "correct": 2,
+    "explanation": "Phospholipase C cleaves PIP2 into IP3 (inositol trisphosphate) and DAG (diacylglycerol). IP3 releases Ca²⁺ from the endoplasmic reticulum. DAG activates protein kinase C. This pathway is activated by many Gq-coupled receptors."
+  },
+  {
+    "id": "kt9_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 45-year-old man with atrial fibrillation is to be started on warfarin.\n\nWhich clotting factors are affected by warfarin?",
+    "options": [
+      "II, VII, IX, X",
+      "I, V, VIII",
+      "V, VIII, XI",
+      "VII only",
+      "XII, XI, IX"
+    ],
+    "correct": 0,
+    "explanation": "Warfarin inhibits vitamin K epoxide reductase, preventing synthesis of vitamin K-dependent clotting factors: II, VII, IX, X (and proteins C and S). Factor VII has the shortest half-life, so PT/INR rises first, but anticoagulant effect requires a few days."
+  },
+  {
+    "id": "kt9_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 60-year-old man is started on simvastatin for hypercholesterolaemia.\n\nBy what mechanism do statins lower LDL cholesterol?",
+    "options": [
+      "Activation of LDL receptor synthesis only",
+      "Inhibition of HMG-CoA reductase",
+      "Inhibition of cholesterol absorption",
+      "Bile acid sequestration",
+      "PCSK9 inhibition"
+    ],
+    "correct": 1,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis. Reduced intracellular cholesterol upregulates LDL receptors, increasing clearance of LDL from the circulation."
+  },
+  {
+    "id": "kt9_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 30-year-old man is given morphine for severe pain following surgery. An hour later, his respiratory rate falls to 7 breaths per minute.\n\nWhat is the most appropriate antidote?",
+    "options": [
+      "Flumazenil",
+      "Naloxone",
+      "N-acetylcysteine",
+      "Atropine",
+      "Protamine sulfate"
+    ],
+    "correct": 1,
+    "explanation": "Naloxone is a competitive mu-opioid receptor antagonist used to reverse opioid toxicity. It has a short half-life (~60 minutes) so repeated dosing or infusion may be required as morphine acts for longer."
+  },
+  {
+    "id": "kt9_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 70-year-old woman on warfarin presents with melaena. Her INR is 8.2.\n\nWhat is the most appropriate management?",
+    "options": [
+      "Observe and recheck INR in 24 hours",
+      "Withhold warfarin and give oral vitamin K",
+      "Withhold warfarin and give IV vitamin K plus prothrombin complex concentrate",
+      "Give fresh frozen plasma only",
+      "Give tranexamic acid and continue warfarin"
+    ],
+    "correct": 2,
+    "explanation": "Major bleeding on warfarin (any bleeding with haemodynamic compromise, or intracranial/GI bleeding) requires urgent reversal with prothrombin complex concentrate (PCC) and IV vitamin K. FFP is second-line if PCC unavailable."
+  },
+  {
+    "id": "kt9_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 25-year-old woman is started on the combined oral contraceptive pill.\n\nWhich enzyme-inducing drug would most significantly reduce its efficacy?",
+    "options": [
+      "Paracetamol",
+      "Amoxicillin",
+      "Carbamazepine",
+      "Ibuprofen",
+      "Ranitidine"
+    ],
+    "correct": 2,
+    "explanation": "Carbamazepine is a potent inducer of cytochrome P450 enzymes (especially CYP3A4), accelerating metabolism of oestrogens and progestogens and reducing COCP efficacy. Other enzyme inducers: rifampicin, phenytoin, phenobarbital, St John's wort."
+  },
+  {
+    "id": "kt9_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 55-year-old man is started on amiodarone for atrial fibrillation.\n\nWhich monitoring is most important during long-term therapy?",
+    "options": [
+      "Renal function",
+      "Thyroid and liver function",
+      "Blood glucose",
+      "Full blood count",
+      "Cortisol"
+    ],
+    "correct": 1,
+    "explanation": "Amiodarone causes thyroid dysfunction (both hyper- and hypothyroidism due to its high iodine content), hepatotoxicity, pulmonary fibrosis, corneal deposits, and skin discolouration. TFTs and LFTs are monitored every 6 months."
+  },
+  {
+    "id": "kt9_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 30-year-old man is prescribed metronidazole for a dental abscess.\n\nWhich dietary substance must he avoid?",
+    "options": [
+      "Tyramine-containing foods",
+      "Grapefruit juice",
+      "Dairy products",
+      "Alcohol",
+      "Vitamin K-rich vegetables"
+    ],
+    "correct": 3,
+    "explanation": "Metronidazole inhibits aldehyde dehydrogenase, causing a disulfiram-like reaction with alcohol (flushing, nausea, vomiting, tachycardia). Patients should avoid alcohol during treatment and for 48 hours afterwards."
+  },
+  {
+    "id": "kt9_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 55-year-old woman with newly diagnosed type 2 diabetes has an HbA1c of 58 mmol/mol. Her BMI is 32 kg/m².\n\nWhat is the most appropriate first-line medication?",
+    "options": [
+      "Gliclazide",
+      "Metformin",
+      "Sitagliptin",
+      "Pioglitazone",
+      "Insulin"
+    ],
+    "correct": 1,
+    "explanation": "Metformin is first-line for T2DM unless contraindicated (eGFR <30, severe hepatic impairment). It reduces hepatic gluconeogenesis, increases insulin sensitivity, and is weight-neutral or weight-reducing. Start low and titrate to minimise GI side effects."
+  },
+  {
+    "id": "kt9_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 35-year-old woman with capacity refuses a life-saving blood transfusion on religious grounds.\n\nWhat is the most appropriate action?",
+    "options": [
+      "Administer the transfusion anyway",
+      "Obtain a court order to override her decision",
+      "Respect her decision and explore alternatives",
+      "Consult the family for consent",
+      "Admit under the Mental Health Act"
+    ],
+    "correct": 2,
+    "explanation": "An adult with capacity has the right to refuse treatment, even if this decision seems unwise or will lead to death. Respect her autonomy, discuss the risks, document carefully, and explore alternatives (e.g. cell salvage, erythropoietin)."
+  },
+  {
+    "id": "kt9_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 14-year-old girl requests contraception without her parents knowing.\n\nWhich principle applies to her request?",
+    "options": [
+      "Parental consent is always required for under-16s",
+      "Gillick competence / Fraser guidelines",
+      "Children Act automatically protects all under-18s",
+      "Mental Capacity Act applies",
+      "Advance decision to refuse treatment"
+    ],
+    "correct": 1,
+    "explanation": "Fraser guidelines assess whether a child under 16 has sufficient understanding and intelligence to make informed decisions about contraception. The doctor must believe she understands the advice, can't be persuaded to involve parents, will likely have sex regardless, and treatment is in her best interests."
+  },
+  {
+    "id": "kt9_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A patient provides consent for an operation after being told about the 1 in 1000 risk of nerve damage.\n\nWhich type of consent is required for this procedure to be valid?",
+    "options": [
+      "Implied consent",
+      "Written consent",
+      "Informed consent",
+      "Verbal consent",
+      "Deemed consent"
+    ],
+    "correct": 2,
+    "explanation": "Consent must be informed — the patient must understand the nature, purpose, benefits and risks of the procedure. Since Montgomery v Lanarkshire (2015), doctors must disclose material risks a reasonable patient would want to know."
+  },
+  {
+    "id": "kt9_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A doctor is offered £500 by a patient as a gift after successful surgery.\n\nWhat is the most appropriate action?",
+    "options": [
+      "Accept it as a token of gratitude",
+      "Decline politely, explaining professional boundaries",
+      "Accept and donate it to charity",
+      "Accept it only if offered twice",
+      "Report the patient to the hospital"
+    ],
+    "correct": 1,
+    "explanation": "GMC guidance advises doctors should not encourage or accept gifts that could be interpreted as inducement or that might affect professional judgement. Polite refusal with explanation maintains professional boundaries. Small tokens of thanks may be acceptable per local policy."
+  },
+  {
+    "id": "kt9_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A medical student is reviewing a patient's notes with the supervising doctor.\n\nWhich is the most appropriate way to document a clinical entry?",
+    "options": [
+      "Write in pencil for easy correction",
+      "Use abbreviations freely to save time",
+      "Date, time, sign and include designation",
+      "Write only positive findings",
+      "Delete incorrect entries with correction fluid"
+    ],
+    "correct": 2,
+    "explanation": "Clinical documentation must be contemporaneous, legible, dated, timed, signed (with printed name and designation). Errors should be crossed through with a single line, signed and dated. Abbreviations should be standard and unambiguous."
+  },
+  {
+    "id": "kt9_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A junior doctor makes an error in prescribing medication which is detected before administration.\n\nWhat is the most appropriate first action?",
+    "options": [
+      "Report the near-miss via the incident reporting system",
+      "Inform the patient immediately",
+      "Log it privately for personal reflection",
+      "Only report if the patient complains",
+      "Wait until the end of the shift to report"
+    ],
+    "correct": 0,
+    "explanation": "Near-miss events should be reported via local incident reporting systems (e.g. Datix). This supports organisational learning and prevents future harm. Duty of candour applies when actual harm occurs; near-misses still need reporting for safety improvements."
+  },
+  {
+    "id": "kt9_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A patient comes to clinic and says they have been researching their symptoms online.\n\nWhich communication approach is most likely to foster a shared understanding?",
+    "options": [
+      "Correct their misunderstandings immediately",
+      "Dismiss internet information as unreliable",
+      "Explore what they have found and discuss it with them",
+      "Refuse to engage with online information",
+      "Redirect them to the relevant consultant"
+    ],
+    "correct": 2,
+    "explanation": "Patient-centred communication involves exploring patients' ideas, concerns and expectations (ICE). Discussing internet-sourced information respectfully helps build rapport and address any misconceptions. It also supports shared decision-making."
+  },
+  {
+    "id": "kt9_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A junior doctor is asked to perform a procedure they have not been trained for.\n\nWhat is the most appropriate response?",
+    "options": [
+      "Attempt it and learn on the job",
+      "Decline and explain they are not competent, ask for supervision",
+      "Refuse without explanation",
+      "Delegate to another junior",
+      "Proceed but ask a nurse to supervise"
+    ],
+    "correct": 1,
+    "explanation": "GMC Good Medical Practice requires doctors to recognise the limits of their competence and not perform procedures they are not trained for. Request senior supervision or decline if unsafe. Honest recognition of limitations is a core professional duty."
+  },
+  {
+    "id": "kt9_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A study compares outcomes between patients exposed to a risk factor and those not exposed, following both groups forward in time.\n\nWhat type of study is this?",
+    "options": [
+      "Case-control study",
+      "Cross-sectional study",
+      "Cohort study",
+      "Randomised controlled trial",
+      "Case series"
+    ],
+    "correct": 2,
+    "explanation": "A cohort study follows groups defined by exposure status forward over time to measure outcome incidence. Prospective cohort studies are used to calculate incidence and relative risk. Case-control studies look backwards from outcome to exposure."
+  },
+  {
+    "id": "kt9_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A diagnostic test has a sensitivity of 90% and specificity of 95%.\n\nWhat does the sensitivity of 90% mean?",
+    "options": [
+      "90% of test-negative patients do not have the disease",
+      "90% of people with the disease test positive",
+      "90% of people without the disease test negative",
+      "90% of test-positive patients have the disease",
+      "The test is 90% accurate"
+    ],
+    "correct": 1,
+    "explanation": "Sensitivity is the proportion of patients with the disease who test positive: TP/(TP+FN). A highly sensitive test is good at ruling out (SnNout). Specificity is the proportion without disease who test negative."
+  },
+  {
+    "id": "kt9_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A randomised controlled trial is described as 'double-blind'.\n\nWho is blinded in a double-blind trial?",
+    "options": [
+      "Only participants",
+      "Only investigators",
+      "Both participants and investigators",
+      "Participants, investigators and data analysts",
+      "Only the statistician"
+    ],
+    "correct": 2,
+    "explanation": "Double-blind means both participants and investigators are blinded to group allocation. Triple-blind additionally blinds data analysts. Blinding reduces observer bias and placebo/nocebo effects, strengthening internal validity."
+  },
+  {
+    "id": "kt9_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A new drug trial reports a p-value of 0.03 for the primary outcome.\n\nWhich interpretation is most accurate?",
+    "options": [
+      "The drug is 97% likely to be effective",
+      "There is a 3% chance the null hypothesis is true",
+      "The probability of observing the result (or more extreme) if the null hypothesis were true is 3%",
+      "The drug is definitely effective",
+      "The drug has no clinically significant effect"
+    ],
+    "correct": 2,
+    "explanation": "A p-value is the probability of observing the obtained (or more extreme) result under the null hypothesis. It does not quantify the probability that the null hypothesis is true. Statistical significance (p<0.05) does not equal clinical significance."
+  },
+  {
+    "id": "kt9_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A trial reports an absolute risk reduction (ARR) of 5% from a new drug.\n\nWhat is the corresponding number needed to treat (NNT)?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "50",
+      "100"
+    ],
+    "correct": 2,
+    "explanation": "NNT = 1/ARR. With ARR = 5% (0.05), NNT = 1/0.05 = 20. This means 20 patients need to be treated to prevent one adverse outcome. Lower NNT indicates greater benefit."
+  },
+  {
+    "id": "kt9_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 70-year-old man presents with acute chest pain. His ECG shows ST elevation in V1-V4.\n\nWhich coronary artery is most likely occluded?",
+    "answer": "Left anterior descending artery",
+    "explanation": "Anterior STEMI (ST elevation in V1-V4) reflects occlusion of the left anterior descending (LAD) artery, which supplies the anterior wall of the left ventricle and interventricular septum."
+  },
+  {
+    "id": "kt9_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 55-year-old smoker has an FEV1 of 1.2 L (45% predicted) and FEV1/FVC ratio of 0.58.\n\nAccording to GOLD criteria, what severity of COPD does this represent?",
+    "answer": "Moderate (GOLD 2)",
+    "explanation": "GOLD severity based on FEV1% predicted: GOLD 1 (mild) ≥80%, GOLD 2 (moderate) 50-79%, GOLD 3 (severe) 30-49%, GOLD 4 (very severe) <30%. An FEV1 of 45% is moderate (GOLD 2)."
+  },
+  {
+    "id": "kt9_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 10-year-old boy with HIV is prophylactically given co-trimoxazole.\n\nWhich opportunistic infection does this prevent?",
+    "answer": "Pneumocystis jirovecii pneumonia (PCP/PJP)",
+    "explanation": "Co-trimoxazole (trimethoprim-sulfamethoxazole) prophylaxis prevents Pneumocystis jirovecii pneumonia in immunocompromised patients (HIV with CD4 <200, chemotherapy patients, transplant recipients)."
+  },
+  {
+    "id": "kt9_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 65-year-old man with metastatic prostate cancer has a PSA that has risen from 45 to 120 ng/mL over 6 months despite treatment.\n\nWhat type of androgen deprivation therapy works by blocking GnRH release from the pituitary?",
+    "answer": "GnRH agonist (e.g. goserelin, leuprolide)",
+    "explanation": "GnRH agonists initially stimulate and then downregulate pituitary GnRH receptors, causing a 'tumour flare' then suppression of LH and testosterone. Anti-androgens (bicalutamide) are given in the first weeks to prevent flare symptoms."
+  },
+  {
+    "id": "kt9_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "A 28-year-old woman presents with complete loss of vision in her right eye over several hours, preceded by painful eye movements.\n\nWhat is the most likely diagnosis?",
+    "answer": "Optic neuritis",
+    "explanation": "Optic neuritis classically presents with subacute monocular visual loss, painful eye movements, and an afferent pupillary defect. It is commonly associated with multiple sclerosis (up to 50% of patients with isolated optic neuritis will develop MS)."
+  },
+  {
+    "id": "kt9_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A 25-year-old woman takes a significant paracetamol overdose.\n\nWhat is the specific antidote?",
+    "answer": "N-acetylcysteine (NAC)",
+    "explanation": "N-acetylcysteine replenishes glutathione, which detoxifies the hepatotoxic metabolite NAPQI. Treatment is guided by the paracetamol level plotted on a nomogram at ≥4 hours post ingestion, or empirically if staggered/unknown ingestion."
+  },
+  {
+    "id": "kt9_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "A 75-year-old man with advanced dementia lacks capacity. He has no family and no advance decision.\n\nUnder what legal framework must decisions about serious medical treatment be made, including the involvement of an independent advocate?",
+    "answer": "Mental Capacity Act 2005 (with an IMCA — Independent Mental Capacity Advocate)",
+    "explanation": "The Mental Capacity Act 2005 governs decision-making for adults lacking capacity in England and Wales. An IMCA must be appointed for serious medical treatment decisions when the patient has no family or friends to consult."
+  },
+  {
+    "id": "kt9_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A systematic review pools results from multiple RCTs using statistical methods to estimate an overall effect size.\n\nWhat is this type of analysis called?",
+    "answer": "Meta-analysis",
+    "explanation": "A meta-analysis uses statistical methods to combine results from multiple independent studies. Forest plots display individual and pooled effect sizes. Heterogeneity (I² statistic) should be assessed to check if studies are sufficiently similar to pool."
+  }
+]

@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt8_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A patient has a heart rate of 75 bpm and a stroke volume of 80 mL.\n\nWhat is the cardiac output?",
+    "options": [
+      "4.5 L/min",
+      "5.0 L/min",
+      "6.0 L/min",
+      "7.5 L/min",
+      "8.0 L/min"
+    ],
+    "correct": 2,
+    "explanation": "Cardiac output = heart rate × stroke volume = 75 × 80 = 6000 mL/min = 6.0 L/min."
+  },
+  {
+    "id": "kt8_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 72-year-old woman has an ECG showing ST elevation in leads V1–V4.\n\nWhich coronary artery is most likely occluded?",
+    "options": [
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Left anterior descending artery",
+      "Posterior descending artery",
+      "Left main stem"
+    ],
+    "correct": 2,
+    "explanation": "ST elevation in V1–V4 represents an anteroseptal STEMI, usually caused by occlusion of the LAD."
+  },
+  {
+    "id": "kt8_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which structure of the heart functions as the natural backup pacemaker if the SA node fails?",
+    "options": [
+      "Atrioventricular node",
+      "Bundle of His",
+      "Right bundle branch",
+      "Left posterior fascicle",
+      "Purkinje fibres"
+    ],
+    "correct": 0,
+    "explanation": "If the SA node fails, the AV node typically takes over at a slower rate (~40–60 bpm)."
+  },
+  {
+    "id": "kt8_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A patient is started on a drug that lowers blood pressure by blocking calcium channels in vascular smooth muscle.\n\nWhich drug class is this?",
+    "options": [
+      "ACE inhibitor",
+      "ARB",
+      "Beta-blocker",
+      "Calcium channel blocker",
+      "Thiazide diuretic"
+    ],
+    "correct": 3,
+    "explanation": "Calcium channel blockers (e.g. amlodipine) reduce intracellular calcium in vascular smooth muscle, causing vasodilation and lowering blood pressure."
+  },
+  {
+    "id": "kt8_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 68-year-old man has an irregularly irregular pulse and an ECG with no clear P waves.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Sinus rhythm",
+      "Atrial flutter",
+      "Atrial fibrillation",
+      "Ventricular tachycardia",
+      "Complete heart block"
+    ],
+    "correct": 2,
+    "explanation": "Atrial fibrillation classically causes an irregularly irregular pulse with absent P waves on ECG."
+  },
+  {
+    "id": "kt8_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which of the following is the most common cause of left ventricular hypertrophy?",
+    "options": [
+      "Hyperthyroidism",
+      "Hypertension",
+      "Mitral stenosis",
+      "Pulmonary embolism",
+      "Hypovolaemia"
+    ],
+    "correct": 1,
+    "explanation": "Chronic systemic hypertension is the commonest cause of left ventricular hypertrophy due to increased afterload."
+  },
+  {
+    "id": "kt8_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A patient has a blood pressure reading of 160/100 mmHg consistently. He is 50 years old, white, and has no comorbidities.\n\nWhich is the most appropriate first-line antihypertensive?",
+    "options": [
+      "ACE inhibitor",
+      "Calcium channel blocker",
+      "Thiazide diuretic",
+      "Beta-blocker",
+      "Alpha-blocker"
+    ],
+    "correct": 0,
+    "explanation": "For patients under 55 not of Black African or Caribbean origin, an ACE inhibitor (or ARB) is first-line antihypertensive."
+  },
+  {
+    "id": "kt8_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "Which mechanism best explains the action of furosemide?",
+    "options": [
+      "Inhibition of Na/Cl transporter in the distal tubule",
+      "Inhibition of Na/K/2Cl transporter in the thick ascending limb",
+      "Aldosterone receptor antagonism",
+      "Inhibition of carbonic anhydrase",
+      "Vasopressin receptor antagonism"
+    ],
+    "correct": 1,
+    "explanation": "Furosemide is a loop diuretic that inhibits the Na/K/2Cl transporter in the thick ascending limb of the loop of Henle."
+  },
+  {
+    "id": "kt8_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 65-year-old smoker with chronic productive cough and breathlessness has a post-bronchodilator FEV1/FVC of 0.62.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "Bronchiectasis",
+      "Chronic obstructive pulmonary disease",
+      "Pulmonary fibrosis",
+      "Lung cancer"
+    ],
+    "correct": 2,
+    "explanation": "A post-bronchodilator FEV1/FVC < 0.7 in a smoker with chronic respiratory symptoms is consistent with COPD."
+  },
+  {
+    "id": "kt8_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "Which cells line the alveoli and are responsible for gas exchange?",
+    "options": [
+      "Type I pneumocytes",
+      "Type II pneumocytes",
+      "Goblet cells",
+      "Ciliated columnar cells",
+      "Alveolar macrophages"
+    ],
+    "correct": 0,
+    "explanation": "Type I pneumocytes are flat, thin cells covering the majority of the alveolar surface and are responsible for gas exchange."
+  },
+  {
+    "id": "kt8_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A patient with asthma uses a salbutamol inhaler.\n\nWhich receptor mediates its bronchodilator effect?",
+    "options": [
+      "α1 adrenergic",
+      "β1 adrenergic",
+      "β2 adrenergic",
+      "M3 muscarinic",
+      "H1 histamine"
+    ],
+    "correct": 2,
+    "explanation": "Salbutamol is a β2 agonist; activation of β2 receptors on bronchial smooth muscle causes bronchodilation."
+  },
+  {
+    "id": "kt8_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 78-year-old woman with pneumonia is admitted with confusion, urea 9 mmol/L, respiratory rate 32, and BP 88/55 mmHg.\n\nWhat is her CURB-65 score?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 4,
+    "explanation": "Confusion (1) + urea > 7 (1) + RR ≥ 30 (1) + SBP < 90 (1) + age ≥ 65 (1) = 5. This indicates severe pneumonia and ICU consideration."
+  },
+  {
+    "id": "kt8_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 21-year-old man becomes acutely breathless after a long-haul flight. His oxygen saturations are 92% and his D-dimer is markedly elevated.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Acute asthma",
+      "Pneumothorax",
+      "Heart failure"
+    ],
+    "correct": 1,
+    "explanation": "Sudden breathlessness after prolonged immobility with raised D-dimer suggests pulmonary embolism. CTPA is the investigation of choice."
+  },
+  {
+    "id": "kt8_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "explanation": "Vitamin C deficiency impairs collagen synthesis, causing scurvy with bleeding gums, perifollicular haemorrhage, and poor wound healing."
+  },
+  {
+    "id": "kt8_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 35-year-old woman has microcytic hypochromic anaemia.\n\nWhich is the most likely cause?",
+    "options": [
+      "B12 deficiency",
+      "Folate deficiency",
+      "Iron deficiency",
+      "Anaemia of chronic disease alone",
+      "Haemolysis"
+    ],
+    "correct": 2,
+    "explanation": "Microcytic hypochromic anaemia is classic of iron deficiency. Common causes include menstrual loss, GI bleeding, and dietary deficiency."
+  },
+  {
+    "id": "kt8_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "Which substance is essential for the absorption of vitamin B12 in the terminal ileum?",
+    "options": [
+      "Bile salts",
+      "Pancreatic lipase",
+      "Intrinsic factor",
+      "Pepsin",
+      "Hydrochloric acid"
+    ],
+    "correct": 2,
+    "explanation": "Intrinsic factor, secreted by gastric parietal cells, binds B12 and enables receptor-mediated absorption in the terminal ileum."
+  },
+  {
+    "id": "kt8_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "How many kilocalories are provided per gram of protein?",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "9",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Protein and carbohydrate provide 4 kcal/g; fat 9 kcal/g; alcohol 7 kcal/g."
+  },
+  {
+    "id": "kt8_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Which hormone, produced during pregnancy, maintains the corpus luteum in early gestation?",
+    "options": [
+      "Oestrogen",
+      "Luteinising hormone",
+      "Human chorionic gonadotropin",
+      "Progesterone",
+      "Inhibin"
+    ],
+    "correct": 2,
+    "explanation": "hCG, produced by the trophoblast, maintains the corpus luteum (and thus progesterone production) until the placenta takes over."
+  },
+  {
+    "id": "kt8_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Which structure produces testosterone in the testis?",
+    "options": [
+      "Sertoli cells",
+      "Leydig cells",
+      "Spermatogonia",
+      "Seminiferous tubules",
+      "Epididymis"
+    ],
+    "correct": 1,
+    "explanation": "Leydig cells in the testis produce testosterone in response to LH. Sertoli cells support spermatogenesis."
+  },
+  {
+    "id": "kt8_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "Which hormone is responsible for milk ejection (let-down) during breastfeeding?",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Oestrogen",
+      "Progesterone",
+      "FSH"
+    ],
+    "correct": 1,
+    "explanation": "Oxytocin from the posterior pituitary causes milk ejection by stimulating contraction of myoepithelial cells. Prolactin is responsible for milk production."
+  },
+  {
+    "id": "kt8_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A pregnant woman attends for her booking visit at 11 weeks. She is rhesus D negative.\n\nAt approximately what gestation should routine anti-D prophylaxis be given?",
+    "options": [
+      "12 weeks",
+      "20 weeks",
+      "28 weeks",
+      "34 weeks",
+      "Only post-delivery"
+    ],
+    "correct": 2,
+    "explanation": "Routine antenatal anti-D prophylaxis is offered at 28 weeks (sometimes split between 28 and 34 weeks). Additional doses are given after sensitising events."
+  },
+  {
+    "id": "kt8_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which cell type produces antibodies?",
+    "options": [
+      "T helper cell",
+      "Cytotoxic T cell",
+      "Plasma cell",
+      "Macrophage",
+      "Neutrophil"
+    ],
+    "correct": 2,
+    "explanation": "Plasma cells, terminally differentiated B cells, are the primary producers of antibodies."
+  },
+  {
+    "id": "kt8_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which immunoglobulin can cross the placenta?",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correct": 3,
+    "explanation": "IgG is the only immunoglobulin that crosses the placenta, providing passive immunity to the fetus."
+  },
+  {
+    "id": "kt8_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which class of MHC molecule presents endogenous (intracellular) antigens?",
+    "options": [
+      "MHC class I",
+      "MHC class II",
+      "MHC class III",
+      "Both class I and II equally",
+      "Neither — endogenous antigens are not presented"
+    ],
+    "correct": 0,
+    "explanation": "MHC class I presents endogenous peptides (e.g. viral) to CD8+ T cells. MHC class II presents exogenous peptides to CD4+ T cells."
+  },
+  {
+    "id": "kt8_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "Which is the correct first-line treatment for an adult with anaphylaxis?",
+    "options": [
+      "Oral antihistamine",
+      "IV hydrocortisone",
+      "IM adrenaline 500 micrograms",
+      "Nebulised salbutamol",
+      "Subcutaneous adrenaline"
+    ],
+    "correct": 2,
+    "explanation": "First-line treatment for anaphylaxis is intramuscular adrenaline 500 micrograms (0.5 mL of 1:1000) into the anterolateral thigh."
+  },
+  {
+    "id": "kt8_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Gram staining of a urine specimen shows pink rod-shaped bacteria.\n\nWhich organism is most likely?",
+    "options": [
+      "Escherichia coli",
+      "Staphylococcus saprophyticus",
+      "Enterococcus faecalis",
+      "Streptococcus agalactiae",
+      "Candida albicans"
+    ],
+    "correct": 0,
+    "explanation": "Gram-negative (pink) rods causing UTI are most often Escherichia coli, the commonest cause of UTI."
+  },
+  {
+    "id": "kt8_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 25-year-old woman has fever, sore throat, and cervical lymphadenopathy. The Monospot test is positive.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Streptococcal pharyngitis",
+      "Infectious mononucleosis (EBV)",
+      "Cytomegalovirus infection",
+      "HIV seroconversion",
+      "Toxoplasmosis"
+    ],
+    "correct": 1,
+    "explanation": "A positive Monospot (heterophile antibody) test in this clinical context is most consistent with EBV infectious mononucleosis."
+  },
+  {
+    "id": "kt8_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Which of the following is a fungal infection?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Candida albicans",
+      "Mycobacterium tuberculosis",
+      "Plasmodium falciparum"
+    ],
+    "correct": 2,
+    "explanation": "Candida albicans is a yeast (fungal organism). Streptococcus and Mycoplasma are bacteria; Mycobacterium is a bacterium; Plasmodium is a protozoan parasite."
+  },
+  {
+    "id": "kt8_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 19-year-old student has fever, headache, photophobia, and a stiff neck.\n\nWhich is the most appropriate first-line investigation in hospital after initial assessment?",
+    "options": [
+      "CT head before lumbar puncture if any signs suggest raised ICP",
+      "Lumbar puncture without further imaging",
+      "MRI brain",
+      "Serum CRP only",
+      "Throat swab only"
+    ],
+    "correct": 0,
+    "explanation": "If there are features suggesting raised ICP (focal neurology, reduced GCS, papilloedema, immunocompromise), CT head should be done before lumbar puncture. Otherwise LP can proceed promptly. Antibiotics should not be delayed."
+  },
+  {
+    "id": "kt8_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "Which antibiotic is most commonly first-line for an uncomplicated lower urinary tract infection in a non-pregnant woman?",
+    "options": [
+      "Amoxicillin",
+      "Nitrofurantoin",
+      "Ciprofloxacin",
+      "Co-amoxiclav",
+      "Doxycycline"
+    ],
+    "correct": 1,
+    "explanation": "Nitrofurantoin is first-line for uncomplicated lower UTI in non-pregnant women (provided eGFR > 45). Trimethoprim is an alternative."
+  },
+  {
+    "id": "kt8_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Which type of breast cancer is most common?",
+    "options": [
+      "Lobular carcinoma in situ",
+      "Invasive ductal carcinoma",
+      "Inflammatory breast cancer",
+      "Paget's disease of the nipple",
+      "Tubular carcinoma"
+    ],
+    "correct": 1,
+    "explanation": "Invasive ductal carcinoma (no special type) is the most common form of breast cancer."
+  },
+  {
+    "id": "kt8_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "What does HER2 status guide in breast cancer?",
+    "options": [
+      "Whether the patient needs surgery",
+      "Whether trastuzumab (Herceptin) is indicated",
+      "Whether the patient needs radiotherapy",
+      "Whether tamoxifen is indicated",
+      "The need for chemotherapy alone"
+    ],
+    "correct": 1,
+    "explanation": "HER2-positive breast cancers are treated with HER2-targeted therapy (e.g. trastuzumab). ER/PR status guides endocrine therapy."
+  },
+  {
+    "id": "kt8_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 55-year-old man has a 4-week history of change in bowel habit, rectal bleeding, and unintentional weight loss.\n\nWhich is the most appropriate next investigation?",
+    "options": [
+      "Faecal occult blood test",
+      "Colonoscopy",
+      "CT abdomen",
+      "Plain abdominal X-ray",
+      "Barium follow-through"
+    ],
+    "correct": 1,
+    "explanation": "Symptoms suggestive of colorectal cancer warrant urgent referral and colonoscopy as the gold-standard investigation."
+  },
+  {
+    "id": "kt8_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "Which oncological emergency presents with new back pain, leg weakness, and urinary retention in a patient with known cancer?",
+    "options": [
+      "Tumour lysis syndrome",
+      "Hypercalcaemia of malignancy",
+      "Malignant spinal cord compression",
+      "Superior vena cava obstruction",
+      "Neutropenic sepsis"
+    ],
+    "correct": 2,
+    "explanation": "Spinal cord compression presents with back pain, leg weakness, sensory level, and bladder/bowel dysfunction. Urgent MRI and dexamethasone are required."
+  },
+  {
+    "id": "kt8_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A patient has Heberden's nodes at her DIP joints.\n\nWhich condition is this most associated with?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Gout",
+      "Psoriatic arthritis",
+      "Septic arthritis"
+    ],
+    "correct": 1,
+    "explanation": "Heberden's nodes (DIP joint bony enlargement) are characteristic of osteoarthritis. Bouchard's nodes are at the PIP joints."
+  },
+  {
+    "id": "kt8_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "Which is the first-line non-pharmacological management of knee osteoarthritis?",
+    "options": [
+      "Joint replacement",
+      "Weight loss and exercise",
+      "Steroid injection",
+      "Hyaluronic acid injection",
+      "Bracing only"
+    ],
+    "correct": 1,
+    "explanation": "Weight loss and structured exercise are first-line for knee OA. Pharmacological and surgical options are reserved for inadequate response."
+  },
+  {
+    "id": "kt8_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "Which autoantibody is most strongly associated with systemic lupus erythematosus?",
+    "options": [
+      "Rheumatoid factor",
+      "Anti-CCP",
+      "Anti-dsDNA",
+      "Anti-centromere",
+      "ANCA"
+    ],
+    "correct": 2,
+    "explanation": "Anti-dsDNA is highly specific for SLE and titres often correlate with disease activity."
+  },
+  {
+    "id": "kt8_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Which of the following best describes afterload?",
+    "options": [
+      "End-diastolic ventricular volume",
+      "Resistance the ventricle must overcome to eject blood",
+      "Cardiac output divided by heart rate",
+      "Volume of blood in the venous system",
+      "Mean systemic filling pressure"
+    ],
+    "correct": 1,
+    "explanation": "Afterload is the resistance the ventricle must work against to eject blood. Increased afterload (e.g. aortic stenosis, hypertension) increases myocardial work and oxygen demand."
+  },
+  {
+    "id": "kt8_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Which structure has the slowest conduction velocity in the cardiac conduction system?",
+    "options": [
+      "SA node",
+      "AV node",
+      "Bundle of His",
+      "Purkinje fibres",
+      "Atrial muscle"
+    ],
+    "correct": 1,
+    "explanation": "The AV node has the slowest conduction velocity, which delays the impulse and allows the atria to empty before ventricular contraction."
+  },
+  {
+    "id": "kt8_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "Which physiological response is the body's main short-term mechanism for maintaining blood pressure during a fall in cardiac output?",
+    "options": [
+      "Renal aldosterone release",
+      "Baroreceptor-mediated sympathetic activation",
+      "Increased ANP secretion",
+      "Reduced ADH release",
+      "Increased parasympathetic tone"
+    ],
+    "correct": 1,
+    "explanation": "Carotid sinus and aortic baroreceptors detect falls in BP and trigger sympathetic nervous system activation, increasing heart rate, contractility, and vasoconstriction."
+  },
+  {
+    "id": "kt8_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which neurotransmitter is reduced in Parkinson's disease?",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "GABA",
+      "Glutamate",
+      "Serotonin"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease is caused by progressive loss of dopaminergic neurons in the substantia nigra, leading to dopamine deficiency in the striatum."
+  },
+  {
+    "id": "kt8_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which cells produce cerebrospinal fluid?",
+    "options": [
+      "Ependymal cells of the choroid plexus",
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Microglia",
+      "Schwann cells"
+    ],
+    "correct": 0,
+    "explanation": "CSF is produced by the choroid plexus, lined by specialised ependymal cells, and circulates through the ventricles and subarachnoid space."
+  },
+  {
+    "id": "kt8_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A patient presents with sudden right-sided weakness affecting his face, arm, and leg, with no sensory loss. CT head shows a small left subcortical infarct.\n\nWhich vascular territory is most likely affected?",
+    "options": [
+      "Anterior cerebral artery",
+      "Middle cerebral artery cortical branches",
+      "Lenticulostriate (deep penetrating) arteries — lacunar stroke",
+      "Posterior cerebral artery",
+      "Vertebrobasilar artery"
+    ],
+    "correct": 2,
+    "explanation": "A pure motor hemiparesis from a small subcortical infarct is the classic presentation of a lacunar stroke involving the lenticulostriate branches of the MCA."
+  },
+  {
+    "id": "kt8_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "Which lobe of the brain is primarily responsible for vision?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe",
+      "Cerebellum"
+    ],
+    "correct": 3,
+    "explanation": "The primary visual cortex is in the occipital lobe (V1, around the calcarine sulcus)."
+  },
+  {
+    "id": "kt8_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Which type of bone is rich in bone marrow and found at the ends of long bones?",
+    "options": [
+      "Cortical (compact) bone",
+      "Cancellous (trabecular) bone",
+      "Periosteum",
+      "Endosteum",
+      "Cartilage only"
+    ],
+    "correct": 1,
+    "explanation": "Cancellous (trabecular) bone forms the interior of bone ends and contains red marrow."
+  },
+  {
+    "id": "kt8_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Which of the following best describes the function of synovial fluid?",
+    "options": [
+      "Maintains joint stability",
+      "Lubricates and nourishes articular cartilage",
+      "Forms the joint capsule",
+      "Provides shock absorption alone",
+      "Produces collagen"
+    ],
+    "correct": 1,
+    "explanation": "Synovial fluid lubricates and nourishes the avascular articular cartilage, allowing low-friction movement."
+  },
+  {
+    "id": "kt8_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "Which muscle inserts at the lesser trochanter of the femur?",
+    "options": [
+      "Iliopsoas",
+      "Gluteus maximus",
+      "Quadriceps femoris",
+      "Sartorius",
+      "Adductor magnus"
+    ],
+    "correct": 0,
+    "explanation": "The iliopsoas (combined psoas major and iliacus) inserts at the lesser trochanter of the femur and is the strongest hip flexor."
+  },
+  {
+    "id": "kt8_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which organelle is responsible for protein synthesis from mRNA?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": 1,
+    "explanation": "Ribosomes (free in cytoplasm or attached to rough ER) translate mRNA into polypeptides."
+  },
+  {
+    "id": "kt8_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which of the following is a passive transport mechanism across the cell membrane?",
+    "options": [
+      "Facilitated diffusion",
+      "Sodium-potassium ATPase",
+      "Sodium-glucose cotransporter (SGLT1)",
+      "Endocytosis",
+      "Calcium ATPase"
+    ],
+    "correct": 0,
+    "explanation": "Facilitated diffusion uses transmembrane proteins to move substances down their concentration gradient and does not require ATP."
+  },
+  {
+    "id": "kt8_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which of these processes is part of the citric acid (Krebs) cycle?",
+    "options": [
+      "Glycolysis",
+      "Beta-oxidation of fatty acids",
+      "Oxidation of acetyl-CoA",
+      "Pentose phosphate pathway",
+      "Glycogen synthesis"
+    ],
+    "correct": 2,
+    "explanation": "The Krebs cycle oxidises acetyl-CoA, generating NADH and FADH2 that feed into the electron transport chain to produce ATP."
+  },
+  {
+    "id": "kt8_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "Which type of mutation results in a premature stop codon?",
+    "options": [
+      "Silent",
+      "Missense",
+      "Nonsense",
+      "Frameshift",
+      "Splice site"
+    ],
+    "correct": 2,
+    "explanation": "A nonsense mutation introduces a premature stop codon, truncating the protein and usually rendering it non-functional."
+  },
+  {
+    "id": "kt8_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which drug is the first-line treatment for severe paracetamol overdose?",
+    "options": [
+      "Sodium bicarbonate",
+      "N-acetylcysteine",
+      "Naloxone",
+      "Activated charcoal alone",
+      "Methylene blue"
+    ],
+    "correct": 1,
+    "explanation": "N-acetylcysteine (NAC) replenishes hepatic glutathione and is the antidote for paracetamol overdose. Activated charcoal may be useful within 1 hour of ingestion."
+  },
+  {
+    "id": "kt8_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which of the following is a side effect commonly associated with statins?",
+    "options": [
+      "Hyperkalaemia",
+      "Photosensitivity",
+      "Myopathy and elevated creatine kinase",
+      "Hyperthyroidism",
+      "Pulmonary fibrosis"
+    ],
+    "correct": 2,
+    "explanation": "Statins can cause myopathy with raised CK; rarely rhabdomyolysis. Risk is increased by drug interactions (e.g. macrolides, fibrates) and renal impairment."
+  },
+  {
+    "id": "kt8_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient with depression is started on fluoxetine.\n\nWhich class of drug is fluoxetine?",
+    "options": [
+      "Tricyclic antidepressant",
+      "Monoamine oxidase inhibitor",
+      "Selective serotonin reuptake inhibitor",
+      "Serotonin–noradrenaline reuptake inhibitor",
+      "Atypical antidepressant"
+    ],
+    "correct": 2,
+    "explanation": "Fluoxetine is an SSRI (selective serotonin reuptake inhibitor), a first-line agent for depression and several anxiety disorders."
+  },
+  {
+    "id": "kt8_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "What is the recommended low-risk weekly alcohol limit per the UK Chief Medical Officers?",
+    "options": [
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units",
+      "35 units"
+    ],
+    "correct": 1,
+    "explanation": "UK CMOs recommend not regularly drinking more than 14 units per week, ideally spread over 3 or more days, with several alcohol-free days."
+  },
+  {
+    "id": "kt8_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which of the following best describes the half-life of a drug?",
+    "options": [
+      "Time to reach peak plasma concentration",
+      "Time taken to eliminate half the dose given",
+      "Time for plasma concentration to fall by 50%",
+      "Time taken to absorb half the dose",
+      "Maximal duration of action"
+    ],
+    "correct": 2,
+    "explanation": "Half-life is the time taken for the plasma concentration to fall by 50%. After 5 half-lives, ~97% of the drug has been eliminated."
+  },
+  {
+    "id": "kt8_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which drug is the antidote for warfarin overdose with major bleeding?",
+    "options": [
+      "Oral vitamin K alone",
+      "Protamine sulphate",
+      "Fresh frozen plasma alone",
+      "IV vitamin K plus prothrombin complex concentrate",
+      "Naloxone"
+    ],
+    "correct": 3,
+    "explanation": "Major bleeding on warfarin requires IV vitamin K plus prothrombin complex concentrate (PCC) to rapidly reverse anticoagulation. FFP is alternative if PCC unavailable but slower."
+  },
+  {
+    "id": "kt8_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient is started on insulin therapy. He becomes shaky, sweaty, and confused 3 hours after his evening dose.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Diabetic ketoacidosis",
+      "Hyperglycaemia",
+      "Hypoglycaemia",
+      "Insulin allergy",
+      "Septic shock"
+    ],
+    "correct": 2,
+    "explanation": "Hypoglycaemia is a common adverse effect of insulin therapy. Symptoms include autonomic features (sweating, tremor, palpitations) and neuroglycopenic features (confusion, drowsiness)."
+  },
+  {
+    "id": "kt8_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "Which is the most common cause of treatment-related side effects in older adults on multiple medications?",
+    "options": [
+      "Drug-induced liver failure",
+      "Polypharmacy with drug interactions and cumulative side effects",
+      "Acute renal failure as a single mechanism",
+      "Allergic reactions only",
+      "Idiosyncratic reactions"
+    ],
+    "correct": 1,
+    "explanation": "Polypharmacy in older adults increases the risk of drug interactions, cumulative side effects, falls, and confusion. Regular medication review (e.g. STOPP/START criteria) is essential."
+  },
+  {
+    "id": "kt8_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Which of the four pillars of biomedical ethics refers to doing no harm?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence",
+      "Justice",
+      "Veracity"
+    ],
+    "correct": 2,
+    "explanation": "Non-maleficence (primum non nocere) refers to the duty to avoid causing harm. Beneficence is the duty to act in the patient's best interest."
+  },
+  {
+    "id": "kt8_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "An adult patient with capacity refuses a blood transfusion that is recommended for treatment of severe anaemia.\n\nWhich ethical principle most directly supports respecting their refusal?",
+    "options": [
+      "Beneficence",
+      "Non-maleficence",
+      "Autonomy",
+      "Justice",
+      "Paternalism"
+    ],
+    "correct": 2,
+    "explanation": "A competent adult has the right to refuse any treatment, even if life-threatening. This is grounded in respect for autonomy."
+  },
+  {
+    "id": "kt8_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Which of the following situations would justify breaking patient confidentiality without consent?",
+    "options": [
+      "Curiosity by a healthcare worker",
+      "A relative requesting information",
+      "Notifiable disease (e.g. tuberculosis)",
+      "A research project asking for de-identified data",
+      "The patient asks the GP not to share with family"
+    ],
+    "correct": 2,
+    "explanation": "Doctors are required by law to notify certain diseases (e.g. TB, meningitis) under the Health Protection (Notification) Regulations."
+  },
+  {
+    "id": "kt8_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "Which principle requires doctors to be open and honest with patients when something has gone wrong with their care?",
+    "options": [
+      "Confidentiality",
+      "Duty of candour",
+      "Justice",
+      "Bolam principle",
+      "Conscientious objection"
+    ],
+    "correct": 1,
+    "explanation": "The duty of candour, both professional (GMC) and statutory, requires healthcare providers to inform patients (or families) when harm or potential harm has occurred."
+  },
+  {
+    "id": "kt8_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A community midwife provides preconception folic acid advice to a woman planning pregnancy.\n\nWhat is the recommended dose of folic acid for a low-risk woman?",
+    "options": [
+      "100 micrograms daily",
+      "200 micrograms daily",
+      "400 micrograms daily",
+      "1 milligram daily",
+      "5 milligrams daily"
+    ],
+    "correct": 2,
+    "explanation": "Low-risk women planning pregnancy should take 400 micrograms folic acid daily preconception until 12 weeks. Higher dose (5 mg) is for high-risk women (e.g. previous NTD, antiepileptics, diabetes, BMI ≥ 30)."
+  },
+  {
+    "id": "kt8_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 35-year-old patient says he understands that smoking is bad for him, and he wants to stop within the next month.\n\nWhich stage of the transtheoretical model best describes him?",
+    "options": [
+      "Precontemplation",
+      "Contemplation",
+      "Preparation",
+      "Action",
+      "Maintenance"
+    ],
+    "correct": 2,
+    "explanation": "Preparation describes a patient who is intending to take action in the next 30 days and may already be making small steps toward change."
+  },
+  {
+    "id": "kt8_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 70-year-old man with type 2 diabetes attends for his annual review. The diabetes nurse explores his understanding of his condition, his goals for the year, and any concerns.\n\nWhich type of consultation is this?",
+    "options": [
+      "Doctor-centred",
+      "Patient-centred",
+      "Systematic enquiry only",
+      "Brief intervention",
+      "Crisis assessment"
+    ],
+    "correct": 1,
+    "explanation": "Patient-centred consultations explore the patient's perspective (ICE), promote shared decision-making, and tailor management to the individual's priorities."
+  },
+  {
+    "id": "kt8_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "Which is an example of primary prevention?",
+    "options": [
+      "Mammography for breast cancer screening",
+      "MMR vaccination",
+      "Cardiac rehabilitation after MI",
+      "Insulin therapy in established diabetes",
+      "Statin in established coronary disease"
+    ],
+    "correct": 1,
+    "explanation": "Primary prevention prevents disease occurring (e.g. immunisation, healthy lifestyle). Secondary prevention detects disease early; tertiary prevention reduces complications of established disease."
+  },
+  {
+    "id": "kt8_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A diagnostic test correctly identifies 90 of 100 people with the disease and 80 of 100 without.\n\nWhat is the sensitivity?",
+    "options": [
+      "70%",
+      "80%",
+      "85%",
+      "90%",
+      "95%"
+    ],
+    "correct": 3,
+    "explanation": "Sensitivity = TP / (TP + FN) = 90/100 = 90%."
+  },
+  {
+    "id": "kt8_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A new drug reduces mortality from 20% to 15% over 1 year.\n\nWhat is the absolute risk reduction?",
+    "options": [
+      "5%",
+      "15%",
+      "20%",
+      "25%",
+      "33%"
+    ],
+    "correct": 0,
+    "explanation": "ARR = control rate − treatment rate = 20% − 15% = 5%. NNT = 1/0.05 = 20."
+  },
+  {
+    "id": "kt8_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Which study design observes a group of disease-free participants over time to compare outcomes by exposure?",
+    "options": [
+      "Cross-sectional study",
+      "Case-control study",
+      "Cohort study",
+      "Case report",
+      "Ecological study"
+    ],
+    "correct": 2,
+    "explanation": "A cohort study follows exposed and unexposed groups forwards in time to compare incidence of the outcome. It allows direct calculation of relative risk."
+  },
+  {
+    "id": "kt8_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "What is the function of randomisation in a clinical trial?",
+    "options": [
+      "To increase sample size",
+      "To balance known and unknown confounders between groups",
+      "To eliminate placebo effect",
+      "To shorten follow-up duration",
+      "To prevent dropouts"
+    ],
+    "correct": 1,
+    "explanation": "Randomisation balances known and unknown confounders between treatment groups, reducing bias and supporting causal inference."
+  },
+  {
+    "id": "kt8_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "Which of the following best describes a 95% confidence interval?",
+    "options": [
+      "The range that contains 95% of the population",
+      "The range within which the true population value lies with 95% confidence",
+      "A measure of effect size",
+      "The probability that the result is real",
+      "The variance divided by the mean"
+    ],
+    "correct": 1,
+    "explanation": "A 95% confidence interval gives the range within which the true population parameter is expected to lie with 95% confidence, reflecting the precision of the estimate."
+  },
+  {
+    "id": "kt8_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 60-year-old man with hypertension has had three readings of 162/98 mmHg in clinic.\n\n(a) Which class of antihypertensive is most appropriate first-line for him?\n(b) Name two common side effects of this class.",
+    "answer": "(a) ACE inhibitor (e.g. ramipril) — first-line for patients under 55 not of Black African or Caribbean origin.\n(b) Any two of: dry cough, hyperkalaemia, first-dose hypotension, angio-oedema, acute kidney injury (especially with renal artery stenosis), teratogenicity in pregnancy.",
+    "explanation": "Cough is due to bradykinin accumulation. Renal function and electrolytes should be checked at initiation and after dose changes."
+  },
+  {
+    "id": "kt8_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 12-month-old infant has cough, runny nose, wheeze, and mild respiratory distress.\n\n(a) What is the most likely diagnosis?\n(b) Name one organism most commonly responsible.",
+    "answer": "(a) Acute viral bronchiolitis.\n(b) Respiratory syncytial virus (RSV).",
+    "explanation": "Bronchiolitis affects infants under 2 years. Management is largely supportive — oxygen, fluids, and feeding support."
+  },
+  {
+    "id": "kt8_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 4-year-old child has had a recent peanut exposure and develops urticaria, wheeze, and hypotension within minutes.\n\n(a) What type of hypersensitivity reaction is this?\n(b) What is the first-line management?",
+    "answer": "(a) Type I (IgE-mediated) hypersensitivity — anaphylaxis.\n(b) IM adrenaline (paediatric dose: 150 micrograms for under 6 years; 300 micrograms for 6–12 years; 500 micrograms for over 12 years), high-flow oxygen, IV fluids, ABC support.",
+    "explanation": "Anaphylaxis is a clinical diagnosis. After acute management, observe for biphasic reactions, provide adrenaline auto-injectors, and refer to a paediatric allergy service."
+  },
+  {
+    "id": "kt8_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 50-year-old woman is offered cervical screening through the NHS programme.\n\n(a) What is the screening interval for women aged 25–49?\n(b) What is the primary screening test now used?",
+    "answer": "(a) Every 3 years.\n(b) Primary high-risk human papillomavirus (HPV) testing, with reflex cytology if HPV-positive.",
+    "explanation": "Women aged 50–64 are screened every 5 years. Primary HPV testing has higher sensitivity for detecting cervical intraepithelial neoplasia than cytology alone."
+  },
+  {
+    "id": "kt8_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "A 70-year-old man is brought to A&E 3 hours after sudden onset of left-sided weakness and dysarthria. CT head excludes haemorrhage.\n\n(a) What is the most appropriate immediate treatment?\n(b) What time window applies for this treatment?",
+    "answer": "(a) IV thrombolysis with alteplase (and consider mechanical thrombectomy if large vessel anterior circulation occlusion).\n(b) Within 4.5 hours of symptom onset for thrombolysis (mechanical thrombectomy can be considered up to 24 hours in selected patients).",
+    "explanation": "Stroke is time-critical. Faster treatment improves outcomes — 'time is brain'. Aspirin 300 mg is started after 24 hours if thrombolysis was given."
+  },
+  {
+    "id": "kt8_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A 32-year-old woman is started on amoxicillin for a urinary tract infection. Within 5 minutes she develops urticaria, throat swelling, and wheeze.\n\n(a) What is the most likely diagnosis?\n(b) Name two interventions that should occur immediately.",
+    "answer": "(a) Anaphylaxis (Type I hypersensitivity to amoxicillin).\n(b) Any two of: stop the antibiotic; IM adrenaline 500 micrograms; high-flow oxygen; IV fluid bolus; lay the patient flat with legs elevated; call resuscitation team.",
+    "explanation": "Allergy should be clearly documented to prevent future re-exposure. Refer to allergy services for confirmation and advice on alternatives."
+  },
+  {
+    "id": "kt8_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "A 20-year-old man with capacity refuses surgery for a strangulated hernia, fully understanding that he may die without intervention.\n\nOutline the ethical principles that apply.",
+    "answer": "A competent adult has the right to refuse treatment, even if life-threatening (autonomy). Capacity must be formally assessed under the Mental Capacity Act — ability to understand, retain, weigh, and communicate the decision. The decision must be informed (the patient knows the risks of refusal) and voluntary. The clinical team should ensure this, document discussion carefully, offer a second opinion, and continue palliative/supportive care. Beneficence and non-maleficence are balanced by respect for autonomy.",
+    "explanation": "Unwise decisions do not by themselves indicate lack of capacity. Capacity is decision-specific and time-specific."
+  },
+  {
+    "id": "kt8_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A trial reports that drug X reduces mortality from 8% to 5%.\n\n(a) Calculate the absolute risk reduction.\n(b) Calculate the number needed to treat.",
+    "answer": "(a) ARR = 8% − 5% = 3% (0.03).\n(b) NNT = 1 / ARR = 1 / 0.03 ≈ 33. About 33 patients must be treated to prevent one additional death.",
+    "explanation": "Lower NNTs indicate greater clinical effectiveness. NNTs should be interpreted alongside the magnitude of harm (NNH)."
+  }
+]
