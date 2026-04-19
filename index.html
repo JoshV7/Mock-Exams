@@ -287,7 +287,12 @@ textarea{resize:vertical}
 <div id="holding">
   <div class="holding-box">
     <h2 id="holdingWelcome">Welcome</h2>
-    <p style="color:#666;font-size:14px;margin:2px 0 14px">Select a paper. <span style="color:var(--green);font-weight:600">Green = completed</span>, <span style="color:#b07800;font-weight:600">Orange = in progress</span>.</p>
+    <p style="color:#666;font-size:14px;margin:2px 0 14px">
+  Select a paper. 
+  <span style="color:var(--green);font-weight:600">Green = Passed</span>, 
+  <span style="color:red;font-weight:600">Red = Failed</span>, 
+  <span style="color:#b07800;font-weight:600">Orange = In Progress</span>.
+</p>
     <p id="paperLoadMsg" style="color:#888;font-style:italic;font-size:14px">Loading papers…</p>
     <p id="paperLoadErr" style="color:var(--red);font-size:14px"></p>
     <div class="paper-list" id="paperList"></div>
