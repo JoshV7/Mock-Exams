@@ -42,6 +42,24 @@
     "type": "kt"
   },
   {
+    "key": "kt_paper8",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 8 - Easy",
+    "filename": "kt_paper8.json",
+    "type": "kt"
+  },
+  {
+    "key": "kt_paper9",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 9 - Medium",
+    "filename": "kt_paper9.json",
+    "type": "kt"
+  },
+  {
+    "key": "kt_paper10",
+    "name": "MBChB Year 1 — Knowledge Test — Paper 10 - Hard",
+    "filename": "kt_paper10.json",
+    "type": "kt"
+  },
+  {
     "key": "anat_paper1",
     "name": "MBChB Year 1 — Anatomy Exam — Paper 1",
     "filename": "anat_paper1.json",
