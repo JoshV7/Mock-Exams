@@ -927,6 +927,8 @@ function updateOverallScore(){
 }
 
 function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+async function restartExam(){
   clearInterval(s.autosaveH);
   $el('review').style.display='none';
   await loadProgress(s.studentNum);
