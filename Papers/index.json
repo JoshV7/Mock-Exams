@@ -18,18 +18,6 @@
     "type": "kt"
   },
   {
-    "key": "kt_paper4",
-    "name": "MBChB Year 1 — Knowledge Test — Paper 4",
-    "filename": "kt_paper4.json",
-    "type": "kt"
-  },
-  {
-    "key": "kt_paper5",
-    "name": "MBChB Year 1 — Knowledge Test — Paper 5",
-    "filename": "kt_paper5.json",
-    "type": "kt"
-  },
-  {
     "key": "anat_paper1",
     "name": "MBChB Year 1 — Anatomy Exam — Paper 1",
     "filename": "anat_paper1.json",
@@ -45,18 +33,6 @@
     "key": "anat_paper3",
     "name": "MBChB Year 1 — Anatomy Exam — Paper 3",
     "filename": "anat_paper3.json",
-    "type": "anat"
-  },
-  {
-    "key": "anat_paper4",
-    "name": "MBChB Year 1 — Anatomy Exam — Paper 4",
-    "filename": "anat_paper4.json",
-    "type": "anat"
-  },
-  {
-    "key": "anat_paper5",
-    "name": "MBChB Year 1 — Anatomy Exam — Paper 5",
-    "filename": "anat_paper5.json",
     "type": "anat"
   }
 ]
