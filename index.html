@@ -436,7 +436,7 @@ let availPapers = [];
 function $el(id){ return document.getElementById(id); }
 
 /* ── LOGIN ────────────────────────────────────────────────── */
-const NUM_RE = /^S\d{7}$/i;
+const NUM_RE = /^s\d{7}$/i;
 
 async function doLogin(){
   const num = $el('user').value.trim().toUpperCase();
@@ -444,7 +444,7 @@ async function doLogin(){
   $el('loginBtn').disabled = true;
 
   if(!NUM_RE.test(num)){
-    $el('loginErr').textContent = 'Format must be S followed by 7 digits (e.g. S1234567).';
+    $el('loginErr').textContent = 'Format must be s followed by 7 digits (e.g. s1234567).';
     $el('loginBtn').disabled = false;
     return;
   }
