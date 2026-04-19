@@ -1,0 +1,146 @@
+[
+  {
+    "id": "kt_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 58-year-old man presents to the emergency department with central crushing chest pain radiating to his left arm, diaphoresis, and nausea for the past 90 minutes. His ECG shows ST-segment elevation in leads II, III, and aVF.\n\nWhich coronary artery is most likely occluded?",
+    "options": [
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Right coronary artery",
+      "Left main stem",
+      "Posterior descending artery"
+    ],
+    "correct": 2,
+    "explanation": "ST elevation in leads II, III, and aVF represents an inferior STEMI, caused by occlusion of the right coronary artery (RCA) in ~80% of cases. The LAD supplies the anterior wall (V1–V4), and the left circumflex supplies the lateral wall (I, aVL, V5–V6). The posterior descending artery is usually a branch of the RCA and does not cause the primary ST pattern described."
+  },
+  {
+    "id": "kt_s02",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 25-year-old woman with a history of atopy presents with episodic wheeze, dyspnoea, and a dry cough that is worse at night and with exercise. Spirometry shows an FEV1/FVC ratio of 0.65, which normalises to 0.80 after bronchodilator.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Chronic obstructive pulmonary disease",
+      "Bronchiectasis",
+      "Asthma",
+      "Pulmonary fibrosis",
+      "Vocal cord dysfunction"
+    ],
+    "correct": 2,
+    "explanation": "The combination of atopic history, nocturnal and exercise-induced wheeze, an obstructive pattern on spirometry (FEV1/FVC <0.70) that is fully reversible with bronchodilator (≥12% and ≥200 mL improvement) is diagnostic of asthma. COPD also gives obstruction but is typically irreversible and seen in older smokers. Pulmonary fibrosis is restrictive, not obstructive."
+  },
+  {
+    "id": "kt_s03",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 19-year-old university student presents with a 5-day history of fever, severe sore throat, and fatigue. Examination reveals cervical lymphadenopathy, tonsillar exudate, and splenomegaly. A blood film is shown.\n\nWhat is the most likely causative organism?",
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atypical_lymphocyte.jpg/320px-Atypical_lymphocyte.jpg"],
+    "options": [
+      "Streptococcus pyogenes",
+      "Epstein-Barr virus",
+      "Cytomegalovirus",
+      "Adenovirus",
+      "Toxoplasma gondii"
+    ],
+    "correct": 1,
+    "explanation": "Infectious mononucleosis (glandular fever) is caused by Epstein-Barr virus (EBV). The classic triad of fever, pharyngitis, and lymphadenopathy, combined with splenomegaly and atypical lymphocytes on blood film (reactive CD8+ T cells), is highly characteristic. CMV can mimic this but without the pronounced pharyngitis. Streptococcal tonsillitis does not cause splenomegaly or atypical lymphocytes."
+  },
+  {
+    "id": "kt_s04",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 72-year-old woman with heart failure and atrial fibrillation is started on a new medication. One week later she presents with nausea, vomiting, yellow-green visual disturbance, and a heart rate of 44 bpm. Her ECG shows frequent ectopic beats.\n\nWhich drug is most likely responsible?",
+    "options": [
+      "Bisoprolol",
+      "Furosemide",
+      "Digoxin",
+      "Amiodarone",
+      "Warfarin"
+    ],
+    "correct": 2,
+    "explanation": "Digoxin toxicity classically presents with gastrointestinal symptoms (nausea, vomiting, anorexia), yellow-green visual disturbances (xanthopsia), bradycardia, and ventricular ectopy. Digoxin has a narrow therapeutic index and toxicity is potentiated by hypokalaemia (which furosemide can cause). Bisoprolol causes bradycardia but not visual symptoms. Amiodarone can cause bradycardia but has different toxicity profile."
+  },
+  {
+    "id": "kt_s05",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 4-year-old boy presents with his third episode of Staphylococcal pneumonia. He also has a history of liver abscess and Aspergillus infection. Nitroblue tetrazolium (NBT) test is negative.\n\nWhich immune defect best explains these findings?",
+    "options": [
+      "X-linked agammaglobulinaemia",
+      "Severe combined immunodeficiency",
+      "Chronic granulomatous disease",
+      "DiGeorge syndrome",
+      "Common variable immunodeficiency"
+    ],
+    "correct": 2,
+    "explanation": "Chronic granulomatous disease (CGD) is caused by a defect in NADPH oxidase, preventing neutrophils from generating the reactive oxygen species needed to kill catalase-positive organisms such as Staphylococcus aureus and Aspergillus. The NBT test is negative because the dye cannot be reduced. XLA presents with recurrent bacterial infections after 6 months of age but normal NBT. DiGeorge affects T-cell immunity."
+  },
+  {
+    "id": "kt_s06",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 65-year-old man develops sudden onset of right-sided arm and face weakness, with slurred speech. CT head is normal at 2 hours. MRI DWI shows a left middle cerebral artery territory infarct. He is within the thrombolysis window.\n\nWhich vessel territory is most likely affected?",
+    "options": [
+      "Left posterior cerebral artery",
+      "Left anterior cerebral artery",
+      "Left middle cerebral artery — superior division",
+      "Left middle cerebral artery — inferior division",
+      "Basilar artery"
+    ],
+    "correct": 2,
+    "explanation": "The superior division of the left MCA supplies the motor and sensory cortex for the face and arm, as well as Broca's area. Occlusion causes contralateral face and arm weakness with expressive (Broca's) dysphasia. The inferior division would cause receptive aphasia and visual field defects. The ACA territory causes leg-predominant weakness. The PCA causes homonymous hemianopia."
+  },
+  {
+    "id": "kt_s07",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 16-year-old girl presents requesting contraception. She does not wish her parents to be informed. She demonstrates a clear understanding of the treatment, its benefits, and potential risks.\n\nWhat is the most appropriate action?",
+    "options": [
+      "Refuse treatment and notify her parents",
+      "Provide contraception and inform her GP only",
+      "Assess her Gillick competence and, if competent, provide contraception confidentially",
+      "Refer her to a specialist as you cannot treat minors without parental consent",
+      "Provide contraception but document that consent was not obtained"
+    ],
+    "correct": 2,
+    "explanation": "Gillick competence (established in Gillick v West Norfolk, affirmed by the Fraser guidelines) allows a minor under 16 to consent to medical treatment without parental knowledge if they demonstrate sufficient maturity and understanding. If she is Gillick competent, you may provide contraception confidentially. Breaching confidentiality without her consent would be inappropriate unless there are safeguarding concerns. Refusal to treat could put her at greater risk."
+  },
+  {
+    "id": "kt_s08",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 45-year-old woman with longstanding Crohn's disease affecting the terminal ileum presents with fatigue, macrocytic anaemia, and peripheral neuropathy. She eats a balanced diet including meat and dairy.\n\nWhich deficiency is most likely?",
+    "options": [
+      "Folate",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin D",
+      "Zinc"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin B12 (cobalamin) is absorbed exclusively in the terminal ileum via intrinsic factor receptors. Terminal ileal Crohn's disease, or surgical resection of this segment, leads to B12 malabsorption regardless of dietary intake. B12 deficiency causes megaloblastic anaemia and subacute combined degeneration of the spinal cord (peripheral neuropathy and posterior column signs). Folate deficiency also causes macrocytic anaemia but does not cause neuropathy and is absorbed in the proximal small bowel."
+  },
+  {
+    "id": "kt_s09",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A randomised controlled trial comparing two antihypertensive agents reports an odds ratio of 0.72 (95% CI 0.55–0.94) for major cardiovascular events in the treatment group compared to placebo.\n\nWhich statement best describes this result?",
+    "options": [
+      "The result is not statistically significant as the confidence interval crosses 1.0",
+      "The treatment increases the risk of cardiovascular events by 28%",
+      "The treatment is associated with a statistically significant 28% reduction in the odds of cardiovascular events",
+      "An odds ratio cannot be used in a randomised controlled trial",
+      "The result proves causation between the drug and reduced cardiovascular risk"
+    ],
+    "correct": 2,
+    "explanation": "An OR of 0.72 means the odds of the outcome in the treatment group are 72% of those in the placebo group — a 28% relative reduction. The 95% CI (0.55–0.94) does not cross 1.0, indicating statistical significance at p<0.05. RCTs can use odds ratios. Importantly, statistical significance does not imply causation in isolation, but an RCT does provide strong evidence for causal inference. The result does not increase risk — the OR is below 1."
+  },
+  {
+    "id": "kt_s10",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 55-year-old man presents with a 3-month history of change in bowel habit, rectal bleeding, and unintentional weight loss. Colonoscopy reveals a mass in the sigmoid colon. Biopsy confirms adenocarcinoma.\n\nName two molecular pathways commonly implicated in colorectal carcinogenesis.",
+    "answer": "Chromosomal instability (CIN) pathway — involving APC, KRAS, and p53 mutations (Vogelstein sequence). Microsatellite instability (MSI) pathway — due to defective DNA mismatch repair (e.g. MLH1, MSH2 mutations), seen in Lynch syndrome and sporadic MSI-high tumours.",
+    "explanation": "Colorectal cancer commonly arises via the adenoma-carcinoma sequence driven by accumulation of mutations. CIN accounts for ~85% and involves loss of APC tumour suppressor, activating KRAS mutations, and eventual p53 loss. MSI accounts for ~15% and arises from mismatch repair deficiency, leading to widespread microsatellite instability. MSI-high tumours have better prognosis and respond to immune checkpoint inhibitors."
+  }
+]
