@@ -34,7 +34,7 @@
     "type": "sba",
     "topic": "Upper Limb",
     "stem": "A radiograph of the hand is shown. The arrow points to the most commonly fractured carpal bone. Which complication is this bone particularly prone to?\n",
-    "images": ["images/scaphoid_fracture.png"],
+    "images": ["Images/scaphoid_fracture.png"],
     "options": [
       "Lunate dislocation causing carpal tunnel syndrome",
       "Avascular necrosis of the proximal pole",
