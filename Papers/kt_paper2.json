@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt2_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 68-year-old man presents with exertional chest pain relieved by rest, occurring over the past 3 months. ECG at rest is normal. Exercise tolerance test shows 2 mm ST depression in leads V4–V6 at moderate exertion.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Stable angina",
+      "NSTEMI",
+      "Prinzmetal's (vasospastic) angina",
+      "Costochondritis",
+      "Aortic stenosis"
+    ],
+    "correct": 0,
+    "explanation": "Stable angina is caused by fixed coronary artery stenosis producing predictable exertional chest pain relieved by rest or GTN, with no resting ECG changes. Exercise stress testing provokes ischaemia (ST depression during exertion). Troponin is not elevated. NSTEMI involves myocardial necrosis (elevated troponin) at rest or minimal exertion. Prinzmetal's angina is coronary vasospasm causing ST elevation at rest, often overnight. Stable angina is managed with symptom control (nitrates, beta-blockers, CCBs) and secondary prevention (aspirin, statin)."
+  },
+  {
+    "id": "kt2_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 74-year-old woman presents with progressive breathlessness on exertion, dizziness, and an ejection systolic murmur loudest at the right upper sternal border radiating to the carotids. Her pulse is slow-rising and her pulse pressure is narrow.\n\nWhat is the most likely valvular pathology?",
+    "options": [
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Pulmonary stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation"
+    ],
+    "correct": 3,
+    "explanation": "Aortic stenosis classically presents with the triad of exertional dyspnoea, syncope, and angina (SAD). It causes an ejection systolic murmur loudest at the aortic area (right 2nd ICS) radiating to the carotids, a slow-rising pulse, narrow pulse pressure, and an undisplaced heaving apex beat. Calcific aortic stenosis is the most common cause in the elderly. Echo confirms the diagnosis. AVR (surgical or TAVI) is indicated when symptomatic. Aortic regurgitation causes an early diastolic murmur with a collapsing pulse and wide pulse pressure."
+  },
+  {
+    "id": "kt2_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 45-year-old woman is found to have a blood pressure of 155/95 mmHg. She is of Black African ethnicity with no other comorbidities. According to NICE guidelines, which antihypertensive is recommended as first-line?",
+    "options": [
+      "ACE inhibitor (ramipril)",
+      "Beta-blocker (bisoprolol)",
+      "Calcium channel blocker (amlodipine)",
+      "Thiazide-like diuretic (indapamide)",
+      "Alpha-blocker (doxazosin)"
+    ],
+    "correct": 2,
+    "explanation": "NICE (NG136) recommends a calcium channel blocker (CCB) as first-line therapy for patients of Black African or Caribbean origin, as the renin-angiotensin system tends to be less active in this population, making ACEi/ARBs less effective as monotherapy. CCBs (amlodipine) are also first-line for all patients aged ≥55 regardless of ethnicity. ACEi or ARBs are first-line for patients under 55 of non-Black ethnicity. If CCB alone is insufficient, add an ACEi/ARB (step 2), then a thiazide-like diuretic (step 3)."
+  },
+  {
+    "id": "kt2_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 35-year-old man presents with fever, sharp central chest pain worse on lying flat and relieved by sitting forward. ECG shows saddle-shaped ST elevation in most leads with PR depression.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Acute MI",
+      "Pulmonary embolism",
+      "Cardiac tamponade",
+      "Acute pericarditis",
+      "Aortic dissection"
+    ],
+    "correct": 3,
+    "explanation": "Acute pericarditis classically presents with sharp pleuritic chest pain relieved by sitting forward (leaning away from inflamed pericardium), a pericardial friction rub on auscultation, and widespread saddle-shaped ST elevation with PR depression on ECG (the PR depression is highly specific). Fever suggests an inflammatory aetiology — most commonly viral (Coxsackie, EBV, CMV). Treatment is with NSAIDs plus colchicine. Acute MI causes localised ST changes. Cardiac tamponade causes Beck's triad without the pleuritic pain."
+  },
+  {
+    "id": "kt2_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 60-year-old man presents with an ECG showing: rate 38 bpm, P waves present at a regular rate of 80 bpm, QRS complexes at a regular rate of 38 bpm with no relationship between P waves and QRS complexes.\n\nWhat is this rhythm?",
+    "options": [
+      "Second-degree Mobitz type I (Wenckebach) block",
+      "Second-degree Mobitz type II block",
+      "Complete (third-degree) heart block",
+      "Junctional bradycardia",
+      "Ventricular tachycardia"
+    ],
+    "correct": 2,
+    "explanation": "Complete (third-degree) heart block describes complete dissociation between atrial and ventricular activity. P waves fire regularly (here 80 bpm) and QRS complexes fire regularly but independently (here 38 bpm, a ventricular escape rhythm). There is no relationship between the two. This is a haemodynamic emergency — patients may present with syncope (Stokes-Adams attacks) or cardiac arrest. Causes include inferior MI (often transient), Lyme disease, infiltrative disease, and drugs. Immediate management is temporary pacing; permanent pacemaker is usually required."
+  },
+  {
+    "id": "kt2_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 25-year-old man with Marfan syndrome undergoes echocardiography. Which cardiac complication is he most at risk of?",
+    "options": [
+      "Hypertrophic cardiomyopathy",
+      "Mitral stenosis",
+      "Aortic root dilatation and aortic regurgitation",
+      "Tetralogy of Fallot",
+      "Infective endocarditis of the tricuspid valve"
+    ],
+    "correct": 2,
+    "explanation": "Marfan syndrome (FBN1 mutation, autosomal dominant) causes abnormal fibrillin-1 leading to connective tissue weakness. Cardiac manifestations include aortic root dilatation (leading to aortic regurgitation and risk of dissection) and mitral valve prolapse. Aortic dissection is the leading cause of death. Annual surveillance echocardiography monitors aortic root diameter. Beta-blockers or losartan reduce aortic root expansion rate. Elective surgery is considered when root diameter >50 mm or growth >5 mm/year. HCM is associated with MYH7/MYBPC3 mutations."
+  },
+  {
+    "id": "kt2_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 70-year-old man is commenced on amiodarone for persistent atrial fibrillation. Which of the following monitoring tests is essential due to a specific side effect of amiodarone?",
+    "options": [
+      "Full blood count every 3 months",
+      "Renal function and electrolytes weekly",
+      "Thyroid function tests every 6 months",
+      "INR weekly",
+      "Liver biopsy annually"
+    ],
+    "correct": 2,
+    "explanation": "Amiodarone contains 37% iodine by weight and causes thyroid dysfunction in up to 15–20% of patients — both hypothyroidism (more common, due to iodine excess causing Wolff-Chaikoff effect) and hyperthyroidism (iodine load stimulates autonomous thyroid tissue). TFTs should be checked at baseline, every 6 months, and if symptoms develop. Other amiodarone toxicities include pulmonary fibrosis (check LFTs and CXR), hepatotoxicity, corneal microdeposits, photosensitivity, peripheral neuropathy, and slate-grey skin discolouration."
+  },
+  {
+    "id": "kt2_s08",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 70-year-old man with COPD presents acutely unwell. ABG on room air shows: pH 7.28, PaCO₂ 8.2 kPa, PaO₂ 6.1 kPa, HCO₃⁻ 32 mmol/L.\n\nWhat does this blood gas show?",
+    "options": [
+      "Type 1 respiratory failure with metabolic acidosis",
+      "Type 2 respiratory failure with compensated respiratory acidosis",
+      "Metabolic alkalosis with respiratory compensation",
+      "Mixed metabolic and respiratory acidosis",
+      "Normal blood gas for a COPD patient"
+    ],
+    "correct": 1,
+    "explanation": "Type 2 respiratory failure is defined as PaO₂ <8 kPa with PaCO₂ >6 kPa (hypoxaemia with hypercapnia). Here, pH 7.28 (acidotic), elevated PaCO₂ (respiratory acidosis), and elevated HCO₃⁻ (renal compensation — bicarbonate retention) indicate an acute-on-chronic respiratory acidosis. The kidneys have partially compensated (HCO₃⁻ elevated) but pH remains acidotic (incomplete compensation), suggesting acute decompensation. Management includes controlled low-flow oxygen (24–28%), nebulisers, systemic steroids, and non-invasive ventilation (NIV/BiPAP) if pH <7.35."
+  },
+  {
+    "id": "kt2_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 55-year-old woman presents with haemoptysis, weight loss, and a right hilar mass on CXR. She has a 30 pack-year smoking history. Sputum cytology shows malignant cells with squamous differentiation.\n\nWhich paraneoplastic syndrome is most classically associated with this cell type?",
+    "options": [
+      "SIADH (hyponatraemia)",
+      "Cushing's syndrome (ACTH secretion)",
+      "Hypercalcaemia (PTHrP secretion)",
+      "Lambert-Eaton myasthenic syndrome",
+      "Hypertrophic pulmonary osteoarthropathy"
+    ],
+    "correct": 2,
+    "explanation": "Squamous cell lung carcinoma classically causes hypercalcaemia via secretion of PTH-related protein (PTHrP), which mimics PTH action on bone and kidney. This is a paraneoplastic syndrome — calcium should be checked in all patients with lung cancer. SIADH (hyponatraemia) and ACTH secretion (Cushing's) are most associated with small cell carcinoma. Lambert-Eaton syndrome (voltage-gated calcium channel antibodies) is also associated with small cell carcinoma. Finger clubbing and hypertrophic pulmonary osteoarthropathy are more common with adenocarcinoma and squamous cell."
+  },
+  {
+    "id": "kt2_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 40-year-old woman presents with progressive dyspnoea, dry cough, and bilateral hilar lymphadenopathy on CXR. Serum ACE is elevated. Biopsy shows non-caseating granulomas.\n\nWhich is the most appropriate first-line treatment when treatment is indicated?",
+    "options": [
+      "Rifampicin, isoniazid, pyrazinamide, ethambutol",
+      "High-dose prednisolone",
+      "Methotrexate",
+      "Azithromycin",
+      "Antifungal therapy with fluconazole"
+    ],
+    "correct": 1,
+    "explanation": "Sarcoidosis is a multisystem granulomatous disease of unknown aetiology, with non-caseating granulomas on biopsy. Stage I (bilateral hilar lymphadenopathy alone) often resolves spontaneously. Treatment with systemic corticosteroids (prednisolone) is indicated for symptomatic pulmonary disease, hypercalcaemia, neurological or cardiac involvement, or uveitis. Methotrexate and azathioprine are steroid-sparing agents for chronic disease. TB also causes granulomas but they are caseating; anti-TB therapy would be appropriate for TB, not sarcoidosis."
+  },
+  {
+    "id": "kt2_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 50-year-old man presents with productive cough, recurrent chest infections, and copious purulent sputum. HRCT shows bronchial wall thickening, dilated bronchi, and signet ring signs bilaterally in the lower lobes.\n\nWhich organism most commonly colonises the airways in this condition?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae"
+    ],
+    "correct": 2,
+    "explanation": "Bronchiectasis is characterised by permanent, abnormal dilatation of the bronchi (signet ring sign on HRCT — bronchus diameter larger than accompanying vessel). Pseudomonas aeruginosa is the most common chronic coloniser in established bronchiectasis (particularly in cystic fibrosis). Haemophilus influenzae colonises in earlier disease. Chronic Pseudomonas colonisation is associated with more rapid decline. Treatment includes regular physiotherapy (airway clearance), long-term macrolide antibiotics (azithromycin), and exacerbation treatment with anti-pseudomonal antibiotics (ciprofloxacin, piperacillin-tazobactam)."
+  },
+  {
+    "id": "kt2_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 30-year-old man presents with sudden pleuritic chest pain and mild dyspnoea. He is tall and slim. CXR shows a 25% right pneumothorax. He has no underlying lung disease.\n\nAccording to BTS guidelines, what is the most appropriate management?",
+    "options": [
+      "Immediate intercostal chest drain insertion",
+      "Aspiration with a 16G cannula",
+      "Supplemental oxygen and discharge",
+      "Observation only and discharge with follow-up",
+      "Emergency thoracotomy"
+    ],
+    "correct": 1,
+    "explanation": "BTS guidelines for primary spontaneous pneumothorax (no underlying lung disease): if the patient is breathless or the rim of air is ≥2 cm on CXR, attempt needle aspiration first (16G cannula, 2nd ICS midclavicular line). If successful (lung re-expands, <2.5 L aspirated), the patient can be discharged with follow-up. If aspiration fails, insert a small-bore chest drain. If the patient is not breathless and the pneumothorax is <2 cm, discharge with 48-hour follow-up is acceptable. Surgical treatment (VATS pleurodesis) is considered after recurrence."
+  },
+  {
+    "id": "kt2_s13",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 60-year-old man with a history of heavy alcohol use presents with a tender, swollen right knee. Synovial fluid analysis shows weakly positively birefringent rhomboid crystals.\n\nWhich vitamin or mineral deficiency is most associated with this crystal arthropathy?",
+    "options": [
+      "Zinc deficiency",
+      "Magnesium deficiency (hypomagnasaemia promoting calcium pyrophosphate deposition)",
+      "Vitamin C deficiency",
+      "Iron overload (haemochromatosis)",
+      "Selenium deficiency"
+    ],
+    "correct": 3,
+    "explanation": "Pseudogout (calcium pyrophosphate deposition, CPPD) is associated with metabolic conditions including haemochromatosis, hyperparathyroidism, hypomagnesaemia, hypophosphataemia, and hypothyroidism. Haemochromatosis (iron overload) is a classic cause of CPPD — iron deposits damage articular cartilage, and the 2nd and 3rd MCP joints are characteristically affected. Alcohol excess can cause gout (urate crystals — negatively birefringent, needle-shaped) but CPPD crystals (weakly positively birefringent, rhomboid) point to an underlying metabolic cause such as haemochromatosis."
+  },
+  {
+    "id": "kt2_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 2-year-old child in a food-insecure household presents with bowing of the legs, widened wrists, and Harrison's sulcus. Serum calcium is low-normal and alkaline phosphatase is elevated.\n\nWhich deficiency is responsible?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correct": 3,
+    "explanation": "Rickets in children is caused by vitamin D deficiency (or rarely calcium deficiency), leading to impaired mineralisation of growing bone at the growth plates. Features include bowing of long bones, widened wrists and knees (metaphyseal expansion), rachitic rosary (costochondral junction beading), Harrison's sulcus (horizontal groove in chest), frontal bossing, and delayed fontanelle closure. Biochemistry shows low/normal calcium, low phosphate, elevated ALP, and elevated PTH. In adults, vitamin D deficiency causes osteomalacia (soft bones, bone pain, proximal myopathy)."
+  },
+  {
+    "id": "kt2_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 55-year-old alcoholic man presents with a symmetrical rash on sun-exposed areas, diarrhoea, and confusion. His diet consists mainly of maize.\n\nWhich vitamin deficiency is responsible?",
+    "options": [
+      "Thiamine (B1)",
+      "Riboflavin (B2)",
+      "Niacin (B3)",
+      "Pyridoxine (B6)",
+      "Folate (B9)"
+    ],
+    "correct": 2,
+    "explanation": "Pellagra is caused by niacin (B3/nicotinic acid) deficiency, classically presenting with the 4Ds: Dermatitis (photosensitive, symmetric rash — 'Casal's necklace'), Diarrhoea, Dementia (confusion, psychosis), and Death if untreated. It is associated with maize-based diets (maize lacks bioavailable niacin), carcinoid syndrome (tryptophan diverted to serotonin), Hartnup disease, and isoniazid use (blocks B6, which is required for niacin synthesis). Treatment is nicotinamide. Thiamine deficiency causes Wernicke's encephalopathy and beriberi."
+  },
+  {
+    "id": "kt2_s16",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 26-year-old woman presents with lower abdominal pain, fever, and purulent cervical discharge. She has cervical motion tenderness on bimanual examination. Endocervical swab is taken.\n\nWhat is the most likely diagnosis and appropriate management?",
+    "options": [
+      "Appendicitis — urgent surgical referral",
+      "Ovarian torsion — emergency laparoscopy",
+      "Pelvic inflammatory disease — IM ceftriaxone plus oral doxycycline and metronidazole",
+      "Ectopic pregnancy — serum βhCG and transvaginal ultrasound",
+      "Urinary tract infection — oral trimethoprim"
+    ],
+    "correct": 2,
+    "explanation": "Pelvic inflammatory disease (PID) is ascending infection of the upper genital tract, most commonly caused by Chlamydia trachomatis and Neisseria gonorrhoeae (also polymicrobial). Classic features are lower abdominal pain, fever, purulent cervical/vaginal discharge, and cervical motion tenderness (chandelier sign). Treatment per BASHH/NICE guidelines: IM ceftriaxone (single dose for gonorrhoea) plus oral doxycycline and metronidazole for 14 days. Complications include tubo-ovarian abscess, chronic pelvic pain, ectopic pregnancy, and infertility."
+  },
+  {
+    "id": "kt2_s17",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 30-year-old woman at 38 weeks gestation presents with severe headache, visual disturbance, and blood pressure of 168/112 mmHg. Urinalysis shows 3+ protein. She has no prior hypertension.\n\nWhich drug is given to prevent eclamptic seizures?",
+    "options": [
+      "Diazepam IV",
+      "Phenytoin IV",
+      "Magnesium sulphate IV",
+      "Labetalol IV",
+      "Nifedipine oral"
+    ],
+    "correct": 2,
+    "explanation": "This describes severe pre-eclampsia (hypertension ≥160/110 + proteinuria ≥1+ after 20 weeks gestation). IV magnesium sulphate is the drug of choice for both seizure prophylaxis in severe pre-eclampsia and treatment of eclampsia. The MAGPIE trial demonstrated a 50% reduction in eclampsia with magnesium vs placebo. Antihypertensive treatment (IV labetalol or oral nifedipine) controls blood pressure but does not prevent seizures. Definitive management is delivery. Magnesium toxicity causes loss of tendon reflexes, respiratory depression; calcium gluconate is the antidote."
+  },
+  {
+    "id": "kt2_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 45-year-old woman presents with hot flushes, night sweats, irregular periods, and mood changes for the past 8 months. FSH is 62 IU/L.\n\nWhich change in the hypothalamic-pituitary-ovarian axis best explains the elevated FSH?",
+    "options": [
+      "Increased oestrogen causing positive feedback on the pituitary",
+      "Decreased ovarian oestrogen and inhibin B production, removing negative feedback on FSH",
+      "Increased progesterone causing FSH suppression",
+      "Increased LH causing ovarian failure",
+      "Decreased GnRH pulsatility from the hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "In the perimenopause, ovarian follicle reserve declines, leading to reduced production of oestrogen and inhibin B. Both normally exert negative feedback on the pituitary to suppress FSH. With this feedback removed, FSH rises markedly (FSH >30–40 IU/L is diagnostic of ovarian failure/menopause). LH also rises but less dramatically. Symptoms result from oestrogen deficiency. HRT replaces oestrogen (and progesterone in those with a uterus) and effectively treats vasomotor symptoms. FSH >30 on two occasions 6 weeks apart in a woman >45 with amenorrhoea ≥12 months confirms menopause."
+  },
+  {
+    "id": "kt2_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 32-year-old woman has a urine pregnancy test positive at 6 weeks. She develops sudden severe left iliac fossa pain and shoulder tip pain. She is haemodynamically compromised with a BP of 88/50 mmHg.\n\nWhat is the immediate management?",
+    "options": [
+      "Methotrexate intramuscular injection",
+      "Transvaginal ultrasound and admit for observation",
+      "Emergency laparoscopy/laparotomy with resuscitation",
+      "Repeat βhCG in 48 hours",
+      "Oral mifepristone and misoprostol"
+    ],
+    "correct": 2,
+    "explanation": "This is a ruptured ectopic pregnancy — a life-threatening emergency. Haemodynamic instability (BP 88/50) indicates haemoperitoneum (blood irritates the diaphragm causing referred shoulder tip pain). Immediate management: two large-bore IV cannulae, IV fluids/blood, group and crossmatch, and emergency surgery (laparotomy or laparoscopy depending on stability and surgeon experience). Methotrexate is only appropriate in haemodynamically stable, unruptured ectopic pregnancy with βhCG <5000 IU/L. Observation would be inappropriate with haemodynamic compromise."
+  },
+  {
+    "id": "kt2_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "An amniocentesis is performed at 16 weeks gestation. The karyotype shows 47,XXY. Which condition does this describe?",
+    "options": [
+      "Turner syndrome",
+      "Down syndrome",
+      "Klinefelter syndrome",
+      "Patau syndrome",
+      "Edward syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Klinefelter syndrome (47,XXY) is the most common sex chromosome aneuploidy in males (1:660 males). Features: tall stature, small firm testes (hypogonadism), infertility (azoospermia), gynaecomastia, reduced body hair, and reduced testosterone with elevated FSH/LH. Often diagnosed in infertility workup. Treatment includes testosterone replacement. Turner syndrome is 45,X (female, short stature, ovarian dysgenesis). Down syndrome is trisomy 21. Patau is trisomy 13; Edwards is trisomy 18. Non-disjunction during meiosis is the cause of most chromosomal trisomies."
+  },
+  {
+    "id": "kt2_s21",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 6-month-old boy presents with recurrent bacterial infections since birth, absent tonsils and lymph nodes, and very low B lymphocyte count. T cell count is normal. Immunoglobulins of all classes are absent.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Severe combined immunodeficiency (SCID)",
+      "DiGeorge syndrome",
+      "X-linked agammaglobulinaemia (XLA)",
+      "Common variable immunodeficiency (CVID)",
+      "Wiskott-Aldrich syndrome"
+    ],
+    "correct": 2,
+    "explanation": "X-linked agammaglobulinaemia (Bruton's disease) is caused by a mutation in Bruton's tyrosine kinase (BTK), preventing B cell maturation beyond the pro-B cell stage. Features: absent mature B cells, absent immunoglobulins of all classes, absent/rudimentary tonsils and lymph nodes. Presents after 6 months (maternal IgG wanes). Normal T cells distinguish it from SCID. Recurrent encapsulated bacterial infections (Streptococcus, Haemophilus). Treatment: regular IVIG replacement. CVID presents later (2nd–4th decade) with low but detectable B cells and reduced immunoglobulins."
+  },
+  {
+    "id": "kt2_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 22-year-old man with DiGeorge syndrome has recurrent viral, fungal, and opportunistic infections. Which embryological structure fails to develop normally in DiGeorge syndrome?",
+    "options": [
+      "Bone marrow stem cells",
+      "Third and fourth pharyngeal pouches",
+      "Bursa of Fabricius equivalent",
+      "Thyroid anlage",
+      "Common lymphoid progenitor"
+    ],
+    "correct": 1,
+    "explanation": "DiGeorge syndrome (22q11.2 deletion — CATCH-22: Cardiac defects, Abnormal facies, Thymic hypoplasia, Cleft palate, Hypocalcaemia) is caused by failure of development of the 3rd and 4th pharyngeal pouches, leading to thymic and parathyroid aplasia/hypoplasia. Thymic aplasia → T cell deficiency → susceptibility to viral, fungal, and intracellular infections. Parathyroid aplasia → hypocalcaemia → neonatal tetany. B cells and immunoglobulins may be normal. IVIG is not helpful; thymus transplant or bone marrow transplant may be required in severe cases."
+  },
+  {
+    "id": "kt2_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A patient with rheumatoid arthritis is started on a TNF-alpha inhibitor. A Mantoux test performed before starting shows 18 mm induration.\n\nWhich complication is this pre-treatment screening intended to prevent?",
+    "options": [
+      "Hepatitis B reactivation",
+      "CMV colitis",
+      "Reactivation of latent tuberculosis",
+      "PML caused by JC virus",
+      "Herpes zoster reactivation"
+    ],
+    "correct": 2,
+    "explanation": "TNF-α is crucial for granuloma formation and maintenance — it traps latent Mycobacterium tuberculosis within granulomas in the lung. Anti-TNF therapy disrupts this containment, risking reactivation of latent TB (often as disseminated or extrapulmonary disease). All patients must be screened with Mantoux test and interferon-gamma release assay (IGRA, e.g. QuantiFERON) before starting anti-TNF agents. If latent TB is identified, treat with isoniazid for 6 months before commencing anti-TNF therapy. Hepatitis B reactivation risk is also assessed before immunosuppression."
+  },
+  {
+    "id": "kt2_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 50-year-old woman develops urticaria, angioedema, bronchospasm, and hypotension 10 minutes after eating peanuts. Which immunological mechanism is responsible?",
+    "options": [
+      "Type II hypersensitivity (antibody-mediated cytotoxicity)",
+      "Type III hypersensitivity (immune complex deposition)",
+      "Type IV hypersensitivity (delayed-type, T-cell mediated)",
+      "Type I hypersensitivity (IgE-mediated)",
+      "Complement activation via the lectin pathway"
+    ],
+    "correct": 3,
+    "explanation": "Anaphylaxis is a Type I (immediate) hypersensitivity reaction. On first exposure to antigen (sensitisation), Th2 cells drive IgE production by B cells. IgE binds to high-affinity FcεRI receptors on mast cells and basophils. On re-exposure, antigen cross-links IgE, triggering degranulation and release of histamine, tryptase, leukotrienes, and prostaglandins, causing urticaria, angioedema, bronchospasm, and anaphylaxis. Treatment is IM adrenaline (0.5 mg of 1:1000). Type IV reactions (e.g. contact dermatitis, TB skin test) are delayed (48–72 hours), T-cell mediated."
+  },
+  {
+    "id": "kt2_s25",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 35-year-old HIV-positive man has a CD4 count of 45 cells/μL. He presents with headache, fever, and neck stiffness. CSF microscopy with India ink stain shows encapsulated yeast cells.\n\nWhat is the most likely organism?",
+    "options": [
+      "Toxoplasma gondii",
+      "Cryptococcus neoformans",
+      "Listeria monocytogenes",
+      "Neisseria meningitidis",
+      "Mycobacterium tuberculosis"
+    ],
+    "correct": 1,
+    "explanation": "Cryptococcal meningitis, caused by Cryptococcus neoformans (an encapsulated yeast), is an AIDS-defining illness occurring when CD4 <100 cells/μL. India ink stain demonstrates the polysaccharide capsule (negative stain — capsule appears as a clear halo around dark yeast cells). CSF shows elevated opening pressure, low glucose, mildly elevated protein, and low white cells. Cryptococcal antigen (CrAg) is highly sensitive. Treatment is IV amphotericin B plus flucytosine induction, then oral fluconazole consolidation/maintenance. Toxoplasma causes ring-enhancing brain lesions."
+  },
+  {
+    "id": "kt2_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 22-year-old man develops bloody diarrhoea, abdominal cramps, and fever 3 days after eating undercooked chicken at a barbecue. Stool culture grows a curved, microaerophilic gram-negative rod.\n\nWhich organism is most likely?",
+    "options": [
+      "Salmonella typhi",
+      "Escherichia coli O157:H7",
+      "Campylobacter jejuni",
+      "Shigella dysenteriae",
+      "Vibrio cholerae"
+    ],
+    "correct": 2,
+    "explanation": "Campylobacter jejuni is the most common bacterial cause of gastroenteritis in the UK. It is transmitted via undercooked poultry, unpasteurised milk, and contaminated water. It presents 2–5 days post-exposure with fever, cramping abdominal pain, and bloody diarrhoea. The organism is a curved/S-shaped, motile, gram-negative rod that is microaerophilic. Most cases are self-limiting; antibiotics (azithromycin or clarithromycin) are used in severe or prolonged cases. Post-infectious complications include Guillain-Barré syndrome (molecular mimicry with gangliosides) and reactive arthritis."
+  },
+  {
+    "id": "kt2_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 55-year-old man develops fever, rigors, and confusion 3 days after returning from sub-Saharan Africa. Blood film is urgently requested.\n\nWhich finding on blood film is most diagnostic of falciparum malaria?",
+    "options": [
+      "Schüffner's dots within enlarged red cells",
+      "Ring forms and trophozoites within normal-sized red cells, with multiple rings per cell",
+      "Banana-shaped gametocytes",
+      "Intracellular oval organisms in white cells",
+      "Thick ring forms in enlarged red cells at low parasitaemia"
+    ],
+    "correct": 2,
+    "explanation": "Plasmodium falciparum causes the most severe malaria and has distinctive blood film findings: banana-shaped (crescent) gametocytes, multiple ring forms per red cell, and parasitised RBCs that are not enlarged. Ring forms (early trophozoites) are thin and delicate. Schüffner's dots in enlarged RBCs are characteristic of P. vivax and P. ovale. P. falciparum is the only species causing cerebral malaria, ARDS, and high parasitaemia. Diagnosis: blood film (thick for sensitivity, thin for morphology) plus rapid antigen tests (HRP2). Treatment: IV artesunate for severe malaria."
+  },
+  {
+    "id": "kt2_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 70-year-old man on long-term broad-spectrum antibiotics for a chest infection develops profuse watery diarrhoea. Stool PCR is positive for toxin A and B.\n\nWhat is the most appropriate antibiotic treatment?",
+    "options": [
+      "IV ciprofloxacin",
+      "Oral vancomycin",
+      "Oral metronidazole for a first mild episode",
+      "Oral fidaxomicin for a first non-severe episode",
+      "IV piperacillin-tazobactam"
+    ],
+    "correct": 3,
+    "explanation": "Clostridioides difficile (C. diff) colitis is caused by overgrowth of toxin-producing C. difficile following antibiotic disruption of the normal gut flora. Per NICE 2021 guidelines, oral fidaxomicin is the preferred first-line treatment for a first episode of non-severe CDI (replacing metronidazole, which is no longer recommended for CDI). Oral vancomycin is used for severe CDI or if fidaxomicin is unavailable/unaffordable. Bezlotoxumab (anti-toxin B antibody) reduces recurrence. IV metronidazole may be added in ileus when oral route is unavailable. Stop the precipitating antibiotic where possible."
+  },
+  {
+    "id": "kt2_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 28-year-old woman presents with dysuria and urethral discharge. Gram stain of the discharge shows intracellular gram-negative diplococci within neutrophils.\n\nWhich organism is identified and what is first-line treatment?",
+    "options": [
+      "Chlamydia trachomatis — oral doxycycline",
+      "Neisseria gonorrhoeae — IM ceftriaxone 1 g single dose",
+      "Treponema pallidum — IM benzathine penicillin",
+      "Mycoplasma genitalium — oral azithromycin",
+      "Trichomonas vaginalis — oral metronidazole"
+    ],
+    "correct": 1,
+    "explanation": "Intracellular gram-negative diplococci within neutrophils on Gram stain are diagnostic of Neisseria gonorrhoeae. Gonorrhoea affects the urethra, cervix, rectum, throat, and eyes. Current BASHH guidelines recommend IM ceftriaxone 1 g as first-line (due to increasing resistance to ciprofloxacin and azithromycin). Contact tracing and testing for concurrent STIs (chlamydia, syphilis, HIV) is essential. Chlamydia is intracellular but not visible on Gram stain — diagnosed by NAAT. Co-infection with chlamydia is common and doxycycline should be co-prescribed."
+  },
+  {
+    "id": "kt2_s30",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 65-year-old woman has a mammogram showing a suspicious 15 mm spiculated mass in the right breast. Core biopsy confirms ER-negative, PR-negative, HER2-positive invasive ductal carcinoma.\n\nWhich targeted biological therapy is most appropriate?",
+    "options": [
+      "Tamoxifen",
+      "Trastuzumab (Herceptin)",
+      "Anastrozole",
+      "Olaparib",
+      "Pembrolizumab"
+    ],
+    "correct": 1,
+    "explanation": "HER2-positive breast cancers overexpress HER2 (human epidermal growth factor receptor 2), a tyrosine kinase receptor driving tumour proliferation. Trastuzumab (Herceptin) is a monoclonal antibody targeting HER2, dramatically improving survival in HER2-positive breast cancer. It is given alongside chemotherapy. HER2 status is tested by IHC (3+ positive) confirmed by FISH. Pertuzumab and T-DM1 (trastuzumab emtansine) are additional HER2-targeted agents. Tamoxifen and aromatase inhibitors are for hormone receptor-positive tumours. Olaparib is for BRCA-mutated cancers. Pembrolizumab is for triple-negative or PD-L1-positive cancers."
+  },
+  {
+    "id": "kt2_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 70-year-old man presents with bone pain, fatigue, and recurrent infections. Blood tests show: Hb 8.5 g/dL, calcium 2.9 mmol/L, creatinine 180 μmol/L, total protein 98 g/L, albumin 32 g/L. Urine dipstick is negative for protein but Bence-Jones protein is detected.\n\nWhich investigation is most diagnostic?",
+    "options": [
+      "Bone marrow trephine biopsy",
+      "Serum protein electrophoresis",
+      "Skeletal survey X-ray",
+      "CT-PET scan",
+      "Bone marrow aspirate showing plasma cells"
+    ],
+    "correct": 1,
+    "explanation": "Multiple myeloma is a plasma cell malignancy producing a monoclonal immunoglobulin (paraprotein/M-protein). Serum protein electrophoresis identifies the M-protein spike (typically IgG or IgA). Serum free light chain assay and urine electrophoresis (for Bence-Jones protein — free light chains) complete paraprotein assessment. Diagnosis requires ≥1 CRAB criteria (hyperCalcaemia, Renal failure, Anaemia, Bone lesions) plus ≥10% clonal plasma cells on bone marrow biopsy or biopsy-proven plasmacytoma. Skeletal survey shows lytic ('punched out') lesions. Bone marrow biopsy is needed for definitive diagnosis but serum electrophoresis is the initial diagnostic test."
+  },
+  {
+    "id": "kt2_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 55-year-old woman presents with weight loss, abdominal pain, and jaundice. CT scan shows a mass in the head of the pancreas with dilated bile and pancreatic ducts (double duct sign). CA 19-9 is markedly elevated.\n\nWhich surgical procedure offers the only chance of curative resection?",
+    "options": [
+      "Distal pancreatectomy",
+      "Total pancreatectomy",
+      "Whipple's procedure (pancreaticoduodenectomy)",
+      "Biliary stenting alone",
+      "ERCP and sphincterotomy"
+    ],
+    "correct": 2,
+    "explanation": "Pancreatic ductal adenocarcinoma of the head of the pancreas presents with painless obstructive jaundice (Courvoisier's sign — palpable gallbladder), weight loss, and the double duct sign on CT/MRCP (dilated CBD and pancreatic duct). Whipple's procedure (pancreaticoduodenectomy) removes the head of the pancreas, duodenum, distal bile duct, and gallbladder, with reconstruction. Only ~20% of patients have resectable disease at presentation. Five-year survival after Whipple's is approximately 20–25%. Distal pancreatectomy is for body/tail tumours."
+  },
+  {
+    "id": "kt2_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 30-year-old woman has a BRCA1 mutation identified on genetic testing after her sister was diagnosed with breast cancer at 35. She has not yet developed cancer.\n\nWhich statement about BRCA1 is correct?",
+    "options": [
+      "BRCA1 is an oncogene that drives cell proliferation when mutated",
+      "BRCA1 encodes a tumour suppressor protein involved in DNA double-strand break repair by homologous recombination",
+      "BRCA1 mutation causes loss of the Rb protein, releasing E2F transcription",
+      "BRCA1 is located on chromosome 13q",
+      "BRCA1 mutation only increases risk of ovarian cancer, not breast cancer"
+    ],
+    "correct": 1,
+    "explanation": "BRCA1 (chromosome 17q) and BRCA2 (13q) encode tumour suppressor proteins essential for homologous recombination repair of DNA double-strand breaks. Germline mutations follow the two-hit hypothesis — loss of the wild-type allele in somatic cells leads to genomic instability and cancer. BRCA1 mutations confer a lifetime risk of ~70% for breast cancer and ~40% for ovarian cancer. BRCA-mutated tumours are sensitive to PARP inhibitors (olaparib) because they rely on base-excision repair for survival. Options include surveillance, chemoprevention, and risk-reducing surgery (mastectomy, salpingo-oophorectomy)."
+  },
+  {
+    "id": "kt2_s34",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 55-year-old woman presents with progressive fatigue, joint pain, and bronze discolouration of the skin. Blood tests show transferrin saturation 72%, serum ferritin 1800 μg/L, and mildly elevated liver enzymes.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Haemolytic anaemia",
+      "Wilson's disease",
+      "Hereditary haemochromatosis",
+      "Porphyria cutanea tarda",
+      "Systemic lupus erythematosus"
+    ],
+    "correct": 2,
+    "explanation": "Hereditary haemochromatosis (HHC) is an autosomal recessive condition (HFE gene mutation, most commonly C282Y homozygosity) causing excessive intestinal iron absorption. Iron accumulates in the liver (cirrhosis), pancreas (diabetes — 'bronze diabetes'), skin (bronze discolouration), heart (cardiomyopathy, arrhythmias), pituitary (hypogonadism), and joints (chondrocalcinosis). Investigations: elevated serum iron, elevated transferrin saturation (>45%), elevated ferritin, confirmed by HFE genotyping and liver biopsy. Treatment is therapeutic venesection (phlebotomy) weekly until ferritin normalises."
+  },
+  {
+    "id": "kt2_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 30-year-old man presents with jaundice, haemolytic anaemia, and neuropsychiatric symptoms including tremor and psychosis. Slit-lamp examination shows golden-brown rings at the corneal periphery.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Hereditary haemochromatosis",
+      "Autoimmune hepatitis",
+      "Wilson's disease",
+      "Alpha-1 antitrypsin deficiency",
+      "Primary sclerosing cholangitis"
+    ],
+    "correct": 2,
+    "explanation": "Wilson's disease (hepatolenticular degeneration) is caused by a mutation in ATP7B (chromosome 13q), encoding a copper-transporting ATPase. Copper accumulates in the liver (hepatitis, cirrhosis), brain (basal ganglia — tremor, dysarthria, psychiatric symptoms), and eyes (Kayser-Fleischer rings at the Descemet membrane of the cornea — pathognomonic, seen on slit-lamp). Investigations: low serum caeruloplasmin, elevated 24-hour urinary copper, elevated liver copper on biopsy. Treatment: D-penicillamine (copper chelator) or trientine; zinc acetate for maintenance."
+  },
+  {
+    "id": "kt2_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 40-year-old woman with a longstanding history of Crohn's disease develops scleral icterus, right upper quadrant pain, and pruritus. MRCP shows alternating strictures and dilations of the intra- and extrahepatic bile ducts.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Primary biliary cholangitis (PBC)",
+      "Autoimmune hepatitis",
+      "Primary sclerosing cholangitis (PSC)",
+      "Cholangiocarcinoma",
+      "Gallstone choledocholithiasis"
+    ],
+    "correct": 2,
+    "explanation": "Primary sclerosing cholangitis (PSC) is a chronic inflammatory cholestatic disease causing fibrotic stricturing of the intra- and extrahepatic bile ducts, giving the classic 'beaded' appearance on MRCP. It is strongly associated with inflammatory bowel disease (70–80% of PSC patients have IBD, usually ulcerative colitis — or less commonly Crohn's colitis). p-ANCA may be positive. It predisposes to cholangiocarcinoma. No effective medical therapy (UDCA does not improve survival); liver transplantation is definitive. PBC affects small intrahepatic bile ducts and is associated with anti-mitochondrial antibodies (AMA)."
+  },
+  {
+    "id": "kt2_s37",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A student measures blood pressure using a sphygmomanometer. The first Korotkoff sound appears at 128 mmHg and the sounds disappear at 82 mmHg.\n\nWhich physiological mechanism produces the Korotkoff sounds?",
+    "options": [
+      "Turbulent blood flow through the partially compressed artery as cuff pressure exceeds diastolic pressure",
+      "Valve closure vibrations transmitted to the brachial artery",
+      "Resonance of the arterial wall at systolic pressure",
+      "Heart sounds transmitted distally through the arterial tree",
+      "Laminar flow restoration as the cuff is inflated"
+    ],
+    "correct": 0,
+    "explanation": "Korotkoff sounds arise from turbulent blood flow in the brachial artery as the cuff is deflated. When cuff pressure exceeds systolic BP, flow is completely occluded — no sounds. As cuff pressure falls to systolic BP, blood first flows through intermittently — turbulent flow creates the first Korotkoff sound (systolic BP = 128 mmHg). As cuff pressure falls further, sounds become muffled then disappear as flow becomes continuous and laminar again — this point (diastolic BP = 82 mmHg) represents the 5th Korotkoff sound. Turbulence occurs because the partially compressed vessel creates high-velocity, non-laminar flow."
+  },
+  {
+    "id": "kt2_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A 25-year-old athlete's resting ECG shows a heart rate of 48 bpm. Which mechanism primarily accounts for trained athletes having a lower resting heart rate?",
+    "options": [
+      "Reduced sympathetic tone from chronic training",
+      "Increased vagal tone and increased stroke volume from cardiac hypertrophy",
+      "Reduced circulating catecholamines at rest",
+      "Hypertrophy of the SA node slowing intrinsic pacemaker rate",
+      "Downregulation of beta-1 adrenoceptors in the heart"
+    ],
+    "correct": 1,
+    "explanation": "Endurance training causes cardiac adaptations: (1) eccentric left ventricular hypertrophy (increased chamber volume, sarcomeres added in series), leading to increased stroke volume at rest and during exercise; (2) increased parasympathetic (vagal) tone to the SA node, slowing the intrinsic heart rate. Since cardiac output = HR × SV, with a higher SV, a lower HR maintains the same resting cardiac output. This is physiological bradycardia. Athlete's heart must be distinguished from pathological hypertrophic cardiomyopathy — important in sudden cardiac death screening."
+  },
+  {
+    "id": "kt2_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A 30-year-old woman is found to have a systolic murmur that increases on standing and decreases on squatting. An echocardiogram is performed.\n\nWhich condition does this murmur pattern suggest?",
+    "options": [
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Ventricular septal defect",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Pulmonary stenosis"
+    ],
+    "correct": 3,
+    "explanation": "HOCM has a dynamic outflow tract obstruction that worsens when LV volume decreases. Standing reduces venous return (preload) → LV cavity shrinks → obstruction worsens → murmur increases. Squatting increases venous return → LV cavity enlarges → obstruction lessens → murmur decreases. This is the opposite to most other cardiac murmurs (which increase with squatting due to increased preload). Valsalva manoeuvre also worsens the murmur (reduces preload). Aortic stenosis and MR murmurs decrease on standing and increase on squatting."
+  },
+  {
+    "id": "kt2_s40",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 50-year-old woman has a lumbar puncture. CSF analysis shows: opening pressure 28 cm H₂O (normal <20), clear fluid, protein 0.3 g/L (normal), glucose 3.8 mmol/L (serum 5.6 mmol/L). She has a BMI of 38 and visual obscurations. MRI brain is normal.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Bacterial meningitis",
+      "Viral encephalitis",
+      "Subarachnoid haemorrhage",
+      "Idiopathic intracranial hypertension",
+      "Normal pressure hydrocephalus"
+    ],
+    "correct": 3,
+    "explanation": "Idiopathic intracranial hypertension (IIH, pseudotumour cerebri) presents with raised ICP (headache, papilloedema, visual obscurations, pulsatile tinnitus, sixth nerve palsy) in the absence of structural cause on MRI. CSF analysis is normal except for elevated opening pressure (>25 cm H₂O). Strongly associated with obesity, female sex, and certain drugs (tetracyclines, retinoids, oral contraceptives, steroids withdrawal). Treatment: weight loss, acetazolamide (CSF production reduction), topiramate, therapeutic LP, optic nerve sheath fenestration, or CSF shunting to protect vision."
+  },
+  {
+    "id": "kt2_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 65-year-old man with type 2 diabetes presents with symmetrical distal paraesthesia and numbness in a 'glove and stocking' distribution. Nerve conduction studies show reduced sensory nerve action potential amplitudes with mildly slowed conduction velocity.\n\nWhich nerve fibre type is predominantly affected first in diabetic peripheral neuropathy?",
+    "options": [
+      "Large myelinated Aα fibres (proprioception)",
+      "Large myelinated Aβ fibres (touch, vibration)",
+      "Small unmyelinated C fibres and small myelinated Aδ fibres (pain and temperature)",
+      "Motor fibres (Aα) supplying intrinsic foot muscles",
+      "Autonomic B fibres only"
+    ],
+    "correct": 2,
+    "explanation": "Diabetic peripheral neuropathy typically affects small fibres (C fibres for pain and temperature, Aδ fibres for sharp pain) first, causing burning, tingling, and allodynia, before affecting large fibres (vibration, proprioception, light touch). This explains why patients may present with painful neuropathy yet have relatively preserved reflexes early on. Loss of protective pain sensation increases the risk of Charcot arthropathy and diabetic foot ulcers. NCS (which measures large fibre function) may be normal in early small fibre neuropathy; skin punch biopsy for intraepidermal nerve fibre density is more sensitive."
+  },
+  {
+    "id": "kt2_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 40-year-old woman presents with visual loss in her right eye over 24 hours, described as 'a grey veil'. She reports pain on eye movement. Visual acuity is 6/36. Fundoscopy is normal. MRI brain shows periventricular white matter lesions.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Central retinal artery occlusion",
+      "Acute angle-closure glaucoma",
+      "Optic neuritis — likely first presentation of multiple sclerosis",
+      "Anterior ischaemic optic neuropathy",
+      "Retinal detachment"
+    ],
+    "correct": 2,
+    "explanation": "Optic neuritis presents with subacute monocular visual loss, painful eye movements, and a relative afferent pupillary defect (RAPD/Marcus Gunn pupil). Fundoscopy may be normal (retrobulbar neuritis) or show disc swelling. It is the presenting feature of multiple sclerosis in ~25% of cases. MRI showing periventricular white matter lesions greatly increases the risk of developing MS. Treatment is IV methylprednisolone (speeds recovery but does not affect final visual outcome). CRAO causes sudden painless visual loss ('curtain' not 'veil'). Glaucoma causes painful red eye with fixed dilated pupil."
+  },
+  {
+    "id": "kt2_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 55-year-old woman with known small cell lung cancer presents with proximal limb weakness that improves with repeated movement. Tendon reflexes are absent but return after brief exercise. Autonomic symptoms include dry mouth.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Myasthenia gravis",
+      "Motor neurone disease",
+      "Lambert-Eaton myasthenic syndrome",
+      "Polymyositis",
+      "Eaton-Lambert syndrome from statin use"
+    ],
+    "correct": 2,
+    "explanation": "Lambert-Eaton myasthenic syndrome (LEMS) is a paraneoplastic syndrome most commonly associated with small cell lung carcinoma. Autoantibodies against voltage-gated calcium channels (VGCC) at the presynaptic neuromuscular junction reduce calcium influx, impairing ACh vesicle release. Unlike myasthenia gravis, in LEMS: (1) weakness improves with repeated contraction (facilitation); (2) reflexes are absent at rest but return post-exercise; (3) autonomic features are prominent (dry mouth, constipation, erectile dysfunction). Treatment: 3,4-diaminopyridine (increases ACh release), immunosuppression, and treating the underlying malignancy."
+  },
+  {
+    "id": "kt2_s44",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 35-year-old man with psoriasis develops swollen DIP joints, nail pitting, and onycholysis. He has a family history of joint disease. Blood tests show negative rheumatoid factor.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Gout",
+      "Reactive arthritis",
+      "Psoriatic arthritis",
+      "Osteoarthritis"
+    ],
+    "correct": 3,
+    "explanation": "Psoriatic arthritis (PsA) is a seronegative inflammatory arthropathy associated with psoriasis. DIP joint involvement, nail changes (pitting, onycholysis, ridging), and a seronegative (RF negative) result are characteristic. Five patterns of PsA: DIP arthritis, asymmetric oligoarthritis, symmetric polyarthritis (RA-like), axial disease (sacroiliitis), and arthritis mutilans. HLA-B27 is associated with axial disease. 'Sausage digits' (dactylitis) are characteristic. DMARDs (methotrexate) and biologics (anti-TNF, IL-17 inhibitors) are used. Treating skin psoriasis does not reliably control joint disease."
+  },
+  {
+    "id": "kt2_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 75-year-old woman with bilateral knee pain and crepitus worsened by activity and relieved by rest. X-ray shows joint space narrowing, subchondral sclerosis, osteophytes, and subchondral cysts.\n\nWhich pathological process primarily drives joint space narrowing in osteoarthritis?",
+    "options": [
+      "Pannus formation eroding cartilage from the periphery",
+      "Synovial membrane inflammation and effusion",
+      "Loss of articular cartilage due to chondrocyte dysfunction and matrix degradation",
+      "Urate crystal deposition in articular cartilage",
+      "Autoantibody-mediated cartilage destruction"
+    ],
+    "correct": 2,
+    "explanation": "Osteoarthritis is a degenerative joint disease characterised by loss of articular cartilage. Chondrocytes become dysfunctional, producing matrix metalloproteinases (MMPs) and ADAMTS that degrade collagen II and aggrecan. Subchondral bone undergoes remodelling (sclerosis), osteophytes form at joint margins, and subchondral cysts develop. It is asymmetric and affects weight-bearing joints (knees, hips) and hands (Heberden's nodes — DIP; Bouchard's nodes — PIP). Pannus formation is characteristic of RA. Management: analgesia (paracetamol, NSAIDs), physiotherapy, weight loss, and eventual joint replacement."
+  },
+  {
+    "id": "kt2_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 45-year-old man with ankylosing spondylitis presents with worsening back pain and stiffness lasting >3 hours each morning, improving with exercise. HLA-B27 is positive. MRI sacroiliac joints shows active inflammation.\n\nWhich biological therapy is first-line when NSAIDs are inadequate?",
+    "options": [
+      "Anti-IL-6 (tocilizumab)",
+      "Anti-CD20 (rituximab)",
+      "Anti-TNFα (e.g. adalimumab, etanercept)",
+      "Methotrexate",
+      "Sulfasalazine"
+    ],
+    "correct": 2,
+    "explanation": "Ankylosing spondylitis (axial spondyloarthritis) is characterised by inflammatory back pain, sacroiliitis, and progressive spinal fusion. HLA-B27 is present in ~90% of patients. NSAIDs are first-line; if inadequate, anti-TNFα biologics (adalimumab, etanercept, infliximab, certolizumab, golimumab) are the established first biologic choice per NICE/ASAS guidelines. IL-17 inhibitors (secukinumab, ixekizumab) are also approved. Rituximab and tocilizumab have limited efficacy in axial spondyloarthritis. Methotrexate and sulfasalazine treat peripheral arthritis but not axial disease."
+  },
+  {
+    "id": "kt2_s47",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A researcher studies a cell that has entered a state of permanent cell cycle arrest despite being metabolically active, secreting inflammatory cytokines. This cell resists apoptosis.\n\nWhich cellular process best describes this state?",
+    "options": [
+      "Apoptosis",
+      "Necrosis",
+      "Cellular senescence",
+      "Autophagy",
+      "Mitotic catastrophe"
+    ],
+    "correct": 2,
+    "explanation": "Cellular senescence is a state of stable, permanent cell cycle arrest in response to damage (DNA damage, telomere shortening, oncogene activation). Senescent cells are metabolically active, resist apoptosis (via p21 and Bcl-2 upregulation), and secrete pro-inflammatory mediators (the senescence-associated secretory phenotype, SASP — IL-6, IL-8, MMP). Triggered by p53/p21 and p16/Rb pathways. Physiologically important in tumour suppression, wound healing, and embryogenesis. Accumulation of senescent cells contributes to ageing and age-related diseases. Senolytics (drugs clearing senescent cells) are an active therapeutic area."
+  },
+  {
+    "id": "kt2_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A patient with cystic fibrosis has a homozygous ΔF508 mutation. This mutation causes misfolding of the CFTR protein. In which cellular compartment is this misfolded protein predominantly degraded?",
+    "options": [
+      "Lysosome via autophagy",
+      "Peroxisome",
+      "Proteasome via the ubiquitin-proteasome pathway",
+      "Golgi apparatus by retrograde trafficking",
+      "Nucleus via protease activation"
+    ],
+    "correct": 2,
+    "explanation": "Misfolded proteins identified by the ER quality control machinery (chaperones such as BiP/GRP78) are retrotranslocated to the cytoplasm and degraded by the ubiquitin-proteasome system (UPS) — a process called ER-associated degradation (ERAD). The ΔF508 CFTR protein misfolds in the ER and is targeted for ERAD, preventing it from reaching the apical membrane of airway epithelial cells. This causes absence of functional chloride channels → thick viscous secretions → chronic infection. Lumacaftor/ivacaftor and elexacaftor/tezacaftor/ivacaftor (modulators) help the mutant CFTR reach the cell surface."
+  },
+  {
+    "id": "kt2_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A 40-year-old woman is found to have a germline mutation in TP53. What is the name of this hereditary syndrome and what is the underlying cellular mechanism of TP53 as a tumour suppressor?",
+    "options": [
+      "Lynch syndrome — TP53 repairs mismatch errors in DNA replication",
+      "Li-Fraumeni syndrome — TP53 activates transcription of p21 and other genes to arrest the cell cycle, facilitate DNA repair, or trigger apoptosis",
+      "HNPCC — TP53 encodes a receptor tyrosine kinase",
+      "Von Hippel-Lindau syndrome — TP53 degrades HIF-1α",
+      "Cowden syndrome — TP53 is a serine/threonine kinase"
+    ],
+    "correct": 1,
+    "explanation": "Li-Fraumeni syndrome is caused by germline TP53 mutations, predisposing to multiple early-onset cancers (sarcomas, breast cancer, brain tumours, adrenocortical carcinoma, leukaemia). TP53 encodes p53, the 'guardian of the genome' — a transcription factor activated by ATM/ATR kinases after DNA damage. p53 activates: (1) p21 → CDK inhibition → G1/S arrest; (2) GADD45 → DNA repair; (3) BAX/PUMA → apoptosis. TP53 is the most commonly mutated gene in human cancer (~50% of all cancers). Loss of p53 → genomic instability → cancer progression."
+  },
+  {
+    "id": "kt2_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A student is studying the cell cycle. Which cyclin-CDK complex is responsible for the G1/S transition (restriction point)?",
+    "options": [
+      "Cyclin A — CDK2",
+      "Cyclin B — CDK1",
+      "Cyclin D — CDK4/6",
+      "Cyclin E — CDK2",
+      "Cyclin H — CDK7"
+    ],
+    "correct": 2,
+    "explanation": "The restriction point (R point) in late G1 is controlled by cyclin D-CDK4/6, which phosphorylates the retinoblastoma protein (pRb). Phosphorylated pRb releases E2F transcription factors, driving transcription of genes needed for S phase entry (including cyclin E). Cyclin E-CDK2 completes the transition into S phase. Cyclin A-CDK2 drives S phase. Cyclin B-CDK1 (MPF) drives mitosis (G2/M). CDK inhibitors (p16/CDKN2A, p21/CIP1, p27/KIP1) regulate these complexes. Palbociclib and ribociclib are CDK4/6 inhibitors used in HR+/HER2- breast cancer."
+  },
+  {
+    "id": "kt2_s51",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 65-year-old man with heart failure is prescribed furosemide 80 mg daily. Three weeks later he presents with muscle cramps and weakness. Blood tests show: Na⁺ 138 mmol/L, K⁺ 2.9 mmol/L, Cl⁻ 88 mmol/L, HCO₃⁻ 32 mmol/L.\n\nWhich acid-base disturbance has occurred and why?",
+    "options": [
+      "Metabolic acidosis from H⁺ retention",
+      "Respiratory alkalosis from hyperventilation",
+      "Hypochloraemic metabolic alkalosis from loop diuretic-induced H⁺ and Cl⁻ loss",
+      "Metabolic acidosis from type 4 renal tubular acidosis",
+      "Respiratory acidosis from hypokalaemia-induced muscle weakness"
+    ],
+    "correct": 2,
+    "explanation": "Furosemide (loop diuretic) inhibits the Na⁺/K⁺/2Cl⁻ co-transporter in the thick ascending limb of Henle. This causes loss of Na⁺, K⁺, Cl⁻, and H₂O. Hypokalaemia causes intracellular shift of H⁺ (H⁺ enters cells as K⁺ leaves, causing extracellular alkalosis) and increased distal tubular H⁺ secretion. Loss of Cl⁻ reduces the anion available for HCO₃⁻ exchange, resulting in hypochloraemic, hypokalaemic metabolic alkalosis. Treatment: replace potassium (oral KCl), consider adding potassium-sparing diuretic (spironolactone), and correct chloride deficit."
+  },
+  {
+    "id": "kt2_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 55-year-old woman with chronic kidney disease (eGFR 25 mL/min) is prescribed metformin for type 2 diabetes. Why is metformin contraindicated at this level of renal function?",
+    "options": [
+      "Metformin is nephrotoxic and directly worsens CKD",
+      "Metformin is renally excreted; accumulation causes lactic acidosis",
+      "Metformin reduces insulin secretion, worsening diabetic nephropathy",
+      "Metformin increases creatinine production, falsely lowering eGFR",
+      "Metformin causes hyperkalaemia in CKD"
+    ],
+    "correct": 1,
+    "explanation": "Metformin is renally excreted unchanged by tubular secretion. In CKD, metformin accumulates, inhibiting mitochondrial complex I and reducing hepatic lactate clearance, causing potentially fatal lactic acidosis (type B). MHRA guidance: metformin should be used with caution when eGFR 30–45 mL/min (reduce dose, monitor more frequently) and is contraindicated when eGFR <30 mL/min. It should be temporarily withheld before IV contrast administration and at times of acute illness causing dehydration ('sick day rules'). Metformin itself is not directly nephrotoxic."
+  },
+  {
+    "id": "kt2_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 70-year-old man with gout is started on allopurinol for urate-lowering therapy. What is the mechanism of action of allopurinol?",
+    "options": [
+      "Promotes renal urate excretion by blocking URAT1 transporter",
+      "Inhibits xanthine oxidase, reducing uric acid synthesis",
+      "Chelates urate crystals in joint spaces",
+      "Inhibits COX-2, reducing inflammatory response to crystals",
+      "Increases hepatic catabolism of purines"
+    ],
+    "correct": 1,
+    "explanation": "Allopurinol is a competitive inhibitor of xanthine oxidase, the enzyme that converts hypoxanthine → xanthine → uric acid. By blocking this enzyme, allopurinol reduces uric acid production. Its active metabolite oxipurinol provides sustained inhibition. It should not be started during an acute gout attack (may prolong/worsen the attack). Colchicine prophylaxis should be given for the first 3–6 months. Febuxostat is a selective non-purine xanthine oxidase inhibitor used when allopurinol is poorly tolerated. Probenecid and lesinurad increase renal urate excretion (uricosuric agents)."
+  },
+  {
+    "id": "kt2_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 25-year-old woman is prescribed trimethoprim for a UTI. She is also taking methotrexate for rheumatoid arthritis.\n\nWhat is the most important drug interaction to be aware of?",
+    "options": [
+      "Trimethoprim displaces methotrexate from plasma proteins, increasing free methotrexate levels",
+      "Both drugs inhibit dihydrofolate reductase, causing additive folate antagonism and increased methotrexate toxicity",
+      "Trimethoprim reduces renal excretion of methotrexate by inhibiting OCT2 transporter",
+      "Trimethoprim induces CYP3A4 increasing methotrexate metabolism",
+      "No significant interaction — both can be safely co-prescribed"
+    ],
+    "correct": 1,
+    "explanation": "Trimethoprim inhibits bacterial dihydrofolate reductase (DHFR). Methotrexate inhibits human DHFR, reducing folate availability for DNA synthesis — this is its therapeutic mechanism in RA and cancer. Co-administration causes additive/synergistic DHFR inhibition, dramatically increasing the risk of methotrexate toxicity: bone marrow suppression (pancytopenia), mucositis, and hepatotoxicity. This combination should be avoided. If unavoidable, folinic acid (leucovorin) rescue may be required. Folic acid supplementation with methotrexate reduces side effects but does not address the acute interaction risk."
+  },
+  {
+    "id": "kt2_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 30-year-old woman is on carbamazepine for epilepsy. She develops a widespread erythematous blistering rash with mucosal involvement, fever, and skin detachment. Nikolsky's sign is positive.\n\nWhat is this life-threatening reaction?",
+    "options": [
+      "Drug reaction with eosinophilia and systemic symptoms (DRESS)",
+      "Stevens-Johnson syndrome / toxic epidermal necrolysis",
+      "Morbilliform drug eruption",
+      "Pemphigus vulgaris",
+      "Urticaria and angioedema"
+    ],
+    "correct": 1,
+    "explanation": "Stevens-Johnson syndrome (SJS, <10% body surface area detachment) and toxic epidermal necrolysis (TEN, >30% BSA detachment) are life-threatening mucocutaneous reactions, most commonly drug-induced. Common culprit drugs: carbamazepine, lamotrigine, allopurinol, sulfonamides, NSAIDs. HLA-B*1502 (Asian patients) predicts carbamazepine-induced SJS. Positive Nikolsky's sign (lateral pressure causes skin detachment). Management: immediate drug withdrawal, burn unit care, supportive treatment, consider IVIG or cyclosporin. Mortality up to 30% in TEN. DRESS is organ-threatening but without blistering — it features eosinophilia and facial oedema."
+  },
+  {
+    "id": "kt2_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 55-year-old man is prescribed isoniazid as prophylaxis against TB. What vitamin supplement should be co-prescribed and why?",
+    "options": [
+      "Vitamin C — to prevent scurvy from isoniazid-induced ascorbate depletion",
+      "Vitamin B12 — to prevent subacute combined degeneration",
+      "Pyridoxine (B6) — to prevent peripheral neuropathy caused by isoniazid inhibiting B6-dependent enzymes",
+      "Folate — to prevent megaloblastic anaemia",
+      "Vitamin D — to prevent isoniazid-induced osteomalacia"
+    ],
+    "correct": 2,
+    "explanation": "Isoniazid (INH) inhibits several pyridoxine (B6)-dependent enzymes, depleting active pyridoxal-5-phosphate. This causes peripheral neuropathy (symmetrical distal sensorimotor neuropathy) as a side effect, particularly in slow acetylators (isoniazid is metabolised by N-acetyltransferase, NAT2). Pyridoxine 10 mg daily is co-prescribed to prevent this complication. Other isoniazid side effects include hepatotoxicity (check LFTs), lupus-like syndrome, and rarely psychosis. Patients should be warned about hepatotoxicity and alcohol should be avoided."
+  },
+  {
+    "id": "kt2_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 40-year-old woman with bipolar disorder is prescribed lithium. Which of the following drugs, if prescribed concurrently, would most significantly increase the risk of lithium toxicity?",
+    "options": [
+      "Paracetamol",
+      "Amoxicillin",
+      "Ibuprofen (NSAID)",
+      "Metformin",
+      "Sertraline"
+    ],
+    "correct": 2,
+    "explanation": "NSAIDs increase lithium levels by inhibiting prostaglandin synthesis, reducing renal blood flow and glomerular filtration rate, and increasing proximal tubular reabsorption of lithium alongside sodium. This can rapidly elevate lithium into the toxic range (>1.5 mmol/L). Thiazide diuretics, ACE inhibitors, dehydration, and low-sodium diet similarly increase lithium toxicity. Patients on lithium should be advised to avoid NSAIDs and use paracetamol for analgesia instead. Regular lithium level monitoring (3-monthly when stable), renal function, and TFTs are essential."
+  },
+  {
+    "id": "kt2_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 70-year-old man is prescribed gentamicin for gram-negative sepsis. Serum levels are measured. Which toxicity monitoring is essential with prolonged aminoglycoside use?",
+    "options": [
+      "ECG monitoring for QT prolongation",
+      "Audiometry and renal function tests",
+      "Liver function tests and INR",
+      "Thyroid function tests",
+      "Full blood count for agranulocytosis"
+    ],
+    "correct": 1,
+    "explanation": "Aminoglycosides (gentamicin, tobramycin, amikacin) cause two major dose-dependent toxicities: (1) nephrotoxicity — accumulation in proximal tubular cells causing acute tubular necrosis; (2) ototoxicity — accumulation in cochlear hair cells and vestibular cells, causing irreversible sensorineural hearing loss and vestibular dysfunction. Monitoring requires: pre-dose (trough) and post-dose (peak) levels, regular renal function tests, and audiometry for prolonged courses. Risk factors for toxicity include pre-existing renal disease, prolonged treatment, high doses, and concurrent nephrotoxins (vancomycin, NSAIDs, contrast). Once-daily dosing regimens reduce nephrotoxicity."
+  },
+  {
+    "id": "kt2_s59",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 17-year-old boy is brought to A&E after a paracetamol overdose. He refuses treatment, stating he took the tablets intentionally and does not want to live. His parents insist on treatment.\n\nWhat is the most appropriate course of action?",
+    "options": [
+      "Respect his refusal as he is almost 18 and therefore legally adult",
+      "Assess his mental capacity and, given his distressed state and risk to life, treat in his best interests under the Mental Capacity Act",
+      "Wait for a psychiatrist to assess him before commencing any treatment",
+      "Treat only with his parents' consent",
+      "Allow him to refuse and arrange psychiatric follow-up"
+    ],
+    "correct": 1,
+    "explanation": "In England and Wales, under the Family Law Reform Act 1969, those aged 16–17 can consent to treatment but their refusal can be overridden by a person with parental responsibility or the court where the treatment is in the young person's best interests and refusal is life-threatening. This is distinct from adults where refusal must be respected. A patient making a decision to end their life in the context of acute suicidal crisis may lack capacity due to the impaired judgement from their mental state. Immediate life-saving treatment (NAC for paracetamol) should be given while simultaneously assessing capacity and seeking appropriate Mental Health Act/MCA assessment."
+  },
+  {
+    "id": "kt2_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 45-year-old surgeon develops a tremor in his dominant hand that occasionally affects his operative work. He continues to operate. A colleague becomes aware of this.\n\nWhat is the most appropriate action for the colleague?",
+    "options": [
+      "Take no action as this is the surgeon's private medical matter",
+      "Inform the patient scheduled for surgery by that surgeon",
+      "Raise concerns with the hospital's medical director or responsible officer under the duty to raise concerns",
+      "Report directly to the GMC as a first step",
+      "Discuss with other colleagues to gather opinion before acting"
+    ],
+    "correct": 2,
+    "explanation": "GMC guidance (Good Medical Practice) requires all doctors to act on concerns about patient safety when a colleague's conduct, performance, or health may be putting patients at risk. The first step is to raise concerns with the local responsible officer (medical director, clinical director, or employer) through internal governance channels. If internal channels are ineffective or the risk is immediate, escalation to external regulators (GMC, CQC) is appropriate. Ignoring the situation or gossiping among colleagues is not acceptable. All doctors have a professional and ethical obligation to raise concerns in good faith — whistleblowing protections apply."
+  },
+  {
+    "id": "kt2_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 55-year-old man is assessed for capacity before a below-knee amputation. He acknowledges his foot is gangrenous and that death is likely without surgery, but refuses the operation because he fears waking up without his leg.\n\nWhich statement about capacity assessment is correct?",
+    "options": [
+      "He lacks capacity because his decision will lead to his death",
+      "He has demonstrated capacity — understanding the consequences is sufficient",
+      "Capacity must be assessed under the four elements of the Mental Capacity Act 2005: understand, retain, weigh, and communicate",
+      "As he is refusing life-saving treatment, a court order is always required",
+      "A unwise decision proves incapacity under the MCA"
+    ],
+    "correct": 2,
+    "explanation": "Under the Mental Capacity Act 2005, capacity is decision-specific and assessed via four functional criteria: can the patient (1) understand the information relevant to the decision; (2) retain that information long enough to make a decision; (3) weigh/use the information in the decision-making process; and (4) communicate the decision. A patient can make an unwise or eccentric decision and still have capacity. If this patient satisfies all four criteria, his refusal must be respected regardless of the outcome. Capacity is not removed by making a decision that will harm you — the MCA specifically states that a person is not to be treated as unable to make a decision merely because they make an unwise decision."
+  },
+  {
+    "id": "kt2_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 30-year-old patient asks their GP not to share any information about their HIV status with their partner. The GP is concerned the partner may be at risk of acquiring HIV.\n\nWhich of the following best represents the doctor's ethical and legal position?",
+    "options": [
+      "The doctor must maintain absolute confidentiality as the patient has not consented to disclosure",
+      "The doctor must immediately inform the partner regardless of the patient's wishes",
+      "The doctor should encourage the patient to disclose to their partner, and may breach confidentiality only in exceptional circumstances where there is serious ongoing risk and disclosure cannot be achieved otherwise",
+      "The doctor should refer to GUM clinic only and take no further action",
+      "HIV status is protected health information that can never be disclosed"
+    ],
+    "correct": 2,
+    "explanation": "The GMC's Confidentiality guidance and the BMA/BASHH position on HIV recognise that confidentiality is not absolute when there is a serious and ongoing risk to an identifiable third party. The staged approach is: (1) encourage patient to disclose; (2) with consent, involve partner notification services (BASHH recommends contact tracing via GUM); (3) only if the patient refuses and there is ongoing serious risk of HIV transmission, disclosure may be justified — but the threshold is high and must be proportionate. Disclosure without consent should be exceptional and documented carefully. The Public Health (Control of Disease) Act 1984 does not mandate disclosure of HIV to partners."
+  },
+  {
+    "id": "kt2_s63",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 55-year-old man presents with 6 weeks of persistent lower back pain radiating down the left leg to the foot, with paraesthesia in the first dorsal web space of the left foot. Straight leg raise is positive at 45°.\n\nWhich nerve root is most likely compressed?",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S1",
+      "S2"
+    ],
+    "correct": 2,
+    "explanation": "L5 radiculopathy typically causes: pain radiating down the posterior/lateral thigh, lateral leg, and dorsum of the foot to the great toe; paraesthesia in the first dorsal web space (L5 dermatomal territory); weakness of foot/toe dorsiflexion and foot eversion; absent/diminished tibialis posterior reflex. L4 causes medial leg pain and a diminished knee jerk. S1 causes pain to the little toe, absent ankle jerk, and weakness of plantarflexion. L5/S1 disc herniation is the most common level affected. Straight leg raise (Lasègue's) >30° positive suggests nerve root irritation."
+  },
+  {
+    "id": "kt2_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 65-year-old man presents with haematuria. Ultrasound shows a 5 cm solid right renal mass. CT demonstrates no lymphadenopathy and no distant metastases.\n\nWhich histological type of renal cell carcinoma is most common?",
+    "options": [
+      "Transitional cell carcinoma",
+      "Clear cell (conventional) renal cell carcinoma",
+      "Papillary renal cell carcinoma",
+      "Chromophobe renal cell carcinoma",
+      "Collecting duct carcinoma"
+    ],
+    "correct": 1,
+    "explanation": "Clear cell renal cell carcinoma (ccRCC) accounts for ~75% of RCC and arises from proximal tubular cells. It is strongly associated with VHL gene inactivation (3p deletion/mutation) — loss of VHL leads to HIF accumulation and upregulation of VEGF and PDGF, driving angiogenesis. This is the basis for targeted therapy with VEGF/mTOR inhibitors (sunitinib, pazopanib, everolimus). Classic presentation: haematuria, flank pain, palpable mass ('triad'). Paraneoplastic syndromes include polycythaemia (EPO), hypercalcaemia (PTHrP), and hypertension. Radical nephrectomy is curative for localised disease."
+  },
+  {
+    "id": "kt2_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 50-year-old woman presents with polyuria, polydipsia, and constipation. Blood tests show: calcium 3.1 mmol/L, PTH 9.8 pmol/L (elevated). Ultrasound neck and sestamibi scan identify a right inferior parathyroid adenoma.\n\nWhat is the most appropriate management?",
+    "options": [
+      "Oral bisphosphonate therapy",
+      "Cinacalcet (calcimimetic) alone",
+      "Surgical parathyroidectomy",
+      "High fluid intake and dietary calcium restriction only",
+      "Vitamin D supplementation"
+    ],
+    "correct": 2,
+    "explanation": "Primary hyperparathyroidism (most commonly a single parathyroid adenoma, ~80%) causes hypercalcaemia with inappropriately elevated PTH. Symptomatic hypercalcaemia ('bones, stones, moans, and groans': bone disease, renal stones, abdominal/GI symptoms, psychiatric symptoms) is an indication for surgery. Surgical parathyroidectomy (targeted minimally invasive parathyroidectomy guided by sestamibi scan) is curative. Cinacalcet (calcimimetic — sensitises CaSR to calcium, reducing PTH) is used in patients unfit for surgery. Bisphosphonates treat bone disease from hypercalcaemia but do not treat the underlying cause."
+  },
+  {
+    "id": "kt2_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 4-year-old girl is brought in by her mother with a 3-day history of fever, ear pain, and reduced hearing in the right ear. Otoscopy reveals a bulging, erythematous right tympanic membrane.\n\nWhat is the most common causative organism in acute otitis media in children?",
+    "options": [
+      "Haemophilus influenzae",
+      "Moraxella catarrhalis",
+      "Streptococcus pneumoniae",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus"
+    ],
+    "correct": 2,
+    "explanation": "Acute otitis media (AOM) is most commonly caused by Streptococcus pneumoniae (~40%), followed by non-typeable Haemophilus influenzae (~25%) and Moraxella catarrhalis (~10%). Viral causes (RSV, rhinovirus) often precede bacterial superinfection. Most cases in children self-resolve within 48–72 hours. NICE guidance: analgesia and watchful waiting for mild cases; amoxicillin is first-line antibiotic if systemically unwell, bilateral AOM <2 years, or perforated tympanic membrane with discharge. Tympanometry and audiometry assess complications (glue ear, conductive hearing loss)."
+  },
+  {
+    "id": "kt2_s67",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A systematic review and meta-analysis of 12 RCTs shows that a new antihypertensive reduces stroke risk by 20% (RR 0.80, 95% CI 0.65–0.98). The I² statistic is 78%.\n\nWhat does an I² of 78% indicate?",
+    "options": [
+      "78% of studies showed a statistically significant result",
+      "The pooled result is invalid because I² exceeds 50%",
+      "There is substantial heterogeneity between studies, meaning 78% of variance in results is due to true differences between studies rather than chance",
+      "78% of the variation in results is due to sampling error",
+      "The confidence interval is too wide to interpret the result"
+    ],
+    "correct": 2,
+    "explanation": "I² statistic quantifies heterogeneity in meta-analysis — the proportion of total variability in study results attributable to true differences between studies (rather than chance/sampling error). Interpretation: 0–25% = low heterogeneity; 25–50% = moderate; 50–75% = substantial; >75% = considerable. An I² of 78% indicates considerable heterogeneity, meaning the pooled effect estimate should be interpreted with caution. The cause of heterogeneity should be investigated through subgroup analyses or meta-regression. High heterogeneity does not automatically invalidate a meta-analysis but reduces confidence in a single summary estimate."
+  },
+  {
+    "id": "kt2_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A cross-sectional study of 5000 adults measures diet quality and rates of type 2 diabetes simultaneously. The prevalence odds ratio for T2DM in those with poor diet vs good diet is 2.4 (95% CI 1.8–3.2).\n\nWhat is the major limitation of this study design for establishing causation?",
+    "options": [
+      "It cannot calculate relative risk",
+      "It is unable to establish temporal sequence — it is unknown whether poor diet preceded diabetes or vice versa",
+      "The sample size is too small to be meaningful",
+      "Cross-sectional studies cannot adjust for confounding",
+      "It is not possible to calculate confidence intervals in cross-sectional studies"
+    ],
+    "correct": 1,
+    "explanation": "The fundamental limitation of cross-sectional studies is that exposure and outcome are measured simultaneously — it is impossible to establish temporality (whether the exposure preceded the outcome). This means causal inference cannot be made. In this example, poor diet may cause T2DM — or conversely, people with T2DM may have changed to a poor diet after diagnosis. Cross-sectional studies are useful for measuring prevalence, generating hypotheses, and assessing associations. They can calculate prevalence ratios and can adjust for confounding. For causation, cohort studies (prospective) or RCTs are required."
+  },
+  {
+    "id": "kt2_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A clinical trial tests whether a new antibiotic reduces post-operative infections. The investigators randomise patients to treatment or placebo, and the surgeons, nurses, and outcome assessors all know which group each patient is in. Only the patient is blinded.\n\nWhich type of blinding is this?",
+    "options": [
+      "Double-blind",
+      "Triple-blind",
+      "Single-blind",
+      "Open-label",
+      "Assessor-blind only"
+    ],
+    "correct": 2,
+    "explanation": "Single-blind trials blind only one party — typically the participant. Double-blind trials blind both participants and investigators (including outcome assessors). Triple-blind additionally blinds the statistician/data analyst. In this trial, only the patient is unaware of their allocation — this is single-blind. Performance bias (investigators behaving differently knowing group allocation) and detection bias (assessors knowing group allocation may rate outcomes differently) remain risks. Double-blinding is the gold standard for minimising these biases. Open-label studies have no blinding and are most susceptible to bias."
+  },
+  {
+    "id": "kt2_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A systematic review of observational studies on mobile phone use and brain tumour risk finds only studies showing a positive association have been published. Studies with negative results were not published.\n\nWhich type of bias does this describe?",
+    "options": [
+      "Selection bias",
+      "Information bias",
+      "Publication bias",
+      "Confounding",
+      "Attrition bias"
+    ],
+    "correct": 2,
+    "explanation": "Publication bias occurs when studies with statistically significant or positive results are more likely to be published than those with null or negative results. This skews the available literature and inflates effect sizes in systematic reviews and meta-analyses. It can be detected using a funnel plot (asymmetric funnel plot suggests publication bias) and statistical tests (Egger's test, Begg's test). To mitigate it, trial registries (e.g. ClinicalTrials.gov) require prospective registration. Attrition bias relates to differential loss to follow-up. Selection bias relates to unrepresentative study samples."
+  },
+  {
+    "id": "kt2_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A researcher calculates the absolute risk of myocardial infarction over 10 years as 8% in smokers and 4% in non-smokers in a cohort study.\n\nWhat is the attributable risk (risk difference)?",
+    "options": [
+      "2.0 (relative risk)",
+      "4% (absolute risk reduction)",
+      "50% (relative risk reduction)",
+      "25 (number needed to harm)",
+      "0.5 (odds ratio)"
+    ],
+    "correct": 1,
+    "explanation": "Attributable risk (risk difference, AR) = risk in exposed – risk in unexposed = 8% – 4% = 4%. This represents the proportion of disease in exposed individuals attributable to the exposure. It is a measure of absolute risk. Relative risk = 8%/4% = 2.0 (smokers have twice the risk). Number needed to harm (NNH) = 1/AR = 1/0.04 = 25 (25 smokers must smoke for one additional MI to occur). Population attributable risk takes into account prevalence of exposure. AR is the most clinically meaningful measure for individual patient counselling."
+  },
+  {
+    "id": "kt2_s72",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 55-year-old man who has undergone total gastrectomy for gastric cancer presents 18 months later with fatigue and macrocytic anaemia. Which is the most likely mechanism of his anaemia?",
+    "options": [
+      "Iron deficiency from reduced gastric acid for non-haem iron absorption",
+      "Folate deficiency from reduced small bowel absorption",
+      "Vitamin B12 deficiency due to loss of intrinsic factor-secreting parietal cells",
+      "Haemolytic anaemia from bile salt deficiency",
+      "Anaemia of chronic disease from ongoing malignancy"
+    ],
+    "correct": 2,
+    "explanation": "Intrinsic factor (IF) is secreted by gastric parietal cells and is essential for vitamin B12 absorption in the terminal ileum. Total gastrectomy removes all parietal cells, eliminating IF production and causing B12 malabsorption — regardless of dietary B12 intake. This typically manifests 18 months–2 years post-gastrectomy (as existing B12 stores are depleted). B12 deficiency causes megaloblastic (macrocytic) anaemia and subacute combined degeneration of the spinal cord. Treatment: lifelong IM hydroxocobalamin injections (oral B12 cannot be absorbed without IF). Iron deficiency (microcytic anaemia) also occurs post-gastrectomy but is a separate mechanism."
+  },
+  {
+    "id": "kt2_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 65-year-old man is admitted with an NSTEMI. He is commenced on dual antiplatelet therapy with aspirin and ticagrelor, low molecular weight heparin, and a statin.\n\n(a) Explain the mechanism of action of aspirin in preventing platelet aggregation.\n(b) Name the mechanism by which ticagrelor differs from aspirin in inhibiting platelet function.\n(c) Name one absolute contraindication to thrombolysis in ACS.",
+    "answer": "(a) Aspirin irreversibly inhibits cyclo-oxygenase (COX-1) enzyme in platelets, preventing conversion of arachidonic acid to thromboxane A₂ (TXA₂). TXA₂ normally promotes platelet aggregation and vasoconstriction. Since platelets are anucleate and cannot synthesise new COX, the inhibition lasts the platelet's lifetime (~7–10 days).\n(b) Ticagrelor is a direct-acting (non-thienopyridine), reversible P2Y₁₂ ADP receptor antagonist. It binds the P2Y₁₂ receptor and prevents ADP-mediated platelet activation and aggregation, independently of aspirin's mechanism.\n(c) Any one of: active intracranial haemorrhage, recent stroke within 3 months, recent major surgery within 3 weeks, suspected aortic dissection, active significant bleeding (excluding menstruation), severe uncontrolled hypertension >180/110 mmHg not responding to treatment. Note: thrombolysis is not routinely used in NSTEMI — it is used in STEMI when primary PCI is not available within 120 minutes.",
+    "explanation": "The combination of aspirin (COX-1/TXA₂ inhibition) and a P2Y₁₂ inhibitor (ticagrelor or clopidogrel) provides dual platelet inhibition via complementary pathways. Clopidogrel is a prodrug requiring hepatic activation; ticagrelor acts directly. Ticagrelor has superior outcomes in ACS (PLATO trial) but causes dyspnoea as a unique side effect. Low-molecular-weight heparin inhibits factor Xa (and IIa), preventing thrombin generation."
+  },
+  {
+    "id": "kt2_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 45-year-old man is diagnosed with obstructive sleep apnoea (OSA). He has a BMI of 38, snores loudly, and his wife reports episodes of apnoea during the night. His Epworth Sleepiness Score is 18/24.\n\n(a) Describe the pathophysiology of obstructive sleep apnoea.\n(b) Name two complications of untreated OSA.\n(c) What is the first-line treatment for moderate-to-severe OSA?",
+    "answer": "(a) During sleep, pharyngeal muscle tone decreases. In OSA, anatomical factors (obesity, large tongue, small mandible, enlarged tonsils) and reduced upper airway muscle tone cause repetitive partial or complete upper airway collapse (obstruction). This leads to apnoeic episodes (>10 seconds), causing hypoxaemia and hypercapnia, which activate the arousal response — brief awakening restores airway patency. These cycles repeat hundreds of times per night, causing sleep fragmentation and daytime somnolence.\n(b) Any two of: systemic hypertension, pulmonary hypertension, right heart failure (cor pulmonale), increased risk of cardiovascular disease/stroke, type 2 diabetes/insulin resistance, road traffic accidents from daytime somnolence, depression, cognitive impairment, arrhythmias (AF), metabolic syndrome.\n(c) Continuous positive airway pressure (CPAP) via a mask during sleep — maintains positive airway pressure to prevent upper airway collapse. Weight loss is also essential. Mandibular advancement devices for mild-to-moderate OSA.",
+    "explanation": "OSA is diagnosed by overnight oximetry and polysomnography; the apnoea-hypopnoea index (AHI >15/hour or >5 with symptoms) guides treatment. CPAP dramatically improves symptoms, reduces cardiovascular risk, and improves quality of life. Driving licence authorities (DVLA) must be notified; patients should not drive until symptoms are controlled."
+  },
+  {
+    "id": "kt2_v03",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 68-year-old man presents with haematuria and a 3-month history of urinary hesitancy, nocturia, and weight loss. PSA is 85 ng/mL. MRI pelvis shows a T3 prostate lesion. Bone scan shows multiple skeletal metastases.\n\n(a) Name the histological type of prostate cancer in >95% of cases.\n(b) What is the Gleason grading system?\n(c) Name two systemic therapies for metastatic prostate cancer.",
+    "answer": "(a) Adenocarcinoma (acinar adenocarcinoma) — arises from the peripheral zone epithelium of the prostate gland.\n(b) The Gleason system grades prostate adenocarcinoma based on the architectural pattern of glandular differentiation on biopsy. The two most prevalent patterns are graded 1–5 (1=well differentiated, 5=poorly differentiated/no gland formation). The Gleason score = primary grade + secondary grade (range 2–10). Modern reporting uses Grade Groups (1–5) aligned to Gleason scores: Grade Group 1 = Gleason ≤6; Grade Group 5 = Gleason 9–10.\n(c) Any two of: androgen deprivation therapy (ADT) — LHRH agonists (goserelin, leuprorelin) or antagonists (degarelix); oral anti-androgens (enzalutamide, abiraterone + prednisolone); docetaxel chemotherapy; radium-223 (for bone metastases); PARP inhibitors (olaparib for BRCA-mutated mCRPC).",
+    "explanation": "Metastatic castration-sensitive prostate cancer (mCSPC) is treated with ADT plus docetaxel or an AR pathway inhibitor (abiraterone, enzalutamide, apalutamide). Bone metastases cause pain, fracture risk, and hypercalcaemia; bisphosphonates/denosumab protect against skeletal events. PSA is used for monitoring treatment response."
+  },
+  {
+    "id": "kt2_v04",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A 30-year-old woman presents to the emergency department 4 hours after ingesting 30 tablets of ibuprofen.\n\n(a) Describe the mechanism of NSAID-induced renal toxicity.\n(b) Name two other organ systems at risk in NSAID overdose.\n(c) What is the first-line treatment for NSAID overdose?",
+    "answer": "(a) NSAIDs inhibit COX-1 and COX-2, reducing synthesis of prostaglandins (particularly PGE₂ and PGI₂) in the kidney. In normal physiology, renal prostaglandins have minimal effect on perfusion. However, in states of reduced effective arterial volume (hypovolaemia, heart failure, cirrhosis), prostaglandins act as vasodilators maintaining afferent arteriolar perfusion. NSAID inhibition causes unopposed vasoconstriction of the afferent arteriole, reducing GFR and causing acute kidney injury (pre-renal/intrinsic).\n(b) Any two of: GI tract (erosions, peptic ulceration, GI bleeding via COX-1 inhibition reducing mucosal prostaglandins); cardiovascular system (exacerbation of hypertension, heart failure, increased risk of MI — COX-2 inhibition reduces PGI₂, a vasodilator/antiplatelet prostacyclin, shifting balance towards thromboxane A₂); CNS (seizures in massive overdose, rarely); haematological (platelet dysfunction from COX-1 inhibition); hepatotoxicity (rare); metabolic acidosis in massive overdose.\n(c) Supportive treatment — activated charcoal (if within 1 hour of ingestion and airway protected), IV fluid resuscitation, monitoring of renal function and electrolytes, urine output monitoring. There is no specific antidote for NSAIDs. Severe metabolic acidosis may require bicarbonate. Haemodialysis in severe cases with renal failure or metabolic acidosis unresponsive to treatment.",
+    "explanation": "NSAID toxicity is rarely life-threatening in isolation but severe overdose (particularly with mefenamic acid, which causes seizures) can be serious. Concurrent paracetamol ingestion should be excluded. Monitor urine output, U&E, FBC, and LFTs."
+  },
+  {
+    "id": "kt2_v05",
+    "type": "vsaq",
+    "topic": "BIM-Cells",
+    "stem": "A medical student is studying oncogenesis.\n\n(a) Distinguish between a proto-oncogene and an oncogene.\n(b) Give one example of an oncogene and its mechanism of action in cancer.\n(c) Explain the 'two-hit hypothesis' for tumour suppressor genes.",
+    "answer": "(a) A proto-oncogene is a normal cellular gene that encodes proteins promoting cell growth, proliferation, and differentiation (e.g. growth factors, their receptors, signal transducers, transcription factors). An oncogene is a mutated or amplified form of a proto-oncogene that is constitutively active, driving cell proliferation in the absence of normal growth signals — a gain-of-function mutation.\n(b) Examples: KRAS — encodes a small GTPase. Activating point mutations (e.g. G12D) cause KRAS to remain constitutively bound to GTP (active), continuously activating the MAPK/ERK proliferation pathway even without growth factor signalling. Found in ~30% of all cancers (pancreatic, colorectal, lung). HER2/ERBB2 — receptor tyrosine kinase amplification (overexpression) causes constitutive proliferative signalling; targeted by trastuzumab. MYC — transcription factor amplification drives cell cycle entry.\n(c) The two-hit hypothesis (Knudson, 1971): tumour suppressor genes require both alleles to be inactivated for tumour development ('loss of heterozygosity'). In hereditary cancer syndromes, one allele is inherited as a germline mutation (first hit). A subsequent somatic mutation, deletion, or epigenetic silencing inactivates the remaining wild-type allele (second hit) in a specific cell, causing tumour development. In sporadic cancers, both hits occur as somatic events.",
+    "explanation": "This framework explains why hereditary cancer syndromes (BRCA1/2, APC, RB1, VHL) have earlier onset than sporadic cancers — only one somatic hit is needed rather than two. The RB1 gene was the first tumour suppressor described; its product (pRb) regulates the G1/S checkpoint by sequestering E2F transcription factors."
+  },
+  {
+    "id": "kt2_v06",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "During a ward round, a foundation doctor notices that a consultant has made what appears to be a clinical error, prescribing a contraindicated drug to a patient with severe renal failure. The patient has not yet received the dose.\n\n(a) What is the immediate clinical priority?\n(b) Outline the professional obligation of the foundation doctor in this situation.\n(c) What principle underpins a 'duty of candour' and to whom does it apply?",
+    "answer": "(a) Immediately ensure patient safety — contact the nurse or pharmacist to withhold the dose before it is administered. This is a safety-critical action that takes precedence over hierarchy.\n(b) The foundation doctor has a professional duty to act on patient safety concerns, regardless of seniority of the prescriber. GMC Good Medical Practice requires all doctors to raise and act on concerns promptly. The doctor should: (1) prevent the medication from being given; (2) inform the consultant politely of the concern; (3) if the consultant is unresponsive or dismissive, escalate to a senior colleague, clinical pharmacist, or supervisor; (4) document the concern and actions taken. Fear of seniority does not justify silence when patient safety is at risk.\n(c) The duty of candour requires healthcare professionals and organisations to be open and honest with patients (and families) when something goes wrong with care that causes harm. It requires an apology, explanation, and information about what happened and what will be done to prevent recurrence. In the UK, statutory duty of candour applies to NHS organisations (CQC, 2014). A professional duty of candour applies to all registered health professionals (GMC/NMC). It is underpinned by respect for patient autonomy and the principle of non-maleficence.",
+    "explanation": "Foundation doctors frequently witness clinical errors and face the challenge of raising concerns across professional hierarchies. The GMC and national patient safety frameworks are clear: patient safety must override concerns about hierarchy. Incident reporting (Datix) should occur after immediate patient safety is secured."
+  },
+  {
+    "id": "kt2_v07",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 35-year-old woman is diagnosed with systemic lupus erythematosus (SLE) with lupus nephritis.\n\n(a) Name two autoantibodies most specific for SLE.\n(b) Describe the immunological mechanism of renal damage in lupus nephritis.\n(c) Name the WHO class of lupus nephritis that has the worst prognosis.",
+    "answer": "(a) Anti-dsDNA antibody (highly specific, titres correlate with disease activity) and Anti-Smith (anti-Sm) antibody (highly specific, present in ~25% of SLE patients).\n(b) SLE is characterised by defective clearance of apoptotic debris and nuclear material (e.g. dsDNA, histones). These act as autoantigens, stimulating autoantibody production. Circulating immune complexes (IgG anti-dsDNA + dsDNA antigen) deposit in the glomerular mesangium and subendothelial/subepithelial spaces, activating complement (C3, C4 consumption) via the classical pathway. This causes glomerular inflammation, complement-mediated damage, and recruitment of neutrophils and monocytes → nephritis.\n(c) WHO/ISN Class IV (diffuse proliferative lupus nephritis) — affects >50% of glomeruli; associated with nephrotic and nephritic syndrome, rapidly progressive renal failure, and the highest risk of end-stage renal disease. Treatment is high-dose corticosteroids plus cyclophosphamide or mycophenolate mofetil.",
+    "explanation": "The complement system is central to SLE pathogenesis — paradoxically, C1q deficiency (impaired apoptotic debris clearance) is the strongest genetic risk factor for SLE. Monitoring of anti-dsDNA titres and complement (C3, C4) levels tracks disease activity. Hydroxychloroquine is the backbone of SLE maintenance therapy, reducing flares and mortality."
+  },
+  {
+    "id": "kt2_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A new point-of-care test for sepsis is evaluated against the gold standard blood culture in 200 patients. Results show: 60 patients have true sepsis; the test is positive in 54 of these and negative in 100 of the 140 patients without sepsis.\n\nCalculate: (a) sensitivity, (b) specificity, (c) positive predictive value.",
+    "answer": "Construct a 2×2 table:\n- True positives (TP) = 54 (test positive, have sepsis)\n- False negatives (FN) = 6 (test negative, have sepsis)\n- True negatives (TN) = 100 (test negative, no sepsis)\n- False positives (FP) = 40 (test positive, no sepsis)\n\n(a) Sensitivity = TP / (TP + FN) = 54 / (54 + 6) = 54/60 = 0.90 = 90%\n(b) Specificity = TN / (TN + FP) = 100 / (100 + 40) = 100/140 = 0.714 = 71.4%\n(c) PPV = TP / (TP + FP) = 54 / (54 + 40) = 54/94 = 0.574 = 57.4%",
+    "explanation": "Sensitivity (90%) means the test correctly identifies 90% of true sepsis cases — useful for ruling OUT disease (high sensitivity = few false negatives; SnNOut). Specificity (71.4%) means it correctly identifies 71.4% of those without sepsis — useful for ruling IN disease (high specificity = few false positives; SpPIn). The PPV of 57.4% reflects that in this population (30% prevalence), just over half of positive tests represent true sepsis. NPV = TN/(TN+FN) = 100/106 = 94.3%. PPV and NPV vary with disease prevalence; sensitivity and specificity are inherent to the test."
+  }
+]
