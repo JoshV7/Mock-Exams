@@ -2,6 +2,7 @@
   {
     "key": "Paper1",
     "name": "MBChB Year 1 — Knowledge Test — Paper 1",
-    "filename": "Paper1.json"
+    "filename": "Paper1.json",
+    "type": "kt"
   }
 ]
