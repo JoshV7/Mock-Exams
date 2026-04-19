@@ -64,7 +64,7 @@
     "type": "sba",
     "topic": "SL-CV",
     "stem": "A 55-year-old man presents with sudden tearing chest pain radiating to his back. His blood pressure is 180/100 mmHg in the right arm and 140/90 mmHg in the left arm. A CT aortogram is shown.\n\nWhich condition is most likely?",
-    "images": ["images/DissectionCT.png"],
+    "images": ["Images/DissectionCT.png"],
     "options": [
       "Acute myocardial infarction",
       "Pulmonary embolism",
