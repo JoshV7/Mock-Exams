@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt6_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 66-year-old man presents with exertional chest tightness relieved by rest. His resting ECG is normal. He is started on a GTN spray to use as required.\n\nWhich mechanism best explains the anti-anginal effect of GTN?",
+    "options": [
+      "Blockade of β1 adrenergic receptors",
+      "L-type calcium channel inhibition in coronary arteries",
+      "Release of nitric oxide causing venodilation and reduced preload",
+      "Direct arterial vasodilation via potassium channel opening",
+      "Competitive antagonism at angiotensin II receptors"
+    ],
+    "correct": 2,
+    "explanation": "GTN is metabolised to nitric oxide, which activates guanylate cyclase in vascular smooth muscle. The predominant effect at low doses is venodilation, reducing preload and thus myocardial oxygen demand. At higher doses some coronary arterial dilation also contributes."
+  },
+  {
+    "id": "kt6_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 55-year-old woman is admitted with shortness of breath. On examination she has bibasal crackles, raised JVP, and a third heart sound. Her echocardiogram shows an ejection fraction of 32%.\n\nWhich drug has the greatest evidence for mortality reduction in this condition?",
+    "options": [
+      "Loop diuretic",
+      "ACE inhibitor",
+      "Digoxin",
+      "Ivabradine",
+      "Calcium channel blocker"
+    ],
+    "correct": 1,
+    "explanation": "ACE inhibitors (or ARBs/ARNIs) improve survival in HFrEF, as do beta-blockers, mineralocorticoid receptor antagonists, and SGLT2 inhibitors. Loop diuretics improve symptoms but do not improve mortality."
+  },
+  {
+    "id": "kt6_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 72-year-old man has a pulse of 45 bpm and feels lightheaded. His ECG shows regular P waves and QRS complexes, but P waves are not consistently followed by QRS — the PR interval progressively lengthens until a QRS is dropped.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "First-degree AV block",
+      "Mobitz type I (Wenckebach) second-degree AV block",
+      "Mobitz type II second-degree AV block",
+      "Complete heart block",
+      "Sinus arrhythmia"
+    ],
+    "correct": 1,
+    "explanation": "Progressive PR prolongation followed by a dropped QRS is classic for Mobitz type I (Wenckebach). Mobitz II shows intermittent non-conducted P waves without PR prolongation. Complete heart block shows dissociation between P waves and QRS."
+  },
+  {
+    "id": "kt6_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 58-year-old woman is started on amlodipine for hypertension. Two weeks later she complains of ankle swelling.\n\nWhich mechanism best explains this side effect?",
+    "options": [
+      "Fluid retention secondary to aldosterone excess",
+      "Preferential arteriolar dilation increasing capillary hydrostatic pressure",
+      "Hypoalbuminaemia from reduced hepatic synthesis",
+      "Venous obstruction in the lower limbs",
+      "Direct toxic effect on capillary endothelium"
+    ],
+    "correct": 1,
+    "explanation": "Dihydropyridine calcium channel blockers cause more dilation of pre-capillary arterioles than post-capillary venules. This raises capillary hydrostatic pressure, driving fluid into the interstitium. The effect is dose-dependent and typically affects the ankles."
+  },
+  {
+    "id": "kt6_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 45-year-old woman has persistent hypertension despite three antihypertensives at maximal doses. She has episodes of palpitations, sweating, and headache. 24-hour urinary metanephrines are markedly elevated.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Essential hypertension",
+      "Conn's syndrome",
+      "Phaeochromocytoma",
+      "Cushing's syndrome",
+      "Renal artery stenosis"
+    ],
+    "correct": 2,
+    "explanation": "Paroxysmal hypertension with headache, palpitations, and sweating alongside elevated urinary metanephrines is diagnostic of phaeochromocytoma. Alpha blockade (phenoxybenzamine) must be established before beta blockade and surgical removal."
+  },
+  {
+    "id": "kt6_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 78-year-old man in atrial fibrillation has a CHA₂DS₂-VASc score of 4. He has no contraindications to anticoagulation.\n\nWhich is the most appropriate treatment?",
+    "options": [
+      "Aspirin 75 mg",
+      "Clopidogrel 75 mg",
+      "Apixaban 5 mg twice daily",
+      "Warfarin aiming for INR 1.5–2",
+      "No treatment — monitor only"
+    ],
+    "correct": 2,
+    "explanation": "In non-valvular AF with CHA₂DS₂-VASc ≥ 2 (men) or ≥ 3 (women), a DOAC (e.g. apixaban) is first-line for stroke prevention. Antiplatelets are no longer recommended for this purpose."
+  },
+  {
+    "id": "kt6_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A patient has a blood pressure of 172/104 mmHg on three separate clinic visits. Home readings confirm sustained hypertension. He is 42 years old and has no other medical history.\n\nWhich antihypertensive should be offered first-line?",
+    "options": [
+      "ACE inhibitor",
+      "Thiazide-like diuretic",
+      "Calcium channel blocker",
+      "Beta-blocker",
+      "Alpha-blocker"
+    ],
+    "correct": 0,
+    "explanation": "For patients under 55 and not of Black African or Caribbean origin, first-line antihypertensive is an ACE inhibitor (or ARB). For patients over 55 or of Black African or Caribbean origin, first-line is a calcium channel blocker."
+  },
+  {
+    "id": "kt6_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 60-year-old man is admitted with chest pain. Troponin is elevated at 6 hours. His ECG shows ST depression and T-wave inversion in the lateral leads.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Unstable angina",
+      "ST-elevation myocardial infarction",
+      "Non-ST-elevation myocardial infarction",
+      "Pericarditis",
+      "Aortic dissection"
+    ],
+    "correct": 2,
+    "explanation": "An elevated troponin with ischaemic ECG changes but no ST elevation indicates NSTEMI. Unstable angina has normal troponin. STEMI requires ST elevation in two contiguous leads."
+  },
+  {
+    "id": "kt6_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 26-year-old woman has a chronic cough with intermittent wheeze, worse at night and after exercise. She has a history of eczema.\n\nWhich test is most useful for confirming the diagnosis?",
+    "options": [
+      "Chest X-ray",
+      "Spirometry with bronchodilator reversibility",
+      "Peak flow only at a single time point",
+      "Full blood count",
+      "CT thorax"
+    ],
+    "correct": 1,
+    "explanation": "Asthma is diagnosed using a combination of clinical features and objective testing. Spirometry with reversibility (≥ 12% improvement in FEV1 after bronchodilator) or FeNO testing is used to demonstrate variable airflow obstruction."
+  },
+  {
+    "id": "kt6_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 65-year-old man with COPD is admitted with increased breathlessness and productive cough. His arterial blood gas on 28% oxygen shows: pH 7.28, PaCO2 8.5 kPa, PaO2 7.0 kPa, HCO3 28 mmol/L.\n\nWhat is the most appropriate management?",
+    "options": [
+      "Increase oxygen to 15 L/min non-rebreathe mask",
+      "Intubation and invasive ventilation immediately",
+      "Non-invasive ventilation (BiPAP)",
+      "Continue current oxygen and observe",
+      "IV aminophylline alone"
+    ],
+    "correct": 2,
+    "explanation": "Decompensated type 2 respiratory failure in COPD with pH < 7.35 despite optimal medical therapy is an indication for NIV (BiPAP). Oxygen should be titrated to saturations 88–92% in COPD to avoid worsening hypercapnia."
+  },
+  {
+    "id": "kt6_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 45-year-old man presents with sudden pleuritic chest pain and breathlessness. He is tall and thin. Chest examination reveals reduced breath sounds and hyper-resonant percussion on the right.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Primary spontaneous pneumothorax",
+      "Asthma exacerbation",
+      "Pulmonary oedema"
+    ],
+    "correct": 2,
+    "explanation": "Tall, thin young men are predisposed to primary spontaneous pneumothorax from rupture of apical blebs. Reduced breath sounds with hyper-resonance on the affected side is typical."
+  },
+  {
+    "id": "kt6_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 72-year-old man has a CURB-65 score of 3 for community-acquired pneumonia.\n\nWhich of the following is the most appropriate initial management?",
+    "options": [
+      "Oral amoxicillin at home",
+      "Oral co-amoxiclav at home",
+      "IV co-amoxiclav and clarithromycin in hospital",
+      "IV gentamicin monotherapy",
+      "No antibiotics — treat symptomatically"
+    ],
+    "correct": 2,
+    "explanation": "CURB-65 ≥ 3 indicates severe CAP requiring hospital admission and dual antibiotic cover (e.g. IV co-amoxiclav plus clarithromycin). Consideration of ICU should be given for CURB-65 of 4 or 5."
+  },
+  {
+    "id": "kt6_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 5-month-old baby presents in winter with wheeze, coryza, and mild respiratory distress. There is no fever.\n\nWhat is the most likely causative organism?",
+    "options": [
+      "Respiratory syncytial virus",
+      "Streptococcus pneumoniae",
+      "Influenza A",
+      "Haemophilus influenzae",
+      "Bordetella pertussis"
+    ],
+    "correct": 0,
+    "explanation": "Bronchiolitis in infants is usually caused by RSV. Management is supportive — oxygen, fluids, and nutritional support. Antibiotics are not routinely indicated."
+  },
+  {
+    "id": "kt6_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 70-year-old woman who lives alone presents with fatigue and confusion. Her blood tests show a haemoglobin of 92 g/L with MCV 108 fL. Her B12 and folate levels are low, and she is on a prolonged course of a proton pump inhibitor.\n\nWhich mechanism best explains her B12 deficiency?",
+    "options": [
+      "Autoimmune destruction of parietal cells",
+      "Reduced gastric acid impairing B12 release from food proteins",
+      "Malabsorption secondary to Crohn's disease",
+      "Dietary insufficiency alone",
+      "Congenital lack of intrinsic factor"
+    ],
+    "correct": 1,
+    "explanation": "PPIs reduce gastric acid, impairing the release of B12 from dietary proteins. This can contribute to deficiency, particularly in older adults with low dietary intake. Intrinsic factor is still produced, so cyanocobalamin supplementation may be effective."
+  },
+  {
+    "id": "kt6_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 55-year-old man with a history of alcohol excess presents with steatorrhoea and weight loss. Faecal elastase is low.\n\nWhich diagnosis is most likely?",
+    "options": [
+      "Coeliac disease",
+      "Chronic pancreatitis with exocrine insufficiency",
+      "Small bowel bacterial overgrowth",
+      "Lactose intolerance",
+      "Irritable bowel syndrome"
+    ],
+    "correct": 1,
+    "explanation": "Chronic pancreatitis leads to fibrosis and loss of exocrine function. Low faecal elastase confirms exocrine insufficiency. Treatment includes pancreatic enzyme replacement therapy (Creon) and fat-soluble vitamin supplementation."
+  },
+  {
+    "id": "kt6_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 35-year-old woman has iron deficiency anaemia, intermittent diarrhoea, and weight loss. Anti-tissue transglutaminase (tTG) antibodies are strongly positive.\n\nWhich is the most appropriate next investigation?",
+    "options": [
+      "Colonoscopy with biopsies",
+      "Duodenal (small bowel) biopsy",
+      "CT abdomen",
+      "Hydrogen breath test",
+      "Barium follow-through"
+    ],
+    "correct": 1,
+    "explanation": "Positive tTG antibodies should be followed by duodenal biopsy (while still on a gluten-containing diet) to confirm coeliac disease. Classic histology shows villous atrophy, crypt hyperplasia, and intraepithelial lymphocytes."
+  },
+  {
+    "id": "kt6_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 55-year-old man with morbid obesity is considering bariatric surgery. He asks which deficiency is most likely after a Roux-en-Y gastric bypass.\n\nWhich nutrient is he most at risk of?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B12 and iron",
+      "Vitamin A",
+      "Vitamin E",
+      "Calcium only"
+    ],
+    "correct": 1,
+    "explanation": "Roux-en-Y bypasses the duodenum and proximal jejunum, reducing absorption of iron, calcium, and fat-soluble vitamins. Lack of gastric acid and intrinsic factor exposure also impairs B12 absorption. Lifelong supplementation is required."
+  },
+  {
+    "id": "kt6_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 28-year-old woman has 8 weeks of amenorrhoea and mild lower abdominal pain. She is haemodynamically stable. Her β-hCG is 2500 IU/L and transvaginal ultrasound shows an empty uterus.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Early intrauterine pregnancy",
+      "Ectopic pregnancy",
+      "Threatened miscarriage",
+      "Complete miscarriage",
+      "Molar pregnancy"
+    ],
+    "correct": 1,
+    "explanation": "At β-hCG above the discriminatory zone (usually 1500–2000 IU/L), an intrauterine pregnancy should be visible on transvaginal ultrasound. An empty uterus with a positive β-hCG is strongly suspicious for ectopic pregnancy until proven otherwise."
+  },
+  {
+    "id": "kt6_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 24-year-old woman has irregular periods, hirsutism, and mild acne. Pelvic ultrasound shows multiple small follicles around the ovaries. LH:FSH ratio is elevated and free testosterone is raised.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Premature ovarian insufficiency",
+      "Hypogonadotropic hypogonadism",
+      "Polycystic ovary syndrome",
+      "Congenital adrenal hyperplasia",
+      "Cushing's syndrome"
+    ],
+    "correct": 2,
+    "explanation": "PCOS is diagnosed by the Rotterdam criteria: two of (i) oligo/anovulation, (ii) clinical or biochemical hyperandrogenism, (iii) polycystic ovaries on ultrasound. First-line management: lifestyle + combined oral contraceptive; metformin for metabolic features; clomifene for fertility."
+  },
+  {
+    "id": "kt6_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A pregnant woman at 12 weeks' gestation attends her booking appointment. Her blood pressure is 145/95 mmHg. She has no history of hypertension or proteinuria.\n\nHow would this be classified?",
+    "options": [
+      "Chronic hypertension",
+      "Gestational hypertension",
+      "Pre-eclampsia",
+      "Eclampsia",
+      "White coat hypertension"
+    ],
+    "correct": 0,
+    "explanation": "Hypertension identified before 20 weeks' gestation is classified as chronic (pre-existing) hypertension. Gestational hypertension arises after 20 weeks without proteinuria; pre-eclampsia features hypertension with proteinuria and/or end-organ involvement."
+  },
+  {
+    "id": "kt6_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 32-year-old woman with a BMI of 31 and a family history of venous thromboembolism wants contraception.\n\nWhich method has the least associated thrombosis risk?",
+    "options": [
+      "Combined oral contraceptive pill",
+      "Contraceptive patch",
+      "Vaginal ring",
+      "Progestogen-only implant",
+      "Combined injection"
+    ],
+    "correct": 3,
+    "explanation": "Combined hormonal contraceptives increase VTE risk. In patients with elevated VTE risk, progestogen-only methods (implant, IUS, POP, depot) are preferred. The implant has the least metabolic/vascular impact among these."
+  },
+  {
+    "id": "kt6_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 29-year-old woman has pruritus, urticaria, and mild swelling of her lips within minutes of eating peanuts. Specific IgE to peanut is positive.\n\nWhat type of hypersensitivity reaction is this?",
+    "options": [
+      "Type I (IgE-mediated)",
+      "Type II (cytotoxic, antibody-mediated)",
+      "Type III (immune complex)",
+      "Type IV (delayed, T-cell mediated)",
+      "Type V (stimulatory)"
+    ],
+    "correct": 0,
+    "explanation": "Rapid-onset urticaria/angioedema on allergen exposure with specific IgE is a Type I hypersensitivity reaction. Mast cell degranulation releases histamine and other mediators. Severe reactions require IM adrenaline."
+  },
+  {
+    "id": "kt6_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A patient presents with recurrent bacterial infections. Investigations show normal immunoglobulin levels but deficient complement C5–C9.\n\nWhich organism is most likely to cause recurrent infection?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Escherichia coli",
+      "Candida albicans"
+    ],
+    "correct": 2,
+    "explanation": "Terminal complement (C5–C9, the membrane attack complex) deficiencies predispose to recurrent Neisseria infections. The MAC is essential for lysis of these encapsulated Gram-negative organisms."
+  },
+  {
+    "id": "kt6_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 32-year-old woman develops fever, rash, and joint pain a week after starting a new antibiotic. Her complement levels are reduced and immune complexes are deposited in tissues.\n\nWhat type of hypersensitivity reaction is this?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Cytokine storm"
+    ],
+    "correct": 2,
+    "explanation": "Serum sickness-like reactions are Type III hypersensitivity: circulating antigen–antibody complexes deposit in tissues, activate complement, and cause fever, rash, arthralgia, and sometimes glomerulonephritis."
+  },
+  {
+    "id": "kt6_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A patient receiving chemotherapy develops oral thrush. Her CD4 count is very low.\n\nWhich arm of the immune system is most critically deficient?",
+    "options": [
+      "Innate phagocytic system",
+      "Humoral (antibody) immunity",
+      "Cell-mediated immunity",
+      "Complement system",
+      "Mucosal immunity"
+    ],
+    "correct": 2,
+    "explanation": "Cell-mediated (T-cell) immunity is essential for controlling intracellular pathogens and fungi. CD4 depletion predisposes to opportunistic infections such as Candida, Pneumocystis jirovecii, and reactivation of herpes viruses."
+  },
+  {
+    "id": "kt6_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 50-year-old man with alcohol excess is admitted with a cavitating right upper lobe pneumonia.\n\nWhich organism is most likely?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Klebsiella pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Haemophilus influenzae",
+      "Legionella pneumophila"
+    ],
+    "correct": 1,
+    "explanation": "Klebsiella pneumoniae is associated with alcohol excess and causes cavitating pneumonia with 'red-currant jelly' sputum and upper lobe predominance."
+  },
+  {
+    "id": "kt6_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 30-year-old man returns from Nigeria with fever, headache, and malaise. Thick and thin blood films reveal ring forms and schizonts.\n\nWhich organism is most likely?",
+    "options": [
+      "Plasmodium vivax",
+      "Plasmodium falciparum",
+      "Plasmodium malariae",
+      "Plasmodium ovale",
+      "Leishmania donovani"
+    ],
+    "correct": 1,
+    "explanation": "Most malaria imported from sub-Saharan Africa is Plasmodium falciparum — the most severe form. Falciparum can cause cerebral malaria, severe anaemia, and multi-organ failure."
+  },
+  {
+    "id": "kt6_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 20-year-old student with a sore throat, fever, and cervical lymphadenopathy develops a widespread maculopapular rash after starting amoxicillin.\n\nWhat is the most likely underlying diagnosis?",
+    "options": [
+      "Streptococcal pharyngitis",
+      "Infectious mononucleosis (EBV)",
+      "Drug allergy to penicillin",
+      "Scarlet fever",
+      "Viral meningitis"
+    ],
+    "correct": 1,
+    "explanation": "A morbilliform rash after amoxicillin in a patient with pharyngitis and lymphadenopathy strongly suggests underlying EBV infection (glandular fever). Diagnosis is with a monospot (heterophile antibody) test or EBV serology."
+  },
+  {
+    "id": "kt6_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A hospitalised patient develops watery diarrhoea after 7 days of co-amoxiclav. Stool culture is negative, but a toxin assay is positive.\n\nWhat is the first-line treatment?",
+    "options": [
+      "IV metronidazole",
+      "Oral vancomycin",
+      "Oral ciprofloxacin",
+      "Loperamide",
+      "IV gentamicin"
+    ],
+    "correct": 1,
+    "explanation": "Current guidance recommends oral vancomycin as first-line for Clostridioides difficile infection. Fidaxomicin is an alternative, especially for recurrence. Offending antibiotics should be stopped and fluids given."
+  },
+  {
+    "id": "kt6_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 4-year-old boy has a fever, barking cough, and stridor, worse at night. He has no drooling and is able to drink.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Acute epiglottitis",
+      "Viral croup",
+      "Bacterial tracheitis",
+      "Bronchiolitis",
+      "Foreign body aspiration"
+    ],
+    "correct": 1,
+    "explanation": "Barking cough with stridor in a preschool child is typical of viral croup (parainfluenza). First-line treatment is oral dexamethasone; nebulised adrenaline for severe cases. Epiglottitis is rarer (Hib vaccine) and features drooling, tripoding, and a toxic child."
+  },
+  {
+    "id": "kt6_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 62-year-old man presents with painless macroscopic haematuria. Urine cytology shows malignant cells.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Renal cell carcinoma",
+      "Transitional cell (urothelial) carcinoma",
+      "Squamous cell carcinoma of bladder",
+      "Prostate cancer",
+      "Glomerulonephritis"
+    ],
+    "correct": 1,
+    "explanation": "Painless macroscopic haematuria in an adult should prompt urgent urology referral for suspected bladder cancer. Transitional cell carcinoma is the commonest type in the UK. Risk factors include smoking and occupational dye exposure."
+  },
+  {
+    "id": "kt6_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 45-year-old woman with a BRCA1 mutation asks about preventive options.\n\nWhich intervention provides the greatest reduction in breast cancer risk?",
+    "options": [
+      "Annual MRI surveillance",
+      "Tamoxifen chemoprevention",
+      "Bilateral prophylactic mastectomy",
+      "Annual mammography",
+      "Oophorectomy alone"
+    ],
+    "correct": 2,
+    "explanation": "Risk-reducing bilateral mastectomy reduces breast cancer risk by over 90% in BRCA carriers. Oophorectomy reduces breast and ovarian risk, and is usually recommended after childbearing. Tamoxifen offers moderate chemoprevention."
+  },
+  {
+    "id": "kt6_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 40-year-old man notices a painless lump in his right testicle. Ultrasound confirms a solid mass. Serum β-hCG and AFP are both elevated.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Epididymo-orchitis",
+      "Seminoma",
+      "Non-seminomatous germ cell tumour",
+      "Hydrocele",
+      "Testicular lymphoma"
+    ],
+    "correct": 2,
+    "explanation": "Elevated AFP rules out pure seminoma (which never produces AFP). Mixed germ cell tumours / non-seminomas can produce both β-hCG and AFP. Management is radical orchidectomy followed by risk-stratified chemotherapy."
+  },
+  {
+    "id": "kt6_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 70-year-old man has metastatic prostate cancer. His PSA is 85.\n\nWhich first-line therapy is most appropriate?",
+    "options": [
+      "Radical prostatectomy",
+      "External beam radiotherapy",
+      "Androgen deprivation therapy",
+      "Active surveillance",
+      "High-dose chemotherapy"
+    ],
+    "correct": 2,
+    "explanation": "Metastatic prostate cancer is treated initially with androgen deprivation therapy — GnRH agonists (with transient flare protection) or antagonists. Additional therapy (abiraterone, enzalutamide, docetaxel) is increasingly added up-front."
+  },
+  {
+    "id": "kt6_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 60-year-old woman has a Colles' fracture after minor trauma. DEXA scan shows a T-score of −2.8 at the lumbar spine.\n\nWhat is the first-line pharmacological treatment?",
+    "options": [
+      "Calcium and vitamin D alone",
+      "Oral alendronic acid plus calcium/vitamin D",
+      "Teriparatide",
+      "Denosumab",
+      "Oestrogen replacement therapy"
+    ],
+    "correct": 1,
+    "explanation": "First-line pharmacological therapy for osteoporosis is an oral bisphosphonate (e.g. alendronic acid), alongside calcium and vitamin D. Denosumab and teriparatide are second-line or used for severe disease/intolerance."
+  },
+  {
+    "id": "kt6_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 68-year-old man has sudden severe pain, swelling, and redness of the first metatarsophalangeal joint. Joint aspirate shows needle-shaped negatively birefringent crystals.\n\nWhat is the first-line acute treatment?",
+    "options": [
+      "Oral prednisolone",
+      "Allopurinol",
+      "Non-steroidal anti-inflammatory drug (if no contraindication)",
+      "Colchicine as first-line regardless of comorbidities",
+      "Paracetamol alone"
+    ],
+    "correct": 2,
+    "explanation": "First-line for acute gout is an NSAID (if not contraindicated). Colchicine and oral steroids are alternatives. Allopurinol is used for long-term prevention, not acute treatment, and should not be started during an acute attack."
+  },
+  {
+    "id": "kt6_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 35-year-old woman has a 4-week history of symmetrical pain and swelling of the MCP and PIP joints with morning stiffness of 90 minutes. Anti-CCP antibodies are strongly positive.\n\nWhich is the first-line disease-modifying treatment?",
+    "options": [
+      "Hydroxychloroquine",
+      "Methotrexate",
+      "Infliximab",
+      "Rituximab",
+      "Sulfasalazine"
+    ],
+    "correct": 1,
+    "explanation": "Methotrexate is first-line DMARD in rheumatoid arthritis, usually with short-course bridging steroid. Biologics (e.g. anti-TNF) are added if there is inadequate response to two csDMARDs."
+  },
+  {
+    "id": "kt6_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A patient with severe sepsis has a reduced mean arterial pressure despite fluid resuscitation. Systemic vascular resistance is low and cardiac output is high.\n\nWhich type of shock is this?",
+    "options": [
+      "Hypovolaemic",
+      "Cardiogenic",
+      "Distributive (septic)",
+      "Obstructive",
+      "Anaphylactic"
+    ],
+    "correct": 2,
+    "explanation": "Septic (distributive) shock is characterised by systemic vasodilation, low SVR, and initially elevated cardiac output. Treatment includes fluids, early antibiotics, and vasopressors (noradrenaline first-line) to maintain MAP."
+  },
+  {
+    "id": "kt6_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "During inspiration in a healthy person, right ventricular stroke volume transiently increases while left ventricular stroke volume transiently decreases.\n\nWhich physiological concept explains this?",
+    "options": [
+      "Frank-Starling's law alone",
+      "Increased pulmonary vascular resistance in inspiration",
+      "Negative intrathoracic pressure increasing systemic venous return",
+      "Valsalva effect",
+      "Autoregulation of coronary flow"
+    ],
+    "correct": 2,
+    "explanation": "Inspiration lowers intrathoracic pressure, increasing systemic venous return and RV filling. Pulmonary vascular capacitance rises, transiently reducing LV preload (and hence LV stroke volume). This underlies pulsus paradoxus when exaggerated."
+  },
+  {
+    "id": "kt6_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A fit young athlete has a resting heart rate of 45 bpm and a stroke volume of 90 mL. His cardiac output at rest is normal at 5 L/min.\n\nWhich best explains his bradycardia?",
+    "options": [
+      "Sinus node dysfunction",
+      "Enhanced vagal tone",
+      "Beta-blocker use",
+      "Hypothyroidism",
+      "Hypokalaemia"
+    ],
+    "correct": 1,
+    "explanation": "Endurance training increases resting vagal tone, lowering heart rate. Stroke volume increases to compensate, maintaining cardiac output. This is a benign physiological adaptation."
+  },
+  {
+    "id": "kt6_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 65-year-old woman presents with right-sided weakness and dysphasia, with symptoms resolving over 45 minutes.\n\nWhich is the most appropriate immediate action?",
+    "options": [
+      "Reassure and arrange GP review in 2 weeks",
+      "Aspirin 300 mg and urgent TIA clinic referral (seen within 24 hours)",
+      "Start warfarin",
+      "MRI brain — deferred by 1 week",
+      "IV thrombolysis"
+    ],
+    "correct": 1,
+    "explanation": "Suspected TIA should be treated with aspirin 300 mg daily (unless contraindicated) and reviewed in a TIA clinic within 24 hours. Thrombolysis is for active ischaemic stroke, not resolved TIA."
+  },
+  {
+    "id": "kt6_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 28-year-old woman has episodes of painful visual loss in one eye, followed later by weakness and sensory symptoms in a different limb. MRI shows multiple white matter lesions in the brain and spinal cord.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Migraine with aura",
+      "Transient ischaemic attack",
+      "Multiple sclerosis",
+      "Guillain-Barré syndrome",
+      "Myasthenia gravis"
+    ],
+    "correct": 2,
+    "explanation": "Multiple sclerosis is characterised by neurological episodes disseminated in time and space. Optic neuritis is a classical first presentation. MRI shows periventricular and spinal cord plaques. Diagnosis is made using the McDonald criteria."
+  },
+  {
+    "id": "kt6_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 70-year-old man has a resting tremor in his right hand, bradykinesia, and rigidity. His symptoms improve significantly after starting levodopa.\n\nWhich neurotransmitter deficit underlies his condition?",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "GABA",
+      "Noradrenaline",
+      "Serotonin"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease is caused by loss of dopaminergic neurons in the substantia nigra. Levodopa, a dopamine precursor, bypasses rate-limiting tyrosine hydroxylase and is the most effective symptomatic treatment."
+  },
+  {
+    "id": "kt6_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 25-year-old woman has severe unilateral throbbing headaches preceded by visual disturbance, associated with nausea and photophobia.\n\nWhich is the first-line acute treatment?",
+    "options": [
+      "Paracetamol only",
+      "Triptan (e.g. sumatriptan)",
+      "Propranolol",
+      "Amitriptyline",
+      "High-dose codeine"
+    ],
+    "correct": 1,
+    "explanation": "A triptan (5-HT1B/1D agonist) is first-line for acute migraine, often with an NSAID or paracetamol. Propranolol and topiramate are used for prophylaxis. Opioids should be avoided due to medication-overuse headache risk."
+  },
+  {
+    "id": "kt6_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 25-year-old man has an inversion injury to his ankle. He has marked tenderness over the lateral malleolus and is unable to weight-bear for more than four steps.\n\nAccording to the Ottawa ankle rules, what is the next step?",
+    "options": [
+      "Discharge with analgesia and rest",
+      "X-ray of the ankle",
+      "MRI ankle",
+      "Orthopaedic review only",
+      "Compression bandage only"
+    ],
+    "correct": 1,
+    "explanation": "The Ottawa ankle rules mandate X-ray if there is bony tenderness at the posterior edge/tip of either malleolus, or if the patient cannot bear weight for four steps immediately and in the emergency department."
+  },
+  {
+    "id": "kt6_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 5-year-old boy presents with progressive proximal muscle weakness and a positive Gowers' sign. Creatine kinase is markedly elevated.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Myasthenia gravis",
+      "Duchenne muscular dystrophy",
+      "Spinal muscular atrophy",
+      "Polymyositis",
+      "Myotonic dystrophy"
+    ],
+    "correct": 1,
+    "explanation": "Duchenne muscular dystrophy is an X-linked recessive disorder of dystrophin. It presents with progressive proximal weakness, calf pseudohypertrophy, and a positive Gowers' sign. CK is markedly raised."
+  },
+  {
+    "id": "kt6_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 70-year-old man has gradual onset of lower back pain radiating down his right leg, worse on standing and walking, and relieved by bending forward. He has no red flags.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Acute disc prolapse",
+      "Lumbar spinal stenosis",
+      "Cauda equina syndrome",
+      "Vertebral compression fracture",
+      "Spondylolisthesis"
+    ],
+    "correct": 1,
+    "explanation": "Neurogenic claudication from lumbar spinal stenosis causes positional back and leg pain — worse on extension (standing, walking), relieved by flexion (sitting, leaning on trolley). Cauda equina is acute with bladder/bowel dysfunction and saddle anaesthesia."
+  },
+  {
+    "id": "kt6_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A cell treated with a drug cannot progress from G1 to S phase of the cell cycle.\n\nWhich regulatory protein is most likely inhibited?",
+    "options": [
+      "Cyclin B / CDK1",
+      "Cyclin D / CDK4",
+      "p53 alone",
+      "Topoisomerase II",
+      "Microtubule polymerase"
+    ],
+    "correct": 1,
+    "explanation": "Cyclin D / CDK4 complexes drive progression through the G1/S checkpoint by phosphorylating Rb, releasing E2F transcription factors required for S-phase entry."
+  },
+  {
+    "id": "kt6_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A drug irreversibly inhibits topoisomerase II in cancer cells.\n\nWhich process is most directly affected?",
+    "options": [
+      "Translation of mRNA",
+      "DNA supercoiling and replication",
+      "Oxidative phosphorylation",
+      "Lysosomal degradation",
+      "Protein glycosylation"
+    ],
+    "correct": 1,
+    "explanation": "Topoisomerase II unwinds and reseals DNA to relieve supercoiling during replication and transcription. Inhibition (e.g. etoposide, doxorubicin) causes DNA double-strand breaks and cell death."
+  },
+  {
+    "id": "kt6_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A researcher studies a cell signalling pathway where a ligand binds a transmembrane receptor, activating an intracellular tyrosine kinase domain, which initiates a phosphorylation cascade ending in transcription factor activation.\n\nWhich type of receptor is this?",
+    "options": [
+      "G protein-coupled receptor",
+      "Receptor tyrosine kinase",
+      "Nuclear hormone receptor",
+      "Ligand-gated ion channel",
+      "Toll-like receptor"
+    ],
+    "correct": 1,
+    "explanation": "Receptor tyrosine kinases (e.g. EGFR, insulin receptor) dimerise on ligand binding and autophosphorylate tyrosine residues, activating downstream signalling (e.g. Ras/MAPK, PI3K/Akt)."
+  },
+  {
+    "id": "kt6_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "An epithelial cell needs to secrete a soluble protein.\n\nWhich pathway is correct?",
+    "options": [
+      "Cytoplasm → nucleus → lysosome",
+      "Rough ER → Golgi apparatus → secretory vesicles",
+      "Smooth ER → mitochondrion → cell surface",
+      "Cytoplasm → proteasome → exocytosis",
+      "Nucleus → ribosome → mitochondrion"
+    ],
+    "correct": 1,
+    "explanation": "Secretory proteins are synthesised on ribosomes bound to the rough ER, folded and modified in the ER, trafficked to the Golgi for further modification, packaged into vesicles, and released by exocytosis."
+  },
+  {
+    "id": "kt6_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 70-year-old man on long-term prednisolone is due for elective surgery. His morning cortisol is low.\n\nWhich additional management is most appropriate perioperatively?",
+    "options": [
+      "Stop prednisolone 24 hours before surgery",
+      "IV hydrocortisone cover at induction and post-operatively",
+      "Increase oral prednisolone only after surgery",
+      "No change in steroid dose",
+      "Fludrocortisone IV"
+    ],
+    "correct": 1,
+    "explanation": "Long-term corticosteroid use suppresses the HPA axis. Perioperative stress-dose steroids (IV hydrocortisone) prevent adrenal crisis. Abrupt steroid withdrawal is dangerous."
+  },
+  {
+    "id": "kt6_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient on simvastatin 40 mg is commenced on clarithromycin for a chest infection. Three days later he reports muscle pain and dark urine. Creatine kinase is markedly elevated.\n\nWhich mechanism best explains the interaction?",
+    "options": [
+      "Induction of CYP3A4 by clarithromycin",
+      "Inhibition of CYP3A4 by clarithromycin",
+      "Displacement from plasma proteins",
+      "Increased renal clearance of simvastatin",
+      "Competition at HMG-CoA reductase"
+    ],
+    "correct": 1,
+    "explanation": "Clarithromycin inhibits CYP3A4, increasing plasma simvastatin, which raises the risk of myopathy and rhabdomyolysis. Simvastatin should be paused during clarithromycin therapy."
+  },
+  {
+    "id": "kt6_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 65-year-old woman on warfarin has an INR of 2.5. She is prescribed oral metronidazole for 7 days for an infection. One week later her INR is 6.5 without bleeding.\n\nWhich mechanism best explains the rise in INR?",
+    "options": [
+      "Induction of CYP2C9",
+      "Inhibition of CYP2C9",
+      "Increased warfarin absorption",
+      "Impaired protein binding",
+      "Vitamin K antagonism by metronidazole"
+    ],
+    "correct": 1,
+    "explanation": "Metronidazole inhibits CYP2C9, reducing warfarin metabolism and increasing its anticoagulant effect. Warfarin dose reduction and close INR monitoring are required."
+  },
+  {
+    "id": "kt6_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient with depression is started on fluoxetine. He also takes tramadol for chronic back pain. He develops agitation, tremor, hyperreflexia, and sweating.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Neuroleptic malignant syndrome",
+      "Serotonin syndrome",
+      "Anticholinergic toxidrome",
+      "Opioid withdrawal",
+      "Thyroid storm"
+    ],
+    "correct": 1,
+    "explanation": "Serotonin syndrome results from excess serotonergic activity, often from combining SSRIs with other serotonergic drugs (tramadol, triptans, MAOIs). Features include autonomic instability, neuromuscular excitation, and altered mental state."
+  },
+  {
+    "id": "kt6_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 75-year-old woman is started on oxybutynin for overactive bladder. She subsequently develops confusion, dry mouth, and urinary retention.\n\nWhich pharmacological property best explains her symptoms?",
+    "options": [
+      "β2 adrenergic agonism",
+      "Anticholinergic effect",
+      "Histamine H1 antagonism",
+      "Dopamine D2 antagonism",
+      "5-HT3 antagonism"
+    ],
+    "correct": 1,
+    "explanation": "Oxybutynin is an antimuscarinic. Anticholinergic effects are particularly problematic in the elderly: cognitive impairment, dry mouth, urinary retention, constipation, and blurred vision. Mirabegron is an alternative."
+  },
+  {
+    "id": "kt6_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A new drug is being investigated. At low doses, it activates receptor X maximally. Adding a competitive antagonist shifts the dose-response curve to the right without changing the maximal response.\n\nWhich property of the drug does this describe?",
+    "options": [
+      "Non-competitive antagonism",
+      "Irreversible binding",
+      "Surmountable (competitive) antagonism",
+      "Inverse agonism",
+      "Allosteric activation"
+    ],
+    "correct": 2,
+    "explanation": "Competitive (surmountable) antagonists produce a parallel rightward shift of the dose-response curve. Because higher agonist concentrations overcome the block, the maximal effect is preserved. Non-competitive antagonism reduces Emax."
+  },
+  {
+    "id": "kt6_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient with a severe penicillin allergy requires antibiotic treatment for a community-acquired pneumonia.\n\nWhich antibiotic is the safest alternative?",
+    "options": [
+      "Co-amoxiclav",
+      "Cefuroxime",
+      "Clarithromycin",
+      "Flucloxacillin",
+      "Piperacillin-tazobactam"
+    ],
+    "correct": 2,
+    "explanation": "Macrolides (clarithromycin, erythromycin) are not beta-lactams and are safe in penicillin allergy. Cephalosporins carry around 1–3% cross-reactivity risk, particularly with first-generation agents."
+  },
+  {
+    "id": "kt6_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 55-year-old man has a blood pressure of 150/92 mmHg despite being on ramipril 10 mg and amlodipine 10 mg. He is of Black African origin.\n\nWhat is the most appropriate next step?",
+    "options": [
+      "Add bendroflumethiazide",
+      "Add indapamide",
+      "Add an ARB",
+      "Add spironolactone (if potassium ≤ 4.5)",
+      "Add a beta-blocker"
+    ],
+    "correct": 1,
+    "explanation": "NICE recommends adding a thiazide-like diuretic (indapamide) at step 3 of hypertension management, alongside ACEi/ARB and CCB. Spironolactone is considered at step 4 if potassium allows."
+  },
+  {
+    "id": "kt6_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 35-year-old man with schizophrenia is floridly psychotic, refusing food and medication. He is detained under section 3 of the Mental Health Act.\n\nWhich of the following best describes the legal basis for treating his mental disorder without consent?",
+    "options": [
+      "Common law doctrine of necessity",
+      "Treatment is authorised under the Mental Health Act if for the mental disorder",
+      "Mental Capacity Act best interests",
+      "Advance decision override",
+      "Public health legislation"
+    ],
+    "correct": 1,
+    "explanation": "The Mental Health Act authorises compulsory treatment of the mental disorder itself (not unrelated physical conditions). The MCA may apply to non-mental-health physical treatment decisions if the patient lacks capacity."
+  },
+  {
+    "id": "kt6_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A doctor prescribes a generic medication rather than a branded, more expensive equivalent, noting no difference in clinical outcome.\n\nWhich ethical principle is most directly upheld?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence",
+      "Justice",
+      "Confidentiality"
+    ],
+    "correct": 3,
+    "explanation": "Justice concerns fair allocation of limited healthcare resources. Prescribing clinically equivalent generics helps distribute the benefits of treatment fairly by preserving resources for other patients."
+  },
+  {
+    "id": "kt6_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 17-year-old boy with severe learning disability and no capacity needs a complex elective dental procedure under general anaesthetic. His parents disagree about whether to proceed.\n\nWhich is the most appropriate next step?",
+    "options": [
+      "Follow the parent who is the legal guardian",
+      "Consult an Independent Mental Capacity Advocate (IMCA)",
+      "Hold a best interests meeting with the multidisciplinary team",
+      "Obtain court authorisation regardless",
+      "Proceed because the dentist has final responsibility"
+    ],
+    "correct": 2,
+    "explanation": "For a serious non-urgent decision in a person lacking capacity, a formal best interests meeting involving family, clinicians, and any advocates is appropriate. Unresolved serious disagreements may need Court of Protection input."
+  },
+  {
+    "id": "kt6_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A surgeon does not disclose a small but real risk of facial nerve palsy before a parotid gland operation. Complication occurs. The patient states she would have declined the operation had she known.\n\nWhich legal test is most relevant to the standard of disclosure?",
+    "options": [
+      "Bolam test",
+      "Bolitho modification",
+      "Montgomery test (reasonable patient standard)",
+      "Wednesbury unreasonableness",
+      "Gillick test"
+    ],
+    "correct": 2,
+    "explanation": "Montgomery v Lanarkshire (2015) set the current standard for consent: material risks are those a reasonable person in the patient's position would want to know, or the specific patient would attach significance to. It replaced Bolam for disclosure."
+  },
+  {
+    "id": "kt6_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A public health team notices a 25% increase in type 2 diabetes prevalence in a deprived borough over 5 years, compared to 5% nationally.\n\nWhich type of inequality does this most likely represent?",
+    "options": [
+      "Horizontal equity",
+      "Vertical equity",
+      "Socioeconomic health inequality",
+      "Ageist inequality",
+      "Information bias"
+    ],
+    "correct": 2,
+    "explanation": "Socioeconomic deprivation is a powerful driver of health inequalities. Structural factors (income, housing, food environments, access to care) contribute to differential disease rates between populations."
+  },
+  {
+    "id": "kt6_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A patient tells you he is thinking about quitting smoking but is not ready yet. He has been smoking 20/day for 25 years.\n\nWhich stage of the transtheoretical (stages of change) model does this represent?",
+    "options": [
+      "Precontemplation",
+      "Contemplation",
+      "Preparation",
+      "Action",
+      "Maintenance"
+    ],
+    "correct": 1,
+    "explanation": "The contemplation stage describes someone thinking about change within the next 6 months but not yet ready to act. Motivational interviewing can help build readiness by exploring ambivalence."
+  },
+  {
+    "id": "kt6_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A GP uses a structured approach during a consultation: introducing herself, exploring the patient's ideas, concerns and expectations, summarising, and safety-netting.\n\nWhich consultation model is most closely described?",
+    "options": [
+      "Kurtz–Silverman Calgary-Cambridge",
+      "Neighbour's 'Inner Consultation'",
+      "Pendleton's tasks",
+      "SPIKES",
+      "ABCDE assessment"
+    ],
+    "correct": 0,
+    "explanation": "The Calgary-Cambridge guide formalises the consultation into initiating the session, gathering information (including ICE), physical examination, explanation/planning, and closing — with safety-netting and building rapport throughout."
+  },
+  {
+    "id": "kt6_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A 55-year-old man with hypertension has poor medication adherence. He complains that his tablets make him 'feel rubbish'.\n\nWhich is the most appropriate first step?",
+    "options": [
+      "Stop all medications permanently",
+      "Add a dosette box without discussion",
+      "Explore specific side effects and concerns with the patient",
+      "Refer to secondary care",
+      "Document non-adherence and discharge"
+    ],
+    "correct": 2,
+    "explanation": "Shared decision-making and identifying specific concerns (concordance) is essential. Many adherence problems relate to side effects, dosing schedules, or beliefs about medication that can be addressed through discussion."
+  },
+  {
+    "id": "kt6_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A trial of a new statin shows a 25% relative risk reduction in cardiovascular events. The baseline (control) event rate is 4% over 5 years.\n\nWhat is the absolute risk reduction?",
+    "options": [
+      "0.25%",
+      "0.5%",
+      "1%",
+      "4%",
+      "25%"
+    ],
+    "correct": 2,
+    "explanation": "ARR = baseline rate × RRR = 4% × 25% = 1%. The headline RRR of 25% is impressive but translates into only a 1% absolute benefit (NNT = 100)."
+  },
+  {
+    "id": "kt6_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A screening test for bowel cancer has a sensitivity of 85% and specificity of 95%. Disease prevalence in the screened population is 1%.\n\nWhich statement is correct?",
+    "options": [
+      "Positive predictive value (PPV) is high because specificity is high",
+      "PPV is low despite high specificity because prevalence is low",
+      "PPV equals specificity",
+      "Sensitivity determines PPV directly",
+      "PPV cannot be calculated from this data"
+    ],
+    "correct": 1,
+    "explanation": "Predictive values depend on prevalence. In low-prevalence populations, even a highly specific test produces many false positives relative to true positives, lowering PPV. This is a key limitation of population screening."
+  },
+  {
+    "id": "kt6_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "In a cohort study of smoking and lung cancer, the risk of lung cancer is 40 per 100,000 person-years in smokers and 8 per 100,000 person-years in non-smokers.\n\nWhat is the relative risk?",
+    "options": [
+      "0.2",
+      "1.0",
+      "2.0",
+      "5.0",
+      "40"
+    ],
+    "correct": 3,
+    "explanation": "RR = incidence in exposed / incidence in unexposed = 40 / 8 = 5.0. Smokers have a 5-fold higher risk of lung cancer than non-smokers in this population."
+  },
+  {
+    "id": "kt6_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A clinical trial plans to detect a 10% absolute difference in cure rate with 80% power at a significance level of 0.05. The trial ends with 50 patients per group and reports no significant difference.\n\nWhich concept is most relevant to interpreting this result?",
+    "options": [
+      "Type I error (alpha)",
+      "Type II error — the study may have been underpowered",
+      "Regression to the mean",
+      "Allocation concealment failure",
+      "Publication bias"
+    ],
+    "correct": 1,
+    "explanation": "A type II error (beta) occurs when a true difference exists but the study fails to detect it, usually due to insufficient sample size. 'No significant difference' with a small sample does not prove equivalence."
+  },
+  {
+    "id": "kt6_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A published systematic review of 12 small trials concludes an intervention is effective. The funnel plot is markedly asymmetric, with missing small negative studies.\n\nWhich bias is most likely to affect the overall estimate?",
+    "options": [
+      "Recall bias",
+      "Lead-time bias",
+      "Publication bias",
+      "Attrition bias",
+      "Berkson's bias"
+    ],
+    "correct": 2,
+    "explanation": "Asymmetric funnel plots suggest publication bias — small negative studies are less likely to be published, inflating pooled estimates of effect. Registering trials prospectively helps mitigate this."
+  },
+  {
+    "id": "kt6_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 72-year-old woman in atrial fibrillation has a CHA2DS2-VASc score of 3.\n\n(a) What do the components of the CHA2DS2-VASc score stand for?\n(b) Which anticoagulant class would you recommend, and why is a DOAC preferred over warfarin in most non-valvular AF?",
+    "answer": "(a) Congestive heart failure, Hypertension, Age ≥75 (2 points), Diabetes, Stroke/TIA/thromboembolism (2 points), Vascular disease, Age 65–74 (1), Sex category (female = 1).\n(b) A direct oral anticoagulant (e.g. apixaban, rivaroxaban, edoxaban, dabigatran). DOACs are preferred over warfarin in non-valvular AF because they require no routine monitoring, have fewer food/drug interactions, and have at least comparable efficacy with lower risk of intracranial haemorrhage.",
+    "explanation": "Bleeding risk can be estimated using HAS-BLED or ORBIT scores but should not directly dictate withholding anticoagulation — modifiable risk factors should be addressed instead."
+  },
+  {
+    "id": "kt6_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 70-year-old smoker has a CURB-65 score of 2 for community-acquired pneumonia.\n\n(a) List the components of the CURB-65 score.\n(b) What does a score of 2 suggest for management?",
+    "answer": "(a) Confusion (new, AMT ≤ 8/10); Urea > 7 mmol/L; Respiratory rate ≥ 30/min; Blood pressure (SBP < 90 or DBP ≤ 60 mmHg); Age ≥ 65. One point for each.\n(b) CURB-65 of 2 indicates moderate-severity CAP — hospital admission should be considered; IV antibiotics (commonly co-amoxiclav plus clarithromycin) may be required.",
+    "explanation": "CURB-65 = 0–1: home treatment often suitable; 2: consider admission; ≥ 3: severe, admit, consider ICU."
+  },
+  {
+    "id": "kt6_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 25-year-old woman is stung by a wasp and within minutes develops generalised urticaria, wheeze, and hypotension.\n\n(a) Classify this type of hypersensitivity reaction.\n(b) Outline the first three steps of management in order.",
+    "answer": "(a) Type I (IgE-mediated) hypersensitivity — anaphylaxis.\n(b) 1. Call for help/resuscitation team; remove trigger; ABCDE assessment and lay flat with legs raised. 2. IM adrenaline 500 micrograms (0.5 mL of 1:1000) anterolateral thigh — repeat every 5 minutes if required. 3. High-flow oxygen and IV fluid bolus (crystalloid); adjuncts such as chlorphenamine and hydrocortisone are now considered second-line.",
+    "explanation": "Post-anaphylaxis management includes serum tryptase, observation for biphasic reaction, allergen advice, provision of adrenaline auto-injectors, and referral to an allergy service."
+  },
+  {
+    "id": "kt6_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 55-year-old woman has a newly diagnosed invasive ductal carcinoma of the breast. Biopsy shows ER-positive, HER2-negative disease.\n\n(a) Name two adjuvant therapies appropriate for this tumour subtype.\n(b) Which treatment is specifically indicated if a tumour is HER2-positive?",
+    "answer": "(a) Endocrine therapy — tamoxifen (premenopausal) or an aromatase inhibitor such as letrozole or anastrozole (postmenopausal). Adjuvant chemotherapy may also be offered based on tumour size/grade/nodal status; radiotherapy after breast-conserving surgery.\n(b) Trastuzumab (Herceptin) — a monoclonal antibody targeting HER2 — with or without pertuzumab. HER2 status is determined by IHC/FISH.",
+    "explanation": "Tumour biology (ER/PR/HER2 status) directs adjuvant therapy. Triple-negative disease has fewer targeted options and relies on chemotherapy."
+  },
+  {
+    "id": "kt6_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "A 70-year-old man develops right-sided weakness and expressive dysphasia 2 hours ago. CT head shows no haemorrhage.\n\n(a) What is the most appropriate acute intervention within the first 4.5 hours?\n(b) Give two contraindications to this treatment.",
+    "answer": "(a) IV thrombolysis with alteplase (tissue plasminogen activator).\n(b) Any two of: recent intracranial haemorrhage or stroke within 3 months, active bleeding, recent major surgery (<2 weeks), uncontrolled hypertension (>185/110), known bleeding disorder, current anticoagulation with INR >1.7, recent head injury, previous known intracranial neoplasm/AVM.",
+    "explanation": "Mechanical thrombectomy may be offered in large-vessel anterior circulation occlusion, sometimes up to 24 hours after onset in selected patients."
+  },
+  {
+    "id": "kt6_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A 28-year-old woman with epilepsy on sodium valproate is planning pregnancy.\n\n(a) Why is valproate problematic in pregnancy?\n(b) What would be the most appropriate management of her epilepsy in this context?",
+    "answer": "(a) Sodium valproate is highly teratogenic — it is associated with neural tube defects, major congenital malformations (5–10% risk), and neurodevelopmental disorders. It must not be used in women of childbearing potential unless the Pregnancy Prevention Programme conditions are met.\n(b) Referral to an epilepsy specialist before conception, switch to a safer AED (e.g. lamotrigine or levetiracetam) with seizure stability re-established, and high-dose folic acid (5 mg daily) peri-conception.",
+    "explanation": "Sudden cessation of any antiepileptic in pregnancy risks seizures and harm to mother and fetus. Planned, specialist-led medication change is essential."
+  },
+  {
+    "id": "kt6_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "A 45-year-old man with capacity refuses surgery for an abdominal aortic aneurysm despite being told it is likely to rupture. The surgical team is concerned.\n\nOutline the ethical principles that apply to this refusal.",
+    "answer": "A competent adult has the right to refuse any treatment, even if the decision appears unwise or life-threatening — principle of autonomy. Capacity must be formally assessed under the Mental Capacity Act (ability to understand, retain, weigh up, and communicate the decision). The clinician's duty of beneficence and non-maleficence is balanced by respect for autonomy; when capacity is intact, autonomy prevails. The refusal must be informed (patient understands risks, benefits, and alternatives) and voluntary. Document the discussion carefully, invite the patient to reconsider, offer second opinions, and ensure continued follow-up.",
+    "explanation": "Capacity is decision-specific and time-specific. Unwise decisions do not, by themselves, indicate lack of capacity."
+  },
+  {
+    "id": "kt6_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A trial compares a new drug with placebo. Death occurred in 8% of the drug group and 12% of the placebo group.\n\n(a) Calculate the absolute risk reduction.\n(b) Calculate the number needed to treat.",
+    "answer": "(a) ARR = 12% − 8% = 4% (0.04).\n(b) NNT = 1 / ARR = 1 / 0.04 = 25. Twenty-five patients must be treated to prevent one additional death.",
+    "explanation": "Lower NNTs indicate more effective treatments. NNT should be interpreted alongside the baseline risk, time horizon, and magnitude of adverse events (NNH)."
+  }
+]

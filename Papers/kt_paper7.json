@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "kt7_s01",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 68-year-old man with known stable angina has symptoms controlled on bisoprolol and GTN spray. Over the last month he has had increasing frequency of chest pain at rest, with one episode lasting 25 minutes but resolving spontaneously. His troponin is negative and ECG is unchanged.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Stable angina",
+      "Unstable angina",
+      "NSTEMI",
+      "STEMI",
+      "Coronary vasospasm (Prinzmetal's angina)"
+    ],
+    "correct": 1,
+    "explanation": "Unstable angina is defined by new-onset or worsening chest pain, pain at rest, or a crescendo pattern, with normal troponin. Troponin elevation would indicate NSTEMI. Both are acute coronary syndromes and require hospital admission."
+  },
+  {
+    "id": "kt7_s02",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 75-year-old woman presents with exertional syncope and a harsh ejection systolic murmur heard loudest at the right second intercostal space, radiating to the carotids.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Mitral stenosis",
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Aortic regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "correct": 2,
+    "explanation": "The triad of exertional syncope, angina, and dyspnoea with an ejection systolic murmur radiating to the carotids is classic for severe aortic stenosis. Echocardiography is the investigation of choice."
+  },
+  {
+    "id": "kt7_s03",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 60-year-old man with heart failure has worsening oedema and breathlessness despite maximal oral therapy. His potassium is 3.2 mmol/L. He is currently taking ramipril, bisoprolol, and furosemide.\n\nWhich additional drug is most appropriate?",
+    "options": [
+      "Add indapamide",
+      "Add spironolactone",
+      "Add digoxin",
+      "Add amiodarone",
+      "Switch furosemide to bumetanide"
+    ],
+    "correct": 1,
+    "explanation": "Spironolactone, a mineralocorticoid receptor antagonist, reduces mortality in HFrEF and is potassium-sparing — useful in a patient with hypokalaemia on a loop diuretic. Monitor potassium and renal function closely."
+  },
+  {
+    "id": "kt7_s04",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 50-year-old woman presents to the emergency department with sudden severe tearing chest pain radiating through to the back. Her blood pressure is 185/110 mmHg in the right arm and 140/90 mmHg in the left arm.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "STEMI",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pneumothorax",
+      "Perforated peptic ulcer"
+    ],
+    "correct": 2,
+    "explanation": "Tearing chest pain radiating to the back with differential blood pressure between arms is highly suggestive of aortic dissection. CT aortogram is the investigation of choice. Type A dissections require emergency surgery; type B are often managed medically."
+  },
+  {
+    "id": "kt7_s05",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 40-year-old man has a blood pressure of 170/105 mmHg. Investigations show hypokalaemia and a high aldosterone-to-renin ratio.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Essential hypertension",
+      "Cushing's syndrome",
+      "Phaeochromocytoma",
+      "Conn's syndrome (primary hyperaldosteronism)",
+      "Renal artery stenosis"
+    ],
+    "correct": 3,
+    "explanation": "Primary hyperaldosteronism (Conn's syndrome) causes hypertension with hypokalaemia, suppressed renin, and elevated aldosterone. Screening is the aldosterone:renin ratio. Adrenal adenoma or bilateral hyperplasia are the common causes."
+  },
+  {
+    "id": "kt7_s06",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 78-year-old woman presents with palpitations and dizziness. Her ECG shows a regular narrow-complex tachycardia at 170 bpm with no visible P waves. Vagal manoeuvres have been unsuccessful.\n\nWhich is the most appropriate next treatment?",
+    "options": [
+      "IV amiodarone",
+      "IV adenosine",
+      "DC cardioversion under sedation",
+      "IV digoxin",
+      "Oral bisoprolol"
+    ],
+    "correct": 1,
+    "explanation": "Regular narrow-complex tachycardia unresponsive to vagal manoeuvres is treated with IV adenosine (6 mg then 12 mg if needed). Adenosine transiently blocks AV node conduction, terminating re-entrant SVT. DC cardioversion is reserved for haemodynamically unstable patients."
+  },
+  {
+    "id": "kt7_s07",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 70-year-old man presents with sudden-onset painful, cold, pulseless right leg. He has atrial fibrillation.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Chronic peripheral arterial disease",
+      "Deep vein thrombosis",
+      "Acute limb ischaemia from embolism",
+      "Cellulitis",
+      "Ruptured Baker's cyst"
+    ],
+    "correct": 2,
+    "explanation": "Acute limb ischaemia in AF is most commonly embolic. The six Ps are: Pain, Pallor, Pulselessness, Paraesthesia, Paralysis, and Perishing cold. Urgent vascular review is required for revascularisation (embolectomy)."
+  },
+  {
+    "id": "kt7_s08",
+    "type": "sba",
+    "topic": "SL-CV",
+    "stem": "A 55-year-old man is admitted with a STEMI. He receives primary PCI with drug-eluting stents.\n\nWhich dual antiplatelet regimen is most appropriate on discharge?",
+    "options": [
+      "Aspirin and warfarin for 1 year",
+      "Aspirin and clopidogrel for 12 months",
+      "Clopidogrel and prasugrel for 6 months",
+      "Aspirin only",
+      "Dabigatran and aspirin for 12 months"
+    ],
+    "correct": 1,
+    "explanation": "After PCI for ACS, dual antiplatelet therapy is with aspirin plus a P2Y12 inhibitor (clopidogrel, ticagrelor, or prasugrel) for 12 months; aspirin continues lifelong. DOAC-based regimens apply only if concurrent AF indication."
+  },
+  {
+    "id": "kt7_s09",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 30-year-old woman with known asthma attends the emergency department with severe breathlessness. Her peak flow is 45% predicted, heart rate 118 bpm, respiratory rate 28, and SpO2 94% on room air. She is unable to complete sentences.\n\nHow would this attack be classified?",
+    "options": [
+      "Moderate",
+      "Acute severe",
+      "Life-threatening",
+      "Near-fatal",
+      "Mild"
+    ],
+    "correct": 1,
+    "explanation": "Acute severe asthma: PEFR 33–50% predicted, RR ≥ 25, HR ≥ 110, or inability to complete sentences. Life-threatening features include PEFR < 33%, SpO2 < 92%, silent chest, bradycardia, hypotension, exhaustion, or cyanosis."
+  },
+  {
+    "id": "kt7_s10",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 65-year-old man presents with acute-on-chronic breathlessness, productive cough, and a temperature of 38°C. His background is severe COPD. His arterial blood gas on air shows pH 7.32, PaCO2 7.8 kPa, PaO2 8.2 kPa, HCO3 30 mmol/L.\n\nWhich controlled oxygen target is most appropriate?",
+    "options": [
+      "Aim for SpO2 > 98%",
+      "Aim for SpO2 96–98%",
+      "Aim for SpO2 88–92%",
+      "Aim for SpO2 ≥ 94%",
+      "Oxygen is not indicated"
+    ],
+    "correct": 2,
+    "explanation": "Patients at risk of hypercapnic respiratory failure (e.g. COPD) should have oxygen titrated to SpO2 88–92% using controlled-concentration devices (e.g. Venturi masks) to minimise worsening hypercapnia."
+  },
+  {
+    "id": "kt7_s11",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 25-year-old man has a one-month history of fatigue, weight loss, and night sweats. He has a persistent cough productive of blood-streaked sputum. A chest X-ray shows a right upper lobe cavitating lesion.\n\nWhich diagnosis is most likely?",
+    "options": [
+      "Community-acquired pneumonia",
+      "Tuberculosis",
+      "Sarcoidosis",
+      "Pulmonary embolism",
+      "Asthma exacerbation"
+    ],
+    "correct": 1,
+    "explanation": "Chronic cough, constitutional symptoms, and apical cavitation are classic for pulmonary tuberculosis. Sputum AFB and molecular testing (GeneXpert) confirm diagnosis. Treatment is 6 months of multi-drug therapy (RIPE)."
+  },
+  {
+    "id": "kt7_s12",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 40-year-old woman presents with a short history of fever, headache, dry cough, and myalgia. Chest X-ray shows patchy bilateral infiltrates. Cold agglutinins are positive.\n\nWhich organism is most likely responsible?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Legionella pneumophila",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus"
+    ],
+    "correct": 1,
+    "explanation": "Mycoplasma pneumoniae is an atypical organism causing a prolonged 'walking pneumonia' with dry cough, bilateral infiltrates, and extrapulmonary features. Cold agglutinin-induced haemolytic anaemia is classic. Treatment is with a macrolide or tetracycline — β-lactams are ineffective (no cell wall)."
+  },
+  {
+    "id": "kt7_s13",
+    "type": "sba",
+    "topic": "SL-Resp",
+    "stem": "A 2-year-old girl is brought in with cough, coryza, and low-grade fever. On examination, she has widespread expiratory wheeze and a respiratory rate of 55 with mild intercostal recession. Sats are 94% on air.\n\nWhich diagnosis is most likely?",
+    "options": [
+      "Asthma",
+      "Acute viral bronchiolitis",
+      "Pneumonia",
+      "Croup",
+      "Foreign body aspiration"
+    ],
+    "correct": 1,
+    "explanation": "Bronchiolitis is the commonest lower respiratory tract infection in children under 2 years, usually caused by RSV. Features include coryza followed by wheeze, tachypnoea, and feeding difficulty. Management is supportive."
+  },
+  {
+    "id": "kt7_s14",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 60-year-old man with a chronic history of alcohol dependence is admitted. On examination he has nystagmus, ataxia, and confusion.\n\nWhich deficiency is most likely responsible for his presentation?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Thiamine (vitamin B1)",
+      "Niacin (vitamin B3)",
+      "Folate"
+    ],
+    "correct": 2,
+    "explanation": "Wernicke's encephalopathy presents with a triad of confusion, ataxia, and ophthalmoplegia due to thiamine (B1) deficiency. Treatment is urgent IV thiamine (Pabrinex) before glucose to prevent progression to Korsakoff's syndrome."
+  },
+  {
+    "id": "kt7_s15",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 50-year-old man with a 20-year history of heavy alcohol intake has recurrent epigastric pain radiating to the back, steatorrhoea, and a faecal elastase below the normal range.\n\nWhich is the most appropriate first-line treatment for his steatorrhoea?",
+    "options": [
+      "Anti-secretory proton pump inhibitor alone",
+      "Pancreatic enzyme replacement therapy (e.g. Creon)",
+      "Oral bile acid sequestrant",
+      "Low-fat diet alone",
+      "Hydrogen breath test-directed antibiotics"
+    ],
+    "correct": 1,
+    "explanation": "Chronic pancreatitis with exocrine insufficiency causes fat malabsorption. Pancreatic enzyme replacement (Creon) taken with meals replaces lost lipase/amylase/protease. Fat-soluble vitamin supplementation (ADEK) should also be considered."
+  },
+  {
+    "id": "kt7_s16",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 45-year-old woman with well-controlled coeliac disease attends for routine review. She asks about dietary risks.\n\nWhich micronutrient deficiency is she most at risk of, even on a strict gluten-free diet?",
+    "options": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin D and calcium",
+      "Zinc",
+      "Vitamin A"
+    ],
+    "correct": 2,
+    "explanation": "Patients with coeliac disease are at risk of osteopenia/osteoporosis due to reduced calcium and vitamin D absorption. DEXA scans are recommended at diagnosis and periodically. Iron and folate deficiencies are also common at presentation."
+  },
+  {
+    "id": "kt7_s17",
+    "type": "sba",
+    "topic": "SL-Nutr",
+    "stem": "A 68-year-old man receiving total parenteral nutrition develops raised liver enzymes and mildly raised bilirubin after 3 weeks.\n\nWhich is the most likely mechanism?",
+    "options": [
+      "Hepatitis A infection",
+      "Hepatic steatosis and/or cholestasis from TPN",
+      "Gallstone disease",
+      "Autoimmune hepatitis",
+      "Paracetamol toxicity"
+    ],
+    "correct": 1,
+    "explanation": "Prolonged TPN is associated with cholestasis, hepatic steatosis, and intestinal failure-associated liver disease (IFALD). Risk factors include lack of enteral feed, excess calories/lipid, and sepsis. Cycling feeds and minimising lipid can help."
+  },
+  {
+    "id": "kt7_s18",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 28-year-old woman at 34 weeks' gestation presents with headache, blurred vision, and epigastric pain. Her blood pressure is 170/110 mmHg and urine dipstick shows 3+ protein.\n\nWhich is the most appropriate initial treatment?",
+    "options": [
+      "Oral ACE inhibitor",
+      "Oral labetalol",
+      "IV magnesium sulphate and antihypertensive therapy with admission",
+      "Thiazide diuretic",
+      "Observation and re-check in 24 hours"
+    ],
+    "correct": 2,
+    "explanation": "Severe pre-eclampsia with end-organ symptoms requires urgent admission, IV magnesium sulphate (seizure prophylaxis), and rapid blood pressure control (IV labetalol or oral labetalol/nifedipine). Definitive treatment is delivery."
+  },
+  {
+    "id": "kt7_s19",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 24-year-old woman is seen in the early pregnancy assessment unit at 6 weeks' gestation with mild vaginal bleeding. Her cervical os is closed and an ultrasound shows an intrauterine pregnancy with a fetal heartbeat.\n\nHow would this be classified?",
+    "options": [
+      "Threatened miscarriage",
+      "Inevitable miscarriage",
+      "Incomplete miscarriage",
+      "Missed miscarriage",
+      "Complete miscarriage"
+    ],
+    "correct": 0,
+    "explanation": "Threatened miscarriage: vaginal bleeding with a viable intrauterine pregnancy and a closed os. Inevitable: open os, pregnancy still in utero. Incomplete: retained products. Missed: no fetal heartbeat but pregnancy in utero. Complete: all products passed."
+  },
+  {
+    "id": "kt7_s20",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 50-year-old woman has had no menstrual periods for 18 months. She complains of hot flushes and vaginal dryness. FSH is elevated.\n\nWhich is the most appropriate management for troublesome vasomotor symptoms?",
+    "options": [
+      "Oestrogen-only HRT if uterus present",
+      "Combined oestrogen plus progestogen HRT if uterus present",
+      "Progestogen-only therapy",
+      "Testosterone replacement only",
+      "Low-dose oral contraceptive pill indefinitely"
+    ],
+    "correct": 1,
+    "explanation": "For women with a uterus, combined HRT (oestrogen + progestogen) is used to reduce endometrial hyperplasia risk. Oestrogen-only HRT is appropriate after hysterectomy. Risks and benefits should be individualised."
+  },
+  {
+    "id": "kt7_s21",
+    "type": "sba",
+    "topic": "SL-Repro",
+    "stem": "A 26-year-old woman in her first pregnancy is rhesus D negative. Her partner is rhesus D positive.\n\nWhich is the most appropriate antenatal intervention?",
+    "options": [
+      "Maternal exchange transfusion at 28 weeks",
+      "Anti-D immunoglobulin prophylaxis at 28 weeks (and after sensitising events)",
+      "Intravenous immunoglobulin weekly",
+      "Fetal intrauterine transfusion",
+      "No intervention unless baby is jaundiced at birth"
+    ],
+    "correct": 1,
+    "explanation": "Routine antenatal anti-D prophylaxis is given to RhD-negative women at 28 weeks (and post-delivery if baby is RhD-positive), with additional doses after potentially sensitising events (e.g. bleeding, ECV). This prevents haemolytic disease of the newborn in future pregnancies."
+  },
+  {
+    "id": "kt7_s22",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 4-year-old boy has had recurrent pyogenic infections with organisms such as Staphylococcus aureus since infancy. Nitroblue tetrazolium test is abnormal.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "X-linked agammaglobulinaemia",
+      "Chronic granulomatous disease",
+      "Severe combined immunodeficiency",
+      "DiGeorge syndrome",
+      "Hyper IgM syndrome"
+    ],
+    "correct": 1,
+    "explanation": "Chronic granulomatous disease results from defects in NADPH oxidase, impairing the oxidative burst in phagocytes. Patients suffer recurrent infections with catalase-positive organisms (e.g. Staph aureus, Aspergillus). Prophylactic antibiotics/antifungals are used."
+  },
+  {
+    "id": "kt7_s23",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A patient with a life-threatening bacterial infection has a total white cell count of 3.2 × 10⁹/L and neutrophils of 0.3 × 10⁹/L. She is post-chemotherapy.\n\nWhich is the most appropriate initial management?",
+    "options": [
+      "Oral co-amoxiclav only",
+      "IV broad-spectrum antibiotics (e.g. piperacillin-tazobactam) within 1 hour",
+      "Wait for blood cultures before antibiotics",
+      "Isolate in side room without antibiotics",
+      "Urgent packed red cell transfusion"
+    ],
+    "correct": 1,
+    "explanation": "Febrile neutropenia is a medical emergency. Empirical IV broad-spectrum antibiotics should be given within 1 hour of presentation, after blood cultures but without waiting for results. Piperacillin-tazobactam is standard first-line."
+  },
+  {
+    "id": "kt7_s24",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A renal transplant recipient on tacrolimus and prednisolone develops a rapidly rising creatinine 4 weeks post-transplant. Biopsy shows tubulitis and interstitial inflammation.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Hyperacute rejection",
+      "Acute cellular (T-cell mediated) rejection",
+      "Chronic antibody-mediated rejection",
+      "Drug nephrotoxicity alone",
+      "Ureteric obstruction"
+    ],
+    "correct": 1,
+    "explanation": "Acute cellular rejection (T-cell mediated) typically occurs in the first months post-transplant and shows tubulitis with interstitial inflammation. Treatment is pulsed IV methylprednisolone, with anti-thymocyte globulin for steroid-resistant rejection."
+  },
+  {
+    "id": "kt7_s25",
+    "type": "sba",
+    "topic": "I-Imm",
+    "stem": "A 5-year-old boy has had recurrent sinopulmonary infections since early childhood. He has low IgA and mildly low IgG but normal IgM.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency",
+      "Selective IgA deficiency",
+      "X-linked agammaglobulinaemia",
+      "Hyper IgM syndrome",
+      "Chronic granulomatous disease"
+    ],
+    "correct": 0,
+    "explanation": "Common variable immunodeficiency presents with low IgG (and often IgA) with normal IgM, recurrent sinopulmonary infections, and defective antibody responses. Treatment includes immunoglobulin replacement and infection prophylaxis."
+  },
+  {
+    "id": "kt7_s26",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 25-year-old woman presents with vaginal discharge and intermenstrual bleeding. Nucleic acid amplification testing from a vulvovaginal swab is positive for Chlamydia trachomatis.\n\nWhich is the first-line treatment?",
+    "options": [
+      "Oral doxycycline for 7 days",
+      "Single-dose oral azithromycin",
+      "Oral ciprofloxacin for 14 days",
+      "IM ceftriaxone single dose",
+      "Oral metronidazole for 7 days"
+    ],
+    "correct": 0,
+    "explanation": "Current UK BASHH guidance recommends doxycycline 100 mg BD for 7 days as first-line for uncomplicated genital chlamydia. Azithromycin is an alternative where doxycycline is contraindicated (e.g. pregnancy)."
+  },
+  {
+    "id": "kt7_s27",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 60-year-old man presents with a painful vesicular rash along a T5 dermatome on the left side of his chest, preceded by burning pain for 2 days.\n\nWhich is the most likely diagnosis and first-line treatment?",
+    "options": [
+      "Varicella — aciclovir",
+      "Herpes simplex — topical aciclovir",
+      "Shingles (herpes zoster) — oral aciclovir within 72 hours of onset",
+      "Bullous pemphigoid — topical steroids",
+      "Cellulitis — oral flucloxacillin"
+    ],
+    "correct": 2,
+    "explanation": "Shingles (reactivated varicella-zoster virus) presents with a painful dermatomal vesicular rash. Oral antivirals (aciclovir, valaciclovir, famciclovir) given within 72 hours reduce duration and risk of post-herpetic neuralgia."
+  },
+  {
+    "id": "kt7_s28",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 30-year-old man attends A&E with a 4-day history of diarrhoea and fever after returning from Southeast Asia. Stool microscopy shows red blood cells and leukocytes.\n\nWhich is the most likely causative organism?",
+    "options": [
+      "Rotavirus",
+      "Vibrio cholerae",
+      "Giardia lamblia",
+      "Campylobacter jejuni",
+      "Entamoeba histolytica"
+    ],
+    "correct": 3,
+    "explanation": "Campylobacter jejuni is a common cause of bacterial travel-associated gastroenteritis worldwide, causing bloody diarrhoea, fever, and colitic features. Entamoeba histolytica can also cause bloody diarrhoea but requires demonstration of trophozoites or cysts."
+  },
+  {
+    "id": "kt7_s29",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 25-year-old man presents with fever and a painful, swollen right knee. Aspirate shows turbid yellow fluid with a white cell count of 50 × 10⁹/L and Gram-positive cocci in clusters.\n\nWhich is the most appropriate management?",
+    "options": [
+      "Oral flucloxacillin and outpatient review",
+      "IV flucloxacillin and urgent orthopaedic washout",
+      "IV metronidazole alone",
+      "Paracetamol and rest",
+      "Intra-articular corticosteroid injection"
+    ],
+    "correct": 1,
+    "explanation": "Septic arthritis (most commonly Staph aureus) requires urgent joint washout and IV antibiotics. Delayed treatment causes irreversible joint destruction and sepsis. Cultures and sensitivities guide ongoing therapy."
+  },
+  {
+    "id": "kt7_s30",
+    "type": "sba",
+    "topic": "I-Inf",
+    "stem": "A 60-year-old man with rheumatoid arthritis has been on methotrexate for 5 years. He is about to start a TNF-alpha inhibitor.\n\nWhich infection must be specifically screened for beforehand?",
+    "options": [
+      "HIV only",
+      "Hepatitis A",
+      "Latent tuberculosis",
+      "Syphilis",
+      "Toxoplasmosis"
+    ],
+    "correct": 2,
+    "explanation": "Anti-TNF therapies substantially increase the risk of reactivation of latent TB. Pre-treatment screening with interferon-gamma release assay or Mantoux test and chest X-ray, plus treatment of any latent infection, is mandatory."
+  },
+  {
+    "id": "kt7_s31",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 65-year-old smoker presents with haemoptysis, weight loss, and a 4-cm right upper lobe mass on chest X-ray. Serum calcium is raised; parathyroid hormone is suppressed.\n\nWhich paraneoplastic mechanism is most likely?",
+    "options": [
+      "Ectopic ACTH",
+      "Ectopic parathyroid hormone-related peptide (PTHrP)",
+      "Syndrome of inappropriate ADH",
+      "Lambert-Eaton syndrome",
+      "Eaton-Lambert myasthenic syndrome"
+    ],
+    "correct": 1,
+    "explanation": "Squamous cell lung cancer frequently produces PTHrP, causing hypercalcaemia with suppressed PTH. Small cell lung cancer more commonly causes SIADH and ectopic ACTH."
+  },
+  {
+    "id": "kt7_s32",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 40-year-old woman presents with a breast lump that is hard, non-tender, and fixed to surrounding tissue. Mammography shows an irregular spiculated mass. Core biopsy confirms invasive ductal carcinoma.\n\nWhich feature is most prognostically important?",
+    "options": [
+      "Age of patient",
+      "Tumour size, grade, and nodal status",
+      "BMI",
+      "Smoking history",
+      "Family history of any cancer"
+    ],
+    "correct": 1,
+    "explanation": "The Nottingham Prognostic Index uses tumour size, grade, and nodal status. Molecular markers (ER, PR, HER2) also guide treatment. Age and family history are less directly prognostic for an established cancer."
+  },
+  {
+    "id": "kt7_s33",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 70-year-old man with known metastatic lung cancer becomes acutely short of breath with a raised JVP and facial swelling. Examination shows distended chest wall veins.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Congestive cardiac failure",
+      "Cardiac tamponade",
+      "Superior vena cava obstruction",
+      "Bilateral pleural effusions",
+      "Pulmonary embolism"
+    ],
+    "correct": 2,
+    "explanation": "SVC obstruction typically presents with facial/neck swelling, distended chest wall collaterals, breathlessness, and a raised JVP. In malignancy (commonly lung cancer), urgent imaging and oncological management (stenting, steroids, radiotherapy) are required."
+  },
+  {
+    "id": "kt7_s34",
+    "type": "sba",
+    "topic": "I-Can",
+    "stem": "A 70-year-old woman with advanced cancer and no known spinal disease develops sudden-onset back pain, bilateral leg weakness, and urinary retention.\n\nWhich is the most appropriate immediate management?",
+    "options": [
+      "Oral paracetamol and community follow-up",
+      "Outpatient MRI in 2 weeks",
+      "Immediate high-dose dexamethasone and urgent whole-spine MRI",
+      "Urgent plain radiograph of the lumbar spine",
+      "Physiotherapy referral"
+    ],
+    "correct": 2,
+    "explanation": "Malignant spinal cord compression is an oncological emergency. Start immediate dexamethasone, arrange urgent whole-spine MRI within 24 hours, and refer to oncology/neurosurgery for urgent radiotherapy or surgical decompression."
+  },
+  {
+    "id": "kt7_s35",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 45-year-old woman has Raynaud's phenomenon, thickened skin on her fingers, and difficulty swallowing. Anti-centromere antibodies are positive.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Diffuse cutaneous systemic sclerosis",
+      "Limited cutaneous systemic sclerosis (CREST)",
+      "Rheumatoid arthritis",
+      "SLE",
+      "Dermatomyositis"
+    ],
+    "correct": 1,
+    "explanation": "CREST/limited cutaneous systemic sclerosis: Calcinosis, Raynaud's, oEsophageal dysmotility, Sclerodactyly, Telangiectasia. Anti-centromere antibodies are associated with limited disease; anti-Scl-70 with diffuse disease."
+  },
+  {
+    "id": "kt7_s36",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 30-year-old man has low back pain and stiffness worse in the mornings, improving with exercise. HLA-B27 is positive. Sacroiliac X-rays show sclerosis and early erosion.\n\nWhich is the first-line long-term treatment?",
+    "options": [
+      "Paracetamol only",
+      "Regular NSAIDs and physiotherapy",
+      "Methotrexate",
+      "Sulfasalazine",
+      "Oral prednisolone"
+    ],
+    "correct": 1,
+    "explanation": "Ankylosing spondylitis is initially managed with regular NSAIDs and structured exercise/physiotherapy. Biologic therapy (anti-TNF, IL-17 inhibitors) is added in inadequate response. csDMARDs are not effective for axial disease."
+  },
+  {
+    "id": "kt7_s37",
+    "type": "sba",
+    "topic": "I-MCT",
+    "stem": "A 70-year-old woman has sudden severe unilateral headache, jaw pain on chewing, and temporary loss of vision. ESR is 95 mm/hr.\n\nWhich is the most important immediate action?",
+    "options": [
+      "Urgent MRI brain",
+      "High-dose oral prednisolone and urgent rheumatology referral",
+      "Outpatient temporal artery biopsy in 2 weeks",
+      "IV antibiotics",
+      "Observe and review in clinic in 1 week"
+    ],
+    "correct": 1,
+    "explanation": "Giant cell arteritis (temporal arteritis) is a medical emergency — delayed treatment may result in permanent blindness. Start high-dose oral prednisolone immediately and arrange urgent rheumatology review. Temporal artery biopsy should not delay treatment."
+  },
+  {
+    "id": "kt7_s38",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "An 80-year-old man is transferred to hospital post-cardiac arrest. ROSC has been achieved after VF arrest treated with defibrillation.\n\nWhich intervention is most likely to improve his neurological outcome?",
+    "options": [
+      "Routine targeted temperature management (e.g. 32–36°C) for at least 24 hours",
+      "Oral aspirin",
+      "Pre-emptive hypothermia below 30°C",
+      "Intravenous thrombolysis regardless of cause",
+      "Routine dexamethasone"
+    ],
+    "correct": 0,
+    "explanation": "Targeted temperature management post-cardiac arrest (commonly 36°C, maintained for at least 24 hours) reduces secondary brain injury and improves neurological outcomes. Hypothermia below 32°C is not routinely used."
+  },
+  {
+    "id": "kt7_s39",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A trained cyclist has a cardiac output at rest of 5 L/min and a maximal exercise cardiac output of 30 L/min. His resting stroke volume is 80 mL.\n\nWhich adaptation is most likely to explain his high exercise cardiac output?",
+    "options": [
+      "Increased resting heart rate",
+      "Ventricular hypertrophy with increased stroke volume at exercise",
+      "Decreased afterload at rest",
+      "Reduced venous return",
+      "Increased vagal tone during exercise"
+    ],
+    "correct": 1,
+    "explanation": "Endurance training increases left ventricular end-diastolic volume and contractility, allowing large increases in stroke volume during exercise. Maximum heart rate does not differ greatly between trained and untrained individuals, so SV is the main determinant of exercise CO."
+  },
+  {
+    "id": "kt7_s40",
+    "type": "sba",
+    "topic": "BIM-Cardio",
+    "stem": "A patient receives a rapid infusion of 2 L of crystalloid. What is the most likely physiological response?",
+    "options": [
+      "Reduced preload",
+      "Increased preload with increased stroke volume (Frank–Starling law)",
+      "Increased afterload with reduced stroke volume",
+      "Reflex tachycardia with reduced contractility",
+      "Increased vagal tone with bradycardia"
+    ],
+    "correct": 1,
+    "explanation": "Fluid loading increases venous return, preload, and end-diastolic volume. Within normal Frank–Starling limits, this increases stroke volume. Excessive fluid loading beyond this range produces congestion without further benefit."
+  },
+  {
+    "id": "kt7_s41",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 55-year-old man presents 30 minutes after sudden-onset worst-ever headache. Clinical examination is normal except for neck stiffness. CT head shows blood in the basal cisterns.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Migraine",
+      "Subarachnoid haemorrhage",
+      "Meningitis",
+      "Intracerebral haemorrhage",
+      "Subdural haematoma"
+    ],
+    "correct": 1,
+    "explanation": "Thunderclap headache with neck stiffness and blood in the basal cisterns on CT is diagnostic of subarachnoid haemorrhage. Most are caused by ruptured berry aneurysms. If CT is negative but suspicion remains, lumbar puncture at > 12 hours looks for xanthochromia."
+  },
+  {
+    "id": "kt7_s42",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 70-year-old man has increasing difficulty initiating movement, a shuffling gait, and unilateral resting tremor in the right hand. His symptoms respond to levodopa.\n\nWhich additional clinical feature would most support the diagnosis of idiopathic Parkinson's disease rather than a Parkinson-plus syndrome?",
+    "options": [
+      "Early autonomic dysfunction",
+      "Early postural instability and falls",
+      "Asymmetric onset with good levodopa response",
+      "Supranuclear gaze palsy",
+      "Cerebellar ataxia"
+    ],
+    "correct": 2,
+    "explanation": "Idiopathic Parkinson's disease is typically asymmetric at onset with a good initial levodopa response. Early autonomic failure suggests multiple system atrophy; early falls/gaze palsy suggests progressive supranuclear palsy; cerebellar signs suggest MSA-C."
+  },
+  {
+    "id": "kt7_s43",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 25-year-old man presents following a first generalised tonic–clonic seizure. MRI brain and EEG are normal. He has no family history.\n\nWhich is the most appropriate immediate management?",
+    "options": [
+      "Start sodium valproate immediately",
+      "Start levetiracetam immediately",
+      "Advise regarding driving restrictions and arrange neurology follow-up; do not necessarily start AED",
+      "Urgent hospital admission overnight routinely",
+      "CT brain with contrast only"
+    ],
+    "correct": 2,
+    "explanation": "After a single unprovoked seizure with normal investigations, antiepileptic drugs are generally not started unless risk factors suggest a high recurrence risk. Advice on driving (DVLA reporting) and safety is essential."
+  },
+  {
+    "id": "kt7_s44",
+    "type": "sba",
+    "topic": "BIM-Nerv",
+    "stem": "A 35-year-old woman presents with progressive proximal weakness and fatiguability, worse at the end of the day. Ptosis improves with an ice-pack test. Anti-acetylcholine receptor antibodies are positive.\n\nWhich first-line treatment is most appropriate?",
+    "options": [
+      "Pyridostigmine",
+      "IV immunoglobulin only",
+      "Plasma exchange first-line",
+      "Corticosteroids monotherapy",
+      "Rituximab as first-line"
+    ],
+    "correct": 0,
+    "explanation": "Pyridostigmine (a reversible acetylcholinesterase inhibitor) is first-line for myasthenia gravis, increasing ACh at the neuromuscular junction. Immunosuppression (steroids, azathioprine) is added for persistent symptoms. Thymectomy is considered in appropriate cases."
+  },
+  {
+    "id": "kt7_s45",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 75-year-old woman falls and has severe left hip pain. Her left leg is shortened and externally rotated. X-ray confirms a displaced intracapsular neck of femur fracture.\n\nWhich is the most appropriate definitive surgical management?",
+    "options": [
+      "Dynamic hip screw",
+      "Internal fixation with cannulated screws",
+      "Hemiarthroplasty or total hip replacement",
+      "Conservative management with bed rest",
+      "Intramedullary nail"
+    ],
+    "correct": 2,
+    "explanation": "Displaced intracapsular fractures in older adults disrupt blood supply to the femoral head and are managed with arthroplasty — hemiarthroplasty for most, total hip replacement for fitter, mobile patients with minimal comorbidity."
+  },
+  {
+    "id": "kt7_s46",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A 40-year-old man sustains a forceful impact to the outstretched hand. X-ray is initially normal, but he has tenderness in the anatomical snuffbox.\n\nWhich is the most likely diagnosis?",
+    "options": [
+      "Distal radial fracture (Colles)",
+      "Smith fracture",
+      "Scaphoid fracture",
+      "Hook of hamate fracture",
+      "Lunate dislocation"
+    ],
+    "correct": 2,
+    "explanation": "Anatomical snuffbox tenderness after a fall on the outstretched hand is suspicious of scaphoid fracture, even if initial X-rays are normal. Repeat imaging or MRI is arranged if suspicion remains; missed fractures can cause avascular necrosis."
+  },
+  {
+    "id": "kt7_s47",
+    "type": "sba",
+    "topic": "BIM-Loco",
+    "stem": "A patient has severe leg pain and swelling in the calf following a tibial fracture. Pain is worse on passive dorsiflexion of the toes.\n\nWhat is the most likely diagnosis?",
+    "options": [
+      "Deep vein thrombosis",
+      "Compartment syndrome",
+      "Cellulitis",
+      "Osteomyelitis",
+      "Peripheral arterial disease"
+    ],
+    "correct": 1,
+    "explanation": "Compartment syndrome presents with disproportionate pain, worse on passive stretch of the muscle, in the context of recent fracture or crush injury. Urgent fasciotomy is required to prevent irreversible muscle and nerve damage."
+  },
+  {
+    "id": "kt7_s48",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A missense mutation in a key exon of a gene results in a protein with reduced function but the same overall size.\n\nWhich term best describes this type of mutation?",
+    "options": [
+      "Nonsense mutation",
+      "Frameshift mutation",
+      "Silent mutation",
+      "Missense mutation",
+      "Splice-site mutation"
+    ],
+    "correct": 3,
+    "explanation": "A missense mutation substitutes one amino acid for another in the resulting protein, potentially altering function but preserving overall length. Nonsense mutations produce a premature stop codon; frameshift mutations alter the reading frame."
+  },
+  {
+    "id": "kt7_s49",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A chemotherapy drug induces apoptosis in tumour cells by causing cytochrome c release from mitochondria and activation of caspase-9.\n\nWhich apoptotic pathway is primarily activated?",
+    "options": [
+      "Extrinsic (death receptor) pathway",
+      "Intrinsic (mitochondrial) pathway",
+      "Perforin-granzyme pathway",
+      "Necroptosis",
+      "Pyroptosis"
+    ],
+    "correct": 1,
+    "explanation": "Intrinsic apoptosis is initiated by mitochondrial outer membrane permeabilisation, releasing cytochrome c. This activates caspase-9 via the apoptosome. The extrinsic pathway is initiated by death receptors (e.g. Fas, TNFR)."
+  },
+  {
+    "id": "kt7_s50",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A patient with familial hypercholesterolaemia has loss-of-function mutations in the LDL receptor gene.\n\nWhich process is most directly impaired?",
+    "options": [
+      "Pinocytosis of plasma proteins",
+      "Receptor-mediated endocytosis of LDL cholesterol",
+      "Facilitated diffusion of glucose",
+      "Active transport of bile acids",
+      "Free diffusion of small lipid molecules"
+    ],
+    "correct": 1,
+    "explanation": "LDL particles are normally removed from blood by receptor-mediated endocytosis via the LDL receptor. Loss-of-function mutations markedly reduce clearance, causing hypercholesterolaemia and early atherosclerosis."
+  },
+  {
+    "id": "kt7_s51",
+    "type": "sba",
+    "topic": "BIM-Cells",
+    "stem": "A drug selectively inhibits microtubule polymerisation in dividing cells.\n\nWhich phase of mitosis is most directly disrupted?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Cytokinesis"
+    ],
+    "correct": 1,
+    "explanation": "Microtubules form the mitotic spindle, which is essential for chromosome alignment at the metaphase plate. Inhibition (e.g. vinca alkaloids) halts the cell cycle at metaphase, triggering apoptosis."
+  },
+  {
+    "id": "kt7_s52",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 70-year-old patient on digoxin for AF presents with nausea, visual disturbances (yellow halos), and bradycardia. His potassium is 3.0 mmol/L.\n\nWhich factor most likely contributed to his toxicity?",
+    "options": [
+      "Hyperkalaemia",
+      "Hypokalaemia",
+      "Hypercalcaemia only",
+      "Normal renal function",
+      "Acetaminophen co-prescription"
+    ],
+    "correct": 1,
+    "explanation": "Hypokalaemia predisposes to digoxin toxicity by increasing digoxin's binding to Na+/K+ ATPase. Renal impairment and drugs (amiodarone, verapamil) also increase digoxin levels. Management includes digoxin-specific antibody fragments (Digibind) in severe toxicity."
+  },
+  {
+    "id": "kt7_s53",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A patient with diabetes develops persistent severe hypoglycaemia lasting over 24 hours despite glucose supplementation. He has recently been started on a sulphonylurea.\n\nWhich mechanism is most relevant to the prolonged hypoglycaemia?",
+    "options": [
+      "Short half-life and rapid clearance",
+      "Long half-life and active metabolites, commonly in renal impairment",
+      "Minimal protein binding",
+      "Gastrointestinal retention",
+      "Direct pancreatic toxicity"
+    ],
+    "correct": 1,
+    "explanation": "Sulphonylureas (e.g. glibenclamide, gliclazide) can cause prolonged hypoglycaemia, particularly in the elderly and those with renal impairment, due to long half-lives and/or active metabolites. IV dextrose infusions and octreotide may be needed."
+  },
+  {
+    "id": "kt7_s54",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 40-year-old man is admitted with agitation, tachycardia, hypertension, and pyrexia 12 hours after his last dose of a long-term opioid.\n\nWhich drug class best describes these findings?",
+    "options": [
+      "Opioid overdose",
+      "Opioid withdrawal",
+      "Benzodiazepine withdrawal",
+      "Anticholinergic toxicity",
+      "Alcohol intoxication"
+    ],
+    "correct": 1,
+    "explanation": "Opioid withdrawal features autonomic hyperactivity (tachycardia, hypertension, sweating), piloerection, yawning, rhinorrhoea, and pupillary dilation. Management may include supportive care and methadone/buprenorphine where clinically indicated."
+  },
+  {
+    "id": "kt7_s55",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 28-year-old woman with a past history of deep vein thrombosis is considering options for contraception.\n\nWhich method is contraindicated because of her thrombosis risk?",
+    "options": [
+      "Copper intrauterine device",
+      "Combined oral contraceptive pill",
+      "Progestogen-only pill",
+      "Levonorgestrel intrauterine system",
+      "Barrier methods"
+    ],
+    "correct": 1,
+    "explanation": "A personal history of VTE is an absolute contraindication (UKMEC 4) to combined hormonal contraception (oestrogen-containing). Progestogen-only methods and non-hormonal methods (copper coil, barrier) are safe alternatives."
+  },
+  {
+    "id": "kt7_s56",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 60-year-old man with chronic kidney disease stage 4 is started on co-codamol 30/500 for back pain. He develops drowsiness and a reduced respiratory rate.\n\nWhich mechanism best explains his toxicity?",
+    "options": [
+      "Increased hepatic first-pass metabolism",
+      "Accumulation of active codeine metabolites (morphine-6-glucuronide) due to renal impairment",
+      "Reduced protein binding",
+      "Displacement from plasma proteins by paracetamol",
+      "Activation by gastric acid"
+    ],
+    "correct": 1,
+    "explanation": "Codeine is metabolised to morphine, which is glucuronidated to morphine-6-glucuronide — an active metabolite cleared by the kidney. Renal impairment causes accumulation and prolonged opioid effect. Alternative analgesics (e.g. low-dose morphine with careful titration, or adjustments to codeine dose) should be considered."
+  },
+  {
+    "id": "kt7_s57",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 25-year-old woman with epilepsy is prescribed an enzyme-inducing antiepileptic drug (e.g. carbamazepine). She is also on the combined oral contraceptive pill.\n\nWhich advice is most appropriate?",
+    "options": [
+      "No interaction expected",
+      "COCP efficacy may be reduced — additional contraception or alternative method recommended",
+      "Double the dose of COCP only",
+      "Switch to a DOAC",
+      "Use emergency contraception daily"
+    ],
+    "correct": 1,
+    "explanation": "Enzyme-inducing AEDs (carbamazepine, phenytoin, phenobarbital, primidone, topiramate at higher doses) can reduce COCP levels, potentially causing contraceptive failure. Alternative methods (IUD, DMPA) are recommended."
+  },
+  {
+    "id": "kt7_s58",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A 65-year-old woman on metformin has an eGFR that drops to 20 mL/min/1.73m². She is considering continuing metformin.\n\nWhich is the most appropriate action?",
+    "options": [
+      "Continue unchanged — no risk",
+      "Stop metformin as eGFR <30 due to risk of lactic acidosis",
+      "Increase the dose to maintain efficacy",
+      "Switch to a sulphonylurea at a higher dose only",
+      "Continue but add insulin"
+    ],
+    "correct": 1,
+    "explanation": "Metformin is contraindicated at eGFR < 30 mL/min/1.73m² due to the risk of accumulation and lactic acidosis. Dose reduction is advised at eGFR 30–44."
+  },
+  {
+    "id": "kt7_s59",
+    "type": "sba",
+    "topic": "Pharm",
+    "stem": "A drug's dose–response curve shows that at high doses, increasing the dose no longer increases the effect.\n\nWhich pharmacological concept does this illustrate?",
+    "options": [
+      "Partial agonism",
+      "Saturation of drug effect (Emax/maximal efficacy)",
+      "Non-linear pharmacokinetics exclusively",
+      "Tolerance",
+      "Drug interaction"
+    ],
+    "correct": 1,
+    "explanation": "The plateau on a dose–response curve represents the maximum achievable effect (Emax). Further increases in dose do not increase efficacy but may increase toxicity. This concept is essential for rational dosing."
+  },
+  {
+    "id": "kt7_s60",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 50-year-old woman is diagnosed with cancer. She asks you not to tell her husband. You agree and arrange further investigations.\n\nWhich ethical principle is most directly upheld?",
+    "options": [
+      "Beneficence only",
+      "Non-maleficence only",
+      "Confidentiality (respect for autonomy)",
+      "Justice",
+      "Veracity"
+    ],
+    "correct": 2,
+    "explanation": "Respecting a competent patient's wishes about disclosure of their medical information is a core aspect of autonomy and confidentiality. Exceptions exist (e.g. serious risk of harm to others, public interest disclosures, statutory reporting)."
+  },
+  {
+    "id": "kt7_s61",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 90-year-old woman with advanced dementia develops pneumonia. She has an advance decision to refuse treatment (ADRT) stating she does not want antibiotics or hospital admission. Her family disagrees.\n\nWhat is the most appropriate action?",
+    "options": [
+      "Follow the family's wishes",
+      "Check the ADRT is valid and applicable, and respect it",
+      "Admit to hospital for full treatment regardless",
+      "Consult the Court of Protection urgently before any decision",
+      "Rely on the Mental Capacity Act to give best interests treatment overriding the ADRT"
+    ],
+    "correct": 1,
+    "explanation": "A valid and applicable ADRT is legally binding under the Mental Capacity Act 2005. It must be signed, witnessed, specify the treatment to refuse, and (for life-sustaining treatment) explicitly state it applies even if life is at risk."
+  },
+  {
+    "id": "kt7_s62",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A foundation doctor makes a drug error that results in patient harm. She is unsure whether to tell the patient.\n\nWhich principle requires her to disclose the error to the patient?",
+    "options": [
+      "Non-maleficence only",
+      "Justice",
+      "Duty of candour",
+      "Paternalism",
+      "Autonomy only"
+    ],
+    "correct": 2,
+    "explanation": "The professional duty of candour requires healthcare staff to be open and honest with patients when something has gone wrong. The statutory duty of candour in England requires organisations to inform patients of incidents involving harm."
+  },
+  {
+    "id": "kt7_s63",
+    "type": "sba",
+    "topic": "Ethics",
+    "stem": "A 40-year-old man demands an MRI scan for chronic low back pain without any red flags. You consider the scan is unnecessary and may cause harm.\n\nWhich ethical principle most justifies declining the scan?",
+    "options": [
+      "Autonomy",
+      "Justice — responsible use of finite resources",
+      "Veracity",
+      "Fidelity",
+      "Dignity"
+    ],
+    "correct": 1,
+    "explanation": "Justice includes the fair and responsible use of finite healthcare resources. Clinicians must balance patient autonomy (which does not extend to demanding non-indicated investigations) with duty to avoid harm and preserve resources for others."
+  },
+  {
+    "id": "kt7_s64",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A GP routinely invites female patients aged 25–64 for cervical screening every 3–5 years.\n\nThis is an example of which type of prevention?",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Quaternary prevention",
+      "Rehabilitation"
+    ],
+    "correct": 1,
+    "explanation": "Secondary prevention aims to detect disease early (e.g. cervical screening, mammography). Primary prevention prevents disease occurring (e.g. vaccination). Tertiary prevention reduces complications of established disease."
+  },
+  {
+    "id": "kt7_s65",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A patient smokes 20 cigarettes per day and wants to quit. He is ready to set a quit date.\n\nWhich is the most effective combination of support?",
+    "options": [
+      "Brief advice alone",
+      "Nicotine replacement plus behavioural support",
+      "Varenicline without behavioural input",
+      "E-cigarettes only",
+      "Self-help materials alone"
+    ],
+    "correct": 1,
+    "explanation": "Combining pharmacotherapy (NRT, varenicline, or bupropion) with behavioural support (e.g. NHS Stop Smoking Services) gives the best quit rates — roughly double compared with brief advice alone."
+  },
+  {
+    "id": "kt7_s66",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A GP consultation is conducted largely in the patient's own words, encouraging them to describe their ideas and feelings about their illness.\n\nWhich communication style is most consistent with this approach?",
+    "options": [
+      "Doctor-centred",
+      "Patient-centred",
+      "Authoritarian",
+      "Structured history-only",
+      "Ethnographic interview"
+    ],
+    "correct": 1,
+    "explanation": "Patient-centred consultations prioritise the patient's ideas, concerns, and expectations (ICE), shared decision-making, and the patient's lived experience — consistent with the Calgary–Cambridge model."
+  },
+  {
+    "id": "kt7_s67",
+    "type": "sba",
+    "topic": "KCP",
+    "stem": "A patient with type 2 diabetes does not take his medication as prescribed because he believes it will 'damage his liver'. Engagement with his beliefs and exploration of medication is planned.\n\nWhich is the most appropriate approach?",
+    "options": [
+      "Dismiss his beliefs and insist he continues",
+      "Engage in shared decision-making — explore beliefs, provide evidence, agree a plan",
+      "Refer to psychiatry",
+      "Prescribe injections without discussion",
+      "Discharge him from the clinic"
+    ],
+    "correct": 1,
+    "explanation": "Concordance/shared decision-making explores the patient's beliefs about medication, provides evidence, and agrees a mutually acceptable plan. This improves adherence and outcomes, especially in chronic disease."
+  },
+  {
+    "id": "kt7_s68",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A diagnostic test has a sensitivity of 90% and a specificity of 60%. It is being used to rule out a disease.\n\nWhich feature makes this test more useful as a rule-out test?",
+    "options": [
+      "High sensitivity (few false negatives)",
+      "High specificity",
+      "Low positive predictive value",
+      "High negative predictive value regardless of prevalence",
+      "Low sensitivity"
+    ],
+    "correct": 0,
+    "explanation": "Rule-out tests (SnOut) need high sensitivity — a negative result makes the disease unlikely. Rule-in tests (SpIn) require high specificity — a positive result makes the disease more likely."
+  },
+  {
+    "id": "kt7_s69",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "In a cohort study, 200 out of 1000 exposed develop the outcome compared with 100 out of 1000 unexposed.\n\nWhat is the relative risk?",
+    "options": [
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.0",
+      "3.0"
+    ],
+    "correct": 3,
+    "explanation": "RR = (200/1000) / (100/1000) = 0.2 / 0.1 = 2.0. The exposed group has twice the risk of the outcome compared with the unexposed group."
+  },
+  {
+    "id": "kt7_s70",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A published randomised trial reports a p-value of 0.04 for its primary outcome. The 95% confidence interval for the effect includes a very small benefit at its lower bound.\n\nWhich is the most appropriate interpretation?",
+    "options": [
+      "Statistical and clinical significance are identical",
+      "Statistically significant but the size of the effect may not be clinically important",
+      "The treatment has no effect at all",
+      "The p-value alone proves clinical importance",
+      "The confidence interval is irrelevant"
+    ],
+    "correct": 1,
+    "explanation": "A p-value quantifies the compatibility of data with the null hypothesis; it does not measure the magnitude of the effect. Confidence intervals convey effect size and precision, crucial for assessing clinical importance."
+  },
+  {
+    "id": "kt7_s71",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A case-control study compares smokers and non-smokers for lung cancer. The odds ratio is 8.0.\n\nWhich is the most appropriate interpretation?",
+    "options": [
+      "Smokers have 8 times the incidence of lung cancer",
+      "The odds of being a smoker are 8 times higher among cases than controls",
+      "Risk of lung cancer is 8%",
+      "Smokers are 8 times less likely to develop lung cancer",
+      "The test is inconclusive"
+    ],
+    "correct": 1,
+    "explanation": "In a case-control study, the odds ratio compares the odds of exposure between cases and controls. Relative risk cannot be calculated directly because incidence is not measured."
+  },
+  {
+    "id": "kt7_s72",
+    "type": "sba",
+    "topic": "REBM",
+    "stem": "A systematic review combines several RCTs and reports a pooled result with a narrow confidence interval around a clinically significant effect. There is low heterogeneity (I² ≈ 5%).\n\nWhich is the most appropriate interpretation?",
+    "options": [
+      "The results are inconsistent and cannot be pooled",
+      "The pooled estimate is likely reliable and generalisable",
+      "I² above 50% means the studies cannot be combined",
+      "A narrow confidence interval suggests publication bias",
+      "Low heterogeneity indicates bias is definitely absent"
+    ],
+    "correct": 1,
+    "explanation": "Low heterogeneity (I² < 25%) suggests consistency of effects across studies, allowing confident pooling. A narrow confidence interval reflects precision. Further assessment (bias, applicability) is still important, but this combination supports reliable inference."
+  },
+  {
+    "id": "kt7_v01",
+    "type": "vsaq",
+    "topic": "SL-CV",
+    "stem": "A 60-year-old man presents with crushing central chest pain. ECG shows ST elevation in leads V1–V4.\n\n(a) Which coronary artery is most likely occluded?\n(b) What is the first-line definitive reperfusion strategy if available within 120 minutes of diagnosis?",
+    "answer": "(a) Left anterior descending (LAD) artery.\n(b) Primary percutaneous coronary intervention (PCI).",
+    "explanation": "Anteroseptal STEMI (V1–V4) reflects LAD territory infarction. Primary PCI within 120 minutes is preferred over fibrinolysis where feasible; fibrinolysis is used if PCI is unavailable in that window."
+  },
+  {
+    "id": "kt7_v02",
+    "type": "vsaq",
+    "topic": "SL-Resp",
+    "stem": "A 22-year-old woman has a known asthma history and presents with life-threatening features during an acute attack: peak flow 28% predicted, SpO2 89%, silent chest, and exhaustion.\n\n(a) Name two features that classify this as life-threatening.\n(b) Name three immediate treatments to administer.",
+    "answer": "(a) Any two of: PEFR < 33% predicted, SpO2 < 92%, silent chest, cyanosis, bradycardia, hypotension, exhaustion, altered consciousness, 'normal' PaCO2 (indicates fatigue).\n(b) High-flow oxygen; nebulised salbutamol (and ipratropium for severe/life-threatening features); systemic corticosteroid (IV hydrocortisone or oral prednisolone); consider IV magnesium sulphate; senior/ICU input for potential ventilatory support.",
+    "explanation": "Life-threatening asthma requires urgent hospital-level care. Respiratory muscle fatigue and exhaustion are indications for early anaesthetic/ICU involvement."
+  },
+  {
+    "id": "kt7_v03",
+    "type": "vsaq",
+    "topic": "I-Imm",
+    "stem": "A 50-year-old man with chronic lymphocytic leukaemia has recurrent sinopulmonary infections. Immunoglobulin levels show low IgG.\n\n(a) Name one mechanism by which CLL predisposes to infection.\n(b) Name two interventions that may reduce his infection risk.",
+    "answer": "(a) Hypogammaglobulinaemia (reduced functional antibody production from the malignant B cell clone), neutropenia from bone marrow infiltration or treatment, T-cell dysfunction.\n(b) Any two of: pneumococcal and seasonal influenza vaccination (and COVID-19); immunoglobulin replacement therapy for recurrent or severe infections; prophylactic antibiotics in selected patients; prompt treatment of infections.",
+    "explanation": "CLL is often complicated by secondary immunodeficiency. Live vaccines should be avoided in most patients. A full MDT approach reduces infection-related morbidity."
+  },
+  {
+    "id": "kt7_v04",
+    "type": "vsaq",
+    "topic": "I-Can",
+    "stem": "A 55-year-old man is found to have a prostate specific antigen (PSA) of 65 ng/mL on routine testing. Multiparametric MRI and biopsy confirm high-risk localised prostate cancer without distant metastases.\n\n(a) Name two management options for localised high-risk prostate cancer.\n(b) Which hormonal therapy is commonly used in combination with radiotherapy for high-risk disease?",
+    "answer": "(a) Any two of: radical prostatectomy; external beam radiotherapy (with long-course androgen deprivation therapy); brachytherapy; active surveillance is generally not appropriate for high-risk disease.\n(b) Long-course androgen deprivation therapy — LHRH agonists (e.g. goserelin, leuprorelin) or antagonists (e.g. degarelix), usually continued for 2–3 years post-radiotherapy.",
+    "explanation": "Risk stratification (using PSA, Gleason score, clinical stage) directs management. ADT with radiotherapy improves outcomes in high-risk localised disease compared with radiotherapy alone."
+  },
+  {
+    "id": "kt7_v05",
+    "type": "vsaq",
+    "topic": "BIM-Nerv",
+    "stem": "A 35-year-old woman presents with sudden severe headache followed by loss of consciousness. She has regained consciousness but remains drowsy. CT head shows blood in the basal cisterns.\n\n(a) What is the most likely diagnosis?\n(b) Name two complications of this condition that occur over the subsequent days.",
+    "answer": "(a) Subarachnoid haemorrhage — most commonly due to ruptured saccular (berry) aneurysm.\n(b) Any two of: re-bleeding (highest risk in first 24 hours); vasospasm-induced delayed cerebral ischaemia (4–14 days); hydrocephalus; hyponatraemia (cerebral salt wasting/SIADH); seizures; neuropsychiatric sequelae.",
+    "explanation": "Management includes urgent neurosurgical/interventional radiology input for aneurysm securement (coiling or clipping), nimodipine (to reduce vasospasm), and intensive care monitoring."
+  },
+  {
+    "id": "kt7_v06",
+    "type": "vsaq",
+    "topic": "Pharm",
+    "stem": "A 45-year-old man is commenced on ramipril for hypertension. Within a week, he attends with a dry cough and intermittent angio-oedema of the lips.\n\n(a) Name the mediator responsible for these side effects.\n(b) What is the most appropriate medication change?",
+    "answer": "(a) Bradykinin, which accumulates due to ACE (kininase II) inhibition.\n(b) Switch to an angiotensin II receptor blocker (ARB), e.g. losartan or candesartan — ARBs do not affect bradykinin metabolism and have much lower rates of cough and angio-oedema.",
+    "explanation": "Angio-oedema with ACEi is a class effect and may recur with re-challenge; ARB use has low but non-zero cross-reactivity."
+  },
+  {
+    "id": "kt7_v07",
+    "type": "vsaq",
+    "topic": "Ethics",
+    "stem": "A 30-year-old woman with capacity is 25 weeks' pregnant and requests a lawful termination. She is well-informed and understands the implications.\n\nOutline the legal and ethical framework relevant to her request in the UK.",
+    "answer": "The Abortion Act 1967 (amended 1990) permits termination up to 24 weeks if two doctors agree it is in the woman's physical/mental health or that of existing children. Termination beyond 24 weeks is permitted only under specific grounds — risk of grave permanent injury to the woman, risk to her life, or substantial risk that the child would suffer serious handicap. Ethically, respect for autonomy supports the woman's right to request termination, but it must be balanced against the legal criteria. The clinical team's responsibility is to provide clear information, assess capacity, and involve the multidisciplinary team. Conscientious objection is permitted but does not remove the duty to refer to another clinician.",
+    "explanation": "UK termination of pregnancy law has not changed the 24-week limit for most Section C grounds. For clinical presentations near or beyond this threshold, specialist assessment is essential."
+  },
+  {
+    "id": "kt7_v08",
+    "type": "vsaq",
+    "topic": "REBM",
+    "stem": "A randomised controlled trial is reviewed. The analysis was not performed on an intention-to-treat (ITT) basis — patients who did not take the intervention were excluded.\n\n(a) Why is intention-to-treat analysis generally preferred?\n(b) Name two other important components of an RCT that reduce bias.",
+    "answer": "(a) ITT analyses all randomised participants in their allocated groups, preserving the benefits of randomisation and reducing bias from differential dropout, protocol violations, or non-adherence. It gives a pragmatic estimate of effect in real-world use.\n(b) Any two of: allocation concealment; blinding (of participants, clinicians, outcome assessors); adequate sample size; pre-specified primary outcome; complete follow-up and handling of missing data.",
+    "explanation": "Per-protocol analyses can inflate apparent efficacy by excluding patients who may have dropped out due to adverse effects or disease progression."
+  }
+]
