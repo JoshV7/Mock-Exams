@@ -19,7 +19,7 @@
     "type": "sba",
     "topic": "Anat",
     "stem": "A radiograph of the hand is shown. The arrow points to a specific carpal bone that is the most commonly fractured carpal bone.\n\nWhat is this bone, and which complication is it particularly prone to?",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Scaphoidfraktur_1.jpg/320px-Scaphoidfraktur_1.jpg"],
+    "images": ["images/scaphoid.jpg"],
     "options": [
       "Lunate — Kienböck's disease (avascular necrosis)",
       "Scaphoid — avascular necrosis of the proximal pole",
