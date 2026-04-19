@@ -48,8 +48,12 @@ textarea{resize:vertical}
 .paper-meta{font-size:12px;color:#888;margin-top:3px}
 .paper-badge{font-size:12px;font-weight:600;padding:3px 9px;border-radius:12px}
 .badge-done{background:#d1f0d8;color:#2a5f33}
+.badge-fail{background:#fde4e4;color:#8b1f1f}
 .badge-prog{background:#fff3cc;color:#7a5200}
 .paper-score{font-size:13px;color:#2a5f33;font-weight:600;margin-right:6px}
+.paper-score.fail{color:var(--red)}
+.paper-item.failed{border-color:var(--red);background:#fff5f5}
+.paper-item.failed .paper-name{color:#8b1f1f}
 .paper-actions{display:flex;gap:6px;flex-wrap:wrap}
 .paper-actions button{padding:7px 14px;border-radius:3px;font-size:13px;font-weight:600;transition:background .1s}
 .btn-start{background:var(--brand2);color:#fff}.btn-start:hover{background:#154159}
@@ -188,6 +192,18 @@ textarea{resize:vertical}
 .q-review .expl{margin-top:9px;padding:9px;background:#f5f8fa;border-left:3px solid var(--brand);font-size:13px;line-height:1.5;color:var(--text)}
 .q-review .yours{margin:7px 0;padding:8px;background:#fff8e1;border-left:3px solid var(--gold);font-size:13px;color:var(--text)}
 .q-time-spent{font-size:11px;color:#aaa;margin-top:5px;font-style:italic}
+.btn-report-q{margin-top:8px;padding:5px 12px;font-size:12px;font-weight:600;border:1px solid #e0a0a0;border-radius:3px;color:#8b1f1f;background:#fff5f5;cursor:pointer;transition:background .1s}
+.btn-report-q:hover{background:#fde4e4}
+.report-inline{margin-top:8px;padding:10px;background:#fff5f5;border:1px solid #e0a0a0;border-radius:4px;display:none}
+.report-inline.show{display:block}
+.report-inline textarea{width:100%;min-height:70px;padding:7px;font-size:13px;border:1px solid #e0a0a0;border-radius:3px;resize:vertical;font-family:inherit}
+.report-inline-foot{display:flex;gap:8px;margin-top:7px;align-items:center}
+.report-inline-foot button{padding:5px 14px;border-radius:3px;font-size:13px;font-weight:600}
+.btn-report-send{background:var(--red);color:#fff}
+.btn-report-cancel{background:#888;color:#fff}
+.report-sent{font-size:12px;color:var(--green);font-weight:600}
+.bug-btn{position:fixed;bottom:22px;left:22px;background:#c62828;color:#fff;border-radius:20px;padding:8px 16px;font-size:13px;font-weight:700;box-shadow:0 4px 14px rgba(0,0,0,.25);z-index:60;cursor:pointer;display:flex;align-items:center;gap:6px;border:0}
+.bug-btn:hover{background:#d63737}
 .rev-actions{display:flex;gap:7px;margin-bottom:14px;flex-wrap:wrap}
 .rev-actions button{padding:7px 13px;border-radius:3px;background:var(--brand);color:#fff;font-weight:600;font-size:13px}
 .rev-actions button.alt{background:#666}
@@ -196,7 +212,7 @@ textarea{resize:vertical}
 .back-top.show{display:flex}
 
 @media print{
-  .rev-topbar,.rev-actions,.back-top{display:none!important}
+  .rev-topbar,.rev-actions,.back-top,.bug-btn,.btn-report-q,.report-inline{display:none!important}
   .q-review{page-break-inside:avoid;box-shadow:none;border:1px solid #ddd}
 }
 </style>
@@ -397,6 +413,25 @@ textarea{resize:vertical}
   <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Back to top">↑</button>
 </div>
 
+<!-- BUG REPORT BUTTON (always visible) -->
+<button class="bug-btn" onclick="openBugReport()" title="Report a bug">🐛 Report Bug</button>
+
+<!-- BUG REPORT MODAL -->
+<div class="modal-backdrop" id="bugModal">
+  <div class="modal" style="width:460px">
+    <div class="modal-head danger">🐛 Report a Bug</div>
+    <div class="modal-body">
+      <p style="margin-top:0;font-size:14px">Describe what went wrong. We'll investigate and fix it.</p>
+      <textarea id="bugText" style="width:100%;min-height:100px;padding:9px;font-size:14px;border:1px solid var(--border);border-radius:3px;resize:vertical;font-family:inherit" placeholder="e.g. Timer stopped counting, question 14 has no options showing, etc."></textarea>
+      <p id="bugSentMsg" style="color:var(--green);font-weight:600;font-size:13px;margin:8px 0 0;display:none">✓ Report sent — thank you!</p>
+    </div>
+    <div class="modal-foot">
+      <button class="btn-cancel" onclick="closeBugReport()">Cancel</button>
+      <button class="btn-danger" id="bugSendBtn" onclick="sendBugReport()">Send Report</button>
+    </div>
+  </div>
+</div>
+
 <script>
 /* ── SUPABASE ─────────────────────────────────────────────── */
 const SUPABASE_URL  = 'https://masbjyzvswydmgcoqptc.supabase.co';
@@ -425,7 +460,7 @@ const EXAM_CFG = {
 
 /* ── STATE ────────────────────────────────────────────────── */
 let s = {
-  studentNum:'', paper:null, paperName:'', examType:'kt',
+  studentNum:'', studentName:'', paper:null, paperName:'', examType:'kt',
   questions:[], idx:0,
   answers:{}, crossed:{}, flagged:{},
   qTimes:{}, qStart:{},
@@ -462,7 +497,7 @@ async function doLogin(){
   try {
     const {data:allowed, error} = await sb
       .from('allowed_students')
-      .select('student_num')
+      .select('student_num,notes')
       .eq('student_num', num)
       .single();
 
@@ -473,6 +508,7 @@ async function doLogin(){
     }
 
     s.studentNum = num;
+    s.studentName = (allowed.notes||'').trim() || num;
     enterHolding(num);
 
   } catch(e){
@@ -486,7 +522,7 @@ function enterHolding(num){
   $el('login').style.display = 'none';
   $el('holding').style.display = 'flex';
   $el('userId').textContent = num;
-  $el('holdingWelcome').textContent = 'Welcome, ' + num;
+  $el('holdingWelcome').textContent = 'Welcome, ' + (s.studentName || num);
   loadProgress(num).then(() => discoverPapers());
 }
 
@@ -566,10 +602,12 @@ function renderPaperList(){
     const pg = s.progress[p.key];
     const done    = pg && !pg.inProgress && pg.completedAt;
     const inProg  = pg && pg.inProgress;
+    const passed  = done && pg.pct >= 60;
+    const failed  = done && pg.pct < 60;
     const cfg = EXAM_CFG[p.type||'kt'];
 
     const item = document.createElement('div');
-    item.className = 'paper-item' + (done?' completed':inProg?' in-progress':'');
+    item.className = 'paper-item' + (passed?' completed':failed?' failed':inProg?' in-progress':'');
     item.innerHTML = `
       <div class="paper-item-header">
         <div>
@@ -577,7 +615,7 @@ function renderPaperList(){
           <div class="paper-meta">${cfg.label} · ${cfg.sbaQ} SBA + ${cfg.vsaqQ} VSAQ · ${cfg.duration/60} min · Pass ${cfg.passPct}% (${Math.ceil((cfg.sbaQ+cfg.vsaqQ)*cfg.passPct/100)}/${cfg.sbaQ+cfg.vsaqQ})</div>
         </div>
         <div style="display:flex;align-items:center;gap:8px">
-          ${done ? `<span class="paper-score">${pg.score}/${pg.total} (${pg.pct}%)</span><span class="paper-badge badge-done">✓ Complete</span>` : ''}
+          ${done ? `<span class="paper-score${failed?' fail':''}">${pg.score}/${pg.total} (${pg.pct}%)</span><span class="paper-badge ${passed?'badge-done':'badge-fail'}">${passed?'✓ Passed':'✗ Failed'}</span>` : ''}
           ${inProg ? `<span class="paper-badge badge-prog">⏳ In progress</span>` : ''}
           <div class="paper-actions" id="pa-${p.key}"></div>
         </div>
@@ -840,11 +878,14 @@ function renderReview(){
   Object.keys(TOPIC_LABELS).forEach(t=>{
     const tQs=s.questions.filter(q=>q.topic===t); if(!tQs.length) return;
     const sbaTopic=tQs.filter(q=>q.type==='sba');
+    const vsaqTopic=tQs.filter(q=>q.type==='vsaq');
     const corr=sbaTopic.filter(q=>s.answers[q.id]===q.correct).length;
-    const tp=sbaTopic.length?Math.round(corr/sbaTopic.length*100):0;
+    const tp=sbaTopic.length?Math.round(corr/sbaTopic.length*100):null;
     const avgT=tQs.length?Math.round(tQs.reduce((a,q)=>a+(s.qTimes[q.id]||0),0)/tQs.length):0;
+    const correctCell=sbaTopic.length?`${corr}/${sbaTopic.length}`:(vsaqTopic.length?`—`:'—');
+    const pctCell=tp!==null?`${tp}%`:'—';
     const row=document.createElement('tr');
-    row.innerHTML=`<td>${TOPIC_LABELS[t]}</td><td>${tQs.length}</td><td>${corr}/${sbaTopic.length}</td><td>${isFinite(tp)?tp:'—'}%</td><td>${fmtT(avgT)}</td>`;
+    row.innerHTML=`<td>${TOPIC_LABELS[t]}</td><td>${tQs.length}${vsaqTopic.length?` <span style="font-size:11px;color:#888">(${vsaqTopic.length} VSAQ)</span>`:''}</td><td>${correctCell}</td><td>${pctCell}</td><td>${fmtT(avgT)}</td>`;
     tbody.appendChild(row);
   });
   filterReview(revFilter);
@@ -891,7 +932,39 @@ function renderReviewList(){
     }
     if(q.explanation) html+=`<div class="expl"><b>Explanation:</b> ${esc(q.explanation)}</div>`;
     const t=s.qTimes[q.id]||0; if(t>0) html+=`<div class="q-time-spent">⏱ Time: ${fmtT(t)}</div>`;
+    html+=`<div style="margin-top:10px">
+      <button class="btn-report-q" data-qid="${q.id}">⚑ Report an error in this question</button>
+      <div class="report-inline" id="ri-${q.id}">
+        <div style="font-size:12px;font-weight:600;color:#8b1f1f;margin-bottom:5px">What is wrong with this question?</div>
+        <textarea id="rt-${q.id}" placeholder="e.g. Incorrect answer key, ambiguous wording, wrong explanation…"></textarea>
+        <div class="report-inline-foot">
+          <button class="btn-report-send" data-send="${q.id}">Send report</button>
+          <button class="btn-report-cancel" data-cancel="${q.id}">Cancel</button>
+          <span class="report-sent" id="rs-${q.id}" style="display:none">✓ Sent!</span>
+        </div>
+      </div>
+    </div>`;
     card.innerHTML=html;
+
+    // Wire report question toggle
+    card.querySelector('.btn-report-q').addEventListener('click', function(){
+      const box=$el('ri-'+q.id);
+      box.classList.toggle('show');
+      this.textContent = box.classList.contains('show') ? '✕ Cancel report' : '⚑ Report an error in this question';
+    });
+    card.querySelector('[data-cancel="'+q.id+'"]').addEventListener('click',()=>{
+      $el('ri-'+q.id).classList.remove('show');
+      card.querySelector('.btn-report-q').textContent='⚑ Report an error in this question';
+    });
+    card.querySelector('[data-send="'+q.id+'"]').addEventListener('click', async ()=>{
+      const msg=($el('rt-'+q.id).value||'').trim();
+      if(!msg){ $el('rt-'+q.id).focus(); return; }
+      await submitReport({ type:'question', paper_key:s.paper, question_id:q.id, question_stem:q.stem.slice(0,300), message:msg });
+      $el('rs-'+q.id).style.display='inline';
+      $el('rt-'+q.id).disabled=true;
+      card.querySelector('[data-send="'+q.id+'"]').disabled=true;
+    });
+
     // Wire VSAQ self-mark buttons
     if(q.type==='vsaq'){
       card.querySelectorAll('.vsaq-mark-btn').forEach(btn=>{
@@ -899,7 +972,7 @@ function renderReviewList(){
           const val = btn.dataset.val==='true';
           s.vsaqMarks[q.id]=val;
           updateOverallScore();
-          renderReviewList(); // re-render to reflect new marks
+          renderReviewList();
         });
       });
     }
@@ -934,6 +1007,38 @@ async function restartExam(){
   await loadProgress(s.studentNum);
   renderPaperList();
   $el('holding').style.display='flex';
+}
+
+/* ── REPORTING ────────────────────────────────────────────── */
+async function submitReport({ type, paper_key, question_id, question_stem, message }){
+  if(!sb){ console.warn('No Supabase — report not saved'); return; }
+  try {
+    await sb.from('reports').insert({
+      student_num: s.studentNum,
+      student_name: s.studentName || s.studentNum,
+      type,
+      paper_key: paper_key || null,
+      question_id: question_id || null,
+      question_stem: question_stem || null,
+      message
+    });
+  } catch(e){ console.warn('submitReport:', e.message); }
+}
+
+function openBugReport(){
+  $el('bugText').value='';
+  $el('bugSentMsg').style.display='none';
+  $el('bugSendBtn').disabled=false;
+  openModal('bugModal');
+}
+function closeBugReport(){ closeModal('bugModal'); }
+async function sendBugReport(){
+  const msg=($el('bugText').value||'').trim();
+  if(!msg){ $el('bugText').focus(); return; }
+  $el('bugSendBtn').disabled=true;
+  await submitReport({ type:'bug', paper_key:s.paper||null, message:msg });
+  $el('bugSentMsg').style.display='block';
+  setTimeout(()=>closeModal('bugModal'), 1800);
 }
 
 /* ── LIGHTBOX ─────────────────────────────────────────────── */
