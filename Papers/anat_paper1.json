@@ -1,0 +1,140 @@
+[
+  {
+    "id": "an_s01",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A 34-year-old man sustains a fracture of the surgical neck of the humerus following a fall on an outstretched hand. On examination he is unable to abduct his arm at the shoulder beyond 15°, and there is a small patch of sensory loss over the lateral aspect of the upper arm.\n\nWhich nerve is most likely injured?",
+    "options": [
+      "Musculocutaneous nerve",
+      "Radial nerve",
+      "Axillary nerve",
+      "Suprascapular nerve",
+      "Long thoracic nerve"
+    ],
+    "correct": 2,
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus in the quadrilateral space and is vulnerable to injury here. It supplies deltoid (responsible for abduction 15–90°, after supraspinatus initiates the first 15°) and teres minor, and gives the upper lateral cutaneous nerve of the arm supplying the lateral upper arm skin. The radial nerve is more vulnerable at the midshaft (spiral groove). The long thoracic nerve supplies serratus anterior and injury causes winging of the scapula."
+  },
+  {
+    "id": "an_s02",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A radiograph of the hand is shown. The arrow points to a specific carpal bone that is the most commonly fractured carpal bone.\n\nWhat is this bone, and which complication is it particularly prone to?",
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Scaphoidfraktur_1.jpg/320px-Scaphoidfraktur_1.jpg"],
+    "options": [
+      "Lunate — Kienböck's disease (avascular necrosis)",
+      "Scaphoid — avascular necrosis of the proximal pole",
+      "Triquetrum — non-union",
+      "Capitate — carpal tunnel syndrome",
+      "Hamate — ulnar nerve injury"
+    ],
+    "correct": 1,
+    "explanation": "The scaphoid is the most commonly fractured carpal bone, typically following a fall on an outstretched hand with tenderness in the anatomical snuffbox. Its blood supply enters distally, so fractures of the proximal waist or proximal pole risk avascular necrosis of the proximal fragment due to interruption of the retrograde blood supply. Lunate avascular necrosis is Kienböck's disease but is not related to acute fracture. The hamate hook fractures can injure the ulnar nerve."
+  },
+  {
+    "id": "an_s03",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "During a thyroidectomy, the surgeon identifies the recurrent laryngeal nerve running in the tracheo-oesophageal groove. The right recurrent laryngeal nerve differs from the left in its course.\n\nAround which structure does the right recurrent laryngeal nerve loop?",
+    "options": [
+      "Arch of the aorta",
+      "Ligamentum arteriosum",
+      "Right subclavian artery",
+      "Common carotid artery",
+      "First rib"
+    ],
+    "correct": 2,
+    "explanation": "The left recurrent laryngeal nerve loops under the arch of the aorta (at the ligamentum arteriosum), while the right recurrent laryngeal nerve loops under the right subclavian artery. This asymmetry reflects the embryological regression of the 5th and 6th aortic arches on the right. The non-recurrent laryngeal nerve (a rare variant) can occur on the right when there is an aberrant right subclavian artery (arteria lusoria)."
+  },
+  {
+    "id": "an_s04",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A 60-year-old man undergoes a posterior approach total hip replacement. Post-operatively he is unable to extend his knee and has loss of sensation over the medial aspect of the leg and foot.\n\nWhich nerve has most likely been injured?",
+    "options": [
+      "Common fibular (peroneal) nerve",
+      "Femoral nerve",
+      "Obturator nerve",
+      "Sciatic nerve — tibial division",
+      "Superior gluteal nerve"
+    ],
+    "correct": 1,
+    "explanation": "Loss of knee extension (quadriceps) with medial leg and foot sensory loss (saphenous nerve, a branch of the femoral nerve) indicates femoral nerve injury. This can occur during hip arthroplasty due to retractor placement causing compression. The sciatic nerve is more at risk in the posterior approach (causing foot drop if common fibular division is affected). The obturator nerve supplies thigh adductors and medial thigh sensation but not knee extension."
+  },
+  {
+    "id": "an_s05",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A cross-sectional MRI image at the level of L4/L5 is shown. The structure labelled 'X' is the largest structure within the spinal canal at this level.\n\nWhat is structure X?",
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vertebral_column_-_lumbar_vertebrae_-_superior_view.jpg/320px-Vertebral_column_-_lumbar_vertebrae_-_superior_view.jpg"],
+    "options": [
+      "Spinal cord",
+      "Conus medullaris",
+      "Cauda equina",
+      "Filum terminale",
+      "Dural sac only — cord has ended"
+    ],
+    "correct": 2,
+    "explanation": "The spinal cord typically ends at L1–L2 as the conus medullaris. Below this level, the spinal canal contains the cauda equina — a collection of lumbar and sacral nerve roots descending within the dural sac to exit at their respective intervertebral foramina. At L4/L5 the structure visible within the canal is therefore the cauda equina, not the cord itself. This is clinically important in lumbar puncture (performed at L3/L4 or L4/L5) — the needle passes between nerve roots rather than piercing the cord."
+  },
+  {
+    "id": "an_s06",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A 28-year-old woman is 36 weeks pregnant. An ultrasound shows the placenta is located anteriorly over the internal os. A Caesarean section is planned.\n\nWhich layer of the abdominal wall, found specifically in the midline below the umbilicus, is absent and therefore not encountered during a midline incision?",
+    "options": [
+      "Skin",
+      "Scarpa's fascia",
+      "External oblique aponeurosis",
+      "Posterior rectus sheath",
+      "Peritoneum"
+    ],
+    "correct": 3,
+    "explanation": "Below the arcuate line (approximately halfway between the umbilicus and pubic symphysis), all three aponeuroses of the flat muscles pass anterior to rectus abdominis. Therefore the posterior rectus sheath is absent below the arcuate line — the posterior wall of the rectus sheath is replaced only by transversalis fascia and peritoneum. This is a key anatomical landmark tested in surgical and obstetric anatomy."
+  },
+  {
+    "id": "an_s07",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "A 45-year-old man undergoes parotidectomy for a pleomorphic adenoma. Post-operatively he notices drooping of the angle of his mouth, inability to close his right eye fully, and loss of forehead wrinkling on the right.\n\nWhich branch of the facial nerve is most likely injured to cause all three features?",
+    "options": [
+      "Temporal branch only",
+      "Zygomatic branch only",
+      "Marginal mandibular branch only",
+      "The main trunk of the facial nerve before branching",
+      "Buccal and zygomatic branches"
+    ],
+    "correct": 3,
+    "explanation": "Involvement of the forehead (frontalis — temporal branch), eye closure (orbicularis oculi — zygomatic branch), and mouth (orbicularis oris — buccal and marginal mandibular branches) indicates complete facial nerve palsy affecting all divisions. This occurs when the main trunk is damaged before it bifurcates within the parotid gland. Injury to individual branches causes more limited deficits. The marginal mandibular branch alone would only cause drooping of the corner of the mouth."
+  },
+  {
+    "id": "an_s08",
+    "type": "sba",
+    "topic": "Anat",
+    "stem": "During a right hemicolectomy for caecal cancer, the surgeon must ligate the ileocolic artery. This vessel is a branch of which artery?",
+    "options": [
+      "Inferior mesenteric artery",
+      "Coeliac trunk",
+      "Superior mesenteric artery",
+      "Right internal iliac artery",
+      "Aorta directly"
+    ],
+    "correct": 2,
+    "explanation": "The ileocolic artery is the most inferior branch of the superior mesenteric artery (SMA). It supplies the terminal ileum, caecum, appendix, and proximal ascending colon. The SMA also gives rise to the right colic and middle colic arteries. The inferior mesenteric artery supplies the distal transverse colon to the upper rectum. The coeliac trunk supplies foregut derivatives (stomach, duodenum to D2, liver, spleen, pancreas)."
+  },
+  {
+    "id": "an_s09",
+    "type": "vsaq",
+    "topic": "Anat",
+    "stem": "A patient presents with 'wrist drop' following a midshaft humeral fracture.\n\n(a) Name the nerve injured.\n(b) At what specific anatomical site is this nerve most vulnerable in a midshaft humeral fracture?\n(c) Name two muscles that would be paralysed.",
+    "answer": "(a) Radial nerve. (b) The radial nerve lies in the spiral groove (radial groove) of the humerus at the midshaft, where it is closely applied to the bone. (c) Any two of: extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, extensor carpi ulnaris, brachioradialis.",
+    "explanation": "The radial nerve winds around the posterior aspect of the humeral shaft in the spiral groove, making it vulnerable in midshaft fractures. It supplies all extensor muscles of the forearm. Wrist drop results from paralysis of wrist and finger extensors. Sensation is lost over the dorsum of the hand (anatomical snuffbox and first dorsal web space via the superficial radial nerve). Brachioradialis, despite being a flexor of the elbow in mid-pronation, is supplied by the radial nerve."
+  },
+  {
+    "id": "an_s10",
+    "type": "vsaq",
+    "topic": "Anat",
+    "stem": "A 70-year-old man develops a left-sided indirect inguinal hernia.\n\n(a) Through which opening does an indirect inguinal hernia initially protrude?\n(b) What structure forms the medial boundary of the deep inguinal ring?\n(c) Name the layers of the inguinal canal through which the hernia passes to reach the scrotum.",
+    "answer": "(a) The deep inguinal ring (an opening in the transversalis fascia, lateral to the inferior epigastric vessels). (b) The inferior epigastric vessels (medial to the deep ring). (c) Deep inguinal ring → inguinal canal → superficial inguinal ring → into the scrotum, passing through: transversalis fascia, internal oblique (arching fibres), external oblique aponeurosis.",
+    "explanation": "Indirect inguinal hernias follow the path of the processus vaginalis through the deep ring and along the inguinal canal, lateral to the inferior epigastric vessels (distinguishing them from direct hernias which protrude medially through Hesselbach's triangle). They are far more common in males due to the larger processus vaginalis. The layers of the spermatic cord and coverings correspond to the layers acquired as the hernia descends."
+  }
+]
