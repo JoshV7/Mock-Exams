@@ -1,19 +1,4 @@
-{
-  "title": "MBChB Y1 Anatomy \u2014 Extended Clinical Paper",
-  "year": "2025/26",
-  "total_questions": 46,
-  "sba_count": 41,
-  "vsaq_count": 5,
-  "topics": [
-    "Upper Limb",
-    "Thorax",
-    "Neuroanatomy",
-    "Embryology",
-    "Lower Limb",
-    "Head & Neck",
-    "Abdomen & Pelvis"
-  ],
-  "questions": [
+[
     {
       "id": "an4_s01",
       "type": "sba",
