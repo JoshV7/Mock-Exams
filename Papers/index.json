@@ -79,8 +79,20 @@
   },
   {
     "key": "anat_paper4",
-    "name": "MBChB Year 1 — Anatomy Exam — Half Blueprint",
+    "name": "MBChB Year 1 — Anatomy Exam — Half Blueprint 1",
     "filename": "anat_paper4.json",
+    "type": "anat"
+  },
+  {
+    "key": "anat_paper5",
+    "name": "MBChB Year 1 — Anatomy Exam — Half Blueprint 2",
+    "filename": "anat_paper5.json",
+    "type": "anat"
+  },
+  {
+    "key": "anat_paper6",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 1",
+    "filename": "anat_paper6.json",
     "type": "anat"
   }
 ]
