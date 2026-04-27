@@ -1,0 +1,560 @@
+{
+  "questions": [
+    {
+      "id": "am_ms01",
+      "type": "sba",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "The surgical neck of the humerus is a common fracture site. Which nerve is specifically at risk from a fracture at this level?",
+      "options": [
+        "Musculocutaneous nerve",
+        "Radial nerve",
+        "Median nerve",
+        "Axillary nerve",
+        "Ulnar nerve"
+      ],
+      "correct": 3,
+      "explanation": "The axillary nerve runs in line with the surgical neck of the humerus. Damage causes loss of deltoid function and sensory loss over the lateral shoulder (regimental badge area)."
+    },
+    {
+      "id": "am_ms02",
+      "type": "vsaq",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "Name the eight carpal bones.",
+      "answer": "Scaphoid / lunate / triquetrum / pisiform (proximal row) \u2014 trapezium / trapezoid / capitate / hamate (distal row).",
+      "explanation": "Mnemonic: Some Lovers Try Positions That They Cannot Handle."
+    },
+    {
+      "id": "am_ms03",
+      "type": "sba",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "Which of the following carpal bones articulates with the radius to form the wrist joint?",
+      "options": [
+        "Scaphoid and lunate",
+        "Pisiform and triquetrum",
+        "Capitate and hamate",
+        "Trapezium and trapezoid",
+        "Scaphoid and triquetrum"
+      ],
+      "correct": 0,
+      "explanation": "The radiocarpal joint is formed by the radius articulating with the scaphoid and lunate. The triquetrum articulates with the articular disc associated with the distal ulna."
+    },
+    {
+      "id": "am_ms04",
+      "type": "vsaq",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "What is a sesamoid bone? Give an example.",
+      "answer": "A sesamoid bone forms within a tendon rather than directly from bone. The patella is the largest sesamoid bone \u2014 it forms within the quadriceps tendon and increases the mechanical advantage of the quadriceps muscle.",
+      "explanation": "Other sesamoid bones include small bones in the flexor hallucis longus tendon at the first metatarsophalangeal joint."
+    },
+    {
+      "id": "am_ms05",
+      "type": "sba",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "Which muscle is the only part of the quadriceps femoris group capable of flexing the hip joint?",
+      "options": [
+        "Vastus medialis",
+        "Vastus lateralis",
+        "Rectus femoris",
+        "Vastus intermedius",
+        "All four heads equally"
+      ],
+      "correct": 2,
+      "explanation": "Rectus femoris originates from the anterior inferior iliac spine (AIIS) and therefore crosses the hip joint. The other three vasti originate from the femur itself and only cross the knee."
+    },
+    {
+      "id": "am_ms06",
+      "type": "sba",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "Which two muscles contribute to inversion of the foot?",
+      "options": [
+        "Fibularis longus and fibularis brevis",
+        "Tibialis anterior and tibialis posterior",
+        "Gastrocnemius and soleus",
+        "Extensor digitorum longus and extensor hallucis longus",
+        "Flexor digitorum longus and flexor hallucis longus"
+      ],
+      "correct": 1,
+      "explanation": "Tibialis anterior (anterior compartment) and tibialis posterior (deep posterior compartment) both invert the foot. Fibularis longus and brevis are the evertors."
+    },
+    {
+      "id": "am_ms07",
+      "type": "vsaq",
+      "topic": "Musculoskeletal Anatomy",
+      "stem": "Name the seven tarsal bones.",
+      "answer": "Talus / calcaneus / navicular / cuboid / medial cuneiform / intermediate cuneiform / lateral cuneiform.",
+      "explanation": "The talus sits on top of the calcaneus. The navicular, cuboid and three cuneiforms form the rest of the tarsus."
+    },
+    {
+      "id": "am_ll01",
+      "type": "sba",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "Which structure is the DEEPEST within the popliteal fossa?",
+      "options": [
+        "Tibial nerve",
+        "Common fibular nerve",
+        "Popliteal vein",
+        "Popliteal artery",
+        "Small saphenous vein"
+      ],
+      "correct": 3,
+      "explanation": "From superficial to deep in the popliteal fossa: tibial nerve (most superficial) \u2192 popliteal vein \u2192 popliteal artery (deepest, closest to the popliteal surface of the femur)."
+    },
+    {
+      "id": "am_ll02",
+      "type": "vsaq",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "What are the boundaries of the femoral triangle? List all three and what lies at the floor.",
+      "answer": "Superior: inguinal ligament. Lateral: medial border of sartorius. Medial: medial border of adductor longus. Floor: pectineus (central) and iliopsoas (lateral).",
+      "explanation": "Contents lateral to medial: femoral Nerve, Artery, Vein \u2014 NAVY."
+    },
+    {
+      "id": "am_ll03",
+      "type": "sba",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "A patient is unable to dorsiflex their foot after a knee injury. Which nerve is most likely damaged and where is it most vulnerable?",
+      "options": [
+        "Tibial nerve at the tarsal tunnel",
+        "Common fibular nerve at the fibular neck",
+        "Femoral nerve at the inguinal ligament",
+        "Sciatic nerve in the gluteal region",
+        "Superficial fibular nerve in the lateral compartment"
+      ],
+      "correct": 1,
+      "explanation": "The common fibular nerve wraps around the fibular neck where it is superficial and vulnerable to compression. Damage causes foot drop (loss of dorsiflexion) and loss of eversion."
+    },
+    {
+      "id": "am_ll04",
+      "type": "sba",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "The medial meniscus is more commonly injured than the lateral meniscus. Why?",
+      "options": [
+        "It is thicker and less flexible",
+        "It is firmly attached to the MCL and joint capsule making it less mobile",
+        "It is attached to the LCL which transmits more force",
+        "It is circular shaped which creates more stress",
+        "It lies directly over the tibial plateau with no movement possible"
+      ],
+      "correct": 1,
+      "explanation": "The medial meniscus is a C-shape and is firmly attached to the tibial condyle, MCL and joint capsule \u2014 making it relatively immobile. The lateral meniscus is more circular and loosely attached, so it can move to avoid injury."
+    },
+    {
+      "id": "am_ll05",
+      "type": "vsaq",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "What is the tarsal tunnel, what forms its roof, and name the three tendons within it from anterior to posterior.",
+      "answer": "The tarsal tunnel lies posterior to the medial malleolus and anterior to the calcaneal tuberosity. Roof = flexor retinaculum. Tendons anterior to posterior: Tibialis posterior / Flexor Digitorum longus / Flexor Hallucis longus \u2014 Tom Dick Harry.",
+      "explanation": "Also contains posterior tibial artery / vein(s) / tibial nerve \u2014 And Very Nervous."
+    },
+    {
+      "id": "am_ll06",
+      "type": "sba",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "During walking, a patient's pelvis drops to the right when the right foot is lifted. Which muscle and nerve are damaged?",
+      "options": [
+        "Right gluteus maximus \u2014 inferior gluteal nerve",
+        "Left gluteus medius \u2014 superior gluteal nerve",
+        "Right gluteus medius \u2014 superior gluteal nerve",
+        "Left gluteus maximus \u2014 inferior gluteal nerve",
+        "Right piriformis \u2014 nerve to piriformis"
+      ],
+      "correct": 1,
+      "explanation": "Trendelenburg sign \u2014 when the right foot is lifted, the LEFT gluteus medius should contract to hold the pelvis level. If it doesn't, the pelvis drops to the right. The superior gluteal nerve supplies gluteus medius and minimus."
+    },
+    {
+      "id": "am_ll07",
+      "type": "sba",
+      "topic": "Lower Limb (incl. neurovasculature)",
+      "stem": "Which ligament of the hip is the strongest and what movement does it resist?",
+      "options": [
+        "Ischiofemoral ligament \u2014 resists extension",
+        "Pubofemoral ligament \u2014 resists abduction",
+        "Iliofemoral ligament \u2014 resists extension",
+        "Ligamentum teres \u2014 resists dislocation",
+        "Transverse acetabular ligament \u2014 resists lateral displacement"
+      ],
+      "correct": 2,
+      "explanation": "The iliofemoral (Y-shaped) ligament is the strongest ligament in the body. It originates from the ASIS/ilium and inserts on the intertrochanteric line. It tightens in extension \u2014 helping maintain upright posture passively."
+    },
+    {
+      "id": "am_ul01",
+      "type": "sba",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "Which nerve passes through the carpal tunnel and what does it supply in the hand?",
+      "options": [
+        "Ulnar nerve \u2014 hypothenar muscles and medial 1.5 fingers",
+        "Radial nerve \u2014 dorsum of hand",
+        "Median nerve \u2014 thenar muscles and lateral 3.5 fingers sensory",
+        "Median nerve \u2014 all intrinsic hand muscles",
+        "Ulnar nerve \u2014 all hand muscles"
+      ],
+      "correct": 2,
+      "explanation": "The median nerve passes through the carpal tunnel. Motor to thenar eminence. Sensory to palmar surface and anterior surface of lateral 3.5 fingers. The ulnar nerve passes lateral to the pisiform, not through the carpal tunnel."
+    },
+    {
+      "id": "am_ul02",
+      "type": "vsaq",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "Name the five segments of the brachial plexus in order.",
+      "answer": "5 Roots (C5-T1) \u2192 3 Trunks (superior C5/6 / middle C7 / inferior C8/T1) \u2192 6 Divisions (anterior = flexors / posterior = extensors) \u2192 3 Cords (lateral / medial / posterior \u2014 named relative to axillary artery) \u2192 5 Terminal nerves.",
+      "explanation": "Mnemonic: Randy Travis Drinks Cold Beer."
+    },
+    {
+      "id": "am_ul03",
+      "type": "sba",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "A patient falls on an outstretched hand and develops wrist drop. Which nerve is damaged and where?",
+      "options": [
+        "Median nerve in the carpal tunnel",
+        "Ulnar nerve at the medial epicondyle",
+        "Radial nerve in the spiral groove",
+        "Axillary nerve at the surgical neck",
+        "Musculocutaneous nerve in the arm"
+      ],
+      "correct": 2,
+      "explanation": "Radial nerve damage in the spiral groove of the humerus causes wrist drop \u2014 loss of wrist extension. Saturday night palsy \u2014 falling asleep with arm over a chair compresses this nerve at the spiral groove."
+    },
+    {
+      "id": "am_ul04",
+      "type": "sba",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "What is the dominant artery in the superficial palmar arch and the deep palmar arch respectively?",
+      "options": [
+        "Both are supplied equally by radial and ulnar",
+        "Radial dominant superficial / ulnar dominant deep",
+        "Ulnar dominant superficial / radial dominant deep",
+        "Ulnar dominant both arches",
+        "Radial dominant both arches"
+      ],
+      "correct": 2,
+      "explanation": "Ulnar artery is dominant in the superficial palmar arch. Radial artery is dominant in the deep palmar arch. Both arteries contribute to both arches but one dominates each."
+    },
+    {
+      "id": "am_ul05",
+      "type": "vsaq",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "What are the boundaries of the anatomical snuffbox and what important structure lies in its floor?",
+      "answer": "Anterior border: abductor pollicis longus + extensor pollicis brevis. Posterior border: extensor pollicis longus. Floor contains: radial artery (distal pulse point) and scaphoid bone.",
+      "explanation": "Tenderness in the anatomical snuffbox after a fall suggests scaphoid fracture \u2014 easy to miss on X-ray."
+    },
+    {
+      "id": "am_ul06",
+      "type": "sba",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "The axillary artery is defined by three parts. What structure divides these three parts?",
+      "options": [
+        "Pectoralis major",
+        "Coracobrachialis",
+        "Pectoralis minor",
+        "Subscapularis",
+        "Serratus anterior"
+      ],
+      "correct": 2,
+      "explanation": "Pectoralis minor divides the axillary artery into: Part 1 (medial to pec minor) / Part 2 (deep to pec minor) / Part 3 (lateral to pec minor). Begins at lateral border of 1st rib / ends at inferior border of teres major."
+    },
+    {
+      "id": "am_ul07",
+      "type": "vsaq",
+      "topic": "Upper Limb (incl. neurovasculature)",
+      "stem": "Name the boundaries of the cubital fossa and its contents from lateral to medial.",
+      "answer": "Lateral boundary: brachioradialis. Medial boundary: pronator teres. Superior: imaginary line between epicondyles. Contents lateral to medial: Radial nerve / Biceps tendon / Brachial artery / Median nerve \u2014 Really Boring But Nice.",
+      "explanation": "The brachial artery bifurcates at the apex of the cubital fossa into radial (lateral) and ulnar (medial) arteries, separated by pronator teres."
+    },
+    {
+      "id": "am_hn01",
+      "type": "sba",
+      "topic": "Head and Neck",
+      "stem": "A patient presents with inability to wrinkle their forehead AND inability to smile on the right side. Which nerve and lesion type is most likely?",
+      "options": [
+        "Right CN7 \u2014 upper motor neuron (central) lesion",
+        "Right CN7 \u2014 lower motor neuron (peripheral) lesion",
+        "Right CN5 \u2014 peripheral lesion",
+        "Right CN11 \u2014 peripheral lesion",
+        "Left CN7 \u2014 peripheral lesion"
+      ],
+      "correct": 1,
+      "explanation": "A peripheral CN7 lesion (e.g. Bell's palsy) affects ALL ipsilateral facial muscles including the forehead. A central (UMN) lesion spares the forehead because the upper face has bilateral cortical representation."
+    },
+    {
+      "id": "am_hn02",
+      "type": "vsaq",
+      "topic": "Head and Neck",
+      "stem": "Name the 6 main branches of the facial nerve.",
+      "answer": "Posterior auricular / temporal / zygomatic / buccal / marginal mandibular / cervical. Arise within the parotid gland.",
+      "explanation": "Mnemonic: Zaddy's Big Muscular Cock Tears Pussies \u2014 Zygomatic / Buccal / Marginal mandibular / Cervical / Temporal / Posterior auricular."
+    },
+    {
+      "id": "am_hn03",
+      "type": "sba",
+      "topic": "Head and Neck",
+      "stem": "The pterion is the thinnest part of the skull. Which vessel runs immediately deep to it?",
+      "options": [
+        "Posterior meningeal artery",
+        "Anterior meningeal artery",
+        "Middle meningeal artery",
+        "Superficial temporal artery",
+        "Internal carotid artery"
+      ],
+      "correct": 2,
+      "explanation": "The middle meningeal artery runs in grooves on the inner table of the temporal bone deep to the pterion. Fracture here \u2192 extradural haematoma \u2014 arterial bleed between skull and dura mater."
+    },
+    {
+      "id": "am_hn04",
+      "type": "sba",
+      "topic": "Head and Neck",
+      "stem": "Which branch of CN5 innervates all four muscles of mastication?",
+      "options": [
+        "Ophthalmic branch (V1)",
+        "Maxillary branch (V2)",
+        "Mandibular branch (V3)",
+        "All three branches equally",
+        "CN7 \u2014 not CN5"
+      ],
+      "correct": 2,
+      "explanation": "The mandibular branch (V3) of the trigeminal nerve innervates all four muscles of mastication: temporalis / masseter / medial pterygoid / lateral pterygoid."
+    },
+    {
+      "id": "am_hn05",
+      "type": "vsaq",
+      "topic": "Head and Neck",
+      "stem": "What two structures run alongside the common carotid artery within the carotid sheath?",
+      "answer": "Internal jugular vein and vagus nerve (CN10).",
+      "explanation": "The carotid sheath is a fascial tube running through the neck. The common carotid has no branches until its terminal bifurcation into internal and external carotid arteries."
+    },
+    {
+      "id": "am_pv01",
+      "type": "sba",
+      "topic": "Pelvis and Pelvic Viscera",
+      "stem": "Which muscles make up the pelvic diaphragm?",
+      "options": [
+        "Piriformis and obturator internus",
+        "Levator ani and coccygeus",
+        "Levator ani and piriformis",
+        "Obturator internus and coccygeus",
+        "Bulbospongiosus and ischiocavernosus"
+      ],
+      "correct": 1,
+      "explanation": "The pelvic diaphragm = levator ani + coccygeus. Piriformis and obturator internus are on the lateral pelvic wall \u2014 NOT part of the pelvic diaphragm. Functions: support viscera / resist intra-abdominal pressure / continence."
+    },
+    {
+      "id": "am_pv02",
+      "type": "vsaq",
+      "topic": "Pelvis and Pelvic Viscera",
+      "stem": "Once a follicle releases its oocyte, what does it transform into and what hormone does it secrete?",
+      "answer": "Corpus luteum \u2014 secretes progesterone.",
+      "explanation": "Progesterone prepares the endometrium for implantation. If fertilisation doesn't occur, the corpus luteum degenerates to corpus albicans and progesterone falls, triggering menstruation."
+    },
+    {
+      "id": "am_pv03",
+      "type": "sba",
+      "topic": "Pelvis and Pelvic Viscera",
+      "stem": "The sciatic nerve exits the pelvis through the greater sciatic foramen. In relation to piriformis, where does it exit?",
+      "options": [
+        "Superior to piriformis",
+        "Through the body of piriformis",
+        "Inferior to piriformis",
+        "Medial to piriformis",
+        "It doesn't pass through the greater sciatic foramen"
+      ],
+      "correct": 2,
+      "explanation": "The sciatic nerve exits inferior to piriformis. The superior gluteal NVB exits superior to piriformis. The inferior gluteal NVB exits inferior alongside the sciatic nerve. Piriformis is the key landmark."
+    },
+    {
+      "id": "am_pv04",
+      "type": "sba",
+      "topic": "Pelvis and Pelvic Viscera",
+      "stem": "Where do the vaginal and uterine arteries originate?",
+      "options": [
+        "Abdominal aorta",
+        "External iliac artery",
+        "Internal iliac artery",
+        "Common iliac artery",
+        "Ovarian artery"
+      ],
+      "correct": 2,
+      "explanation": "Both vaginal and uterine arteries arise from the internal iliac artery (anterior division). The gonadal (ovarian) arteries originate directly from the abdominal aorta at L2."
+    },
+    {
+      "id": "am_pv05",
+      "type": "vsaq",
+      "topic": "Pelvis and Pelvic Viscera",
+      "stem": "Name the superficial perineal muscles.",
+      "answer": "Superficial transverse perineal / ischiocavernosus / bulbospongiosus \u2014 same in both sexes.",
+      "explanation": "Deep perineal muscles: external urethral sphincter (both sexes) + sphincter urethrovaginalis and compressor urethrae (female only)."
+    },
+    {
+      "id": "am_cw01",
+      "type": "sba",
+      "topic": "Chest Wall and Diaphragm",
+      "stem": "At which vertebral level does the IVC pass through the diaphragm?",
+      "options": [
+        "T8",
+        "T10",
+        "T12",
+        "L1",
+        "T6"
+      ],
+      "correct": 0,
+      "explanation": "I ate (T8) 10 (T10) Eggs At 12 (noon): IVC at T8 / oesophagus + vagal trunks at T10 / aorta + thoracic duct at T12. IVC passes through the central tendon."
+    },
+    {
+      "id": "am_cw02",
+      "type": "vsaq",
+      "topic": "Chest Wall and Diaphragm",
+      "stem": "Between which two layers of intercostal muscle does the neurovascular bundle run, and in which part of the intercostal space?",
+      "answer": "Between the internal and innermost intercostal muscles. Superiorly \u2014 in the subcostal groove at the inferior aspect of the upper rib.",
+      "explanation": "This is why chest drains and pleural taps are inserted just above the superior border of a rib \u2014 to avoid the NVB running below the rib above."
+    },
+    {
+      "id": "am_cw03",
+      "type": "sba",
+      "topic": "Chest Wall and Diaphragm",
+      "stem": "What are the root values of the phrenic nerve and why does diaphragmatic irritation cause shoulder pain?",
+      "options": [
+        "C1/2/3 \u2014 refers to scalp via trigeminal",
+        "C3/4/5 \u2014 refers to shoulder via same spinal levels",
+        "T1/2/3 \u2014 refers to arm via brachial plexus",
+        "C5/6/7 \u2014 refers to forearm",
+        "C3/4/5 \u2014 refers to chest wall"
+      ],
+      "correct": 1,
+      "explanation": "C3,4,5 keeps the diaphragm alive. The phrenic nerve (C3/4/5) also supplies the shoulder region via supraclavicular nerves \u2014 so diaphragm irritation is felt as shoulder tip pain \u2014 referred pain."
+    },
+    {
+      "id": "am_cw04",
+      "type": "sba",
+      "topic": "Chest Wall and Diaphragm",
+      "stem": "Which accessory muscle of respiration attaches to the scalene tubercle of the first rib?",
+      "options": [
+        "Serratus anterior",
+        "Pectoralis major",
+        "Scalenus anterior",
+        "Sternocleidomastoid",
+        "Trapezius"
+      ],
+      "correct": 2,
+      "explanation": "Scalenus anterior attaches to the scalene tubercle of the first rib. The subclavian vein passes anterior to it and the subclavian artery passes posterior to it \u2014 important surgical landmark."
+    },
+    {
+      "id": "am_cw05",
+      "type": "vsaq",
+      "topic": "Chest Wall and Diaphragm",
+      "stem": "Name the three movements of the thoracic cage during inspiration and what dimension each increases.",
+      "answer": "Bucket handle motion of ribs \u2192 increases transverse dimension. Pump handle action of sternum \u2192 increases AP dimension. Inferior movement of diaphragm \u2192 increases vertical dimension.",
+      "explanation": "All three movements together increase thoracic volume, reducing intrathoracic pressure and drawing air in."
+    },
+    {
+      "id": "am_bh01",
+      "type": "sba",
+      "topic": "Blood Supply to Head, Neck and Limbs",
+      "stem": "The abdominal aorta bifurcates at which vertebral level?",
+      "options": [
+        "T12",
+        "L1",
+        "L2",
+        "L4",
+        "L5"
+      ],
+      "correct": 3,
+      "explanation": "The abdominal aorta bifurcates into left and right common iliac arteries at L4. The aortic hiatus is at T12. The coeliac trunk is at T12, SMA at L1, IMA at L3, gonadal arteries at L2."
+    },
+    {
+      "id": "am_bh02",
+      "type": "vsaq",
+      "topic": "Blood Supply to Head, Neck and Limbs",
+      "stem": "Trace the arterial supply to the upper limb from the aortic arch to the palmar arches.",
+      "answer": "Aortic arch \u2192 subclavian artery \u2192 axillary artery (at lateral border 1st rib) \u2192 brachial artery (at inferior border teres major) \u2192 radial + ulnar arteries (bifurcate at cubital fossa, separated by pronator teres) \u2192 deep palmar arch (radial dominant) + superficial palmar arch (ulnar dominant).",
+      "explanation": "Right subclavian arises from brachiocephalic trunk. Left subclavian arises directly from arch of aorta."
+    },
+    {
+      "id": "am_bh03",
+      "type": "sba",
+      "topic": "Blood Supply to Head, Neck and Limbs",
+      "stem": "Which artery is the most distal pulse point from the heart?",
+      "options": [
+        "Posterior tibial artery",
+        "Popliteal artery",
+        "Radial artery at the wrist",
+        "Dorsalis pedis artery",
+        "Anterior tibial artery"
+      ],
+      "correct": 3,
+      "explanation": "The dorsalis pedis artery (continuation of anterior tibial at the ankle) is the most distal pulse point. It lies lateral to the extensor hallucis longus tendon on the dorsum of the foot. Used to assess peripheral circulation."
+    },
+    {
+      "id": "am_bh04",
+      "type": "sba",
+      "topic": "Blood Supply to Head, Neck and Limbs",
+      "stem": "The left common carotid artery differs from the right in its origin. Where does the LEFT arise from?",
+      "options": [
+        "Brachiocephalic trunk",
+        "Right subclavian artery",
+        "Directly from the arch of the aorta",
+        "Left subclavian artery",
+        "Directly from the ascending aorta"
+      ],
+      "correct": 2,
+      "explanation": "Left common carotid = 2nd branch of aortic arch directly. Right common carotid = from brachiocephalic trunk (1st branch of aortic arch). Both have NO branches until their terminal bifurcation."
+    },
+    {
+      "id": "am_bh05",
+      "type": "vsaq",
+      "topic": "Blood Supply to Head, Neck and Limbs",
+      "stem": "Name the 3 branches of the aortic arch in order.",
+      "answer": "1st: Brachiocephalic trunk (\u2192 right subclavian + right common carotid). 2nd: Left common carotid artery. 3rd: Left subclavian artery.",
+      "explanation": "All at the level of the sternal angle (T4/5) \u2014 also where the aortic arch begins and ends."
+    },
+    {
+      "id": "am_bc01",
+      "type": "sba",
+      "topic": "Blood Supply to Body Regions",
+      "stem": "Which vein does the LEFT gonadal vein drain into?",
+      "options": [
+        "Directly into the IVC",
+        "Left renal vein",
+        "Left common iliac vein",
+        "Portal vein",
+        "Left subclavian vein"
+      ],
+      "correct": 1,
+      "explanation": "Left gonadal vein \u2192 left renal vein. Right gonadal vein \u2192 directly into IVC. This left/right asymmetry is clinically important \u2014 a left-sided varicocele may suggest left renal vein obstruction."
+    },
+    {
+      "id": "am_bc02",
+      "type": "sba",
+      "topic": "Blood Supply to Body Regions",
+      "stem": "What are the 4 sites of portocaval anastomosis and what happens when the portal vein is obstructed?",
+      "options": [
+        "Rectum / oesophagus / umbilicus / retroperitoneum \u2014 veins dilate at these sites",
+        "Rectum / stomach / umbilicus / inguinal region \u2014 arterial flow reverses",
+        "Liver / spleen / kidneys / pancreas \u2014 organs enlarge",
+        "Only at the rectum and oesophagus",
+        "Oesophagus / trachea / bronchi / diaphragm"
+      ],
+      "correct": 0,
+      "explanation": "Portal obstruction \u2192 blood reverses through systemic veins at anastomosis sites \u2192 anorectal varices / oesophageal varices (dangerous \u2014 can rupture) / caput medusae (peri-umbilical dilated veins)."
+    },
+    {
+      "id": "am_bc03",
+      "type": "vsaq",
+      "topic": "Blood Supply to Body Regions",
+      "stem": "What is the portal vein and what forms it?",
+      "answer": "The portal vein carries nutrient-rich blood from the gut to the liver for processing before it enters the systemic circulation. It is formed by the union of the superior mesenteric vein and splenic vein behind the neck of the pancreas. The inferior mesenteric vein usually joins the splenic vein.",
+      "explanation": "Portal blood \u2192 liver \u2192 hepatic veins \u2192 IVC. Contrast with caval system (kidneys/adrenals) which drains directly to IVC without liver processing."
+    },
+    {
+      "id": "am_bc04",
+      "type": "sba",
+      "topic": "Blood Supply to Body Regions",
+      "stem": "The superior mesenteric artery (SMA) supplies the midgut. Which of the following is NOT supplied by the SMA?",
+      "options": [
+        "Jejunum",
+        "Caecum",
+        "Ascending colon",
+        "Distal 1/3 of transverse colon",
+        "Ileum"
+      ],
+      "correct": 3,
+      "explanation": "The distal 1/3 of transverse colon is supplied by the IMA (hindgut). SMA supplies: distal duodenum / jejunum / ileum / caecum / ascending colon / proximal 2/3 transverse colon. SMA arises at L1 and IMA at L3."
+    }
+  ]
+}
