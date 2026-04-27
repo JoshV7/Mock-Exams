@@ -1,6 +1,5 @@
-{
-  "questions": [
-    {
+[
+  {
       "id": "am_sa01",
       "type": "sba",
       "topic": "Surface Anatomy",
