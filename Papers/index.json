@@ -85,14 +85,38 @@
   },
   {
     "key": "anat_paper5",
-    "name": "MBChB Year 1 — Anatomy Exam — Half Blueprint 2",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 1",
     "filename": "anat_paper5.json",
     "type": "anat"
   },
   {
     "key": "anat_paper6",
-    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 1",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 2",
     "filename": "anat_paper6.json",
     "type": "anat"
-  }
+  },
+  {
+    "key": "anat_paper7",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 3",
+    "filename": "anat_paper7.json",
+    "type": "anat"
+  },
+  {
+    "key": "anat_paper8",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 4",
+    "filename": "anat_paper8.json",
+    "type": "anat"
+  },
+  {
+    "key": "anat_paper9",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 5",
+    "filename": "anat_paper9.json",
+    "type": "anat"
+  },
+  {
+    "key": "anat_paper10",
+    "name": "MBChB Year 1 — Anatomy Exam — Full Blueprint 6",
+    "filename": "anat_paper10.json",
+    "type": "anat"
+  },
 ]
