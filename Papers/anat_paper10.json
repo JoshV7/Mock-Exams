@@ -1,0 +1,593 @@
+[
+  {
+    "id": "ap10_s01",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "A 22-year-old falls on an outstretched hand and has anatomical snuffbox tenderness. Initial X-ray is normal. What is the most likely fracture and why might the X-ray be normal?",
+    "options": [
+      "Colles fracture \u2014 X-ray always shows it",
+      "Scaphoid fracture \u2014 may not appear on initial X-ray due to its size",
+      "Lunate fracture \u2014 too small to see on X-ray",
+      "Triquetrum fracture \u2014 only visible on lateral view",
+      "Distal radius fracture \u2014 normal variant"
+    ],
+    "correct": 1,
+    "explanation": "Scaphoid fractures classically present with anatomical snuffbox tenderness after a FOOSH. Initial X-rays may be normal \u2014 if clinical suspicion is high, immobilise and re-image at 10-14 days or proceed to MRI. The proximal pole is at risk of avascular necrosis due to retrograde blood supply from the radial artery."
+  },
+  {
+    "id": "ap10_s02",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "Which two muscles invert the foot and what compartments are they in?",
+    "options": [
+      "Fibularis longus (lateral) and fibularis brevis (lateral)",
+      "Tibialis anterior (anterior) and tibialis posterior (deep posterior)",
+      "Gastrocnemius (superficial posterior) and soleus (superficial posterior)",
+      "Extensor hallucis longus (anterior) and flexor hallucis longus (deep posterior)",
+      "Tibialis anterior (anterior) and fibularis tertius (anterior)"
+    ],
+    "correct": 1,
+    "explanation": "Tibialis anterior (anterior compartment) inverts and dorsiflexes. Tibialis posterior (deep posterior compartment) inverts and plantarflexes. Fibularis longus and brevis (lateral compartment) evert the foot. Inversion and eversion occur primarily at the subtalar joint."
+  },
+  {
+    "id": "ap10_v01",
+    "type": "vsaq",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "Describe the features of C1 (atlas) and C2 (axis) that make them atypical vertebrae.",
+    "answer": "C1 (Atlas): no body and no spinous process \u2014 replaced by anterior and posterior arches. Cupped superior articular facets for occipital condyles. Flat inferior articular facets for C2. C2 (Axis): has the dens (odontoid process) projecting superiorly from the body \u2014 this is the embryological body of C1 which fused to C2. Flattened superior articular surface for C1. Atlantooccipital joint = yes joint (flexion/extension). Atlantoaxial joint = no joint (rotation).",
+    "explanation": "The transverse ligament of the atlas holds the dens against C1 \u2014 described as the most important ligament in the body. Rupture allows cord compression."
+  },
+  {
+    "id": "ap10_s03",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "What is the generalised action of the deep (intrinsic) muscles of the back and what innervates them?",
+    "options": [
+      "Move the upper limb \u2014 anterior rami of spinal nerves",
+      "Accessory muscles of respiration \u2014 intercostal nerves",
+      "Posture and movements of the vertebral column \u2014 posterior rami of spinal nerves",
+      "Flex the vertebral column \u2014 anterior rami only",
+      "Extend and rotate the vertebral column \u2014 phrenic nerve"
+    ],
+    "correct": 2,
+    "explanation": "The deep (intrinsic) back muscles maintain posture and produce movements of the vertebral column. They are innervated by the posterior rami of spinal nerves at each level. Examples: erector spinae (extends vertebral column) / semispinalis / multifidus / rotatores."
+  },
+  {
+    "id": "ap10_s04",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "A patient has an intracapsular fracture of the femoral neck. What complication is most feared and why?",
+    "options": [
+      "Fat embolism \u2014 fat from marrow enters bloodstream",
+      "Deep vein thrombosis \u2014 venous stasis from immobility",
+      "Avascular necrosis of the femoral head \u2014 retinacular vessels within capsule are torn",
+      "Sciatic nerve injury \u2014 nerve passes close to the fracture",
+      "Osteomyelitis \u2014 infection from open fracture"
+    ],
+    "correct": 2,
+    "explanation": "Avascular necrosis of the femoral head is the most feared complication of intracapsular neck of femur fractures. The femoral head's blood supply comes from retinacular vessels (from medial and lateral circumflex femoral arteries) that run within the joint capsule and are torn by the fracture. Management is usually hemiarthroplasty or total hip replacement."
+  },
+  {
+    "id": "ap10_s05",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "Which muscle unlocks the knee from full extension to allow flexion to begin?",
+    "options": [
+      "Biceps femoris \u2014 lateral rotation of the tibia",
+      "Gastrocnemius \u2014 plantarflexion aids knee unlocking",
+      "Popliteus \u2014 laterally rotates the femur on the fixed tibia",
+      "Sartorius \u2014 flexes and medially rotates the tibia",
+      "Gracilis \u2014 adducts and flexes the knee"
+    ],
+    "correct": 2,
+    "explanation": "Popliteus unlocks the knee from its screw-home (fully extended and locked) position by laterally rotating the femur on the fixed tibia (or medially rotating the tibia on the fixed femur). It originates from the lateral femoral condyle and inserts on the posterior tibia. Supplied by the tibial nerve."
+  },
+  {
+    "id": "ap10_v02",
+    "type": "vsaq",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "Name the boundaries of the femoral triangle and its contents from lateral to medial.",
+    "answer": "Boundaries: superior = inguinal ligament / lateral = medial border of sartorius / medial = medial border of adductor longus. Floor: iliopsoas (lateral) and pectineus (central). Contents lateral to medial: femoral Nerve / femoral Artery / femoral Vein \u2014 NAVY (Y-fronts = inguinal ligament medially). Femoral nerve lies outside the femoral sheath; artery and vein lie within it.",
+    "explanation": "The femoral canal (most medial compartment of femoral sheath) contains lymphatics and Cloquet's node. A femoral hernia passes through the femoral canal, emerging inferior to the inguinal ligament."
+  },
+  {
+    "id": "ap10_s06",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "Which nerve supplies the lateral compartment of the leg and what would be the deficit if it were injured?",
+    "options": [
+      "Deep fibular nerve \u2014 foot drop",
+      "Superficial fibular nerve \u2014 loss of eversion and sensory loss over dorsum of foot",
+      "Tibial nerve \u2014 loss of plantarflexion",
+      "Sural nerve \u2014 sensory loss over lateral foot only",
+      "Saphenous nerve \u2014 sensory loss over medial leg"
+    ],
+    "correct": 1,
+    "explanation": "The superficial fibular (peroneal) nerve supplies the lateral compartment of the leg (fibularis longus and brevis). Injury causes loss of eversion and sensory loss over the dorsum of the foot (except the first dorsal web space = deep fibular nerve). The common fibular nerve gives both deep and superficial fibular nerves at the fibular neck."
+  },
+  {
+    "id": "ap10_s07",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "Ulnar nerve injury at the wrist causes clawing of the ring and little fingers. Why are these fingers more affected than the index and middle?",
+    "options": [
+      "The ulnar nerve only supplies the ring and little fingers \u2014 index and middle are unaffected",
+      "Lumbricals 3 and 4 and all interossei are paralysed \u2014 index and middle lumbricals (1 and 2) are supplied by the median nerve and partially compensate",
+      "All four fingers claw equally \u2014 the ulnar paradox means the ring and little are worse at the elbow",
+      "The ulnar nerve supplies only the ulnar side of the hand \u2014 nothing more",
+      "The median nerve takes over completely for the index and middle fingers"
+    ],
+    "correct": 1,
+    "explanation": "Clawing of ring and little fingers occurs because lumbricals 3 and 4 and all interossei (ulnar nerve) are paralysed \u2014 allowing FDP to flex the IPs and EDC to hyperextend the MCPs. Index and middle fingers are less affected because their lumbricals (1 and 2) are supplied by the median nerve. This is the ulnar paradox \u2014 wrist injuries claw more than elbow injuries because FDP is also affected at the elbow."
+  },
+  {
+    "id": "ap10_s08",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "What are the contents of the carpal tunnel?",
+    "options": [
+      "Median nerve and ulnar nerve only",
+      "9 flexor tendons (4 FDS + 4 FDP + 1 FPL) and the median nerve",
+      "Radial artery and median nerve",
+      "All finger flexor tendons, median nerve, and ulnar nerve",
+      "9 flexor tendons and the ulnar nerve"
+    ],
+    "correct": 1,
+    "explanation": "The carpal tunnel contains 9 tendons and the median nerve: 4 tendons of flexor digitorum superficialis / 4 tendons of flexor digitorum profundus / 1 tendon of flexor pollicis longus / median nerve. The ulnar nerve passes through Guyon's canal lateral to the pisiform \u2014 NOT through the carpal tunnel."
+  },
+  {
+    "id": "ap10_v03",
+    "type": "vsaq",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "What is the anatomical snuffbox \u2014 name its boundaries, contents and clinical significance.",
+    "answer": "Anterior (radial) border: abductor pollicis longus + extensor pollicis brevis. Posterior (ulnar) border: extensor pollicis longus. Proximal boundary: radial styloid. Floor: scaphoid and trapezium. Contents: radial artery (crossing to deep palmar arch). Clinical significance: tenderness here after a FOOSH suggests scaphoid fracture \u2014 the radial artery pulse can also be felt here.",
+    "explanation": "The anatomical snuffbox is best seen with the thumb fully extended and abducted. Scaphoid tenderness here should be treated as a fracture even if initial X-ray is normal due to risk of avascular necrosis."
+  },
+  {
+    "id": "ap10_s09",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "Which artery is dominant in the deep palmar arch and which in the superficial palmar arch?",
+    "options": [
+      "Deep = ulnar dominant / superficial = radial dominant",
+      "Deep = radial dominant / superficial = ulnar dominant",
+      "Both arches are equally supplied by radial and ulnar",
+      "Deep = radial dominant / superficial = radial dominant",
+      "Deep = ulnar dominant / superficial = ulnar dominant"
+    ],
+    "correct": 1,
+    "explanation": "Deep palmar arch = radial artery dominant (passes through the anatomical snuffbox and between the first dorsal interosseous and adductor pollicis to form the arch). Superficial palmar arch = ulnar artery dominant (passes through Guyon's canal to enter the palm). Both arteries contribute to both arches."
+  },
+  {
+    "id": "ap10_s10",
+    "type": "sba",
+    "topic": "Head and Neck",
+    "stem": "Which muscle is responsible for retracting the mandible?",
+    "options": [
+      "Masseter",
+      "Temporalis (horizontal fibres)",
+      "Lateral pterygoid",
+      "Medial pterygoid",
+      "Buccinator"
+    ],
+    "correct": 1,
+    "explanation": "Temporalis retracts the mandible via its horizontal fibres (posterior part), and elevates via its anterior fibres. Masseter elevates. Lateral pterygoid protracts and depresses. Medial pterygoid elevates. All supplied by the mandibular nerve (V3). Buccinator is a muscle of facial expression (CN7) that pulls the cheeks inward."
+  },
+  {
+    "id": "ap10_s11",
+    "type": "sba",
+    "topic": "Head and Neck",
+    "stem": "At which vertebral level does the common carotid artery bifurcate and what two important sensory structures are found at this level?",
+    "options": [
+      "C2 \u2014 carotid body and carotid sinus",
+      "C4 \u2014 carotid sinus (baroreceptor) and carotid body (chemoreceptor)",
+      "C6 \u2014 superior cervical ganglion and carotid sinus",
+      "C3 \u2014 carotid sinus and glomus jugulare",
+      "C7 \u2014 carotid body and subclavian steal"
+    ],
+    "correct": 1,
+    "explanation": "The common carotid bifurcates at C4 (upper border of thyroid cartilage). The carotid sinus (dilation of internal carotid at its origin) is a baroreceptor monitoring blood pressure, with afferents via CN9. The carotid body (small structure at the bifurcation) is a chemoreceptor detecting O2, CO2, and pH changes, also with CN9 afferents."
+  },
+  {
+    "id": "ap10_v04",
+    "type": "vsaq",
+    "topic": "Head and Neck",
+    "stem": "Name the four neck compartments and the fascial layer enclosing each.",
+    "answer": "Vertebral compartment \u2014 prevertebral layer (contains spinal cord, vertebrae, deep muscles). Visceral compartment \u2014 pretracheal layer (contains pharynx, larynx, oesophagus, thyroid). Vascular compartment \u2014 carotid sheath (contains common carotid artery, internal jugular vein, vagus nerve). Superficial compartment \u2014 investing layer (contains skin, platysma, superficial fascia).",
+    "explanation": "The neck fascia is important surgically \u2014 deep space infections can spread along fascial planes into the mediastinum (descending necrotising mediastinitis)."
+  },
+  {
+    "id": "ap10_s12",
+    "type": "sba",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "Which muscles make up the pelvic diaphragm and what are their functions?",
+    "options": [
+      "Piriformis and obturator internus \u2014 lateral rotation of the hip",
+      "Levator ani and coccygeus \u2014 support pelvic viscera, resist intra-abdominal pressure, maintain continence",
+      "Bulbospongiosus and ischiocavernosus \u2014 sexual function",
+      "Obturator internus and coccygeus \u2014 pelvic wall support",
+      "Levator ani and piriformis \u2014 urinary continence only"
+    ],
+    "correct": 1,
+    "explanation": "The pelvic diaphragm = levator ani + coccygeus. Functions: support pelvic viscera / resist increases in intra-abdominal pressure (coughing, sneezing, lifting) / urinary and faecal continence. Piriformis and obturator internus are lateral pelvic wall muscles \u2014 NOT part of the pelvic diaphragm."
+  },
+  {
+    "id": "ap10_s13",
+    "type": "sba",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "The cells of Leydig are found between the seminiferous tubules in the testes. What do they secrete?",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "FSH",
+      "Androgens including testosterone",
+      "Inhibin"
+    ],
+    "correct": 3,
+    "explanation": "Cells of Leydig (interstitial cells) are found between the seminiferous tubules in the testes and secrete androgens including testosterone. Spermatogenesis occurs within the seminiferous tubules, with immature spermatogonia at the base maturing towards the lumen. Sertoli cells within the tubules support spermatogenesis."
+  },
+  {
+    "id": "ap10_v05",
+    "type": "vsaq",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "Describe the three zones of the prostate and their clinical relevance.",
+    "answer": "Transitional zone (periurethral): site of benign prostatic hyperplasia (BPH) \u2014 expansion compresses the urethra causing lower urinary tract symptoms. Peripheral zone (70% of glandular tissue): site of most prostate cancers (~75%) \u2014 palpable posteriorly on digital rectal examination. Central zone (surrounds ejaculatory ducts): rarely clinically significant.",
+    "explanation": "PSA (prostate specific antigen) is produced by all zones but elevated PSA raises suspicion of cancer (peripheral zone) or BPH (transitional zone)."
+  },
+  {
+    "id": "ap10_s14",
+    "type": "sba",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "What structures articulate with the manubrium of the sternum?",
+    "options": [
+      "Ribs 1-3 and the clavicle",
+      "Clavicle / cartilages of 1st ribs / part of cartilages of 2nd ribs",
+      "Ribs 1-2 only",
+      "Clavicle and ribs 1-4",
+      "Sternoclavicular joint only"
+    ],
+    "correct": 1,
+    "explanation": "The manubrium articulates with: clavicles (at the sternoclavicular joints) / cartilages of the 1st ribs / part of the cartilages of the 2nd ribs. The body of the sternum articulates with cartilages of ribs 2-7 (and 8-10 indirectly). The sternal angle marks where rib 2 meets the sternum."
+  },
+  {
+    "id": "ap10_s15",
+    "type": "sba",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "Why does irritation of the diaphragm cause shoulder tip pain?",
+    "options": [
+      "The phrenic nerve (C3/4/5) also innervates the shoulder region \u2014 referred pain along shared dermatomes",
+      "The vagus nerve connects the diaphragm to the shoulder",
+      "The intercostal nerves refer pain to the shoulder",
+      "The diaphragm is directly connected to the shoulder via the central tendon",
+      "Phrenic nerve compression at the thoracic outlet causes shoulder pain"
+    ],
+    "correct": 0,
+    "explanation": "Referred pain occurs because the phrenic nerve (C3/4/5) also supplies the shoulder region via the supraclavicular nerves from the same cervical spinal levels. Diaphragm irritation (subphrenic abscess, ruptured ectopic, pneumonia) is interpreted by the brain as shoulder tip pain. Classic example: right shoulder tip pain from hepatic pathology or diaphragmatic irritation."
+  },
+  {
+    "id": "ap10_v06",
+    "type": "vsaq",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "Name the three layers of the intercostal muscles, their fibre orientation, and what the neurovascular bundle runs between.",
+    "answer": "External intercostal: most superficial / inferior-anterior fibres (hands-in-pockets direction) / incomplete anteriorly (anterior intercostal membrane). Internal intercostal: inferior-posterior fibres / incomplete posteriorly (posterior intercostal membrane) / lies superficial to NVB. Innermost intercostal: same orientation as internal / found laterally only / lies deep to NVB. NVB runs between internal and innermost intercostals in the subcostal groove.",
+    "explanation": "VAN order in the subcostal groove from superior to inferior: Vein / Artery / Nerve. Insert chest drains just above the upper border of the lower rib to avoid the NVB."
+  },
+  {
+    "id": "ap10_s16",
+    "type": "sba",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "Which are the branches of the external carotid artery?",
+    "options": [
+      "Superior thyroid / lingual / facial / ascending pharyngeal / occipital / posterior auricular / maxillary / superficial temporal",
+      "Internal carotid / external carotid / facial / lingual only",
+      "Superior thyroid / inferior thyroid / lingual / facial only",
+      "Occipital / posterior auricular / superficial temporal / deep temporal only",
+      "All branches of the common carotid including deep cervical"
+    ],
+    "correct": 0,
+    "explanation": "The eight branches of the external carotid: Superior thyroid / Lingual / Facial / Ascending pharyngeal / Occipital / Posterior auricular / Maxillary / Superficial temporal. Mnemonic: Some Loving Friends Are Often Particularly Merry Souls. The internal carotid gives NO branches in the neck."
+  },
+  {
+    "id": "ap10_s17",
+    "type": "sba",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "The dorsalis pedis artery is the continuation of which artery at the ankle, and where is it located?",
+    "options": [
+      "Posterior tibial artery \u2014 posterior to medial malleolus",
+      "Fibular artery \u2014 lateral to extensor digitorum longus",
+      "Anterior tibial artery \u2014 lateral to extensor hallucis longus tendon on dorsum of foot",
+      "Popliteal artery \u2014 anterior to knee",
+      "Femoral artery \u2014 medial to sartorius tendon"
+    ],
+    "correct": 2,
+    "explanation": "The dorsalis pedis artery is the continuation of the anterior tibial artery at the ankle. It lies lateral to the extensor hallucis longus tendon on the dorsum of the foot. It is the most distal clinically palpable pulse from the heart and is used to assess peripheral arterial circulation."
+  },
+  {
+    "id": "ap10_v07",
+    "type": "vsaq",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "Name the vertebral levels at which the coeliac trunk, SMA, IMA, gonadal arteries, and abdominal aorta bifurcation arise.",
+    "answer": "Coeliac trunk: T12. Superior mesenteric artery (SMA): L1. Inferior mesenteric artery (IMA): L3. Gonadal arteries: L2. Abdominal aorta bifurcation: L4.",
+    "explanation": "Also: aortic hiatus T12 / oesophageal hiatus T10 / caval hiatus T8. Renal arteries at L1 alongside suprarenal arteries."
+  },
+  {
+    "id": "ap10_s18",
+    "type": "sba",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "Which vein does the right gonadal vein drain into and why is this asymmetry clinically important?",
+    "options": [
+      "Right renal vein \u2014 same as the left",
+      "Directly into the IVC \u2014 a left-sided varicocele may indicate left renal vein obstruction",
+      "Portal vein \u2014 portal hypertension causes gonadal varicosities",
+      "Left brachiocephalic vein \u2014 venous drainage follows arterial supply",
+      "Right common iliac vein \u2014 drains pelvic structures"
+    ],
+    "correct": 1,
+    "explanation": "The right gonadal vein drains directly into the IVC. The left gonadal vein drains into the left renal vein. This asymmetry means a left-sided varicocele (dilated pampiniform plexus of the testis) can suggest obstruction of the left renal vein \u2014 important to exclude a left renal mass. A right-sided varicocele is rare and more sinister."
+  },
+  {
+    "id": "ap10_s19",
+    "type": "sba",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "The posterior intercostal veins drain into the azygos system. Where does the azygos vein ultimately drain and at what vertebral level?",
+    "options": [
+      "Into the IVC at T12",
+      "Into the SVC at the level of T4/5 (sternal angle)",
+      "Into the portal vein at L1",
+      "Into the subclavian vein at T1",
+      "Into the brachiocephalic vein at T3"
+    ],
+    "correct": 1,
+    "explanation": "The azygos vein drains into the SVC at the level of T4/5 \u2014 the sternal angle. This is one of the landmarks at the sternal angle along with: beginning and end of the aortic arch / carina / division of superior and inferior mediastina. The azygos system provides an alternative route for venous return if the IVC is obstructed."
+  },
+  {
+    "id": "ap10_v08",
+    "type": "vsaq",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "Explain the clinical consequences of portal hypertension at each of the four portocaval anastomosis sites.",
+    "answer": "Distal oesophagus: oesophageal varices \u2014 left gastric vein (portal) \u2194 oesophageal veins (azygos / caval) \u2014 most dangerous as rupture causes massive haematemesis. Rectum/upper anal canal: anorectal varices \u2014 superior rectal vein (portal) \u2194 middle and inferior rectal veins (caval). Peri-umbilical: caput medusae \u2014 paraumbilical veins \u2194 superficial epigastric veins. Retroperitoneum: veins of Retzius \u2014 portal tributaries \u2194 posterior body wall veins.",
+    "explanation": "Portal veins have no valves allowing bidirectional flow when pressure is elevated. Splenomegaly, ascites, and jaundice also occur in portal hypertension."
+  },
+  {
+    "id": "ap10_s20",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "What innervates the costal parietal pleura and what innervates the mediastinal and central diaphragmatic pleura?",
+    "options": [
+      "Vagus nerve (costal) / intercostal nerves (mediastinal)",
+      "Intercostal nerves (costal) / phrenic nerve (mediastinal and central diaphragmatic)",
+      "Phrenic nerve (all parietal pleura)",
+      "Sympathetic chain (costal) / vagus (mediastinal)",
+      "Intercostal nerves (all parietal pleura)"
+    ],
+    "correct": 1,
+    "explanation": "Costal parietal pleura = intercostal nerves (T1-T11). Mediastinal and central diaphragmatic pleura = phrenic nerve (C3/4/5). Peripheral diaphragmatic pleura = lower intercostal nerves. Visceral pleura = autonomic (insensitive to pain). This is why diaphragmatic irritation causes shoulder tip pain via C3/4/5."
+  },
+  {
+    "id": "ap10_s21",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "Which lobe is unique to the right lung and which structure is unique to the left lung?",
+    "options": [
+      "Middle lobe (right) / lingula (left)",
+      "Lower lobe (right) / cardiac notch (left)",
+      "Upper lobe (right) / oblique fissure (left)",
+      "Middle lobe (right) / horizontal fissure (left)",
+      "Right has horizontal fissure / left has oblique fissure only"
+    ],
+    "correct": 0,
+    "explanation": "The right lung has three lobes (upper/middle/lower) separated by the oblique fissure and horizontal fissure. The middle lobe is unique to the right. The left lung has two lobes (upper/lower) separated by the oblique fissure, and the lingula (a tongue-shaped projection of the upper lobe equivalent to the right middle lobe) and the cardiac notch are unique to the left."
+  },
+  {
+    "id": "ap10_v09",
+    "type": "vsaq",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "What are the two named pleural recesses, why are they larger on the left, and what is their clinical importance?",
+    "answer": "Costodiaphragmatic recess: between costal and diaphragmatic pleura \u2014 the lowest point of the pleural cavity where fluid accumulates first. Costomediastinal recess: between costal and mediastinal pleura \u2014 larger on the left due to the pronounced cardiac notch of the left lung. Clinical importance: they are potential spaces that can fill with air (pneumothorax), blood (haemothorax), or fluid (pleural effusion). Thoracocentesis targets the costodiaphragmatic recess.",
+    "explanation": "These recesses are potential spaces only visible in the living. In a cadaver they are collapsed and cannot be identified."
+  },
+  {
+    "id": "ap10_s22",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "What is the carina and at what vertebral level is it found?",
+    "options": [
+      "The bifurcation of the trachea into left and right main bronchi \u2014 at T4/5 (sternal angle)",
+      "The junction of the trachea and larynx \u2014 at C6",
+      "The crest between the right and left main bronchi \u2014 at T6",
+      "The posterior wall of the trachea \u2014 at T2",
+      "The ridge between trachea and oesophagus \u2014 at T4"
+    ],
+    "correct": 0,
+    "explanation": "The carina is the keel-shaped ridge at the tracheal bifurcation into left and right main bronchi. It is located at T4/5 \u2014 the level of the sternal angle. It is a sensitive area \u2014 stimulation causes coughing reflex. During bronchoscopy, widening of the carina suggests subcarinal lymphadenopathy (e.g. from lung cancer or sarcoidosis)."
+  },
+  {
+    "id": "ap10_s23",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "Which structures are found in the right atrium?",
+    "options": [
+      "Pectinate muscles / fossa ovalis / crista terminalis / opening of coronary sinus / SA node position / openings of SVC and IVC",
+      "Papillary muscles / chordae tendineae / trabeculae carneae / tricuspid valve",
+      "Mitral valve / pectinate muscles / openings of pulmonary veins",
+      "Smooth walls throughout / opening of IVC only",
+      "Pectinate muscles / aortic valve / opening of coronary sinus"
+    ],
+    "correct": 0,
+    "explanation": "Right atrium contents: pectinate muscles (anteriorly) / fossa ovalis (embryological remnant of foramen ovale) / crista terminalis (ridge separating smooth and rough parts) / opening of coronary sinus / SA node (lateral wall) / openings of SVC and IVC. The right ventricle contains: tricuspid valve / chordae tendineae / papillary muscles / trabeculae carneae / conus arteriosus / pulmonary valve."
+  },
+  {
+    "id": "ap10_s24",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "The left ventricle is thicker than the right. What valve is on each side and how do they differ structurally?",
+    "options": [
+      "Left = aortic + mitral (bicuspid 2 cusps with chordae) / Right = pulmonary + tricuspid (3 cusps with chordae)",
+      "Left = mitral only / Right = tricuspid only \u2014 semilunar valves are equal",
+      "Left = tricuspid / Right = bicuspid \u2014 opposite sides",
+      "Left ventricle has no AV valve / Right has tricuspid only",
+      "Both ventricles have bicuspid valves"
+    ],
+    "correct": 0,
+    "explanation": "Left ventricle: mitral (bicuspid \u2014 2 cusps) AV valve + aortic (semilunar \u2014 3 cusps) valve. Right ventricle: tricuspid (3 cusps) AV valve + pulmonary (semilunar \u2014 3 cusps) valve. AV valves (mitral and tricuspid) have chordae tendineae anchored to papillary muscles preventing prolapse. Semilunar valves have no chordae tendineae."
+  },
+  {
+    "id": "ap10_v10",
+    "type": "vsaq",
+    "topic": "Heart and Mediastinum",
+    "stem": "What is the pericardium? Name its layers and the two sinuses within the pericardial cavity.",
+    "answer": "The pericardium is a fibroserous sac enclosing the heart. Layers: fibrous pericardium (outermost \u2014 anchored to central tendon of diaphragm) / serous pericardium \u2014 parietal layer (lines fibrous pericardium) and visceral layer (epicardium, applied to heart surface) \u2014 with the pericardial cavity between them. Sinuses: transverse pericardial sinus (posterior to aorta and pulmonary trunk, anterior to SVC \u2014 allows surgical access to great vessels) / oblique pericardial sinus (posterior cul-de-sac behind left atrium, accessed inferiorly at apex).",
+    "explanation": "Cardiac tamponade occurs when fluid accumulates in the pericardial cavity, compressing the heart. Beck's triad: hypotension / raised JVP / muffled heart sounds. Treatment: pericardiocentesis via subxiphoid approach."
+  },
+  {
+    "id": "ap10_s25",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "Which coronary artery gives off the anterior interventricular (left anterior descending) artery?",
+    "options": [
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Left coronary artery (via its anterior interventricular branch = LAD)",
+      "Posterior descending artery",
+      "Marginal artery"
+    ],
+    "correct": 2,
+    "explanation": "The left coronary artery gives two main branches: the left anterior descending (anterior interventricular) artery supplying the anterior wall and anterior 2/3 of interventricular septum, and the circumflex artery supplying the lateral and posterior left ventricle. The right coronary artery gives the right marginal and posterior interventricular (posterior descending) arteries."
+  },
+  {
+    "id": "ap10_s26",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "A 4-year-old presents with high fever, drooling, stridor and is sitting in the tripod position. Epiglottitis is suspected. Why must throat examination be avoided before securing the airway?",
+    "options": [
+      "It is too painful and the child will cry excessively",
+      "Stimulation of the inflamed epiglottis may precipitate complete laryngospasm and total airway obstruction",
+      "The examination might introduce bacteria into the inflamed tissue",
+      "The child is too young to cooperate",
+      "A tongue depressor might damage the inflamed structures"
+    ],
+    "correct": 1,
+    "explanation": "In epiglottitis the epiglottis is severely oedematous. Any stimulation \u2014 tongue depressor, positioning supine, or triggering the gag reflex \u2014 can precipitate complete laryngospasm and total airway obstruction. Management: keep child calm in their chosen position (usually sitting forward), call senior anaesthetics and ENT, secure airway in controlled theatre setting, then IV ceftriaxone."
+  },
+  {
+    "id": "ap10_s27",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "The cricoid cartilage is the only complete ring in the airway. What is its clinical significance in children?",
+    "options": [
+      "It is the site of tonsillectomy in children",
+      "In children it is the narrowest part of the airway \u2014 foreign bodies can lodge here",
+      "It is the site of adenoidectomy",
+      "It provides attachment for the vocal cords in children only",
+      "It is where the right bronchus is more vertical \u2014 aspiration risk"
+    ],
+    "correct": 1,
+    "explanation": "In children the cricoid cartilage is the narrowest part of the airway (in adults the glottis is narrowest). Foreign bodies that pass the glottis in a child may lodge at the cricoid. Additionally the cricothyroid membrane (between thyroid and cricoid) is the site of emergency cricothyroidotomy in cannot intubate/cannot oxygenate scenarios."
+  },
+  {
+    "id": "ap10_v11",
+    "type": "vsaq",
+    "topic": "Upper Airways",
+    "stem": "Name the four paranasal sinuses and describe their drainage into the nasal cavity.",
+    "answer": "Frontal sinus \u2014 drains via frontonasal duct. Ethmoidal air cells \u2014 drain via multiple holes in the roof of the nasal cavity. Sphenoidal sinus \u2014 drains into the sphenoethmoidal recess. Maxillary sinus \u2014 drains into the floor of the semilunar hiatus. All are lined by respiratory epithelium. Functions: reduce skull mass / vocal resonance.",
+    "explanation": "The maxillary sinus is the largest and most commonly infected (sinusitis) due to its drainage point being at the superior aspect of its medial wall \u2014 gravity does not assist drainage."
+  },
+  {
+    "id": "ap10_s28",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "The right recurrent laryngeal nerve loops around which structure?",
+    "options": [
+      "Aortic arch",
+      "Left subclavian artery",
+      "Right subclavian artery",
+      "Brachiocephalic trunk",
+      "Right common carotid artery"
+    ],
+    "correct": 2,
+    "explanation": "The right recurrent laryngeal nerve (branch of the right vagus) loops around the right subclavian artery and ascends in the tracheo-oesophageal groove. The left RLN loops around the aortic arch at the ligamentum arteriosum \u2014 giving it a longer intrathoracic course, making it vulnerable to mediastinal pathology (aortic aneurysm, lung cancer, lymphadenopathy)."
+  },
+  {
+    "id": "ap10_s29",
+    "type": "sba",
+    "topic": "Anatomy of the Back",
+    "stem": "What movement does the atlantoaxial joint permit and which ligament maintains the stability of this joint?",
+    "options": [
+      "Flexion/extension \u2014 anterior longitudinal ligament",
+      "Rotation \u2014 transverse ligament of the atlas holding the dens against C1",
+      "Lateral flexion \u2014 alar ligaments",
+      "Rotation \u2014 posterior longitudinal ligament",
+      "Flexion/extension \u2014 ligamentum flavum"
+    ],
+    "correct": 1,
+    "explanation": "The atlantoaxial joint allows rotation of the head (the no joint). The transverse ligament of the atlas holds the odontoid process (dens of C2) against the anterior arch of C1 \u2014 described as the most important ligament in the body. Rupture (e.g. from rheumatoid arthritis or fracture) allows the dens to compress the spinal cord."
+  },
+  {
+    "id": "ap10_s30",
+    "type": "sba",
+    "topic": "Anatomy of the Back",
+    "stem": "What are the primary and secondary curvatures of the vertebral column?",
+    "options": [
+      "Primary: cervical and lumbar (lordosis) / secondary: thoracic and sacral (kyphosis)",
+      "Primary: thoracic and sacral (kyphosis \u2014 concave anteriorly) / secondary: cervical and lumbar (lordosis \u2014 concave posteriorly)",
+      "All curvatures are secondary",
+      "Primary: scoliosis / secondary: kyphosis and lordosis",
+      "Primary: lumbar lordosis / secondary: thoracic kyphosis only"
+    ],
+    "correct": 1,
+    "explanation": "Primary curvatures (present from birth, reflect fetal position) = thoracic and sacral kyphosis (concave anteriorly). Secondary curvatures (develop after birth from weight-bearing and muscle action) = cervical lordosis (develops with head lifting) and lumbar lordosis (develops with walking). Scoliosis = pathological lateral deviation."
+  },
+  {
+    "id": "ap10_v12",
+    "type": "vsaq",
+    "topic": "Anatomy of the Back",
+    "stem": "What is cauda equina syndrome \u2014 name the causes, cardinal features, and management.",
+    "answer": "Cauda equina syndrome is compression of the cauda equina nerve roots (L2-S5) below the conus medullaris. Causes: large central disc herniation / epidural haematoma / epidural abscess / tumour. Cardinal features: saddle anaesthesia (S3-S5 \u2014 perineum, genitalia, inner thighs) / urinary retention or overflow incontinence / bowel dysfunction / bilateral leg weakness. Management: neurosurgical emergency \u2014 urgent MRI lumbar spine immediately / surgical decompression within 24-48 hours to maximise recovery of bladder and bowel function.",
+    "explanation": "Lumbar puncture is performed safely below L2 because the cord has ended at L1/L2 \u2014 only cauda equina nerve roots remain in the dural sac."
+  },
+  {
+    "id": "ap10_s31",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "Which nerve root is tested by the ankle jerk reflex?",
+    "options": [
+      "L3/L4",
+      "L4/L5",
+      "S1/S2",
+      "L2/L3",
+      "S2/S3"
+    ],
+    "correct": 2,
+    "explanation": "The ankle jerk (Achilles tendon reflex) tests S1/S2 \u2014 tibial nerve \u2014 gastrocnemius and soleus. S1 radiculopathy (from L5/S1 disc herniation) presents with loss of ankle jerk, plantarflexion weakness, and sensory loss over the lateral foot and sole. Compare: patellar tendon reflex = L3/L4."
+  },
+  {
+    "id": "ap10_s32",
+    "type": "sba",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "At what bony landmark does the subclavian artery become the axillary artery?",
+    "options": [
+      "Medial border of the first rib",
+      "Lateral border of the first rib",
+      "Inferior border of clavicle",
+      "Coracoid process of scapula",
+      "Inferior border of teres major"
+    ],
+    "correct": 1,
+    "explanation": "The subclavian artery becomes the axillary artery as it crosses the lateral border of the first rib. The axillary artery then becomes the brachial artery at the inferior border of teres major. Pectoralis minor divides the axillary artery into three parts relative to the muscle."
+  },
+  {
+    "id": "ap10_s33",
+    "type": "sba",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "What structure does the sciatic nerve exit the pelvis through and in what relation to piriformis?",
+    "options": [
+      "Lesser sciatic foramen \u2014 superior to piriformis",
+      "Greater sciatic foramen \u2014 inferior to piriformis",
+      "Obturator foramen \u2014 medial to piriformis",
+      "Greater sciatic foramen \u2014 superior to piriformis",
+      "Lesser sciatic foramen \u2014 inferior to piriformis"
+    ],
+    "correct": 1,
+    "explanation": "The sciatic nerve exits the pelvis through the greater sciatic foramen, inferior to piriformis. The superior gluteal NVB exits superior to piriformis. The inferior gluteal NVB exits inferior to piriformis alongside the sciatic nerve. Piriformis is the key surgical and anatomical landmark in the gluteal region."
+  }
+]

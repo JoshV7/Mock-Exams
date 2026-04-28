@@ -1,0 +1,593 @@
+[
+  {
+    "id": "ap8_s01",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "A patient presents with inability to abduct the arm beyond 15 degrees following a shoulder injury. Which muscle is most likely damaged?\n\nWhich nerve supplies this muscle?",
+    "options": [
+      "Deltoid \u2014 axillary nerve",
+      "Supraspinatus \u2014 suprascapular nerve",
+      "Infraspinatus \u2014 suprascapular nerve",
+      "Subscapularis \u2014 upper and lower subscapular nerves",
+      "Teres minor \u2014 axillary nerve"
+    ],
+    "correct": 1,
+    "explanation": "Supraspinatus initiates abduction from 0-15 degrees. It is supplied by the suprascapular nerve (C5, C6). After 15 degrees, deltoid (axillary nerve) takes over. The rotator cuff \u2014 SITS: Supraspinatus, Infraspinatus, Teres minor, Subscapularis \u2014 stabilises the glenohumeral joint."
+  },
+  {
+    "id": "ap8_s02",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "Which bones form the proximal row of the carpus from lateral to medial?",
+    "options": [
+      "Trapezium, trapezoid, capitate, hamate",
+      "Scaphoid, lunate, triquetrum, pisiform",
+      "Scaphoid, lunate, capitate, hamate",
+      "Trapezium, scaphoid, lunate, triquetrum",
+      "Pisiform, triquetrum, lunate, scaphoid"
+    ],
+    "correct": 1,
+    "explanation": "The proximal row lateral to medial: scaphoid, lunate, triquetrum, pisiform. The distal row lateral to medial: trapezium, trapezoid, capitate, hamate. The scaphoid and lunate articulate with the radius at the radiocarpal joint."
+  },
+  {
+    "id": "ap8_v01",
+    "type": "vsaq",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "What are the seven tarsal bones? Which articulates with the tibia and fibula to form the ankle joint?",
+    "answer": "Talus / calcaneus / navicular / cuboid / medial cuneiform / intermediate cuneiform / lateral cuneiform. The talus articulates with the tibia and fibula to form the talocrural (ankle) joint.",
+    "explanation": "The talus sits on top of the calcaneus. The subtalar joint between talus and calcaneus allows inversion and eversion."
+  },
+  {
+    "id": "ap8_s03",
+    "type": "sba",
+    "topic": "Musculoskeletal Anatomy",
+    "stem": "Which muscle group forms the floor of the anatomical snuffbox, and what important structure can be palpated here?",
+    "options": [
+      "Extensor pollicis longus \u2014 radial nerve",
+      "Abductor pollicis longus and extensor pollicis brevis \u2014 scaphoid and radial artery",
+      "Flexor pollicis longus \u2014 median nerve",
+      "Extensor carpi radialis longus \u2014 radial artery only",
+      "Opponens pollicis \u2014 scaphoid only"
+    ],
+    "correct": 1,
+    "explanation": "The floor of the anatomical snuffbox contains the scaphoid bone and the radial artery passing to the deep palmar arch. The borders are APL and EPB anteriorly and EPL posteriorly. Tenderness here after a fall suggests scaphoid fracture."
+  },
+  {
+    "id": "ap8_s04",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "Which nerve supplies the anterior compartment of the leg and what is its terminal sensory distribution?",
+    "options": [
+      "Superficial fibular nerve \u2014 dorsum of the foot except first web space",
+      "Deep fibular nerve \u2014 first dorsal web space",
+      "Tibial nerve \u2014 sole of the foot",
+      "Sural nerve \u2014 lateral foot and small toe",
+      "Saphenous nerve \u2014 medial leg and foot"
+    ],
+    "correct": 1,
+    "explanation": "The deep fibular (peroneal) nerve supplies the anterior compartment of the leg: tibialis anterior, extensor digitorum longus, extensor hallucis longus, fibularis tertius. Its only sensory distribution is the first dorsal web space. The superficial fibular nerve supplies the lateral compartment and the dorsum of the foot."
+  },
+  {
+    "id": "ap8_s05",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "The popliteal artery divides below the knee into which vessels?",
+    "options": [
+      "Femoral artery and posterior tibial artery",
+      "Anterior tibial artery and posterior tibial artery",
+      "Fibular artery and dorsalis pedis",
+      "Anterior tibial artery and fibular artery only",
+      "Posterior tibial artery and dorsalis pedis"
+    ],
+    "correct": 1,
+    "explanation": "The popliteal artery divides into the anterior tibial artery and posterior tibial artery below the knee. The fibular (peroneal) artery is a branch of the posterior tibial artery, supplying the lateral compartment via perforating vessels. The anterior tibial artery continues as the dorsalis pedis at the ankle."
+  },
+  {
+    "id": "ap8_v02",
+    "type": "vsaq",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "Describe the medial meniscus \u2014 its shape and why it is more commonly injured than the lateral meniscus.",
+    "answer": "The medial meniscus is C-shaped and is firmly attached to the medial collateral ligament and the joint capsule, making it relatively immobile. The lateral meniscus is more circular and loosely attached so it can move to avoid injury. The medial meniscus cannot escape being trapped during rotational injuries.",
+    "explanation": "Medial meniscus tears commonly occur with the O'Donoghue unhappy triad: ACL + MCL + medial meniscus, from a valgus rotational force on the knee."
+  },
+  {
+    "id": "ap8_s06",
+    "type": "sba",
+    "topic": "Lower Limb (incl. neurovasculature)",
+    "stem": "What is the profunda femoris and what does it supply?",
+    "options": [
+      "A branch of the popliteal artery supplying the posterior leg",
+      "The largest branch of the femoral artery supplying the femur and all three thigh compartments",
+      "A branch of the internal iliac artery supplying the medial thigh",
+      "A branch of the external iliac supplying the femoral head",
+      "The continuation of the femoral artery through the adductor hiatus"
+    ],
+    "correct": 1,
+    "explanation": "The profunda femoris (deep artery of the thigh) is the largest branch of the femoral artery, arising posterolaterally ~4 cm below the inguinal ligament. It supplies all three thigh compartments via perforating branches and gives medial and lateral circumflex femoral arteries supplying the femoral head."
+  },
+  {
+    "id": "ap8_s07",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "A patient cannot extend their wrist or fingers following a mid-humeral fracture. Which nerve is injured and what is its relation to the humerus at this level?",
+    "options": [
+      "Median nerve \u2014 passes anterior to the medial epicondyle",
+      "Ulnar nerve \u2014 passes posterior to the medial epicondyle",
+      "Radial nerve \u2014 runs in the spiral groove on the posterior surface of the humerus",
+      "Axillary nerve \u2014 winds around the surgical neck",
+      "Musculocutaneous nerve \u2014 pierces coracobrachialis"
+    ],
+    "correct": 2,
+    "explanation": "The radial nerve runs in the spiral (radial) groove on the posterior surface of the humerus, accompanied by the profunda brachii artery. Mid-shaft fractures damage the radial nerve causing wrist drop, finger drop, and loss of sensation over the posterior forearm and dorsal hand."
+  },
+  {
+    "id": "ap8_s08",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "The right subclavian artery arises from which vessel, and at what bony landmark does it become the axillary artery?",
+    "options": [
+      "Directly from aortic arch \u2014 medial border of first rib",
+      "Brachiocephalic trunk \u2014 lateral border of first rib",
+      "Left common carotid \u2014 medial border of clavicle",
+      "Brachiocephalic trunk \u2014 inferior border of teres major",
+      "Directly from aortic arch \u2014 lateral border of first rib"
+    ],
+    "correct": 1,
+    "explanation": "The right subclavian artery arises from the brachiocephalic trunk (first branch of the aortic arch). It becomes the axillary artery as it crosses the lateral border of the first rib. The axillary artery then becomes the brachial artery at the inferior border of teres major."
+  },
+  {
+    "id": "ap8_v03",
+    "type": "vsaq",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "Name the boundaries and contents of the cubital fossa from lateral to medial.",
+    "answer": "Lateral: brachioradialis. Medial: pronator teres. Superior: line between epicondyles. Contents lateral to medial: Radial nerve / Biceps tendon / Brachial artery / Median nerve \u2014 Really Boring But Nice.",
+    "explanation": "The brachial artery bifurcates in the cubital fossa into the radial and ulnar arteries, separated by pronator teres."
+  },
+  {
+    "id": "ap8_s09",
+    "type": "sba",
+    "topic": "Upper Limb (incl. neurovasculature)",
+    "stem": "Erb's palsy affects the upper trunk (C5-C6) of the brachial plexus. What is the characteristic posture and which movements are lost?",
+    "options": [
+      "Claw hand \u2014 loss of intrinsic hand muscles",
+      "Waiter's tip \u2014 loss of shoulder abduction, elbow flexion, forearm supination",
+      "Wrist drop \u2014 loss of wrist and finger extension",
+      "Foot drop equivalent \u2014 loss of shoulder elevation",
+      "Benediction hand \u2014 loss of median nerve function"
+    ],
+    "correct": 1,
+    "explanation": "Erb's palsy causes the waiter's tip posture: adducted arm, internally rotated, extended elbow, pronated forearm. Lost movements: shoulder abduction (deltoid/supraspinatus C5), elbow flexion (biceps C5/C6), forearm supination (biceps/supinator C6). Hand function is preserved (C8/T1 intact)."
+  },
+  {
+    "id": "ap8_s10",
+    "type": "sba",
+    "topic": "Head and Neck",
+    "stem": "The internal carotid artery feels swollen at its origin compared to the external carotid. Why?",
+    "options": [
+      "It contains the carotid body \u2014 a chemoreceptor",
+      "It contains the carotid sinus \u2014 a baroreceptor for blood pressure monitoring",
+      "It has thicker walls due to higher systemic pressure",
+      "It contains a valve preventing backflow",
+      "It is larger because it supplies the brain"
+    ],
+    "correct": 1,
+    "explanation": "The carotid sinus is a dilation of the internal carotid artery at its origin. It is a baroreceptor that monitors blood pressure, with afferent signals via the glossopharyngeal nerve (CN9). Carotid sinus massage reduces heart rate via the baroreflex. The carotid body (chemoreceptor) is a small structure at the bifurcation."
+  },
+  {
+    "id": "ap8_s11",
+    "type": "sba",
+    "topic": "Head and Neck",
+    "stem": "Which nerve supplies all four muscles of mastication?",
+    "options": [
+      "Facial nerve (CN7) \u2014 temporal branch",
+      "Trigeminal nerve \u2014 ophthalmic branch (V1)",
+      "Trigeminal nerve \u2014 maxillary branch (V2)",
+      "Trigeminal nerve \u2014 mandibular branch (V3)",
+      "Glossopharyngeal nerve (CN9)"
+    ],
+    "correct": 3,
+    "explanation": "The mandibular branch (V3) of the trigeminal nerve supplies all four muscles of mastication: masseter, temporalis, medial pterygoid, lateral pterygoid. V3 is the only branch of the trigeminal with a motor component. The facial nerve (CN7) supplies all muscles of facial expression."
+  },
+  {
+    "id": "ap8_v04",
+    "type": "vsaq",
+    "topic": "Head and Neck",
+    "stem": "Name the six main branches of CN7 (facial nerve) and within which gland do they arise?",
+    "answer": "Posterior auricular / temporal / zygomatic / buccal / marginal mandibular / cervical. They arise within the parotid gland.",
+    "explanation": "Mnemonic: Zaddy's Big Muscular Cock Tears Pussies. A peripheral CN7 lesion affects ALL ipsilateral facial muscles including forehead. A central lesion spares the forehead."
+  },
+  {
+    "id": "ap8_s12",
+    "type": "sba",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "What structures form the boundaries of the pelvic outlet?",
+    "options": [
+      "Sacrum, ilium, pubis and pubic symphysis",
+      "Coccyx, sacrum, sacrotuberous ligament, ischium, pubis and pubic symphysis",
+      "Inguinal ligament, iliac crest, sacrum",
+      "Pelvic diaphragm, obturator membrane, sacrum",
+      "Ilium, ischium, pubis and coccyx only"
+    ],
+    "correct": 1,
+    "explanation": "The pelvic outlet is bounded by: coccyx and sacrum posteriorly / sacrotuberous ligament / ischial tuberosities / pubic arch and pubic symphysis anteriorly. The pelvic inlet is bounded by sacrum, ilium, pubis and pubic symphysis."
+  },
+  {
+    "id": "ap8_s13",
+    "type": "sba",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "Once an ovarian follicle releases its oocyte, what does it become and what hormone does it secrete?",
+    "options": [
+      "Corpus albicans \u2014 oestrogen",
+      "Corpus luteum \u2014 progesterone",
+      "Graafian follicle \u2014 LH",
+      "Corpus luteum \u2014 oestrogen",
+      "Corpus albicans \u2014 progesterone"
+    ],
+    "correct": 1,
+    "explanation": "After ovulation the follicle transforms into the corpus luteum which secretes progesterone. Progesterone prepares the endometrium for implantation. If fertilisation does not occur the corpus luteum degenerates to the corpus albicans and progesterone falls, triggering menstruation."
+  },
+  {
+    "id": "ap8_v05",
+    "type": "vsaq",
+    "topic": "Pelvis and Pelvic Viscera",
+    "stem": "Name the layers of the pelvic floor from superficial to deep when making an incision in the urogenital triangle.",
+    "answer": "Superficial fascia / superficial perineal muscles / perineal membrane / deep perineal muscles / external fascia / pelvic diaphragm / internal fascia.",
+    "explanation": "The pelvic diaphragm (levator ani + coccygeus) forms the main muscular floor of the pelvis. The perineal membrane is a fibrous sheet forming the roof of the superficial perineal pouch."
+  },
+  {
+    "id": "ap8_s14",
+    "type": "sba",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "Which ribs are classified as true, false and floating?",
+    "options": [
+      "True: 1-5 / False: 6-10 / Floating: 11-12",
+      "True: 1-7 / False: 8-10 / Floating: 11-12",
+      "True: 1-6 / False: 7-10 / Floating: 11-12",
+      "True: 1-8 / False: 9-10 / Floating: 11-12",
+      "True: 1-7 / False: 8-9 / Floating: 10-12"
+    ],
+    "correct": 1,
+    "explanation": "True ribs (1-7) articulate directly with the sternum via costal cartilage. False ribs (8-10) articulate indirectly via the costal cartilage of the rib above. Floating ribs (11-12) have no anterior articulation. The manubrium articulates with ribs 1 and part of rib 2. The sternal angle marks where rib 2 articulates with the sternum."
+  },
+  {
+    "id": "ap8_s15",
+    "type": "sba",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "Which accessory muscles of respiration are identified in the practical sheet?",
+    "options": [
+      "Trapezius, rhomboids, levator scapulae, serratus anterior",
+      "Pectoralis major, serratus anterior, scalenus anterior, sternocleidomastoid",
+      "Pectoralis minor, intercostals, diaphragm, serratus posterior",
+      "Latissimus dorsi, trapezius, pectoralis major, SCM",
+      "External intercostals, internal intercostals, pectoralis major, SCM"
+    ],
+    "correct": 1,
+    "explanation": "The four accessory muscles of respiration from the S2P2 practical: pectoralis major / serratus anterior / scalenus anterior / sternocleidomastoid. Scalenus anterior attaches to the scalene tubercle of the first rib, with the subclavian vein anterior and subclavian artery posterior to it."
+  },
+  {
+    "id": "ap8_v06",
+    "type": "vsaq",
+    "topic": "Chest Wall and Diaphragm",
+    "stem": "Where do the anterior and posterior intercostal arteries originate from, and where do the anterior and posterior intercostal veins drain?",
+    "answer": "Anterior intercostal arteries: from internal thoracic artery (upper spaces) or musculophrenic artery (lower spaces). Posterior intercostal arteries: from thoracic descending aorta. Anterior intercostal veins: drain into internal thoracic or musculophrenic veins. Posterior intercostal veins: drain into azygos system (right) or hemiazygos/accessory hemiazygos (left).",
+    "explanation": "The internal thoracic artery originates from the subclavian artery and runs parasternally. It terminates as the superior epigastric and musculophrenic arteries."
+  },
+  {
+    "id": "ap8_s16",
+    "type": "sba",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "At what vertebral level does the abdominal aorta bifurcate and what does it divide into?",
+    "options": [
+      "L2 \u2014 left and right renal arteries",
+      "L3 \u2014 superior and inferior mesenteric arteries",
+      "L4 \u2014 left and right common iliac arteries",
+      "L5 \u2014 left and right external iliac arteries",
+      "T12 \u2014 coeliac trunk and SMA"
+    ],
+    "correct": 2,
+    "explanation": "The abdominal aorta bifurcates at L4 into the left and right common iliac arteries. Each common iliac then divides at the sacroiliac joint into internal iliac (pelvis) and external iliac (lower limb via femoral artery under inguinal ligament)."
+  },
+  {
+    "id": "ap8_s17",
+    "type": "sba",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "What are the contents of the carotid sheath?",
+    "options": [
+      "Common carotid artery, subclavian vein, phrenic nerve",
+      "Common carotid artery, internal jugular vein, vagus nerve",
+      "Internal carotid artery, external jugular vein, glossopharyngeal nerve",
+      "Common carotid artery, internal jugular vein, hypoglossal nerve",
+      "External carotid artery, internal jugular vein, vagus nerve"
+    ],
+    "correct": 1,
+    "explanation": "The carotid sheath contains: common carotid artery (medial) / internal jugular vein (lateral) / vagus nerve CN10 (posterior between artery and vein). The common carotid gives no branches until its bifurcation at C4 into internal and external carotid arteries."
+  },
+  {
+    "id": "ap8_v07",
+    "type": "vsaq",
+    "topic": "Blood Supply to Head, Neck and Limbs",
+    "stem": "Name the three branches of the aortic arch in order and state the different origins of the left and right common carotid arteries.",
+    "answer": "1st: brachiocephalic trunk (\u2192 right subclavian + right common carotid). 2nd: left common carotid artery. 3rd: left subclavian artery. Right common carotid arises from the brachiocephalic trunk. Left common carotid arises directly from the arch of the aorta.",
+    "explanation": "All three branches arise at the level of the sternal angle (T4/5). The sternal angle also marks the beginning and end of the aortic arch, the carina, and the azygos vein draining into the SVC."
+  },
+  {
+    "id": "ap8_s18",
+    "type": "sba",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "The superior mesenteric artery arises at which vertebral level and supplies which portion of the gut?",
+    "options": [
+      "T12 \u2014 foregut including stomach and liver",
+      "L1 \u2014 midgut from distal duodenum to proximal two-thirds of transverse colon",
+      "L3 \u2014 hindgut from splenic flexure to upper rectum",
+      "L2 \u2014 gonadal organs and kidneys",
+      "L4 \u2014 sigmoid colon and rectum"
+    ],
+    "correct": 1,
+    "explanation": "The SMA arises at L1 and supplies the midgut: distal duodenum / jejunum / ileum / caecum / ascending colon / proximal two-thirds of transverse colon. Coeliac trunk (T12) = foregut. IMA (L3) = hindgut."
+  },
+  {
+    "id": "ap8_s19",
+    "type": "sba",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "If portal hypertension develops, which clinical signs would you expect at the sites of portocaval anastomosis?",
+    "options": [
+      "Jaundice, pale stools, dark urine",
+      "Oesophageal varices, anorectal varices, caput medusae",
+      "Hepatomegaly, splenomegaly, ascites only",
+      "Haematemesis from gastric ulcers only",
+      "Bilateral leg oedema and ascites only"
+    ],
+    "correct": 1,
+    "explanation": "Portal hypertension causes reversal of flow through portocaval anastomoses: oesophageal varices (distal oesophagus \u2014 risk of fatal haemorrhage) / anorectal varices (rectum/anal canal) / caput medusae (peri-umbilical dilated veins resembling Medusa's snakes). The lack of valves in portal veins allows bidirectional flow."
+  },
+  {
+    "id": "ap8_v08",
+    "type": "vsaq",
+    "topic": "Blood Supply to Body Regions",
+    "stem": "Name the three major midline branches of the abdominal aorta, the vertebral level each arises at, and what each supplies.",
+    "answer": "Coeliac trunk (T12) \u2014 foregut (distal oesophagus to mid-duodenum, plus liver, gallbladder, spleen, pancreas). Superior mesenteric artery (L1) \u2014 midgut (distal duodenum to proximal 2/3 transverse colon). Inferior mesenteric artery (L3) \u2014 hindgut (distal 1/3 transverse colon to upper rectum).",
+    "explanation": "The paired lateral branches: suprarenal arteries (L1) / renal arteries (L1) / gonadal arteries (L2). The aorta bifurcates at L4."
+  },
+  {
+    "id": "ap8_s20",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "What prevents the alveoli from collapsing between breaths?",
+    "options": [
+      "Elastic recoil of the lung parenchyma",
+      "Continuous positive airway pressure from the trachea",
+      "Pulmonary surfactant coating the alveolar surface reducing surface tension",
+      "Cartilaginous rings maintaining alveolar patency",
+      "Active contraction of smooth muscle in the alveolar walls"
+    ],
+    "correct": 2,
+    "explanation": "Pulmonary surfactant is produced by type II pneumocytes and coats the alveolar surface, reducing surface tension and preventing collapse between breaths. Surfactant deficiency in premature neonates causes respiratory distress syndrome (RDS)."
+  },
+  {
+    "id": "ap8_s21",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "The vagus nerve provides parasympathetic innervation to which thoracic structures, and what does it pass posterior to?",
+    "options": [
+      "Heart only \u2014 passes posterior to the trachea",
+      "Lungs and heart \u2014 passes posterior to the root of the lung",
+      "Diaphragm \u2014 passes posterior to the oesophagus",
+      "Lungs only \u2014 passes posterior to the aorta",
+      "Heart and pericardium \u2014 passes anterior to the root of the lung"
+    ],
+    "correct": 1,
+    "explanation": "The vagus nerve provides parasympathetic innervation to both the lungs and heart in the thorax. It passes posterior to the root of the lung. The visceral pleura is innervated by the autonomic nervous system and is insensitive to pain."
+  },
+  {
+    "id": "ap8_v09",
+    "type": "vsaq",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "Name the structures that pass through the hilum of the lung.",
+    "answer": "Main bronchus / pulmonary arteries / pulmonary veins. Also: bronchial arteries and veins / lymph vessels / efferent and afferent autonomic nerves.",
+    "explanation": "The pulmonary veins carry oxygenated blood from the lungs back to the left atrium \u2014 the exception to the rule that veins carry deoxygenated blood. The pulmonary ligament stabilises the inferior lobe."
+  },
+  {
+    "id": "ap8_s22",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "At which part of the bronchial tree does the function change from air conduction to gas exchange?",
+    "options": [
+      "Primary bronchi",
+      "Secondary (lobar) bronchi",
+      "Tertiary (segmental) bronchi",
+      "Terminal bronchioles",
+      "Respiratory bronchioles"
+    ],
+    "correct": 4,
+    "explanation": "Gas exchange begins at the respiratory bronchioles where alveolar outpouchings first appear in the walls. Before this level (trachea to terminal bronchioles) the airways are purely conducting \u2014 the anatomical dead space. Alveoli provide the main gas exchange surface."
+  },
+  {
+    "id": "ap8_s23",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "How do the right and left ventricles differ from one another and why?",
+    "options": [
+      "Right has thicker walls \u2014 generates higher pressure for systemic circulation",
+      "Left has thicker walls \u2014 generates higher pressure for systemic circulation",
+      "Both have identical wall thickness \u2014 different only in valve type",
+      "Right has thicker walls \u2014 receives blood from pulmonary veins",
+      "Left has thinner walls \u2014 lower resistance pulmonary circulation"
+    ],
+    "correct": 1,
+    "explanation": "The left ventricle has thicker walls (approximately 3x) than the right because it generates much higher pressures for systemic circulation (120 mmHg) compared to the right ventricle which pumps to the low-resistance pulmonary circulation (25 mmHg). The left has a mitral (bicuspid) valve; the right has a tricuspid valve."
+  },
+  {
+    "id": "ap8_s24",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "The aortic valve is best auscultated at which location on the chest wall?",
+    "options": [
+      "5th intercostal space, left midclavicular line",
+      "2nd intercostal space, right sternal edge",
+      "2nd intercostal space, left sternal edge",
+      "4th intercostal space, left sternal edge",
+      "3rd intercostal space, right sternal edge"
+    ],
+    "correct": 1,
+    "explanation": "Auscultation areas: Aortic \u2014 2nd ICS right sternal edge / Pulmonary \u2014 2nd ICS left sternal edge / Tricuspid \u2014 4th-5th ICS left sternal edge / Mitral \u2014 5th ICS midclavicular line (apex). These are where the blood sounds travel to after passing through each valve, not the anatomical position of the valves."
+  },
+  {
+    "id": "ap8_v10",
+    "type": "vsaq",
+    "topic": "Heart and Mediastinum",
+    "stem": "Name the contents of each division of the mediastinum.",
+    "answer": "Superior: arch of aorta / brachiocephalic veins / SVC / trachea / oesophagus / thoracic duct / thymus / vagus and phrenic nerves. Anterior: thymus (remnant). Middle: heart / pericardium / origins of great vessels / tracheal bifurcation / main bronchi / phrenic nerves. Posterior: thoracic aorta / azygos and hemiazygos veins / oesophagus / thoracic duct / vagus nerves / sympathetic chains.",
+    "explanation": "The superior and inferior mediastina are divided by the sternal angle (T4/5). The middle mediastinum is separated from anterior and posterior by the pericardium."
+  },
+  {
+    "id": "ap8_s25",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "The transverse pericardial sinus lies between which structures and why is it surgically important?",
+    "options": [
+      "Between aorta and SVC \u2014 posteriorly \u2014 allows ligation of great vessels during cardiac surgery",
+      "Between pulmonary veins and IVC \u2014 allows drainage of pericardial effusion",
+      "Between right and left atria \u2014 allows access to atrial septum",
+      "Between pericardium and diaphragm \u2014 allows pericardiocentesis",
+      "Between aorta and pulmonary trunk \u2014 allows access to coronary arteries"
+    ],
+    "correct": 0,
+    "explanation": "The transverse pericardial sinus lies posterior to the aorta and pulmonary trunk, anterior to the SVC. It is surgically important because a ligature can be passed through it to gain vascular control of the aorta and pulmonary trunk prior to cardiopulmonary bypass (CABG)."
+  },
+  {
+    "id": "ap8_s26",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "What structure forms the boundary between the nasopharynx and oropharynx?",
+    "options": [
+      "Hard palate",
+      "Soft palate",
+      "Upper margin of the epiglottis",
+      "Palatine tonsils",
+      "Posterior wall of the pharynx"
+    ],
+    "correct": 1,
+    "explanation": "The soft palate forms the boundary between the nasopharynx and oropharynx. The upper margin of the epiglottis forms the boundary between the oropharynx and laryngopharynx. The laryngopharynx is continuous inferiorly with the trachea and oesophagus."
+  },
+  {
+    "id": "ap8_s27",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "What is the eustachian tube and why are people encouraged to yawn to pop their ears?",
+    "options": [
+      "A drainage tube from the maxillary sinus \u2014 yawning opens it to drain mucus",
+      "The auditory tube connecting the nasopharynx to the middle ear \u2014 yawning opens it allowing pressure equalisation",
+      "A lymphatic vessel draining the tonsils \u2014 yawning clears lymph",
+      "A nerve canal in the temporal bone \u2014 yawning stretches it",
+      "A connection between the oropharynx and inner ear \u2014 yawning allows sound transmission"
+    ],
+    "correct": 1,
+    "explanation": "The eustachian (auditory) tube connects the nasopharynx to the middle ear via the lateral wall of the nasopharynx. Yawning opens its pharyngeal opening allowing pressure equalisation between the middle ear and atmosphere. Blockage causes the sensation of blocked ears during altitude change or infection."
+  },
+  {
+    "id": "ap8_v11",
+    "type": "vsaq",
+    "topic": "Upper Airways",
+    "stem": "Name the three unpaired cartilages of the larynx. Which is the only complete cartilaginous ring in the airway and what is its clinical significance?",
+    "answer": "Thyroid cartilage / cricoid cartilage / epiglottis. The cricoid cartilage is the only complete ring in the airway. Clinical significance: (1) in children it is the narrowest part of the airway \u2014 foreign bodies lodge here; (2) the cricothyroid membrane between thyroid and cricoid is the site of emergency cricothyroidotomy in cannot intubate cannot oxygenate scenarios.",
+    "explanation": "The tracheal rings are C-shaped (incomplete posteriorly, completed by the trachealis muscle). The arytenoid cartilages are paired and anchor the vocal cords posteriorly."
+  },
+  {
+    "id": "ap8_s28",
+    "type": "sba",
+    "topic": "Upper Airways",
+    "stem": "Which nerves provide motor innervation to the pharynx?",
+    "options": [
+      "Hypoglossal nerve and glossopharyngeal nerve",
+      "Vagus nerve and glossopharyngeal nerve",
+      "Facial nerve and vagus nerve",
+      "Accessory nerve only",
+      "Trigeminal nerve mandibular branch"
+    ],
+    "correct": 1,
+    "explanation": "The pharynx receives motor innervation from the pharyngeal branches of the vagus nerve (carrying the cranial root of the accessory nerve) and the glossopharyngeal nerve. The longitudinal muscles elevate the pharynx. The constrictor muscles reduce the luminal size during swallowing."
+  },
+  {
+    "id": "ap8_s29",
+    "type": "sba",
+    "topic": "Anatomy of the Back",
+    "stem": "Which feature uniquely identifies a thoracic vertebra?",
+    "options": [
+      "Transverse foramina and bifid spinous process",
+      "Large bean-shaped body with interlocking articular facets",
+      "Costal facets on the body and transverse process for rib articulation",
+      "Absence of a spinous process",
+      "Fused vertebral bodies"
+    ],
+    "correct": 2,
+    "explanation": "Thoracic vertebrae are identified by costal facets on both the body (for the rib head) and transverse process (for the rib tubercle). They also have a heart-shaped body, long spinous process, and circular vertebral foramen. Cervical vertebrae have transverse foramina. Lumbar have large bean-shaped bodies."
+  },
+  {
+    "id": "ap8_s30",
+    "type": "sba",
+    "topic": "Anatomy of the Back",
+    "stem": "What is the transverse ligament of the atlas and what would happen if it ruptured?",
+    "options": [
+      "Connects C1 to the occipital bone \u2014 rupture causes loss of head flexion",
+      "Holds the dens of C2 against the anterior arch of C1 \u2014 rupture allows the dens to compress the spinal cord potentially fatally",
+      "Connects adjacent transverse processes \u2014 rupture causes scoliosis",
+      "Connects C1 to C2 spinous processes \u2014 rupture causes excessive rotation",
+      "Forms the posterior atlanto-axial ligament \u2014 rupture causes neck pain only"
+    ],
+    "correct": 1,
+    "explanation": "The transverse ligament of the atlas holds the odontoid process (dens) of C2 against the anterior arch of C1. It is often described as the most important ligament in the body. Rupture or fracture of the dens allows it to displace posteriorly, compressing the spinal cord at C1 \u2014 which can be fatal if it disrupts innervation to the diaphragm."
+  },
+  {
+    "id": "ap8_v12",
+    "type": "vsaq",
+    "topic": "Anatomy of the Back",
+    "stem": "What are the three groups of back muscles, what is the action of each, and what innervates the deep group?",
+    "answer": "Superficial group (extrinsic) \u2014 movement of the upper limb. Intermediate group (extrinsic) \u2014 accessory muscles of respiration. Deep group (intrinsic) \u2014 posture and movements of the vertebral column. Deep muscles are innervated by the posterior rami of spinal nerves at each level.",
+    "explanation": "Specific deep muscles: erector spinae extends the vertebral column / serratus posterior superior elevates ribs during inspiration. Trapezius and latissimus dorsi are superficial group muscles."
+  },
+  {
+    "id": "ap8_s31",
+    "type": "sba",
+    "topic": "Anatomy of the Back",
+    "stem": "What curvature is normal in the thoracic and sacral spine, and what curvature is normal in the cervical and lumbar spine?",
+    "options": [
+      "Lordosis in thoracic and sacral / kyphosis in cervical and lumbar",
+      "Kyphosis in thoracic and sacral / lordosis in cervical and lumbar",
+      "Scoliosis in thoracic / lordosis in lumbar",
+      "Kyphosis throughout / lordosis in cervical only",
+      "All regions have lordosis in the healthy spine"
+    ],
+    "correct": 1,
+    "explanation": "Kyphosis (concave anteriorly) is normal in the thoracic and sacral regions \u2014 these are primary curvatures reflecting the original fetal shape. Lordosis (concave posteriorly) is normal in the cervical and lumbar regions \u2014 these are secondary curvatures that develop after birth. Pathological lateral deviation is scoliosis."
+  },
+  {
+    "id": "ap8_s32",
+    "type": "sba",
+    "topic": "Pleural Cavities and Lungs",
+    "stem": "What is the pulmonary ligament and what is its function?",
+    "options": [
+      "A ligament anchoring the lung to the mediastinum \u2014 stabilises the inferior lobe and may accommodate lung movement during respiration",
+      "A ligament connecting the two lungs across the midline",
+      "A fold of visceral pleura connecting the lung to the diaphragm \u2014 prevents pneumothorax",
+      "A ligament anchoring the hilum to the vertebral column",
+      "A fold of parietal pleura forming the costomediastinal recess"
+    ],
+    "correct": 0,
+    "explanation": "The pulmonary ligament is a double fold of pleura extending inferiorly from the lung root to the diaphragm. It stabilises the position of the inferior lobe of the lung and may accommodate movement of the lungs during respiration. It is identified on the mediastinal surface of the lung below the hilum."
+  },
+  {
+    "id": "ap8_s33",
+    "type": "sba",
+    "topic": "Heart and Mediastinum",
+    "stem": "Which structures are found in the posterior mediastinum?",
+    "options": [
+      "Heart / pericardium / tracheal bifurcation",
+      "Thymus / internal thoracic vessels",
+      "Thoracic aorta / azygos and hemiazygos veins / oesophagus / thoracic duct / vagus nerves / sympathetic chains",
+      "Arch of aorta / brachiocephalic veins / trachea",
+      "Phrenic nerves / fibrous pericardium"
+    ],
+    "correct": 2,
+    "explanation": "Posterior mediastinum contains: thoracic (descending) aorta / azygos and hemiazygos veins / oesophagus / thoracic duct / vagus nerves / sympathetic chains. Middle mediastinum = heart / pericardium / great vessel origins / tracheal bifurcation. Superior mediastinum = arch of aorta / SVC / trachea / oesophagus / thymus."
+  }
+]
